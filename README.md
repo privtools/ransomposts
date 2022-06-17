@@ -4,4 +4,4 @@ Ckeck this: [https://privtools.github.io/ransomposts](https://privtools.github.i
 
 Data is updated twice a day from [https://ransomwatch.telemetry.ltd/](https://ransomwatch.telemetry.ltd/) 
 
-Ransomwatch is a public project in [https://github.com/joshhighet/ransomwatch](https://github.com/joshhighet/ransomwatch)
+Thanks to Ransomwatch, a public project in [https://github.com/joshhighet/ransomwatch](https://github.com/joshhighet/ransomwatch)
