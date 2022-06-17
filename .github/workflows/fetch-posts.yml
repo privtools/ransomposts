@@ -1,0 +1,27 @@
+name: Fetch posts
+on: 
+  schedule:
+    - cron: '33 5,12 * * *'
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Fetch posts data
+        run: |
+          pip3 install -r requirements.txt
+          python3 getposts.py
+          git config user.name "Vigilante de posts"
+          git config user.email "actions@users.noreply.github.com"
+          git add index.html
+          DATE=$(date -Iseconds)
+          git commit --message="Posts fetch on $DATE"
+      - name: Hace el «push»
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - run: echo "🍏 This job's status is ${{ job.status }}."
