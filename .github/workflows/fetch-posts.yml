@@ -1,7 +1,7 @@
 name: Fetch posts
 on: 
   schedule:
-    - cron: '33 5,12 * * *'
+    - cron: '33 6,12,18 * * *'
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
