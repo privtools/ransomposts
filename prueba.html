@@ -42,13 +42,9 @@
 	<script src="https://unpkg.com/bootstrap-table@1.20.2/dist/extensions/export/bootstrap-table-export.min.js"></script>
 	<script>
 		function updateData(data){
-			console.log(data)
+      var table = $('#table')
 			data.reverse().forEach(function(value, i){
-			$('#table').bootstrapTable('append',{
-				post_title: value['post_title'],
-				group_name: value['group_name'],
-				discovered: value['discovered']
-				})
+			table.bootstrapTable('append',value)
 			});
 		}
 		fetch('https://raw.githubusercontent.com/thetanz/ransomwatch/main/posts.json')
