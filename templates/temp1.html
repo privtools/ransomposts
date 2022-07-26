@@ -30,7 +30,7 @@
           {% for item in ransoms %}
           <tr>
             <td><a href="https://www.google.com/search?q={{item.post_title}}">{{item.post_title}}</a></td>
-            <td>{{item.group_name}}</td>
+            <td><a href="{{item.group_fqdn}}">{{item.group_name}}</a></td>
             <td>{{item.discovered}}</td>
           </tr>
           {% endfor %}
