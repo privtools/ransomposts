@@ -17,6 +17,8 @@
       data-toggle="table"
       data-search="true"
       data-show-export="true"
+      data-pagination="true"
+      data-url="https://raw.githubusercontent.com/thetanz/ransomwatch/main/posts.json"
 	    id="table"
       >
         <col style="width:40%">
@@ -40,7 +42,7 @@
     <script src="https://unpkg.com/bootstrap-table@1.20.2/dist/bootstrap-table.min.js"></script>
     <script src="https://unpkg.com/tableexport.jquery.plugin/tableExport.min.js"></script>
 	<script src="https://unpkg.com/bootstrap-table@1.20.2/dist/extensions/export/bootstrap-table-export.min.js"></script>
-	<script>
+<!-- 	<script>
 		function updateData(data){
       var table = $('#table')
 			data.reverse().forEach(function(value, i){
@@ -50,6 +52,6 @@
 		fetch('https://raw.githubusercontent.com/thetanz/ransomwatch/main/posts.json')
 		.then(response => response.json())
 		.then(data => updateData(data.slice(-100)));
-	</script>
+	</script> -->
 </body>
 </html>
