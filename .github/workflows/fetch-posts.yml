@@ -18,6 +18,8 @@ jobs:
           git config user.name "Vigilante de posts"
           git config user.email "actions@users.noreply.github.com"
           git add index.html
+          wget -P ./assets https://data.ransomware.live/victims.json
+          git add ./assets/victims.json
           DATE=$(date -Iseconds)
           git commit --message="Posts fetch on $DATE"
       - name: Hace el «push»
