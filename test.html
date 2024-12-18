@@ -61,7 +61,7 @@
         .then(response => response.json());
       console.log(data.length);
         var table = $('#table')
-			data.slice(-3000).reverse().forEach(function(value, i){
+			data.slice(-3000).forEach(function(value, i){
         table.bootstrapTable('append',{
           post_title: "<a href='https://" + value['website'] +"'>" + value['post_title'] + "</a>",
           group_name: "<a href='" + value['post_url'] +"'>" + value['group_name'] + "</a>",
