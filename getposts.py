@@ -35,3 +35,12 @@ for ransom in ransoms:
 
 with open('./index.html','w') as f:
             f.write(template.render(ransoms=ransoms,fecha=dt.now(tz=timezone.utc).strftime('%d-%b-%Y %H:%M %Z')))
+
+
+url = "https://api.ransomware.live/recentvictims"
+r = requests.get(url)
+ransoms = r.json()
+ransoms.reverse()
+
+with open('./assets/victims.json','w', encoding='utf-8') as f:
+            json.dump(ransoms, f, ensure_ascii=False, indent=4)
