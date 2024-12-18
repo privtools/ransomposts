@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -61,9 +61,9 @@
         .then(response => response.json());
       console.log(data.length);
         var table = $('#table')
-			data.slice(-1000).reverse().forEach(function(value, i){
+			data.slice(-3000).reverse().forEach(function(value, i){
         table.bootstrapTable('append',{
-          post_title: value['post_title'],
+          post_title: "<a href='https://" + value['website'] +"'>" + value['post_title'] + "</a>",
           group_name: "<a href='" + value['post_url'] +"'>" + value['group_name'] + "</a>",
           discovered: value['discovered'],
           country: value['country']
