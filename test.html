@@ -41,7 +41,6 @@
 			      <th data-field="post_title">Post</th>
 			      <th data-field="group_name">Group</th>
 			      <th data-field="discovered">Date</th>
-            <th data-field="screenshot">Screenshot</th>
             <th data-field="country">Country</th>
 		      </tr>
         </thead>
@@ -57,24 +56,16 @@
     <script src="https://unpkg.com/tableexport.jquery.plugin/tableExport.min.js"></script>
 	<script src="https://unpkg.com/bootstrap-table@1.20.2/dist/extensions/export/bootstrap-table-export.min.js"></script>
 	<script>
-    const OPTIONS = {
-      method: "GET",
-      headers: {
-                  "Content-Type": "application/json",
-                  "Origin": "github.com"
-                }
-    };
 		async function updateData(){
-      const data = await fetch('https://api.ransomware.live/recentvictims')
+      const data = await fetch('./assets/victims.json')
         .then(response => response.json());
       console.log(data.length);
         var table = $('#table')
-			data.slice(-3000).reverse().forEach(function(value, i){
+			data.slice(-1000).reverse().forEach(function(value, i){
         table.bootstrapTable('append',{
           post_title: value['post_title'],
-          group_name: value['group_name'],
+          group_name: "<a href='" + value['post_url'] +"'>" + value['group_name'] + "</a>",
           discovered: value['discovered'],
-          screenshot: value['screenshot'],
           country: value['country']
       })
 			});
