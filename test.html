@@ -61,10 +61,11 @@
       method: "GET",
       headers: {
                   "Content-Type": "application/json",
+                  "Origin": "github.com"
                 }
     };
 		async function updateData(){
-      const data = await fetch('https://api.ransomware.live/recentvictims',OPTIONS)
+      const data = await fetch('https://api.ransomware.live/recentvictims')
         .then(response => response.json());
       console.log(data.length);
         var table = $('#table')
