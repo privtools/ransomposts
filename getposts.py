@@ -37,7 +37,7 @@ with open('./index.html','w') as f:
             f.write(template.render(ransoms=ransoms,fecha=dt.now(tz=timezone.utc).strftime('%d-%b-%Y %H:%M %Z')))
 
 
-url = "https://api.ransomware.live/recentvictims"
+url = "https://api.ransomware.live/victims/2024"
 r = requests.get(url)
 ransoms = r.json()
 ransoms.reverse()
