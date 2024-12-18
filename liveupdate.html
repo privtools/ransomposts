@@ -28,6 +28,7 @@
       <table 
       data-toggle="table"
       data-search="true"
+      data-pagination = "true"
       data-show-export="true"
 	    id="table"
       >
@@ -36,10 +37,10 @@
 	      <col style="width:30%">
         <thead>
           <tr>
-			<th data-field="post_title">Post</th>
-			<th data-field="group_name">Group</th>
-			<th data-field="discovered">Date</th>
-		  </tr>
+			      <th data-field="post_title">Post</th>
+			      <th data-field="group_name">Group</th>
+			      <th data-field="discovered">Date</th>
+		      </tr>
         </thead>
         <tbody>
           
@@ -53,19 +54,20 @@
     <script src="https://unpkg.com/tableexport.jquery.plugin/tableExport.min.js"></script>
 	<script src="https://unpkg.com/bootstrap-table@1.20.2/dist/extensions/export/bootstrap-table-export.min.js"></script>
 	<script>
-		function updateData(data){
-      var table = $('#table')
-			data.reverse().forEach(function(value, i){
-			table.bootstrapTable('append',{
-        post_title: value['post_title'],
-        group_name: value['group_name'],
-        discovered: value['discovered']
+		async function updateData(){
+      const data = await fetch('https://raw.githubusercontent.com/thetanz/ransomwatch/main/posts.json')
+        .then(response => response.json());
+      console.log(data.length);
+        var table = $('#table')
+			data.slice(-5000).reverse().forEach(function(value, i){
+        table.bootstrapTable('append',{
+          post_title: value['post_title'],
+          group_name: value['group_name'],
+          discovered: value['discovered']
       })
 			});
 		}
-		fetch('https://raw.githubusercontent.com/thetanz/ransomwatch/main/posts.json')
-		.then(response => response.json())
-		.then(data => updateData(data.slice(-100)));
+    updateData();
 	</script>
 </body>
 </html>
