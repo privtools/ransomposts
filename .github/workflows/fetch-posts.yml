@@ -2,6 +2,9 @@ name: Fetch posts
 on: 
   schedule:
     - cron: '33 6,12,18 * * *'
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
