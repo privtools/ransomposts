@@ -23,12 +23,13 @@
       </ul>
     <h1>Ransomware Posts</h1>
     <h3>leak site monitoring</h3>
-    <p>Ransomware groups attack organisations worlwide, causing personal data breaches in many of them. This is a list of last 100 posts with affected organisations from: <a href="https://ransomwatch.telemetry.ltd/">Ransomwatch</a></p>
-    <p>Last update: Right now from your browser!!!</p>
+    <p>Ransomware groups attack organisations worlwide, causing personal data breaches in many of them. This is a list of <b>last 3000 posts</b> with affected organisations from: <a href="https://ransomwatch.telemetry.ltd/">Ransomwatch</a></p>
+    <p>Last update: Right now from your browser. Please, <b>be patient it will take a little bit!!!</b></p>
       <table 
       data-toggle="table"
       data-search="true"
       data-pagination = "true"
+      data-page-size = 50
       data-show-export="true"
 	    id="table"
       >
@@ -59,7 +60,7 @@
         .then(response => response.json());
       console.log(data.length);
         var table = $('#table')
-			data.slice(-5000).reverse().forEach(function(value, i){
+			data.slice(-3000).reverse().forEach(function(value, i){
         table.bootstrapTable('append',{
           post_title: value['post_title'],
           group_name: value['group_name'],
