@@ -42,9 +42,9 @@ r = requests.get(url)
 ransoms = r.json()
 ransoms.reverse()
 for ransom in ransoms:
-    ransom['post_title'] = "<a href='https://" + ransom['website'] +"'>" + ransom['post_title'] + "</a>"
-    ransom['group_name'] = "<a href='" + ransom['post_url'] +"'>" + ransom['group_name'] + "</a>"
-    ransom['screenshot'] = "<a href='" + ransom['screenshot'] +"'>🖵</a>"
+    ransom['post_title'] = "<a href='https://" + ransom['website'] if ransom['website'] else "" + "'>" + ransom['post_title'] + "</a>"
+    ransom['group_name'] = "<a href='" + ransom['post_url'] if ransom['post_url'] else "" +"'>" + ransom['group_name'] + "</a>"
+    ransom['screenshot'] = "<a href='" + ransom['screenshot'] if ransom['screenshot'] else "" +"'>🖵</a>"
         
 with open('./assets/victims.json','w', encoding='utf-8') as f:
             json.dump(ransoms, f, ensure_ascii=False, indent=4)
