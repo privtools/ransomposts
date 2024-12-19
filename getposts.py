@@ -33,7 +33,7 @@ for ransom in ransoms:
     except KeyError:
         ransom['group_fqdn'] = None
 
-with open('./index.html','w') as f:
+with open('./old.html','w') as f:
             f.write(template.render(ransoms=ransoms,fecha=dt.now(tz=timezone.utc).strftime('%d-%b-%Y %H:%M %Z')))
 
 
