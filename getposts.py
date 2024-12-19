@@ -37,14 +37,18 @@ with open('./index.html','w') as f:
             f.write(template.render(ransoms=ransoms,fecha=dt.now(tz=timezone.utc).strftime('%d-%b-%Y %H:%M %Z')))
 
 
-url = "https://api.ransomware.live/victims/2024"
-r = requests.get(url)
-ransoms = r.json()
-ransoms.reverse()
-for ransom in ransoms:
-    ransom['post_title'] = "<a href='https://" + ransom['website'] if ransom['website'] else "" + "'>" + ransom['post_title'] + "</a>"
-    ransom['group_name'] = "<a href='" + ransom['post_url'] if ransom['post_url'] else "" +"'>" + ransom['group_name'] + "</a>"
-    ransom['screenshot'] = "<a href='" + ransom['screenshot'] if ransom['screenshot'] else "" +"'>🖵</a>"
-        
+ransoms = []
+
+for year in range(dt.now().year,2021,-1):
+    url = "https://api.ransomware.live/victims/" + str(year)
+    r = requests.get(url)
+    yearly_ransoms = r.json()
+    yearly_ransoms.reverse()
+    for ransom in yearly_ransoms:
+        ransom['post_title'] = "<a href='https://" + ransom['website'] + "'>" + ransom['post_title'] + "</a>" if ransom['website'] else ransom['post_title'] 
+        ransom['group_name'] = "<a href='" + ransom['post_url'] + "'>" + ransom['group_name'] + "</a>" if ransom['post_url']  else ransom['group_name']
+        ransom['screenshot'] = "<a href='" + ransom['screenshot'] +"'>🖵</a>" if ransom['screenshot'] else ""
+    ransoms+=yearly_ransoms
+
 with open('./assets/victims.json','w', encoding='utf-8') as f:
             json.dump(ransoms, f, ensure_ascii=False, indent=4)
