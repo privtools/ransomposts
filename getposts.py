@@ -9,7 +9,7 @@ import json
 OFFSET = ord('🇦') - ord('A')
 
 def flag(code):
-    return chr(ord(code[0]) + OFFSET) + chr(ord(code[1]) + OFFSET)
+    return code
 
 
 env = Environment(
