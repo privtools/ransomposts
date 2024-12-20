@@ -5,12 +5,8 @@ from datetime import timezone
 import json
 
 
-
-OFFSET = ord('🇦') - ord('A')
-
 def flag(code):
     return code
-
 
 env = Environment(
     loader=FileSystemLoader( searchpath="./templates" ),
