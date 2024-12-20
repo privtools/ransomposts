@@ -23,7 +23,7 @@ def country_flag(country_code: str) -> str:
         '🇬🇧'
     """
     if not isinstance(country_code, str) or len(country_code) != 2:
-        raise ValueError("Country code must be a two-letter string")
+        return ""
 
     # Convert country code to uppercase
     country_code = country_code.upper()
