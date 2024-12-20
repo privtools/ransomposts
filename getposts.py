@@ -30,7 +30,7 @@ def flag(country_code: str) -> str:
     
     # Check if the country code contains only letters
     if not country_code.isalpha():
-        raise ValueError("Country code must contain only letters")
+        return ""
     
     # Convert ASCII letters to regional indicator symbols
     # Each letter is converted to a Unicode regional indicator symbol
