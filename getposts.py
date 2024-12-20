@@ -2,7 +2,7 @@ import requests
 from jinja2 import Environment, FileSystemLoader, select_autoescape
 from datetime import datetime as dt
 from datetime import timezone
-import json
+import json, codecs
 
 
 def flag(country_code: str) -> str:
@@ -85,8 +85,8 @@ for year in range(dt.now().year,2021,-1):
         ransom['post_title'] = "<a href='https://" + ransom['website'] + "'>" + ransom['post_title'] + "</a>" if ransom['website'] else ransom['post_title'] 
         ransom['group_name'] = "<a href='" + ransom['post_url'] + "'>" + ransom['group_name'] + "</a>" if ransom['post_url']  else "<a href='http://" + groups.get(ransom['group_name']) + "'>" + ransom['group_name'] + "</a>" if groups.get(ransom['group_name']) else ransom['group_name'] 
         ransom['screenshot'] = "<a href='" + ransom['screenshot'] +"'>🖵</a>" if ransom['screenshot'] else ""
-    ransom['country'] ='🇺🇸' # flag(ransom['country'])
+    ransom['country'] = flag(ransom['country'])
     ransoms+=yearly_ransoms
 
-with open('./assets/victims.json','w', encoding='utf-8') as f:
+with codecs.open('./assets/victims.json','w', encoding='utf-8') as f:
             json.dump(ransoms, f, ensure_ascii=False, indent=4)
