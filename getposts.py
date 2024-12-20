@@ -5,8 +5,41 @@ from datetime import timezone
 import json
 
 
-def flag(code):
-    return code
+def country_flag(country_code: str) -> str:
+    """
+    Convert a two-letter country code to a Unicode flag emoji.
+    
+    Args:
+        country_code (str): A two-letter ISO 3166-1 alpha-2 country code
+            (e.g. 'US', 'GB', 'FR')
+    
+    Returns:
+        str: Unicode flag emoji for the given country code
+    
+    Example:
+        >>> country_code_to_flag('US')
+        '🇺🇸'
+        >>> country_code_to_flag('GB')
+        '🇬🇧'
+    """
+    if not isinstance(country_code, str) or len(country_code) != 2:
+        raise ValueError("Country code must be a two-letter string")
+
+    # Convert country code to uppercase
+    country_code = country_code.upper()
+    
+    # Check if the country code contains only letters
+    if not country_code.isalpha():
+        raise ValueError("Country code must contain only letters")
+    
+    # Convert ASCII letters to regional indicator symbols
+    # Each letter is converted to a Unicode regional indicator symbol
+    # The offset is calculated from the ASCII value of 'A' to the first regional indicator
+    OFFSET = ord('🇦') - ord('A')
+    
+    # Convert each letter to its corresponding regional indicator symbol
+    return ''.join(chr(ord(char) + OFFSET) for char in country_code)
+
 
 env = Environment(
     loader=FileSystemLoader( searchpath="./templates" ),
