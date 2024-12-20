@@ -4,16 +4,13 @@ from datetime import datetime as dt
 from datetime import timezone
 import json
 
+
+
 OFFSET = ord('🇦') - ord('A')
 
 def flag(code):
-    if not code:
-        return u''
-    points = map(lambda x: ord(x) + OFFSET, code.upper())
-    try:
-        return chr(points[0]) + chr(points[1])
-    except ValueError:
-        return ('\\U%08x\\U%08x' % tuple(points)).decode('unicode-escape')
+    return chr(ord(code[0]) + OFFSET) + chr(ord(code[1]) + OFFSET)
+
 
 env = Environment(
     loader=FileSystemLoader( searchpath="./templates" ),
