@@ -5,7 +5,7 @@ from datetime import timezone
 import json
 
 
-def country_flag(country_code: str) -> str:
+def flag(country_code: str) -> str:
     """
     Convert a two-letter country code to a Unicode flag emoji.
     
