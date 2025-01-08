@@ -48,7 +48,7 @@ for year in range(dt.now().year,2021,-1):
         ransom['post_title'] = "<a href='https://" + ransom['website'] + "'>" + ransom['post_title'] + "</a>" if ransom['website'] else ransom['post_title'] 
         ransom['group_name'] = "<a href='" + ransom['post_url'] + "'>" + ransom['group_name'] + "</a>" if ransom['post_url']  else "<a href='http://" + groups.get(ransom['group_name']) + "'>" + ransom['group_name'] + "</a>" if groups.get(ransom['group_name']) else ransom['group_name'] 
         ransom['screenshot'] = "<a href='" + ransom['screenshot'] +"'>🖵</a>" if ransom['screenshot'] else ""
-        ransom['country_flag'] = "<span class='fi fi-" + ransom['country'].lower() + " fis'></span><span> - " + ransom['country'] + "</span>"
+        ransom['country_flag'] = "<span class='fi fi-" + ransom['country'].lower() + " fis'></span> <span>" + ransom['country'] + "</span>"
     ransoms+=yearly_ransoms
 
 with codecs.open('./assets/victims.json','w', encoding='utf-8') as f:
