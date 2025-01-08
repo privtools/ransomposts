@@ -32,7 +32,7 @@
     <p><a href="/old.html">Old version</a> with data from 2020 from <a href="https://ransomwatch.telemetry.ltd/">Ransomwatch</a>.</p>
       <table 
       data-toggle="table"
-      data-search="true"
+      data-search="false"
       data-pagination = "true"
       data-page-size = 50
       data-show-export="true"
@@ -47,8 +47,8 @@
         <col style="width:5%">
         <thead>
           <tr>
-			      <th data-field="post_title">Post</th>
-			      <th data-field="group_name">Group</th>
+			      <th data-field="post_title" data-filter-control="input">Post</th>
+			      <th data-field="group_name" data-filter-control="select">Group</th>
 			      <th data-field="discovered">Date</th>
             <th data-field="country_flag" data-filter-control="select">Country</th>
             <th data-field="screenshot">Screenshot</th>
