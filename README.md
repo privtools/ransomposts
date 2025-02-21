@@ -14,3 +14,4 @@ Thanks to Ransomware.live, a public project in [https://github.com/jmousqueton/r
 In previous version, data was updated twice a day from [https://ransomwatch.telemetry.ltd/](https://ransomwatch.telemetry.ltd/) 
 
 Thanks to Ransomwatch for the original project, a public one in [https://github.com/joshhighet/ransomwatch](https://github.com/joshhighet/ransomwatch)
+

@@ -33,7 +33,7 @@ for ransom in ransoms:
     except KeyError:
         ransom['group_fqdn'] = None
 
-with open('./www/old.html','w') as f:
+with open('./old.html','w') as f:
             f.write(template.render(ransoms=ransoms,fecha=dt.now(tz=timezone.utc).strftime('%d-%b-%Y %H:%M %Z')))
 
 
@@ -51,5 +51,5 @@ for year in range(dt.now().year,2021,-1):
         ransom['country_flag'] = "<span class='fi fi-" + ransom['country'].lower() + " fis'></span> <span>" + ransom['country'] + "</span>"
     ransoms+=yearly_ransoms
 
-with codecs.open('./www/assets/victims.json','w', encoding='utf-8') as f:
+with codecs.open('./assets/victims.json','w', encoding='utf-8') as f:
             json.dump(ransoms, f, ensure_ascii=False, indent=4)
