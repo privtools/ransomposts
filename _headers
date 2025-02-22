@@ -1,4 +1,8 @@
 # Headers for Cloudflare Pages
+# Access-Control-Allow-Origin: *
+# Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+# Access-Control-Allow-Headers: Content-Type, Authorization
+# Cross-Origin-Resource-Policy: cross-origin
 
 /*
   X-Frame-Options: DENY
@@ -6,8 +10,4 @@
   Referrer-Policy: no-referrer
   Permissions-Policy: document-domain=()
   Content-Security-Policy: default-src 'self' code.jquery.com cdn.jsdelivr.net unpkg.com plausible.privtools.eu ransom.privtools.eu;
-  # Access-Control-Allow-Origin: *
-  # Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
-  # Access-Control-Allow-Headers: Content-Type, Authorization
-  # Cross-Origin-Resource-Policy: cross-origin
   Permissions-Policy: browsing-topics=()
