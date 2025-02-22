@@ -7,5 +7,6 @@
   Permissions-Policy: document-domain=()
   Content-Security-Policy: script-src 'self' code.jquery.com cdn.jsdelivr.net unpkg.com plausible.privtools.eu; frame-ancestors 'none'; img-src 'self' cdn.jsdelivr.net ransomware.live data:;
   Access-Control-Allow-Origin: *
+  Access-Control-Allow-Methods: POST, GET, OPTIONS
   Cross-Origin-Resource-Policy: same-site
   Permissions-Policy: browsing-topics=()
