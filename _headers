@@ -1,9 +1,0 @@
-# Headers for Cloudflare Pages
-
-/*
-  X-Frame-Options: DENY
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: no-referrer
-  Permissions-Policy: document-domain=()
-  Content-Security-Policy: default-src 'self' code.jquery.com cdn.jsdelivr.net unpkg.com plausible.privtools.eu ransom.privtools.eu;
-  Permissions-Policy: browsing-topics=()
