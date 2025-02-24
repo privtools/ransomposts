@@ -7,6 +7,7 @@ import os
 
 wordpress_user = "privtools_root"
 wordpress_password = os.environ['PRIVTOOLS_API_KEY']
+print(wordpress_password)
 wordpress_credentials = wordpress_user + ":" + wordpress_password
 wordpress_token = base64.b64encode(wordpress_credentials.encode())
 wordpress_header = {'Authorization': 'Basic ' + wordpress_token.decode('utf-8')}
