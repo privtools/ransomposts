@@ -4,6 +4,8 @@ from datetime import datetime as dt
 from datetime import timezone
 import json, codecs
 import os
+import hashlib
+
 
 wordpress_user = "privtools_root"
 wordpress_password = os.environ['PRIVTOOLS_API_KEY']
@@ -22,14 +24,16 @@ for year in range(dt.now().year,2021,-1):
     ransoms+=yearly_ransoms
 
 
-def create_wordpress_ransompost(title, content, country, group):
+def create_wordpress_ransompost(title, slug, content, country, group, date):
     api_url = 'https://privtools.eu/wp-json/wp/v2/ransomposts'
     data = {
         'title' : title,
         'status': 'draft',
+        'slug': slug,
         'content': content,
         'countries': country,
         'groups': group,
+        'date': date
     }
     response = requests.post(api_url,headers=wordpress_header, json=data)
     print(data)
@@ -94,6 +98,10 @@ for ransom in ransoms[0:50]:
     else:
         group =  read_wordpress_groups().get(ransom.get('group_name'))
 
-    create_wordpress_ransompost(ransom.get('post_title'), content, country, group)
+    slug = hashlib.md5(ransom.get('post_title').encode()).digest()
+
+    date = ransom.get('discovered')
+
+    create_wordpress_ransompost(ransom.get('post_title'), slug, content, country, group, date)
 
 
