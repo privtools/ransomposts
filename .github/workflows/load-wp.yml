@@ -1,0 +1,21 @@
+name: Upload WP
+on: 
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    env:
+      PRIVTOOLS_API_KEY: ${{ secrets.PRIVTOOLS_API_KEY }}
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - name: Fetch posts data and load
+        run: |
+          pip3 install -r requirements.txt
+          python3 carga_wordpress.py
+      - run: echo "🍏 This job's status is ${{ job.status }}."

@@ -20,7 +20,6 @@ jobs:
         run: |
           pip3 install -r requirements.txt
           python3 getposts.py
-          python3 carga_wordpress.py
           git config user.name "Vigilante de posts"
           git config user.email "actions@users.noreply.github.com"
           git add old.html
