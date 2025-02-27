@@ -9,7 +9,6 @@ import hashlib
 
 wordpress_user = "privtools_root"
 wordpress_password = os.environ['PRIVTOOLS_API_KEY']
-print(os.environ['PRIVTOOLS_API_KEY'])
 wordpress_credentials = wordpress_user + ":" + wordpress_password
 wordpress_token = base64.b64encode(wordpress_credentials.encode())
 wordpress_header = {'Authorization': 'Basic ' + wordpress_token.decode('utf-8')}
@@ -24,21 +23,29 @@ for year in range(dt.now().year,2021,-1):
     ransoms+=yearly_ransoms
 
 
-def create_wordpress_ransompost(title, slug, content, country, group, date):
+def create_wordpress_ransompost(title, content, slug, description, country, group, date, activity, post_url, screenshot, website):
     api_url = 'https://privtools.eu/wp-json/wp/v2/ransomposts'
     data = {
         'title' : title,
-        'status': 'draft',
-        'slug': slug,
         'content': content,
+        'status': 'publish',
+        'slug': slug,
         'countries': country,
         'groups': group,
-        'date': date
+        'acf': {
+            'activity': activity,
+            'description': description,
+            'discovered': date,
+            'post_url': post_url,
+            'website': website,
+            'screenshot': screenshot
+        }
     }
     response = requests.post(api_url,headers=wordpress_header, json=data)
     print(data)
     print(response)
     print(response.text)
+    
 
 def read_wordpress_post(id):
     api_url = 'https://privtools.eu/wp-json/wp/v2/posts/' + str(id)
@@ -82,12 +89,9 @@ def read_wordpress_groups():
     return groups
 
 
-
-print(ransoms[0].keys())
-
-for ransom in ransoms[0:50]:
+for ransom in ransoms[0:20]:
     os.environ['PRIVTOOLS_API_KEY']
-    content = "<!-- wp:paragraph -->\n<p>" + ransom.get('description') + "</p>\n<!-- /wp:paragraph -->\n\n<!-- wp:image {'sizeSlug':'large'} -->\n" + "<figure class='wp-block-image size-large'><img src='" + ransom.get('screenshot') + "'alt=''/></figure>\n<!-- /wp:image -->"
+    description = ransom.get('description')
     if ransom.get('country') not in read_wordpress_countries():
         country = create_wordpress_country(ransom.get('country'))
     else:
@@ -98,10 +102,20 @@ for ransom in ransoms[0:50]:
     else:
         group =  read_wordpress_groups().get(ransom.get('group_name'))
 
-    slug = hashlib.md5(ransom.get('post_title').encode()).digest()
+    slug = hashlib.md5(ransom.get('post_title').encode()).hexdigest()
 
     date = ransom.get('discovered')
 
-    create_wordpress_ransompost(ransom.get('post_title'), slug, content, country, group, date)
+    post_url = ransom.get('post_url')
+
+    screenshot = ransom.get('screenshot')
+
+    website = ransom.get('website')
+    
+    activity = ransom.get('activity')
+    
+    content = description
+
+    create_wordpress_ransompost(ransom.get('post_title'), content, slug, description, country, group, date, activity, post_url, screenshot, website)
 
 
