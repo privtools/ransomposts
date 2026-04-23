@@ -39,8 +39,9 @@ env = Environment(
 
 ransoms = []
 
-for year in range(dt.now().year,2021,-1):
-    url = "https://api.ransomware.live/victims/" + str(year)
+for year in range(dt.now().year,2022,-1):
+    print(year)
+    url = "https://api.ransomware.live/v1/victims/" + str(year)
     r = requests.get(url)
     yearly_ransoms = r.json()
     yearly_ransoms.reverse()
