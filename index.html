@@ -14,62 +14,516 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/css/flag-icons.min.css">
   <script defer data-domain="privtools.github.io" src="https://plausible.privtools.eu/js/script.js"></script>
   <script defer data-domain="ransom.privtools.eu" src="https://plausible.privtools.eu/js/script.js"></script>
+
+  <style>
+    /* ── Custom properties ──────────────────────────────── */
+    :root {
+      --bg-page:        #0d0f14;
+      --bg-surface:     #161b27;
+      --bg-nav:         #111520;
+      --bg-thead:       #1a2035;
+      --bg-row-odd:     #161b27;
+      --bg-row-even:    #0d1119;
+      --bg-row-hover:   #1e2d45;
+      --accent-primary: #00b4d8;
+      --accent-danger:  #e63946;
+      --text-body:      #c9d1e0;
+      --text-muted:     #8892a4;
+      --border:         #252d40;
+      --bg-stats:       #13182a;
+      --stats-num:      #f4a261;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; }
+
+    html, body {
+      background-color: var(--bg-page);
+      color: var(--text-body);
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      font-size: 0.9rem;
+      min-height: 100vh;
+      margin: 0;
+    }
+
+    a { color: var(--accent-primary); text-decoration: none; }
+    a:hover { color: #48cae4; text-decoration: underline; }
+
+    /* ── Sticky navbar ──────────────────────────────────── */
+    #site-navbar {
+      background-color: var(--bg-nav);
+      border-bottom: 1px solid var(--border);
+      padding: 0.55rem 1.5rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+    }
+
+    #site-navbar .navbar-brand {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--accent-danger);
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    #site-navbar .nav-links {
+      display: flex;
+      gap: 1.25rem;
+      align-items: center;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+    }
+
+    #site-navbar .nav-links a {
+      color: var(--text-muted);
+      font-size: 1.25rem;
+      transition: color 0.18s ease;
+      display: flex;
+      align-items: center;
+    }
+
+    #site-navbar .nav-links a:hover {
+      color: var(--accent-primary);
+      text-decoration: none;
+    }
+
+    /* ── Page wrapper ───────────────────────────────────── */
+    .page-wrapper {
+      max-width: 1280px;
+      margin: 0 auto;
+      padding: 1.5rem 1.25rem 3rem;
+    }
+
+    /* ── Header ─────────────────────────────────────────── */
+    .site-header {
+      padding: 2rem 0 1.25rem;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 1.5rem;
+    }
+
+    .site-header h1 {
+      font-size: clamp(1.75rem, 4vw, 2.6rem);
+      font-weight: 800;
+      color: var(--accent-danger);
+      letter-spacing: 0.03em;
+      margin-bottom: 0.15rem;
+      line-height: 1.15;
+    }
+
+    .site-header h1::after {
+      content: '|';
+      animation: blink 1s step-start infinite;
+      color: var(--accent-primary);
+      margin-left: 3px;
+    }
+
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50%       { opacity: 0; }
+    }
+
+    .site-header h2 {
+      font-size: 1rem;
+      font-weight: 400;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      margin-bottom: 1rem;
+    }
+
+    .site-header .description-block p {
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      margin-bottom: 0.4rem;
+      line-height: 1.6;
+    }
+
+    .site-header .description-block b { color: var(--text-body); }
+
+    /* ── Stats bar ───────────────────────────────────────── */
+    #stats-bar {
+      background-color: var(--bg-stats);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.75rem 1.25rem;
+      margin-bottom: 1.25rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.5rem;
+      align-items: center;
+    }
+
+    #stats-bar .stat-item {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-width: 80px;
+    }
+
+    #stats-bar .stat-num {
+      font-size: 1.5rem;
+      font-weight: 800;
+      color: var(--stats-num);
+      line-height: 1;
+    }
+
+    #stats-bar .stat-label {
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: var(--text-muted);
+      margin-top: 0.15rem;
+    }
+
+    #stats-bar .stat-divider {
+      width: 1px;
+      height: 2.5rem;
+      background-color: var(--border);
+    }
+
+    /* ── Loading indicator ───────────────────────────────── */
+    #loading-indicator {
+      display: none;
+      align-items: center;
+      gap: 0.75rem;
+      padding: 2rem 0;
+      color: var(--text-muted);
+      font-size: 0.85rem;
+    }
+
+    #loading-indicator .spinner-border {
+      width: 1.4rem;
+      height: 1.4rem;
+      border-color: var(--accent-primary);
+      border-right-color: transparent;
+    }
+
+    /* ── Bootstrap-Table overrides ───────────────────────── */
+
+    /* Search input */
+    .fixed-table-toolbar .search input.form-control {
+      background-color: var(--bg-surface);
+      border-color: var(--border);
+      color: var(--text-body);
+      border-radius: 4px;
+    }
+
+    .fixed-table-toolbar .search input.form-control::placeholder {
+      color: var(--text-muted);
+    }
+
+    .fixed-table-toolbar .search input.form-control:focus {
+      border-color: var(--accent-primary);
+      box-shadow: 0 0 0 2px rgba(0, 180, 216, 0.2);
+      outline: none;
+      background-color: var(--bg-surface);
+      color: var(--text-body);
+    }
+
+    /* Toolbar buttons */
+    .fixed-table-toolbar .btn {
+      background-color: var(--bg-surface);
+      border-color: var(--border);
+      color: var(--text-muted);
+    }
+
+    .fixed-table-toolbar .btn:hover {
+      background-color: var(--bg-row-hover);
+      border-color: var(--accent-primary);
+      color: var(--accent-primary);
+    }
+
+    /* Table container */
+    .fixed-table-container {
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      overflow: hidden;
+    }
+
+    /* Table base */
+    #table {
+      background-color: var(--bg-row-odd);
+      color: var(--text-body);
+      margin-bottom: 0;
+      border-color: var(--border);
+    }
+
+    /* Column headers */
+    #table thead th,
+    .fixed-table-header table thead th {
+      background-color: var(--bg-thead);
+      color: var(--accent-primary);
+      border-color: var(--border);
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      white-space: nowrap;
+      padding: 0.65rem 0.75rem;
+    }
+
+    /* Filter-control row */
+    #table thead tr.filter th,
+    .filter-control select,
+    .filter-control input {
+      background-color: var(--bg-surface);
+      border-color: var(--border);
+      color: var(--text-body);
+      font-size: 0.78rem;
+    }
+
+    .filter-control select option {
+      background-color: var(--bg-surface);
+      color: var(--text-body);
+    }
+
+    /* Alternating rows — targeting td so we beat Bootstrap-Table's row classes */
+    #table tbody tr:nth-child(odd)  td { background-color: var(--bg-row-odd);  }
+    #table tbody tr:nth-child(even) td { background-color: var(--bg-row-even); }
+
+    /* Row hover */
+    #table tbody tr:hover td {
+      background-color: var(--bg-row-hover);
+      transition: background-color 0.12s ease;
+    }
+
+    /* Cells */
+    #table tbody td {
+      border-color: var(--border);
+      color: var(--text-body);
+      vertical-align: middle;
+      padding: 0.5rem 0.75rem;
+      font-size: 0.83rem;
+    }
+
+    /* Pagination */
+    .fixed-table-pagination .pagination .page-item .page-link {
+      background-color: var(--bg-surface);
+      border-color: var(--border);
+      color: var(--accent-primary);
+    }
+
+    .fixed-table-pagination .pagination .page-item.active .page-link {
+      background-color: var(--accent-primary);
+      border-color: var(--accent-primary);
+      color: #000;
+    }
+
+    .fixed-table-pagination .pagination .page-item .page-link:hover {
+      background-color: var(--bg-row-hover);
+    }
+
+    .fixed-table-pagination .page-list .btn-group .btn {
+      background-color: var(--bg-surface);
+      border-color: var(--border);
+      color: var(--text-muted);
+    }
+
+    /* Dropdowns */
+    .dropdown-menu {
+      background-color: var(--bg-surface);
+      border-color: var(--border);
+    }
+
+    .dropdown-item {
+      color: var(--text-body);
+    }
+
+    .dropdown-item:hover {
+      background-color: var(--bg-row-hover);
+      color: var(--accent-primary);
+    }
+
+    /* ── Footer ──────────────────────────────────────────── */
+    .site-footer {
+      margin-top: 2rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.78rem;
+      color: var(--text-muted);
+      text-align: center;
+    }
+  </style>
 </head>
 <body>
-    <div class="container">
-      <ul class="nav justify-content-end">
-        <li class="nav-item">
-          <a href="https://github.com/privtools/ransomposts" target="_blank" rel="noopener noreferrer"><img src="./img/github.png" alt="GitHub" width="25" height="25"></a>
-          <a href="https://twitter.com/privtools" target="_blank" rel="noopener noreferrer"><img src="./img/twitter.png" alt="Twitter" width="25" height="25"></a>
-          <a href="https://privtools.eu" target="_blank" ><img src="./img/web.png" alt="Website" width="25" height="25"></a>
-        </li>
-      </ul>
-    <h1 class="text-primary">Ransomware Posts</h1>
-    <h3 class="text-primary">leak site monitoring</h3>
-    <p>Ransomware groups attack organisations worlwide, causing personal data breaches in many of them. List of organisations affected by ransomware groups updated thrice daily. <b>Source:</b><a href="https://ransomware.live/">Ransomware.live</a></p>
-    <p>Law enforcement and IT Security companies have joined forces to disrupt cybercriminal businesses with ransomware connections.</p>
-    <p>The <a href="https://www.nomoreransom.org/" target="_blank" rel="noopener noreferrer">“No More Ransom”</a> website is an initiative by the National High Tech Crime Unit of the Netherlands’ police, Europol’s European Cybercrime Centre, Kaspersky and McAfee with the goal to help victims of ransomware retrieve their encrypted data without having to pay the criminals.</p>
-    <p>Link to <a href="./old.html">old version</a> with data from 2020 obtained from <a href="https://ransomwatch.telemetry.ltd/">Ransomwatch</a>.</p>
-    <p><b>Tip to export full list:</b> Hide pagination before exporting. Buttons available to hide/show pagination and exporting data in several formats.</p>
-      <table 
+
+  <!-- ── Sticky navigation bar ──────────────────────────── -->
+  <nav id="site-navbar">
+    <span class="navbar-brand">
+      <i class="bi bi-shield-exclamation"></i>
+      RansomPosts
+    </span>
+    <ul class="nav-links">
+      <li>
+        <a href="https://github.com/privtools/ransomposts" target="_blank" rel="noopener noreferrer" title="GitHub">
+          <i class="bi bi-github"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://twitter.com/privtools" target="_blank" rel="noopener noreferrer" title="Twitter / X">
+          <i class="bi bi-twitter-x"></i>
+        </a>
+      </li>
+      <li>
+        <a href="https://privtools.eu" target="_blank" rel="noopener noreferrer" title="Website">
+          <i class="bi bi-globe2"></i>
+        </a>
+      </li>
+    </ul>
+  </nav>
+
+  <!-- ── Main content ───────────────────────────────────── -->
+  <div class="page-wrapper">
+
+    <header class="site-header">
+      <h1>Ransomware Posts</h1>
+      <h2>Leak site monitoring</h2>
+      <div class="description-block">
+        <p>
+          Ransomware groups attack organisations worldwide, causing personal data breaches in many of them.
+          List of organisations affected by ransomware groups, updated thrice daily.
+          <b>Source:</b> <a href="https://ransomware.live/" target="_blank" rel="noopener noreferrer">Ransomware.live</a>
+        </p>
+        <p>
+          Law enforcement and IT Security companies have joined forces to disrupt cybercriminal businesses with ransomware connections.
+          The <a href="https://www.nomoreransom.org/" target="_blank" rel="noopener noreferrer">"No More Ransom"</a>
+          initiative helps victims recover encrypted data without paying criminals.
+        </p>
+        <p>
+          <a href="./old.html">Old version</a> with data from 2020 (source: Ransomwatch) &nbsp;&bull;&nbsp;
+          <b>Export tip:</b> hide pagination before exporting to capture the full list.
+        </p>
+      </div>
+    </header>
+
+    <!-- ── Live stats bar ───────────────────────────────── -->
+    <div id="stats-bar">
+      <div class="stat-item">
+        <span class="stat-num" id="stat-total">—</span>
+        <span class="stat-label">Total Posts</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-item">
+        <span class="stat-num" id="stat-groups">—</span>
+        <span class="stat-label">Groups</span>
+      </div>
+      <div class="stat-divider"></div>
+      <div class="stat-item">
+        <span class="stat-num" id="stat-countries">—</span>
+        <span class="stat-label">Countries</span>
+      </div>
+    </div>
+
+    <!-- ── Loading indicator ─────────────────────────────── -->
+    <div id="loading-indicator">
+      <div class="spinner-border" role="status"></div>
+      <span>Loading victim data&hellip;</span>
+    </div>
+
+    <!-- ── Data table (attributes unchanged) ─────────────── -->
+    <table
       data-toggle="table"
       data-search="true"
       data-show-export="true"
       data-filter-control="true"
       data-show-search-clear-button="true"
-      data-show-pagination-switch = "true"
-      data-pagination = "true"
-      data-page-size = 50
-      data-url = "./assets/victims.json"
-	    id="table"
-      >
-        <col style="width:40%">
-	      <col style="width:20%">
-	      <col style="width:30%">
-        <col style="width:5%">
-        <col style="width:5%">
-        <thead>
-          <tr>
-			      <th data-field="post_title">Post</th>
-			      <th data-field="group_name" data-filter-control="select">Group</th>
-			      <th data-field="discovered">Date</th>
-            <th data-field="country_flag" data-filter-control="select">Country</th>
-            <th data-field="screenshot">Screenshot</th>
-		      </tr>
-        </thead>
-        <tbody>
-          
-        </tbody>
-      </table>
-    </div>
+      data-show-pagination-switch="true"
+      data-pagination="true"
+      data-page-size="50"
+      data-url="./assets/victims.json"
+      id="table"
+    >
+      <col style="width:40%">
+      <col style="width:20%">
+      <col style="width:30%">
+      <col style="width:5%">
+      <col style="width:5%">
+      <thead>
+        <tr>
+          <th data-field="post_title">Post</th>
+          <th data-field="group_name" data-filter-control="select">Group</th>
+          <th data-field="discovered">Date</th>
+          <th data-field="country_flag" data-filter-control="select">Country</th>
+          <th data-field="screenshot">Screenshot</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
 
-    
-    <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-    <script src="https://unpkg.com/bootstrap-table@1.24.0/dist/bootstrap-table.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap-table@1.24.0/dist/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
-    <script src="https://unpkg.com/tableexport.jquery.plugin/tableExport.min.js"></script>
-	  <script src="https://unpkg.com/bootstrap-table@1.24.0/dist/extensions/export/bootstrap-table-export.min.js"></script>
-    
+    <footer class="site-footer">
+      <p>
+        Data sourced from <a href="https://ransomware.live/" target="_blank" rel="noopener noreferrer">Ransomware.live</a>
+        &mdash; updated three times daily via GitHub Actions.
+      </p>
+    </footer>
+
+  </div><!-- /.page-wrapper -->
+
+  <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/bootstrap-table@1.24.0/dist/bootstrap-table.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap-table@1.24.0/dist/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+  <script src="https://unpkg.com/tableexport.jquery.plugin/tableExport.min.js"></script>
+  <script src="https://unpkg.com/bootstrap-table@1.24.0/dist/extensions/export/bootstrap-table-export.min.js"></script>
+
+  <script>
+    (function () {
+      'use strict';
+
+      function innerText(html) {
+        if (!html) return '';
+        var tmp = document.createElement('span');
+        tmp.innerHTML = html;
+        return (tmp.textContent || tmp.innerText || '').trim();
+      }
+
+      function updateStats(data) {
+        if (!Array.isArray(data) || data.length === 0) return;
+
+        var loader = document.getElementById('loading-indicator');
+        if (loader) loader.style.display = 'none';
+
+        var groups = new Set();
+        var countries = new Set();
+
+        data.forEach(function (row) {
+          var g = innerText(row.group_name || '');
+          if (g) groups.add(g.toLowerCase());
+
+          var c = (row.country || '').trim().toUpperCase();
+          if (c) countries.add(c);
+        });
+
+        document.getElementById('stat-total').textContent     = data.length.toLocaleString();
+        document.getElementById('stat-groups').textContent    = groups.size.toLocaleString();
+        document.getElementById('stat-countries').textContent = countries.size.toLocaleString();
+      }
+
+      $(document).ready(function () {
+        document.getElementById('loading-indicator').style.display = 'flex';
+
+        /* load-success.bs.table is the correct event name in Bootstrap-Table */
+        $('#table').on('load-success.bs.table', function (e, data) {
+          updateStats(data);
+        });
+
+        /* Fallback: if data was already loaded (e.g. from cache) check after init */
+        $('#table').on('post-body.bs.table', function () {
+          var data = $('#table').bootstrapTable('getData');
+          if (data && data.length > 0) {
+            updateStats(data);
+          }
+        });
+      });
+    }());
+  </script>
+
 </body>
 </html>
