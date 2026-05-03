@@ -44,7 +44,7 @@ for year in range(dt.now().year,2022,-1):
     url = "https://api.ransomware.live/v1/victims/" + str(year)
     r = requests.get(url)
     yearly_ransoms = r.json()
-    yearly_ransoms.reverse()
+    #yearly_ransoms.reverse()
     for ransom in yearly_ransoms:
         ransom['post_title'] = "<a href='https://" + ransom['website'] + "'>" + ransom['post_title'] + "</a>" if ransom['website'] else ransom['post_title'] 
         ransom['group_name'] = "<a href='" + ransom['post_url'] + "'>" + ransom['group_name'] + "</a>" if ransom['post_url']  else ransom['group_name'] 
