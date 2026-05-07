@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ransom.privtools.eu/sitemap.xml
