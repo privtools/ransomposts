@@ -39,17 +39,35 @@ env = Environment(
 
 ransoms = []
 
+def _safe_attr(value):
+    """Escape a value used as the text of an HTML fragment / interpolated
+    into attribute position so it can never break out of or inject into the
+    surrounding markup."""
+    if value is None:
+        return ''
+    return html_lib.escape(str(value))
+
 for year in range(dt.now().year,2022,-1):
     print(year)
     url = "https://api.ransomware.live/v1/victims/" + str(year)
-    r = requests.get(url)
+    r = requests.get(url, timeout=30)
     yearly_ransoms = r.json()
     #yearly_ransoms.reverse()
     for ransom in yearly_ransoms:
-        ransom['post_title'] = "<a href='https://" + ransom['website'] + "'>" + ransom['post_title'] + "</a>" if ransom['website'] else ransom['post_title'] 
-        ransom['group_name'] = "<a href='" + ransom['post_url'] + "'>" + ransom['group_name'] + "</a>" if ransom['post_url']  else ransom['group_name'] 
-        ransom['screenshot'] = "<a href='" + ransom['screenshot'] +"'>🖵</a>" if ransom['screenshot'] else ""
-        ransom['country_flag'] = "<span class='fi fi-" + ransom['country'].lower() + " fis'></span> <span>" + ransom['country'] + "</span>"
+        # Escape every field before wrapping in HTML. post_title / group_name /
+        # country come from the upstream ransomware.live API and are rendered
+        # unescaped by the <noscript> snapshot and (for group/country) by the
+        # main table, so a malicious value could inject markup (XSS/deface).
+        title = _safe_attr(ransom['post_title'])
+        group = _safe_attr(ransom['group_name'])
+        country = _safe_attr(ransom['country'])
+        website = _safe_attr(ransom['website'])
+        post_url = _safe_attr(ransom['post_url'])
+        screenshot = _safe_attr(ransom['screenshot'])
+        ransom['post_title'] = "<a href='https://" + website + "'>" + title + "</a>" if ransom['website'] else ransom['post_title']
+        ransom['group_name'] = "<a href='" + post_url + "'>" + group + "</a>" if ransom['post_url']  else ransom['group_name']
+        ransom['screenshot'] = "<a href='" + screenshot +"'>🖵</a>" if ransom['screenshot'] else ""
+        ransom['country_flag'] = "<span class='fi fi-" + country.lower() + " fis'></span> <span>" + country + "</span>"
     ransoms+=yearly_ransoms
 
 with codecs.open('./assets/victims.json','w', encoding='utf-8') as f:
