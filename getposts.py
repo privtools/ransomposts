@@ -3,6 +3,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 from datetime import datetime as dt
 from datetime import timezone
 import json, codecs, re, html as html_lib
+from urllib.parse import quote
 
 env = Environment(
     loader=FileSystemLoader( searchpath="./templates" ),
@@ -37,6 +38,109 @@ env = Environment(
 #             f.write(template.render(ransoms=ransoms,fecha=dt.now(tz=timezone.utc).strftime('%d-%b-%Y %H:%M %Z')))
 
 
+RANSOMWARE_LIVE = "https://www.ransomware.live"
+
+
+def _best_location(locations):
+    """Pick the most representative leak site for a group.
+
+    Prefers a reachable data-leak site, then any reachable location, then any
+    location the API still has enabled. Returns the location dict, or None.
+    """
+    for matches in (
+        lambda l: l.get('available') and l.get('type') == 'DLS',
+        lambda l: l.get('available'),
+        lambda l: l.get('enabled'),
+        lambda l: True,
+    ):
+        for location in locations:
+            if matches(location):
+                return location
+    return None
+
+
+def _location_url(location):
+    """A few slugs come back as a bare host — give them a scheme."""
+    url = (location.get('slug') or location.get('fqdn') or '').strip()
+    if url and not re.match(r'^[a-zA-Z][a-zA-Z0-9+.-]*:', url):
+        url = 'http://' + url
+    return url
+
+
+def fetch_groups():
+    """Index the /v1/groups endpoint by name and altname (both lowercased).
+
+    Returns an empty index if the endpoint is unreachable so the daily run
+    degrades to plain ransomware.live links instead of failing outright.
+    """
+    try:
+        r = requests.get("https://api.ransomware.live/v1/groups", timeout=60)
+        r.raise_for_status()
+        raw = r.json()
+    except (requests.RequestException, ValueError) as exc:
+        print(f"WARNING: could not fetch groups ({exc}) — falling back to post links")
+        return {}
+
+    index = {}
+    for group in raw:
+        location = _best_location(group.get('locations') or [])
+        entry = {
+            'profile': group.get('url') or '',
+            'altname': (group.get('altname') or '').strip(),
+            'leak_site': _location_url(location) if location else '',
+            'leak_online': bool(location.get('available')) if location else False,
+            'leak_type': (location.get('type') or '') if location else '',
+            'description': (group.get('description') or '').strip(),
+        }
+        for key in (group.get('name'), group.get('altname')):
+            if key:
+                index.setdefault(str(key).strip().lower(), entry)
+
+    print(f"{len(raw)} groups indexed under {len(index)} names")
+    return index
+
+
+def group_link(name, post_url, groups):
+    """Render the group cell: a link to the group's leak site.
+
+    Most leak sites are .onion addresses, so the link only resolves in Tor. The
+    ransomware.live profile is kept in the tooltip as the reachable alternative,
+    and is used as the href for the few groups with no known location.
+    """
+    label = html_lib.escape(name or '')
+    info = groups.get((name or '').strip().lower())
+
+    if not info:
+        # Unknown group: keep the previous behaviour, but absolute so it resolves.
+        if not post_url:
+            return label
+        href = post_url if post_url.startswith('http') else RANSOMWARE_LIVE + post_url
+        return f"<a href='{html_lib.escape(href, quote=True)}'>{label}</a>"
+
+    profile = info['profile'] or f"{RANSOMWARE_LIVE}/group/{quote(str(name or ''), safe='')}"
+    href = info['leak_site'] or profile
+
+    tooltip = []
+    if info['altname'] and info['altname'].lower() != (name or '').lower():
+        tooltip.append(f"aka {info['altname']}")
+    if info['leak_site']:
+        kind = info['leak_type'] or 'Leak site'
+        state = 'online' if info['leak_online'] else 'offline'
+        onion = ' — needs Tor' if '.onion' in info['leak_site'] else ''
+        tooltip.append(f"{kind} ({state}){onion}")
+        tooltip.append(f"Profile: {profile}")
+    if info['description']:
+        summary = info['description'].split('\n')[0]
+        tooltip.append(summary[:197] + '…' if len(summary) > 200 else summary)
+
+    title = html_lib.escape(' · '.join(tooltip), quote=True) if tooltip else ''
+    title_attr = f" title='{title}'" if title else ''
+
+    return f"<a href='{html_lib.escape(href, quote=True)}'{title_attr}>{label}</a>"
+
+
+groups = fetch_groups()
+
 ransoms = []
 
 for year in range(dt.now().year,2022,-1):
@@ -46,8 +150,8 @@ for year in range(dt.now().year,2022,-1):
     yearly_ransoms = r.json()
     #yearly_ransoms.reverse()
     for ransom in yearly_ransoms:
-        ransom['post_title'] = "<a href='https://" + ransom['website'] + "'>" + ransom['post_title'] + "</a>" if ransom['website'] else ransom['post_title'] 
-        ransom['group_name'] = "<a href='" + ransom['post_url'] + "'>" + ransom['group_name'] + "</a>" if ransom['post_url']  else ransom['group_name'] 
+        ransom['post_title'] = "<a href='https://" + ransom['website'] + "'>" + ransom['post_title'] + "</a>" if ransom['website'] else ransom['post_title']
+        ransom['group_name'] = group_link(ransom['group_name'], ransom.get('post_url'), groups)
         ransom['screenshot'] = "<a href='" + ransom['screenshot'] +"'>🖵</a>" if ransom['screenshot'] else ""
         ransom['country_flag'] = "<span class='fi fi-" + ransom['country'].lower() + " fis'></span> <span>" + ransom['country'] + "</span>"
     ransoms+=yearly_ransoms
