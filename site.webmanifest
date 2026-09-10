@@ -1,0 +1,12 @@
+{
+  "name": "RansomPosts — Ransomware Victims Tracker",
+  "short_name": "RansomPosts",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#07090d",
+  "theme_color": "#07090d",
+  "icons": [
+    { "src": "/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/img/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

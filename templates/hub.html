@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% block content %}
+      <header class="hero hero--compact">
+        <p class="eyebrow"><i class="bi {{ kind.icon }}"></i> {{ kind.hub_name }}</p>
+        <h1>{{ page.h1 }}</h1>
+        <p class="lede">{{ page.lede }}</p>
+      </header>
+
+      <div class="table-scroll">
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th scope="col">{{ kind.column }}</th>
+              <th scope="col" class="num">Posts</th>
+              <th scope="col">First seen</th>
+              <th scope="col">Latest post</th>
+            </tr>
+          </thead>
+          <tbody>
+{% for e in entries %}
+            <tr>
+              <td class="nowrap">{% if e.code %}<span class="fi fi-{{ e.code|lower }}"></span>{% endif %}{% if e.url %}<a href="{{ e.url }}">{{ e.name }}</a>{% else %}{{ e.name }}{% endif %}</td>
+              <td class="num">{{ e.count|num }}</td>
+              <td class="mono nowrap">{{ e.first }}</td>
+              <td class="mono nowrap">{{ e.last }}</td>
+            </tr>
+{% endfor %}
+          </tbody>
+        </table>
+      </div>
+{% endblock %}

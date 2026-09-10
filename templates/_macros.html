@@ -1,0 +1,67 @@
+{% macro link(text, url, nofollow=False) -%}
+{% if url %}<a href="{{ url }}"{% if nofollow %} rel="nofollow noopener noreferrer" target="_blank"{% endif %}>{{ text }}</a>{% else %}{{ text }}{% endif %}
+{%- endmacro %}
+
+{# Ranked list with a proportional bar behind each entry. #}
+{% macro rank(entries, flags=False) %}
+<ol class="rank-list">
+{% for it in entries %}
+  <li style="--pct: {{ it.pct }}%">
+    <span class="rank-name">{% if flags and it.code %}<span class="fi fi-{{ it.code|lower }}"></span>{% endif %}{{ link(it.name, it.url) }}</span>
+    <span class="rank-count">{{ it.count|num }}</span>
+  </li>
+{% endfor %}
+</ol>
+{% endmacro %}
+
+{% macro years(entries) %}
+<div class="year-bars">
+{% for y in entries %}
+  <div class="year-bar" style="--pct: {{ y.pct }}%">
+    <span class="year-count">{{ y.count|num }}</span>
+    <span class="year-track"><span class="year-fill"></span></span>
+    <span class="year-label">{{ y.year }}</span>
+  </div>
+{% endfor %}
+</div>
+{% endmacro %}
+
+{# Latest victims. `columns` says which of group / country / sector to show. #}
+{% macro victims_table(rows, columns) %}
+<div class="table-scroll">
+  <table class="data-table">
+    <thead>
+      <tr>
+        <th scope="col">Victim</th>
+{% if columns.group %}
+        <th scope="col">Group</th>
+{% endif %}
+{% if columns.country %}
+        <th scope="col">Country</th>
+{% endif %}
+{% if columns.sector %}
+        <th scope="col">Sector</th>
+{% endif %}
+        <th scope="col">Discovered</th>
+      </tr>
+    </thead>
+    <tbody>
+{% for r in rows %}
+      <tr>
+        <td>{{ r.title }}</td>
+{% if columns.group %}
+        <td class="mono">{{ link(r.group, r.group_url) }}</td>
+{% endif %}
+{% if columns.country %}
+        <td class="nowrap">{% if r.country %}<span class="fi fi-{{ r.country|lower }}"></span>{{ link(r.country_name, r.country_url) }}{% else %}<span class="muted">&mdash;</span>{% endif %}</td>
+{% endif %}
+{% if columns.sector %}
+        <td>{% if r.sector %}{{ link(r.sector, r.sector_url) }}{% else %}<span class="muted">&mdash;</span>{% endif %}</td>
+{% endif %}
+        <td class="mono nowrap"><time datetime="{{ r.date }}">{{ r.date }}</time></td>
+      </tr>
+{% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endmacro %}

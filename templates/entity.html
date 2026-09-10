@@ -1,0 +1,62 @@
+{% extends 'base.html' %}
+{% import '_macros.html' as m %}
+{% block content %}
+      <header class="hero hero--compact">
+        <p class="eyebrow"><i class="bi {{ kind.icon }}"></i> {{ kind.label }}</p>
+        <h1>{{ page.h1 }}</h1>
+        <p class="lede">{{ page.lede }}</p>
+      </header>
+
+      <div id="stats-bar">
+{% for s in stats %}
+        <div class="stat-card" style="--tint: var(--{{ s.tint }})">
+          <span class="stat-head"><i class="bi {{ s.icon }}"></i> {{ s.label }}</span>
+          <span class="stat-num{% if s.small %} stat-num--small{% endif %}">{{ s.value }}</span>
+        </div>
+{% endfor %}
+      </div>
+
+{% if about %}
+      <section class="panel block">
+        <h2>About {{ entity.name }}</h2>
+{% for p in about.paragraphs %}
+        <p>{{ p }}</p>
+{% endfor %}
+{% if about.facts %}
+        <dl class="facts">
+{% for f in about.facts %}
+          <dt>{{ f.label }}</dt>
+          <dd>{{ m.link(f.text, f.url, nofollow=f.nofollow) }}</dd>
+{% endfor %}
+        </dl>
+{% endif %}
+      </section>
+{% endif %}
+
+      <div class="grid-2 block">
+{% for b in breakdowns %}
+        <section class="panel">
+          <h2>{{ b.title }}</h2>
+{% if b.entries %}
+          {{ m.rank(b.entries, flags=b.flags) }}
+{% else %}
+          <p class="muted">Not enough data.</p>
+{% endif %}
+          <a class="panel-more" href="{{ b.more_url }}">{{ b.more_text }} &rarr;</a>
+        </section>
+{% endfor %}
+      </div>
+
+      <section class="panel block">
+        <h2>{{ page.years_title }}</h2>
+        {{ m.years(years) }}
+      </section>
+
+      <section class="block">
+        <div class="section-head">
+          <h2>{{ page.table_title }}</h2>
+          <span class="hint">Search every post in the <a href="/">full table</a>.</span>
+        </div>
+        {{ m.victims_table(table, columns) }}
+      </section>
+{% endblock %}

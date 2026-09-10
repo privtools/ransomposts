@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{% for u in urls %}
+  <url>
+    <loc>{{ site }}{{ u.path }}</loc>
+    <lastmod>{{ u.lastmod }}</lastmod>
+  </url>
+{% endfor %}
+</urlset>

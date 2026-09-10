@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% block content %}
+      <header class="hero">
+        <p class="eyebrow"><i class="bi bi-signpost-split"></i> Error 404</p>
+        <h1>Page not found</h1>
+        <p class="lede">
+          The page you are looking for does not exist — a group, country or sector page is removed
+          when it no longer has enough posts. Try one of these instead:
+        </p>
+        <div class="hero-links">
+          <a class="chip" href="/"><i class="bi bi-table"></i> All victim posts</a>
+          <a class="chip" href="/groups/"><i class="bi bi-people"></i> Ransomware groups</a>
+          <a class="chip" href="/countries/"><i class="bi bi-globe-americas"></i> Countries</a>
+          <a class="chip" href="/sectors/"><i class="bi bi-building"></i> Sectors</a>
+        </div>
+      </header>
+{% endblock %}

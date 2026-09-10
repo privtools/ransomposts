@@ -1,10 +1,10 @@
 name: Fetch posts
-on: 
+on:
   schedule:
     - cron: '33 6,12,18 * * *'
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-  
+
 jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
@@ -17,17 +17,30 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
       - name: Fetch posts data
+        id: fetch
         run: |
           pip3 install -r requirements.txt
           python3 getposts.py
           git config user.name "Vigilante de posts"
           git config user.email "actions@users.noreply.github.com"
-          git add old.html
-          git add ./assets/victims.json
-          DATE=$(date -Iseconds)
-          git commit --message="Posts fetch on $DATE"
+          # Everything getposts.py generates. -A also stages landing pages
+          # removed because their group/country/sector fell below the threshold.
+          git add -A -- index.html 404.html sitemap.xml feed.xml assets group country sector groups countries sectors
+          if git diff --cached --quiet; then
+            echo "Nothing changed"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            DATE=$(date -Iseconds)
+            git commit --message="Posts fetch on $DATE"
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
       - name: Hace el «push»
+        if: steps.fetch.outputs.changed == 'true'
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Notify IndexNow (Bing, Yandex, Seznam…)
+        if: steps.fetch.outputs.changed == 'true'
+        continue-on-error: true
+        run: python3 indexnow.py
       - run: echo "🍏 This job's status is ${{ job.status }}."

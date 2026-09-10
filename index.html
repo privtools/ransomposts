@@ -2,43 +2,84 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="robots" content="index, follow, max-snippet:-1">
-  <title>Ransomware Posts Monitor — Victim Leak Site Tracker</title>
-  <meta name="description" content="Searchable index of ransomware victim posts published on gang leak sites. Covers 60+ groups from 2022 to present. Updated three times daily.">
-  <meta name="keywords" content="ransomware, breach, leak, site, monitoring, post, gang, personal, data, cyberincident, cybersecurity">
-  <meta name="last-modified" content="2026-09-09">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
+  <title>Ransomware Victims Tracker — Leak Site Monitor | RansomPosts</title>
+  <meta name="description" content="Searchable list of ransomware victims published on gang leak sites since 2022. Browse by group, country and sector. Updated three times a day.">
   <meta name="theme-color" content="#07090d">
   <link rel="canonical" href="https://ransom.privtools.eu/">
   <meta property="og:type" content="website">
+  <meta property="og:site_name" content="RansomPosts">
+  <meta property="og:locale" content="en_US">
   <meta property="og:url" content="https://ransom.privtools.eu/">
-  <meta property="og:title" content="Ransomware Posts Monitor — Victim Leak Site Tracker">
-  <meta property="og:description" content="Searchable index of ransomware victim posts published on gang leak sites. Covers 60+ groups from 2022 to present. Updated three times daily.">
+  <meta property="og:title" content="Ransomware Victims Tracker — Leak Site Monitor">
+  <meta property="og:description" content="Searchable list of ransomware victims published on gang leak sites since 2022. Browse by group, country and sector. Updated three times a day.">
   <meta property="og:image" content="https://ransom.privtools.eu/img/og-preview.png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:image:alt" content="RansomPosts table of ransomware victims posted on leak sites">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Ransomware Posts Monitor">
-  <meta name="twitter:description" content="Searchable index of ransomware victim posts. 60+ groups tracked. Updated 3×/day.">
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+  <meta name="twitter:site" content="@privtools">
+  <meta name="twitter:creator" content="@privtools">
+  <meta name="twitter:title" content="Ransomware Victims Tracker">
+  <meta name="twitter:description" content="Searchable list of ransomware victims posted on leak sites, by group, country and sector. Updated 3×/day.">
+  <meta name="twitter:image" content="https://ransom.privtools.eu/img/og-preview.png">
+  <link rel="icon" href="/favicon.ico" sizes="48x48">
+  <link rel="icon" type="image/png" sizes="32x32" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="alternate" type="application/atom+xml" title="RansomPosts — latest ransomware victims" href="/feed.xml">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "Dataset",
-    "name": "Ransomware Posts Monitor",
-    "description": "Searchable index of ransomware victim posts published on gang leak sites, covering 2022 to present. Sourced from ransomware.live and updated three times daily.",
-    "url": "https://ransom.privtools.eu/",
-    "license": "https://github.com/privtools/ransomposts/blob/main/LICENSE.txt",
-    "creator": {
-      "@type": "Organization",
-      "name": "privtools",
-      "url": "https://github.com/privtools"
-    },
-    "distribution": {
-      "@type": "DataDownload",
-      "encodingFormat": "application/json",
-      "contentUrl": "https://ransom.privtools.eu/assets/victims.json"
-    },
-    "temporalCoverage": "2022/..",
-    "keywords": ["ransomware", "cybersecurity", "data breach", "leak site", "threat intelligence", "victims"]
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://ransom.privtools.eu/#org",
+        "name": "privtools",
+        "url": "https://privtools.eu",
+        "logo": "https://ransom.privtools.eu/img/icon-512.png",
+        "sameAs": ["https://github.com/privtools", "https://twitter.com/privtools"]
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://ransom.privtools.eu/#website",
+        "url": "https://ransom.privtools.eu/",
+        "name": "RansomPosts",
+        "description": "Searchable tracker of ransomware victims published on gang leak sites.",
+        "inLanguage": "en",
+        "publisher": { "@id": "https://ransom.privtools.eu/#org" }
+      },
+      {
+        "@type": "Dataset",
+        "@id": "https://ransom.privtools.eu/#dataset",
+        "name": "Ransomware leak site victim posts",
+        "description": "Victim posts published by ransomware groups on their data leak sites, covering 2022 to present: victim organisation, ransomware group, discovery date, country and industry sector. Sourced from ransomware.live and updated three times daily.",
+        "url": "https://ransom.privtools.eu/",
+        "license": "https://github.com/privtools/ransomposts/blob/main/LICENSE.txt",
+        "isAccessibleForFree": true,
+        "creator": { "@id": "https://ransom.privtools.eu/#org" },
+        "dateModified": "2026-09-10",
+        "temporalCoverage": "2022-01-01/..",
+        "spatialCoverage": { "@type": "Place", "name": "Worldwide" },
+        "variableMeasured": ["Victim organisation", "Ransomware group", "Discovery date", "Country", "Industry sector"],
+        "keywords": ["ransomware", "cybersecurity", "data breach", "leak site", "threat intelligence", "victims"],
+        "distribution": [
+          {
+            "@type": "DataDownload",
+            "name": "Full dataset",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://ransom.privtools.eu/assets/victims.json"
+          },
+          {
+            "@type": "DataDownload",
+            "name": "Last 30 days",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://ransom.privtools.eu/assets/recent.json"
+          }
+        ]
+      }
+    ]
   }
   </script>
 
@@ -54,863 +95,30 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
-  <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.24.0/dist/bootstrap-table.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-table@1.24.0/dist/bootstrap-table.min.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@7.2.3/css/flag-icons.min.css">
-  <script defer data-domain="privtools.github.io" src="https://plausible.privtools.eu/js/script.js"></script>
+  <link rel="stylesheet" href="/assets/site.css">
   <script defer data-domain="ransom.privtools.eu" src="https://plausible.privtools.eu/js/script.js"></script>
-
-  <style>
-    /* ══ Design tokens ═══════════════════════════════════════════════ */
-    :root {
-      color-scheme: dark;
-
-      --nav-h: 3.5rem;
-      --radius:    14px;
-      --radius-sm:  9px;
-      --radius-xs:  6px;
-      --maxw: 1320px;
-
-      --font-sans: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
-      --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, monospace;
-
-      --bg:         #07090d;
-      --glow-a:     rgba(244,  63,  94, .13);
-      --glow-b:     rgba( 56, 189, 248, .11);
-      --surface:    #0f131b;
-      --surface-2:  #151a25;
-      --surface-3:  #1d2432;
-      --inset:      #0a0d13;
-      --border:     rgba(255,255,255,.075);
-      --border-2:   rgba(255,255,255,.15);
-      --text:       #e7eaf0;
-      --text-dim:   #96a0b1;
-      --text-faint: #667082;
-      --accent:     #38bdf8;
-      --accent-2:   #22d3ee;
-      --accent-ink: #041520;
-      --accent-soft: rgba(56,189,248,.12);
-      --danger:     #fb5b73;
-      --amber:      #fbbf24;
-      --green:      #34d399;
-      --violet:     #a78bfa;
-      --shadow:     0 1px 2px rgba(0,0,0,.45), 0 14px 34px -14px rgba(0,0,0,.8);
-      --skeleton:   linear-gradient(90deg, var(--surface-2) 8%, var(--surface-3) 26%, var(--surface-2) 44%);
-    }
-
-    :root[data-theme="light"] {
-      color-scheme: light;
-
-      --bg:         #f3f5f9;
-      --glow-a:     rgba(244,  63,  94, .08);
-      --glow-b:     rgba(  2, 132, 199, .08);
-      --surface:    #ffffff;
-      --surface-2:  #f4f6fa;
-      --surface-3:  #e7ebf2;
-      --inset:      #ffffff;
-      --border:     rgba(15,23,42,.10);
-      --border-2:   rgba(15,23,42,.20);
-      --text:       #0f172a;
-      --text-dim:   #57637b;
-      --text-faint: #7d8798;
-      --accent:     #0284c7;
-      --accent-2:   #0891b2;
-      --accent-ink: #ffffff;
-      --accent-soft: rgba(2,132,199,.10);
-      --danger:     #dc2743;
-      --amber:      #b45309;
-      --green:      #047857;
-      --violet:     #6d28d9;
-      --shadow:     0 1px 2px rgba(15,23,42,.05), 0 12px 28px -14px rgba(15,23,42,.28);
-      --skeleton:   linear-gradient(90deg, var(--surface-2) 8%, #dfe4ed 26%, var(--surface-2) 44%);
-    }
-
-    *, *::before, *::after { box-sizing: border-box; }
-
-    html { scroll-behavior: smooth; }
-
-    body {
-      background-color: var(--bg);
-      color: var(--text);
-      font-family: var(--font-sans);
-      font-size: 0.9rem;
-      line-height: 1.55;
-      min-height: 100vh;
-      margin: 0;
-      -webkit-font-smoothing: antialiased;
-      overflow-x: hidden;
-    }
-
-    /* Ambient glow behind the hero */
-    body::before {
-      content: '';
-      position: fixed;
-      inset: -20% -10% auto -10%;
-      height: 70vh;
-      pointer-events: none;
-      z-index: 0;
-      background:
-        radial-gradient(52% 60% at 22% 0%, var(--glow-a) 0%, transparent 68%),
-        radial-gradient(48% 55% at 82% 6%, var(--glow-b) 0%, transparent 70%);
-    }
-
-    a { color: var(--accent); text-decoration: none; transition: color .15s ease; }
-    a:hover { color: var(--accent-2); text-decoration: underline; text-underline-offset: 2px; }
-
-    ::selection { background: var(--accent-soft); color: var(--text); }
-
-    :focus-visible {
-      outline: 2px solid var(--accent);
-      outline-offset: 2px;
-      border-radius: var(--radius-xs);
-    }
-
-    .skip-link {
-      position: absolute;
-      left: -999px;
-      top: 0;
-      z-index: 2000;
-      background: var(--accent);
-      color: var(--accent-ink);
-      padding: .5rem .9rem;
-      border-radius: 0 0 var(--radius-xs) 0;
-      font-weight: 600;
-    }
-    .skip-link:focus { left: 0; }
-
-    /* ══ Navbar ══════════════════════════════════════════════════════ */
-    #site-navbar {
-      position: sticky;
-      top: 0;
-      z-index: 1030;
-      height: var(--nav-h);
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 1rem;
-      padding: 0 clamp(.9rem, 3vw, 2rem);
-      background: color-mix(in srgb, var(--bg) 78%, transparent);
-      backdrop-filter: saturate(180%) blur(14px);
-      -webkit-backdrop-filter: saturate(180%) blur(14px);
-      border-bottom: 1px solid var(--border);
-    }
-
-    .brand {
-      display: inline-flex;
-      align-items: center;
-      gap: .6rem;
-      color: var(--text);
-      font-weight: 700;
-      letter-spacing: -0.01em;
-      font-size: 1rem;
-    }
-    .brand:hover { color: var(--text); text-decoration: none; }
-
-    .brand-mark {
-      display: grid;
-      place-items: center;
-      width: 1.85rem;
-      height: 1.85rem;
-      border-radius: 9px;
-      font-size: .95rem;
-      color: #fff;
-      background: linear-gradient(140deg, var(--danger), #7f1d3a);
-      box-shadow: 0 0 0 1px var(--border-2), 0 6px 16px -8px var(--danger);
-    }
-
-    .brand-text span { color: var(--text-dim); font-weight: 500; }
-
-    .nav-actions { display: flex; align-items: center; gap: .4rem; }
-
-    .live-pill {
-      display: inline-flex;
-      align-items: center;
-      gap: .4rem;
-      margin-right: .35rem;
-      padding: .22rem .6rem .22rem .5rem;
-      border: 1px solid var(--border);
-      border-radius: 999px;
-      background: var(--surface);
-      color: var(--text-dim);
-      font-size: .68rem;
-      font-weight: 600;
-      letter-spacing: .09em;
-      text-transform: uppercase;
-    }
-
-    .live-dot {
-      width: .45rem;
-      height: .45rem;
-      border-radius: 50%;
-      background: var(--green);
-      box-shadow: 0 0 0 0 color-mix(in srgb, var(--green) 70%, transparent);
-      animation: pulse 2.4s ease-out infinite;
-    }
-
-    @keyframes pulse {
-      0%   { box-shadow: 0 0 0 0 color-mix(in srgb, var(--green) 65%, transparent); }
-      70%  { box-shadow: 0 0 0 .38rem transparent; }
-      100% { box-shadow: 0 0 0 0 transparent; }
-    }
-
-    .icon-btn {
-      display: grid;
-      place-items: center;
-      width: 2rem;
-      height: 2rem;
-      border: 1px solid transparent;
-      border-radius: var(--radius-xs);
-      background: transparent;
-      color: var(--text-dim);
-      font-size: 1.02rem;
-      cursor: pointer;
-      transition: color .15s ease, background-color .15s ease, border-color .15s ease;
-    }
-    .icon-btn:hover {
-      color: var(--accent);
-      background: var(--surface-2);
-      border-color: var(--border);
-      text-decoration: none;
-    }
-
-    #theme-toggle .bi-sun-fill { display: none; }
-    :root[data-theme="light"] #theme-toggle .bi-sun-fill { display: block; }
-    :root[data-theme="light"] #theme-toggle .bi-moon-stars { display: none; }
-
-    /* ══ Layout ══════════════════════════════════════════════════════ */
-    .page-wrapper {
-      position: relative;
-      z-index: 1;
-      max-width: var(--maxw);
-      margin: 0 auto;
-      padding: 0 clamp(.9rem, 3vw, 2rem) 3.5rem;
-    }
-
-    /* ══ Hero ════════════════════════════════════════════════════════ */
-    .hero { padding: clamp(2.2rem, 6vw, 3.75rem) 0 1.75rem; }
-
-    .eyebrow {
-      display: inline-flex;
-      align-items: center;
-      gap: .45rem;
-      margin: 0 0 1.1rem;
-      padding: .3rem .75rem;
-      border: 1px solid var(--border);
-      border-radius: 999px;
-      background: var(--surface);
-      color: var(--text-dim);
-      font-size: .7rem;
-      font-weight: 600;
-      letter-spacing: .08em;
-      text-transform: uppercase;
-    }
-    .eyebrow i { color: var(--danger); }
-
-    .hero h1 {
-      margin: 0 0 .35rem;
-      font-size: clamp(2.1rem, 6.2vw, 3.6rem);
-      font-weight: 800;
-      line-height: 1.03;
-      letter-spacing: -0.035em;
-      color: var(--text);
-    }
-
-    .hero h1 .grad {
-      background: linear-gradient(100deg, var(--danger) 0%, var(--violet) 55%, var(--accent) 100%);
-      -webkit-background-clip: text;
-      background-clip: text;
-      -webkit-text-fill-color: transparent;
-      color: transparent;
-    }
-
-    .hero-sub {
-      margin: 0 0 1.1rem;
-      color: var(--text-faint);
-      font-size: .75rem;
-      font-weight: 600;
-      letter-spacing: .22em;
-      text-transform: uppercase;
-    }
-
-    .lede {
-      max-width: 62ch;
-      margin: 0 0 .7rem;
-      color: var(--text-dim);
-      font-size: .95rem;
-      line-height: 1.7;
-    }
-    .lede strong { color: var(--text); font-weight: 600; }
-
-    .hero-links {
-      display: flex;
-      flex-wrap: wrap;
-      gap: .5rem;
-      margin-top: 1.4rem;
-    }
-
-    .chip {
-      display: inline-flex;
-      align-items: center;
-      gap: .45rem;
-      padding: .45rem .85rem;
-      border: 1px solid var(--border);
-      border-radius: 999px;
-      background: var(--surface);
-      color: var(--text-dim);
-      font-size: .78rem;
-      font-weight: 500;
-      transition: color .15s ease, border-color .15s ease, background-color .15s ease, transform .15s ease;
-    }
-    .chip:hover {
-      color: var(--text);
-      border-color: var(--border-2);
-      background: var(--surface-2);
-      transform: translateY(-1px);
-      text-decoration: none;
-    }
-    .chip i { color: var(--accent); font-size: .9rem; }
-
-    /* ══ Stat cards ══════════════════════════════════════════════════ */
-    #stats-bar {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(158px, 1fr));
-      gap: .75rem;
-      margin-bottom: 1.6rem;
-    }
-
-    .stat-card {
-      position: relative;
-      overflow: hidden;
-      padding: .95rem 1.05rem;
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      background: var(--surface);
-      box-shadow: var(--shadow);
-      transition: border-color .18s ease, transform .18s ease;
-    }
-    .stat-card:hover { border-color: var(--border-2); transform: translateY(-2px); }
-
-    .stat-card::after {
-      content: '';
-      position: absolute;
-      inset: 0 0 auto 0;
-      height: 2px;
-      background: var(--tint, var(--accent));
-      opacity: .8;
-    }
-
-    .stat-head {
-      display: flex;
-      align-items: center;
-      gap: .4rem;
-      color: var(--text-faint);
-      font-size: .66rem;
-      font-weight: 600;
-      letter-spacing: .12em;
-      text-transform: uppercase;
-    }
-    .stat-head i { color: var(--tint, var(--accent)); font-size: .82rem; }
-
-    .stat-num {
-      display: block;
-      margin-top: .3rem;
-      font-family: var(--font-mono);
-      font-size: clamp(1.5rem, 3.4vw, 1.95rem);
-      font-weight: 700;
-      line-height: 1.1;
-      letter-spacing: -0.03em;
-      color: var(--text);
-      font-variant-numeric: tabular-nums;
-    }
-
-    /* ══ Section head ════════════════════════════════════════════════ */
-    .section-head {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: baseline;
-      justify-content: space-between;
-      gap: .5rem;
-      margin-bottom: .7rem;
-    }
-
-    .section-head h2 {
-      margin: 0;
-      font-size: .95rem;
-      font-weight: 700;
-      letter-spacing: -0.01em;
-      color: var(--text);
-    }
-
-    .section-head .hint {
-      color: var(--text-faint);
-      font-size: .75rem;
-    }
-    .section-head .hint b { color: var(--text-dim); font-weight: 600; }
-
-    /* ══ Skeleton loader ═════════════════════════════════════════════ */
-    #loading-indicator {
-      display: none;
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      background: var(--surface);
-      padding: 1rem;
-      box-shadow: var(--shadow);
-    }
-    #loading-indicator[data-visible="true"] { display: block; }
-
-    .skeleton-row {
-      display: grid;
-      grid-template-columns: 2.2fr 1fr 1.1fr .6fr;
-      gap: .9rem;
-      padding: .55rem 0;
-    }
-
-    .skeleton-row span {
-      height: .72rem;
-      border-radius: 999px;
-      background: var(--skeleton);
-      background-size: 260% 100%;
-      animation: shimmer 1.5s linear infinite;
-    }
-    .skeleton-row:first-child span { height: .6rem; opacity: .55; }
-    .skeleton-row span:nth-child(2) { width: 62%; }
-    .skeleton-row span:nth-child(4) { width: 44%; }
-
-    @keyframes shimmer {
-      from { background-position: 130% 0; }
-      to   { background-position: -130% 0; }
-    }
-
-    /* ══ Bootstrap-Table panel ═══════════════════════════════════════ */
-    .bootstrap-table {
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      background: var(--surface);
-      box-shadow: var(--shadow);
-      overflow: hidden;
-    }
-
-    /* Toolbar */
-    .bootstrap-table .fixed-table-toolbar {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      gap: .55rem;
-      padding: .8rem .85rem;
-      border-bottom: 1px solid var(--border);
-      background: var(--surface-2);
-    }
-    .bootstrap-table .fixed-table-toolbar::after { content: none; }
-    .bootstrap-table .fixed-table-toolbar > * { float: none !important; margin: 0 !important; }
-
-    .bootstrap-table .fixed-table-toolbar .search {
-      order: -1;
-      position: relative;
-      flex: 1 1 240px;
-      max-width: 420px;
-    }
-    .bootstrap-table .fixed-table-toolbar .search::before {
-      content: "\f52a";
-      font-family: 'bootstrap-icons';
-      position: absolute;
-      left: .72rem;
-      top: 50%;
-      transform: translateY(-50%);
-      z-index: 5;
-      color: var(--text-faint);
-      font-size: .88rem;
-      pointer-events: none;
-    }
-    .bootstrap-table .fixed-table-toolbar .search .input-group { width: 100%; flex-wrap: nowrap; }
-
-    .fixed-table-toolbar .search input.form-control {
-      height: 2.25rem;
-      padding-left: 2.1rem;
-      background-color: var(--inset);
-      border: 1px solid var(--border);
-      border-radius: 999px !important;
-      color: var(--text);
-      font-size: .82rem;
-      box-shadow: none;
-    }
-    .fixed-table-toolbar .search input.form-control::placeholder { color: var(--text-faint); }
-    .fixed-table-toolbar .search input.form-control:focus {
-      background-color: var(--inset);
-      border-color: var(--accent);
-      color: var(--text);
-      box-shadow: 0 0 0 3px var(--accent-soft);
-      outline: none;
-    }
-
-    /* Toolbar buttons */
-    .fixed-table-toolbar .btn,
-    .fixed-table-pagination .btn {
-      height: 2.25rem;
-      display: inline-flex;
-      align-items: center;
-      gap: .35rem;
-      padding: 0 .7rem;
-      background-color: var(--surface);
-      border: 1px solid var(--border);
-      color: var(--text-dim);
-      font-size: .8rem;
-      border-radius: var(--radius-xs);
-      box-shadow: none;
-      transition: color .15s ease, background-color .15s ease, border-color .15s ease;
-    }
-    .fixed-table-toolbar .btn:hover,
-    .fixed-table-pagination .btn:hover {
-      background-color: var(--surface-3);
-      border-color: var(--border-2);
-      color: var(--accent);
-    }
-    .fixed-table-toolbar .btn:focus,
-    .fixed-table-pagination .btn:focus { box-shadow: 0 0 0 3px var(--accent-soft); }
-
-    .fixed-table-toolbar .search .btn {
-      border-radius: var(--radius-xs) !important;
-      margin-left: .35rem !important;
-    }
-
-    .fixed-table-toolbar .btn-group > .btn:not(:last-child) { border-right-width: 0; }
-
-    /* Table container & body */
-    .fixed-table-container { border: 0; border-radius: 0; }
-    .fixed-table-body { background: var(--surface); }
-
-    #table {
-      background-color: transparent;
-      color: var(--text);
-      margin-bottom: 0;
-      border-color: var(--border);
-      --bs-table-bg: transparent;
-    }
-
-    /* Column headers */
-    #table thead th,
-    .fixed-table-header table thead th {
-      background-color: var(--surface-2);
-      color: var(--text-faint);
-      border: 0;
-      border-bottom: 1px solid var(--border);
-      font-size: .68rem;
-      font-weight: 700;
-      text-transform: uppercase;
-      letter-spacing: .11em;
-      white-space: nowrap;
-      padding: .7rem .85rem;
-    }
-
-    #table thead th .th-inner { padding: 0; }
-    #table thead th .sortable:hover { color: var(--accent); }
-    #table thead th .both,
-    #table thead th .asc,
-    #table thead th .desc { background-position: right center; }
-
-    /* Filter-control row */
-    #table thead tr.filter th {
-      background-color: var(--surface);
-      border-bottom: 1px solid var(--border);
-      padding: .5rem .6rem;
-    }
-
-    .filter-control select,
-    .filter-control input {
-      width: 100%;
-      height: 1.95rem;
-      background-color: var(--inset);
-      border: 1px solid var(--border);
-      border-radius: var(--radius-xs);
-      color: var(--text-dim);
-      font-size: .76rem;
-      font-weight: 500;
-      padding: 0 .5rem;
-      box-shadow: none;
-    }
-    .filter-control select:focus,
-    .filter-control input:focus {
-      border-color: var(--accent);
-      box-shadow: 0 0 0 3px var(--accent-soft);
-      outline: none;
-      color: var(--text);
-    }
-    .filter-control select option {
-      background-color: var(--surface);
-      color: var(--text);
-    }
-
-    /* Body cells */
-    #table tbody td {
-      background-color: transparent;
-      border: 0;
-      border-bottom: 1px solid var(--border);
-      color: var(--text);
-      vertical-align: middle;
-      padding: .62rem .85rem;
-      font-size: .84rem;
-    }
-
-    #table tbody tr { transition: background-color .12s ease; }
-    #table tbody tr:hover td { background-color: var(--surface-2); }
-    #table tbody tr:last-child td { border-bottom: 0; }
-
-    /* Post cell: title + activity subtitle */
-    .cell-title { font-weight: 500; color: var(--text); }
-    .cell-title a { color: var(--text); }
-    .cell-title a:hover { color: var(--accent); }
-    .cell-sub {
-      display: block;
-      margin-top: .1rem;
-      color: var(--text-faint);
-      font-size: .71rem;
-      letter-spacing: .01em;
-    }
-
-    /* Group cell: chip */
-    #table tbody td.group-cell a,
-    #table tbody td.group-cell {
-      font-family: var(--font-mono);
-      font-size: .76rem;
-      font-weight: 500;
-    }
-    #table tbody td.group-cell a {
-      display: inline-block;
-      max-width: 100%;
-      padding: .16rem .5rem;
-      border: 1px solid var(--border-2);
-      border-radius: 999px;
-      background: var(--surface-2);
-      color: var(--text-dim);
-      overflow: hidden;
-      text-overflow: ellipsis;
-      vertical-align: middle;
-    }
-    #table tbody td.group-cell a:hover {
-      color: var(--accent);
-      border-color: var(--accent);
-      background: var(--accent-soft);
-      text-decoration: none;
-    }
-
-    /* Date cell */
-    .cell-date {
-      font-family: var(--font-mono);
-      font-size: .78rem;
-      color: var(--text);
-      font-variant-numeric: tabular-nums;
-      white-space: nowrap;
-    }
-    .cell-time {
-      display: block;
-      color: var(--text-faint);
-      font-family: var(--font-mono);
-      font-size: .68rem;
-    }
-
-    /* Country cell */
-    #table tbody td .fi {
-      border-radius: 3px;
-      box-shadow: 0 0 0 1px var(--border-2);
-      vertical-align: -.12em;
-      margin-right: .3rem;
-    }
-    #table tbody td .fi + span {
-      font-family: var(--font-mono);
-      font-size: .76rem;
-      color: var(--text-dim);
-    }
-
-    /* Screenshot cell */
-    .shot-link {
-      display: inline-grid;
-      place-items: center;
-      width: 1.75rem;
-      height: 1.75rem;
-      border: 1px solid var(--border);
-      border-radius: var(--radius-xs);
-      background: var(--surface-2);
-      color: var(--text-dim);
-      font-size: .85rem;
-    }
-    .shot-link:hover {
-      color: var(--accent);
-      border-color: var(--accent);
-      background: var(--accent-soft);
-      text-decoration: none;
-    }
-    .shot-none { color: var(--text-faint); opacity: .4; }
-
-    /* Loading overlay & empty state */
-    .fixed-table-loading {
-      background: var(--surface);
-      color: var(--text-dim);
-      border: 0;
-    }
-    .fixed-table-body .no-records-found td {
-      background: var(--surface) !important;
-      color: var(--text-faint);
-      text-align: center;
-      padding: 2.5rem 1rem;
-      font-size: .85rem;
-    }
-
-    /* Pagination */
-    .bootstrap-table .fixed-table-pagination {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      justify-content: space-between;
-      gap: .6rem;
-      padding: .75rem .85rem;
-      border-top: 1px solid var(--border);
-      background: var(--surface-2);
-      margin: 0;
-    }
-    .bootstrap-table .fixed-table-pagination > * { float: none !important; padding: 0 !important; }
-    .bootstrap-table .fixed-table-pagination::after { content: none; }
-
-    .fixed-table-pagination .pagination-detail {
-      display: flex;
-      align-items: center;
-      gap: .5rem;
-      color: var(--text-faint);
-      font-size: .78rem;
-      margin: 0;
-    }
-    .fixed-table-pagination .pagination-info { color: var(--text-dim); }
-
-    .fixed-table-pagination .pagination { margin: 0; gap: .2rem; }
-
-    .fixed-table-pagination .pagination .page-item .page-link {
-      min-width: 2.1rem;
-      text-align: center;
-      background-color: transparent;
-      border: 1px solid transparent;
-      border-radius: var(--radius-xs);
-      color: var(--text-dim);
-      font-size: .8rem;
-      font-weight: 500;
-      transition: color .15s ease, background-color .15s ease, border-color .15s ease;
-    }
-    .fixed-table-pagination .pagination .page-item .page-link:hover {
-      background-color: var(--surface-3);
-      border-color: var(--border);
-      color: var(--accent);
-    }
-    .fixed-table-pagination .pagination .page-item.active .page-link {
-      background-color: var(--accent);
-      border-color: var(--accent);
-      color: var(--accent-ink);
-      font-weight: 700;
-    }
-    .fixed-table-pagination .pagination .page-item.disabled .page-link {
-      color: var(--text-faint);
-      opacity: .45;
-    }
-
-    /* Dropdowns */
-    .dropdown-menu {
-      background-color: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius-sm);
-      box-shadow: var(--shadow);
-      padding: .3rem;
-      font-size: .82rem;
-    }
-    .dropdown-item {
-      border-radius: var(--radius-xs);
-      color: var(--text-dim);
-      padding: .35rem .6rem;
-    }
-    .dropdown-item:hover,
-    .dropdown-item:focus {
-      background-color: var(--surface-3);
-      color: var(--accent);
-    }
-    .dropdown-item input[type="checkbox"] { accent-color: var(--accent); margin-right: .4rem; }
-    .dropdown-divider { border-color: var(--border); }
-
-    /* ══ noscript snapshot ═══════════════════════════════════════════ */
-    #static-snapshot {
-      width: 100%;
-      border-collapse: collapse;
-      background: var(--surface);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      overflow: hidden;
-      font-size: .82rem;
-    }
-    #static-snapshot caption {
-      caption-side: top;
-      padding: .8rem .9rem;
-      color: var(--text-dim);
-      text-align: left;
-      font-weight: 600;
-    }
-    #static-snapshot th,
-    #static-snapshot td {
-      padding: .5rem .85rem;
-      border-bottom: 1px solid var(--border);
-      text-align: left;
-    }
-    #static-snapshot th {
-      background: var(--surface-2);
-      color: var(--text-faint);
-      font-size: .68rem;
-      text-transform: uppercase;
-      letter-spacing: .11em;
-    }
-
-    /* ══ Footer ══════════════════════════════════════════════════════ */
-    .site-footer {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: center;
-      justify-content: space-between;
-      gap: .75rem;
-      margin-top: 2.5rem;
-      padding-top: 1.25rem;
-      border-top: 1px solid var(--border);
-      font-size: .78rem;
-      color: var(--text-faint);
-    }
-    .site-footer p { margin: 0; }
-    .footer-links { display: flex; flex-wrap: wrap; gap: 1rem; }
-    .footer-links a { color: var(--text-dim); }
-    .footer-links a:hover { color: var(--accent); }
-
-    /* ══ Responsive ══════════════════════════════════════════════════ */
-    @media (max-width: 640px) {
-      .live-pill { display: none; }
-      .hero { padding-top: 1.8rem; }
-      .bootstrap-table .fixed-table-toolbar .search { max-width: none; flex-basis: 100%; }
-      .bootstrap-table .fixed-table-toolbar .columns { margin-left: auto !important; }
-      .fixed-table-pagination .pagination-detail { flex-basis: 100%; justify-content: space-between; }
-      .skeleton-row { grid-template-columns: 2fr 1fr; }
-    }
-
-    @media (prefers-reduced-motion: reduce) {
-      *, *::before, *::after {
-        animation-duration: .001ms !important;
-        animation-iteration-count: 1 !important;
-        transition-duration: .001ms !important;
-      }
-      html { scroll-behavior: auto; }
-    }
-  </style>
 </head>
 <body>
 
   <a class="skip-link" href="#table">Skip to the data table</a>
 
   <!-- ── Sticky navigation bar ──────────────────────────── -->
-  <nav id="site-navbar">
-    <a class="brand" href="./">
+  <nav id="site-navbar" aria-label="Main">
+    <a class="brand" href="/">
       <span class="brand-mark"><i class="bi bi-shield-exclamation"></i></span>
       <span class="brand-text">Ransom<span>Posts</span></span>
     </a>
+    <div class="nav-sections">
+      <a href="/groups/">Groups</a>
+      <a href="/countries/">Countries</a>
+      <a href="/sectors/">Sectors</a>
+    </div>
     <div class="nav-actions">
       <span class="live-pill"><span class="live-dot"></span>Updated 3&times;/day</span>
       <a class="icon-btn" href="https://github.com/privtools/ransomposts" target="_blank" rel="noopener noreferrer" title="GitHub" aria-label="GitHub">
@@ -931,11 +139,12 @@
 
   <!-- ── Main content ───────────────────────────────────── -->
   <div class="page-wrapper">
+  <main id="main">
 
     <header class="hero">
       <p class="eyebrow"><i class="bi bi-broadcast"></i> Leak-site monitoring</p>
-      <h1>Ransomware <span class="grad">Posts</span></h1>
-      <p class="hero-sub">Victim tracker &middot; 2022 &rarr; present</p>
+      <h1>Ransomware <span class="grad">Victims</span> Tracker</h1>
+      <p class="hero-sub">Leak-site posts &middot; 2022 &rarr; present</p>
       <p class="lede">
         Ransomware groups attack organisations worldwide, causing personal data breaches in many of them.
         This is a searchable list of organisations published on gang leak sites, refreshed
@@ -947,37 +156,44 @@
         initiative helps victims recover encrypted data without paying criminals.
       </p>
       <div class="hero-links">
-        <a class="chip" href="./assets/victims.json"><i class="bi bi-filetype-json"></i> Raw dataset</a>
-        <a class="chip" href="./old.html"><i class="bi bi-clock-history"></i> Old version (2020, Ransomwatch)</a>
-        <a class="chip" href="https://github.com/privtools/ransomposts" target="_blank" rel="noopener noreferrer"><i class="bi bi-github"></i> Source code</a>
+        <a class="chip" href="/groups/"><i class="bi bi-people"></i> By group</a>
+        <a class="chip" href="/countries/"><i class="bi bi-globe-americas"></i> By country</a>
+        <a class="chip" href="/sectors/"><i class="bi bi-building"></i> By sector</a>
+        <a class="chip" href="/assets/victims.json"><i class="bi bi-filetype-json"></i> Raw dataset</a>
+        <a class="chip" href="/feed.xml"><i class="bi bi-rss"></i> Atom feed</a>
+        <a class="chip" href="/old.html"><i class="bi bi-clock-history"></i> Old version (2020, Ransomwatch)</a>
         <a class="chip" href="https://www.nomoreransom.org/" target="_blank" rel="noopener noreferrer"><i class="bi bi-life-preserver"></i> Get help</a>
       </div>
     </header>
 
-    <!-- ── Live stats ───────────────────────────────────── -->
+    <!-- ── Stats (written by getposts.py) ────────────────── -->
     <div id="stats-bar">
       <div class="stat-card" style="--tint: var(--danger)">
         <span class="stat-head"><i class="bi bi-file-earmark-post"></i> Total posts</span>
-        <span class="stat-num" id="stat-total">&mdash;</span>
+        <span class="stat-num" id="stat-total">29,489</span>
       </div>
       <div class="stat-card" style="--tint: var(--violet)">
         <span class="stat-head"><i class="bi bi-people"></i> Groups</span>
-        <span class="stat-num" id="stat-groups">&mdash;</span>
+        <span class="stat-num" id="stat-groups">292</span>
       </div>
       <div class="stat-card" style="--tint: var(--accent)">
         <span class="stat-head"><i class="bi bi-globe-americas"></i> Countries</span>
-        <span class="stat-num" id="stat-countries">&mdash;</span>
+        <span class="stat-num" id="stat-countries">186</span>
       </div>
       <div class="stat-card" style="--tint: var(--amber)">
         <span class="stat-head"><i class="bi bi-activity"></i> Last 7 days</span>
-        <span class="stat-num" id="stat-recent">&mdash;</span>
+        <span class="stat-num" id="stat-recent">167</span>
       </div>
     </div>
 
     <div class="section-head">
-      <h2>Victim posts</h2>
-      <span class="hint"><b>Export tip:</b> hide pagination before exporting to capture the full list.</span>
+      <h2>Latest ransomware victim posts</h2>
+      <div class="section-tools">
+        <span class="hint" id="data-scope"><b>Showing:</b> last 30 days</span>
+        <button type="button" class="chip" id="load-full"><i class="bi bi-clock-history"></i> Load full history</button>
+      </div>
     </div>
+    <p class="hint table-hint"><b>Export tip:</b> hide pagination before exporting to capture the full list.</p>
 
     <!-- ── Skeleton loading state ────────────────────────── -->
     <div id="loading-indicator" aria-hidden="true">
@@ -989,9 +205,8 @@
       <div class="skeleton-row"><span></span><span></span><span></span><span></span></div>
     </div>
 
-    <!-- ── Data table ────────────────────────────────────── -->
+    <!-- ── Data table (initialised by assets/home.js) ────── -->
     <table
-      data-toggle="table"
       data-search="true"
       data-show-export="true"
       data-filter-control="true"
@@ -1001,7 +216,7 @@
       data-pagination="true"
       data-page-size="50"
       data-search-align="left"
-      data-url="./assets/victims.json"
+      data-url="./assets/recent.json"
       id="table"
     >
       <col style="width:40%">
@@ -1027,6 +242,27 @@
 <caption>Recent ransomware victim posts — static snapshot</caption>
 <thead><tr><th>Organization</th><th>Group</th><th>Date</th><th>Country</th></tr></thead>
 <tbody>
+    <tr><td>jms building corporation</td><td>incransom</td><td>2026-09-10</td><td>US</td></tr>
+    <tr><td>AK Stamping</td><td>akira</td><td>2026-09-10</td><td></td></tr>
+    <tr><td>Eagle Construction</td><td>akira</td><td>2026-09-10</td><td></td></tr>
+    <tr><td>George Cameron Nash</td><td>akira</td><td>2026-09-10</td><td></td></tr>
+    <tr><td>EASY JOB S.A.S.</td><td>emperador</td><td>2026-09-10</td><td>CO</td></tr>
+    <tr><td>HENRYPRATT.COM</td><td>clop</td><td>2026-09-10</td><td>US</td></tr>
+    <tr><td>HARLEY-DAVIDSON.COM</td><td>clop</td><td>2026-09-10</td><td>US</td></tr>
+    <tr><td>John Engel Team</td><td>ShadowByt3$</td><td>2026-09-10</td><td>US</td></tr>
+    <tr><td>Mesan USA</td><td>Global Secret Group</td><td>2026-09-09</td><td>US</td></tr>
+    <tr><td>PharmaEssentia Corporation</td><td>thegentlemen</td><td>2026-09-09</td><td>TW</td></tr>
+    <tr><td>Air Canada</td><td>thegentlemen</td><td>2026-09-09</td><td>CA</td></tr>
+    <tr><td>mo***al</td><td>AuditTeam</td><td>2026-09-09</td><td>DE</td></tr>
+    <tr><td>amorsaude.com.br</td><td>lockbit5</td><td>2026-09-09</td><td>BR</td></tr>
+    <tr><td>Aqualogus</td><td>Panzer</td><td>2026-09-09</td><td></td></tr>
+    <tr><td>Mitsuwa Trading Co., Ltd</td><td>qilin</td><td>2026-09-09</td><td>JP</td></tr>
+    <tr><td>cullottalaw.com</td><td>incransom</td><td>2026-09-09</td><td>US</td></tr>
+    <tr><td>gardensalive.com, bitsandpieces.com, iselinursery.local, weeksroses.org, esm.local</td><td>embargo</td><td>2026-09-09</td><td>US</td></tr>
+    <tr><td>dg***kr</td><td>AuditTeam</td><td>2026-09-09</td><td>KR</td></tr>
+    <tr><td>go***et</td><td>AuditTeam</td><td>2026-09-09</td><td>KR</td></tr>
+    <tr><td>kr***rg</td><td>AuditTeam</td><td>2026-09-09</td><td>AR</td></tr>
+    <tr><td>Logar Network Solutions</td><td>Vexy Ransomware</td><td>2026-09-09</td><td>BR</td></tr>
     <tr><td>https://mediengruppethiel.de/</td><td>incransom</td><td>2026-09-09</td><td>DE</td></tr>
     <tr><td>RelyComply AML Platform</td><td>direwolf</td><td>2026-09-09</td><td>GB</td></tr>
     <tr><td>Kyodo USA</td><td>akira</td><td>2026-09-09</td><td>US</td></tr>
@@ -1056,181 +292,264 @@
     <tr><td>Financière d&#x27;Uzès</td><td>Panzer</td><td>2026-09-08</td><td>FR</td></tr>
     <tr><td>bu***en</td><td>AuditTeam</td><td>2026-09-08</td><td>RU</td></tr>
     <tr><td>copeplastics.com</td><td>chaos</td><td>2026-09-08</td><td>GB</td></tr>
-    <tr><td>fdcputman.nl</td><td>lockbit5</td><td>2026-09-08</td><td>NL</td></tr>
-    <tr><td>contreras.com.ar</td><td>lockbit5</td><td>2026-09-08</td><td>AR</td></tr>
-    <tr><td>EMS1R</td><td>direwolf</td><td>2026-09-08</td><td>US</td></tr>
-    <tr><td>Brent Electric</td><td>akira</td><td>2026-09-08</td><td>GB</td></tr>
-    <tr><td>Brentwood Country Club</td><td>akira</td><td>2026-09-08</td><td>US</td></tr>
-    <tr><td>CreateASoft</td><td>akira</td><td>2026-09-08</td><td></td></tr>
-    <tr><td>The Zhou Law Group</td><td>Eclipse</td><td>2026-09-08</td><td>US</td></tr>
-    <tr><td>TTG Asia Media</td><td>Eclipse</td><td>2026-09-08</td><td>SG</td></tr>
-    <tr><td>Alaska Electrical Apprenticeship</td><td>qilin</td><td>2026-09-08</td><td>US</td></tr>
-    <tr><td>Wi***IT</td><td>AuditTeam</td><td>2026-09-08</td><td>UA</td></tr>
-    <tr><td>Mefa Group www.mefagroup.com.tr / MEFA Endüstri www.mefaendustri.com / and (Efachem, Eco...</td><td>blacknevas</td><td>2026-09-08</td><td>TR</td></tr>
-    <tr><td>SAD&#x27;S Interim</td><td>rhysida</td><td>2026-09-08</td><td>FR</td></tr>
-    <tr><td>pa***op</td><td>AuditTeam</td><td>2026-09-08</td><td>RU</td></tr>
-    <tr><td>MEI Architects</td><td>Dark Project</td><td>2026-09-07</td><td>US</td></tr>
-    <tr><td>Hollard Insurance Group</td><td>thegentlemen</td><td>2026-09-07</td><td>ZA</td></tr>
-    <tr><td>Drogueria Saporiti Sacifia</td><td>thegentlemen</td><td>2026-09-07</td><td>AR</td></tr>
-    <tr><td>Mutant</td><td>thegentlemen</td><td>2026-09-07</td><td>BR</td></tr>
-    <tr><td>University of San Francisco</td><td>thegentlemen</td><td>2026-09-07</td><td>US</td></tr>
-    <tr><td>Nile Projects Trading</td><td>thegentlemen</td><td>2026-09-07</td><td>EG</td></tr>
-    <tr><td>Chip7</td><td>thegentlemen</td><td>2026-09-07</td><td>PT</td></tr>
-    <tr><td>Sharp Office</td><td>thegentlemen</td><td>2026-09-07</td><td>AU</td></tr>
-    <tr><td>S A Chile</td><td>thegentlemen</td><td>2026-09-07</td><td>CL</td></tr>
-    <tr><td>Yapı Merkezi</td><td>thegentlemen</td><td>2026-09-07</td><td>TR</td></tr>
-    <tr><td>Soni Dwarkadas Virchand</td><td>thegentlemen</td><td>2026-09-07</td><td>IN</td></tr>
-    <tr><td>Zanini</td><td>thegentlemen</td><td>2026-09-07</td><td>BR</td></tr>
-    <tr><td>Domis</td><td>thegentlemen</td><td>2026-09-07</td><td>DK</td></tr>
-    <tr><td>Metro</td><td>thegentlemen</td><td>2026-09-07</td><td>DE</td></tr>
-    <tr><td>Biotipo Jeans</td><td>thegentlemen</td><td>2026-09-07</td><td>BR</td></tr>
-    <tr><td>Ritz Safety</td><td>thegentlemen</td><td>2026-09-07</td><td>US</td></tr>
-    <tr><td>Comin Sac</td><td>thegentlemen</td><td>2026-09-07</td><td>PE</td></tr>
-    <tr><td>AbacoViaggi</td><td>thegentlemen</td><td>2026-09-07</td><td>IT</td></tr>
-    <tr><td>El Carriel</td><td>thegentlemen</td><td>2026-09-07</td><td>CO</td></tr>
-    <tr><td>Superstore</td><td>thegentlemen</td><td>2026-09-07</td><td>GE</td></tr>
-    <tr><td>Partners Group SK</td><td>qilin</td><td>2026-09-07</td><td>SK</td></tr>
-    <tr><td>vsbattorneys.co.za</td><td>lockbit5</td><td>2026-09-07</td><td>ZA</td></tr>
-    <tr><td>State of Florida DMV</td><td>shinyhunters</td><td>2026-09-07</td><td>US</td></tr>
-    <tr><td>NorthShore Health Centers</td><td>insomnia</td><td>2026-09-07</td><td>US</td></tr>
-    <tr><td>Wellness Partners network(combined revenue)</td><td>incransom</td><td>2026-09-07</td><td>US</td></tr>
-    <tr><td>United Group</td><td>Vexy Ransomware</td><td>2026-09-07</td><td>IN</td></tr>
-    <tr><td>Master Manufacturing Co., Inc.</td><td>Dark Project</td><td>2026-09-07</td><td>US</td></tr>
-    <tr><td>Alurwalls</td><td>Dark Project</td><td>2026-09-07</td><td>BR</td></tr>
-    <tr><td>Precision Vehicle Logistics</td><td>direwolf</td><td>2026-09-07</td><td>US</td></tr>
-    <tr><td>Rug &amp; Home</td><td>rhysida</td><td>2026-09-07</td><td>US</td></tr>
-    <tr><td>TrainMe</td><td>direwolf</td><td>2026-09-07</td><td>CO</td></tr>
-    <tr><td>NFM Lending</td><td>interlock</td><td>2026-09-07</td><td>US</td></tr>
-    <tr><td>GGS</td><td>everest</td><td>2026-09-07</td><td></td></tr>
-    <tr><td>KÖRBER</td><td>everest</td><td>2026-09-07</td><td>DE</td></tr>
-    <tr><td>GENESILICO</td><td>everest</td><td>2026-09-07</td><td>IT</td></tr>
-    <tr><td>Lightcast</td><td>direwolf</td><td>2026-09-07</td><td>US</td></tr>
-    <tr><td>Jinny Beauty Supply</td><td>aurora</td><td>2026-09-07</td><td>US</td></tr>
-    <tr><td>Benshaw, Inc.</td><td>aurora</td><td>2026-09-07</td><td>US</td></tr>
-    <tr><td>Semper Laser</td><td>direwolf</td><td>2026-09-07</td><td>SE</td></tr>
-    <tr><td>EllisDon Corporation</td><td>metaencryptor</td><td>2026-09-07</td><td>CA</td></tr>
-    <tr><td>Jbc</td><td>qilin</td><td>2026-09-07</td><td>ES</td></tr>
-    <tr><td>SIFCO Industries INC.</td><td>metaencryptor</td><td>2026-09-07</td><td>US</td></tr>
-    <tr><td>ST Engineering</td><td>metaencryptor</td><td>2026-09-07</td><td>SG</td></tr>
-    <tr><td>Hologic, Inc.</td><td>metaencryptor</td><td>2026-09-07</td><td>US</td></tr>
-    <tr><td>LIBRERIA SANTA FE A P S SRL</td><td>Vexy Ransomware</td><td>2026-09-07</td><td>AR</td></tr>
-    <tr><td>MSM Unify: Global Education Platform - CA</td><td>kazu</td><td>2026-09-07</td><td>CA</td></tr>
-    <tr><td>Ben Leeds Properties</td><td>ShadowByt3$</td><td>2026-09-07</td><td>GB</td></tr>
-    <tr><td>Medela.com</td><td>shinyhunters</td><td>2026-09-07</td><td>CH</td></tr>
-    <tr><td>rubbermill.com</td><td>dragonforce</td><td>2026-09-06</td><td>US</td></tr>
-    <tr><td>Homewood Sales</td><td>dragonforce</td><td>2026-09-06</td><td>US</td></tr>
-    <tr><td>Norwood Law Firm</td><td>dragonforce</td><td>2026-09-06</td><td>US</td></tr>
-    <tr><td>RTAD GOV MM</td><td>DYSPHOR1A</td><td>2026-09-06</td><td>MM</td></tr>
-    <tr><td>eAssist Dental Solutions</td><td>direwolf</td><td>2026-09-06</td><td>US</td></tr>
-    <tr><td>Sancity</td><td>Vexy Ransomware</td><td>2026-09-06</td><td>IN</td></tr>
-    <tr><td>evergenbio.com</td><td>chaos</td><td>2026-09-06</td><td>US</td></tr>
-    <tr><td>KHALED ALFAGIH ENGINEERING CONSULTANCY</td><td>Panzer</td><td>2026-09-06</td><td>SA</td></tr>
-    <tr><td>myLaurel</td><td>direwolf</td><td>2026-09-06</td><td>US</td></tr>
-    <tr><td>Edacentrum</td><td>Panzer</td><td>2026-09-06</td><td>DE</td></tr>
-    <tr><td>Mission Pet Health</td><td>direwolf</td><td>2026-09-05</td><td>US</td></tr>
-    <tr><td>Spirit Cultural Exchange - US</td><td>kazu</td><td>2026-09-05</td><td>US</td></tr>
-    <tr><td>Leo Schachter Diamonds</td><td>thegentlemen</td><td>2026-09-05</td><td>US</td></tr>
-    <tr><td>Zdrowit</td><td>thegentlemen</td><td>2026-09-05</td><td>PL</td></tr>
-    <tr><td>Veradigm</td><td>thegentlemen</td><td>2026-09-05</td><td>US</td></tr>
-    <tr><td>Lider Aviacao</td><td>thegentlemen</td><td>2026-09-05</td><td>BR</td></tr>
-    <tr><td>Mega Velocity</td><td>Vexy Ransomware</td><td>2026-09-05</td><td>MX</td></tr>
-    <tr><td>CitizensPay</td><td>DYSPHOR1A</td><td>2026-09-05</td><td>MM</td></tr>
-    <tr><td>Philippine Ports Authority</td><td>qilin</td><td>2026-09-05</td><td>PH</td></tr>
-    <tr><td>Bauman Law Group</td><td>qilin</td><td>2026-09-05</td><td>US</td></tr>
-    <tr><td>Jouvet SAS</td><td>qilin</td><td>2026-09-05</td><td>FR</td></tr>
-    <tr><td>G&amp;S Technologies</td><td>qilin</td><td>2026-09-05</td><td>US</td></tr>
-    <tr><td>Nolan Consulting Group</td><td>qilin</td><td>2026-09-05</td><td>US</td></tr>
-    <tr><td>Colonial Hyundai</td><td>qilin</td><td>2026-09-05</td><td>US</td></tr>
-    <tr><td>The Big Table</td><td>qilin</td><td>2026-09-05</td><td>GB</td></tr>
-    <tr><td>Metrea LLC/Commuter Air Technology, Inc.</td><td>aurora</td><td>2026-09-05</td><td>US</td></tr>
-    <tr><td>광명산업(주)</td><td>BlackLocks</td><td>2026-09-05</td><td>KR</td></tr>
-    <tr><td>EdgeChem Jamaica Limited</td><td>pear</td><td>2026-09-05</td><td>JM</td></tr>
-    <tr><td>Kovo Healthtech Corp</td><td>pear</td><td>2026-09-05</td><td>US</td></tr>
-    <tr><td>D-MAX Engineering, Inc</td><td>spacebears</td><td>2026-09-05</td><td>US</td></tr>
-    <tr><td>Judicial Branch of the Province of Jujuy</td><td>emperador</td><td>2026-09-05</td><td>AR</td></tr>
-    <tr><td>pscindustries.com</td><td>lockbit5</td><td>2026-09-04</td><td>US</td></tr>
-    <tr><td>kalahealth.eu</td><td>lockbit5</td><td>2026-09-04</td><td>DE</td></tr>
-    <tr><td>huisartsencentrumkleiniterson.nl</td><td>lockbit5</td><td>2026-09-04</td><td>NL</td></tr>
-    <tr><td>H... C...</td><td>SilentRansomGroup</td><td>2026-09-04</td><td></td></tr>
-    <tr><td>Wolfram Research</td><td>direwolf</td><td>2026-09-04</td><td>US</td></tr>
-    <tr><td>Sports Endeavors</td><td>spacebears</td><td>2026-09-04</td><td>US</td></tr>
-    <tr><td>MBT Telecom</td><td>DYSPHOR1A</td><td>2026-09-04</td><td>MM</td></tr>
-    <tr><td>Palsana Enviro (PEPL)</td><td>Vexy Ransomware</td><td>2026-09-04</td><td>IN</td></tr>
-    <tr><td>Annapurna Fashion</td><td>Vexy Ransomware</td><td>2026-09-04</td><td>IN</td></tr>
-    <tr><td>Sancity Soft Touch</td><td>Vexy Ransomware</td><td>2026-09-04</td><td>US</td></tr>
-    <tr><td>Stransky Heiz-Mess-Regeltechnik GmbH</td><td>akira</td><td>2026-09-04</td><td>DE</td></tr>
-    <tr><td>AP CAPITAL PARTNERS LIMITED</td><td>qilin</td><td>2026-09-04</td><td></td></tr>
-    <tr><td>SouthernCarlson</td><td>tridentlocker</td><td>2026-09-04</td><td></td></tr>
-    <tr><td>Worrell</td><td>akira</td><td>2026-09-04</td><td></td></tr>
-    <tr><td>Commission de la construction du Quebec (CCQ)</td><td>qilin</td><td>2026-09-04</td><td>CA</td></tr>
-    <tr><td>Blanco &amp; Etcheverry</td><td>gunra</td><td>2026-09-04</td><td>UY</td></tr>
-    <tr><td>Occidental</td><td>gunra</td><td>2026-09-04</td><td>VE</td></tr>
-    <tr><td>EDIF S.p.A.</td><td>aurora</td><td>2026-09-04</td><td>IT</td></tr>
-    <tr><td>mansurovogroup</td><td>AuditTeam</td><td>2026-09-04</td><td>RU</td></tr>
-    <tr><td>PIT.local</td><td>AuditTeam</td><td>2026-09-04</td><td>CO</td></tr>
-    <tr><td>Complete Packaging Solutions</td><td>qilin</td><td>2026-09-04</td><td></td></tr>
-    <tr><td>Tanner</td><td>qilin</td><td>2026-09-04</td><td>CL</td></tr>
-    <tr><td>Hochschule Heilbronn Bildungscampus</td><td>Panzer</td><td>2026-09-04</td><td>DE</td></tr>
-    <tr><td>Schwartz, Giannini, Lantsberger &amp; Adamson (SGLA)</td><td>spacebears</td><td>2026-09-04</td><td>US</td></tr>
-    <tr><td>Studio Oculistico Ciraci</td><td>spacebears</td><td>2026-09-03</td><td>IT</td></tr>
-    <tr><td>Katten Muchin Rosenman</td><td>SilentRansomGroup</td><td>2026-09-03</td><td>US</td></tr>
-    <tr><td>P... S...</td><td>SilentRansomGroup</td><td>2026-09-03</td><td></td></tr>
-    <tr><td>A...en</td><td>SilentRansomGroup</td><td>2026-09-03</td><td>DE</td></tr>
-    <tr><td>myglobal.com</td><td>incransom</td><td>2026-09-03</td><td>MY</td></tr>
-    <tr><td>ialegre.com</td><td>settra</td><td>2026-09-03</td><td>BR</td></tr>
-    <tr><td>Maglin, Miskiv &amp; Associates</td><td>insomnia</td><td>2026-09-03</td><td>US</td></tr>
-    <tr><td>ligacancerguate.org</td><td>krybit</td><td>2026-09-03</td><td>GT</td></tr>
-    <tr><td>McDonald&#x27;s Ecuador</td><td>Vexy Ransomware</td><td>2026-09-03</td><td>EC</td></tr>
-    <tr><td>verveportraits.com.au</td><td>settra</td><td>2026-09-03</td><td>AU</td></tr>
-    <tr><td>int.diasorin.com</td><td>settra</td><td>2026-09-03</td><td>IT</td></tr>
-    <tr><td>hansler.com</td><td>settra</td><td>2026-09-03</td><td>DE</td></tr>
-    <tr><td>hvlawfirm.com</td><td>settra</td><td>2026-09-03</td><td>US</td></tr>
-    <tr><td>teletekstructures.com</td><td>settra</td><td>2026-09-03</td><td></td></tr>
-    <tr><td>medevolve.com</td><td>settra</td><td>2026-09-03</td><td>US</td></tr>
-    <tr><td>neolife.com</td><td>settra</td><td>2026-09-03</td><td>US</td></tr>
-    <tr><td>buroboot.nl</td><td>settra</td><td>2026-09-03</td><td>NL</td></tr>
-    <tr><td>Dinas Komunikasi dan Informatika</td><td>Panzer</td><td>2026-09-03</td><td>ID</td></tr>
-    <tr><td>America’s Food Basket</td><td>Wallstreet</td><td>2026-09-03</td><td>US</td></tr>
-    <tr><td>Engefitas</td><td>Vexy Ransomware</td><td>2026-09-03</td><td>BR</td></tr>
-    <tr><td>Petrocare Construction</td><td>Storm</td><td>2026-09-03</td><td>CA</td></tr>
-    <tr><td>Star Aviation, Inc</td><td>Storm</td><td>2026-09-03</td><td>US</td></tr>
-    <tr><td>GSAC Auto Financing</td><td>Storm</td><td>2026-09-03</td><td>US</td></tr>
-    <tr><td>GSAC</td><td>Storm</td><td>2026-09-03</td><td>US</td></tr>
-    <tr><td>Superior Ag</td><td>Storm</td><td>2026-09-03</td><td>US</td></tr>
-    <tr><td>Chicago Partners Wealth Advisors</td><td>Storm</td><td>2026-09-03</td><td>US</td></tr>
-    <tr><td>Macquarrie</td><td>Storm</td><td>2026-09-03</td><td>AU</td></tr>
-    <tr><td>SITES Medical</td><td>Storm</td><td>2026-09-03</td><td>US</td></tr>
-    <tr><td>Greenberg Traurig</td><td>SilentRansomGroup</td><td>2026-09-02</td><td>US</td></tr>
-    <tr><td>G... ...g</td><td>SilentRansomGroup</td><td>2026-09-02</td><td></td></tr>
-    <tr><td>S... M...</td><td>SilentRansomGroup</td><td>2026-09-02</td><td></td></tr>
-    <tr><td>Cartrack Holdings</td><td>direwolf</td><td>2026-09-02</td><td>ZA</td></tr>
-    <tr><td>PTT Oil and Retail Business</td><td>direwolf</td><td>2026-09-02</td><td>TH</td></tr>
-    <tr><td>Ormond Beach Florida</td><td>Wallstreet</td><td>2026-09-02</td><td>US</td></tr>
-    <tr><td>Asfaltos y Pavimentos S.A. (Asfalpasa)</td><td>incransom</td><td>2026-09-02</td><td>ES</td></tr>
-    <tr><td>Westfield Public School District</td><td>incransom</td><td>2026-09-02</td><td>US</td></tr>
-    <tr><td>Trucka</td><td>incransom</td><td>2026-09-02</td><td>MX</td></tr>
-    <tr><td>Policlinico Triestino</td><td>incransom</td><td>2026-09-02</td><td>IT</td></tr>
-    <tr><td>Multiver Ltée</td><td>incransom</td><td>2026-09-02</td><td>CA</td></tr>
-    <tr><td>Metales Panamericanos</td><td>incransom</td><td>2026-09-02</td><td>PA</td></tr>
-    <tr><td>Ville de Libercourt</td><td>kairos</td><td>2026-09-02</td><td>FR</td></tr>
-    <tr><td>N***************</td><td>insomnia</td><td>2026-09-02</td><td>US</td></tr>
-    <tr><td>PennFab</td><td>akira</td><td>2026-09-02</td><td>US</td></tr>
-    <tr><td>ScrubaDub Auto Wash Centers</td><td>akira</td><td>2026-09-02</td><td>US</td></tr>
-    <tr><td>Algra Group</td><td>akira</td><td>2026-09-02</td><td>CH</td></tr>
-    <tr><td>part1.simplexengg.in</td><td>Eclipse</td><td>2026-09-02</td><td>IN</td></tr>
-    <tr><td>Uak University</td><td>qilin</td><td>2026-09-02</td><td>TR</td></tr>
-    <tr><td>Royal Plaza On Scotts</td><td>Eclipse</td><td>2026-09-02</td><td>SG</td></tr>
-    <tr><td>Seasia Infotech</td><td>thegentlemen</td><td>2026-09-02</td><td>IN</td></tr>
-    <tr><td>Proliance Surgeons</td><td>payoutsking</td><td>2026-09-02</td><td>US</td></tr>
-    <tr><td>specialtytextile.com</td><td>incransom</td><td>2026-09-02</td><td>US</td></tr>
-    <tr><td>Licindia</td><td>medusalocker</td><td>2026-09-02</td><td>IN</td></tr>
-    <tr><td>Chip 1 Exchange</td><td>aurora</td><td>2026-09-02</td><td>US</td></tr>
-    <tr><td>Grayson Rural Electric Cooperative</td><td>qilin</td><td>2026-09-02</td><td>US</td></tr>
-    <tr><td>Marlborough Partners</td><td>anubis</td><td>2026-09-02</td><td>GB</td></tr>
 </tbody>
 </table>
 </noscript>
     <!-- STATIC-SNAPSHOT-END -->
+
+    <!-- EXPLORE-START -->
+    <section class="home-section" id="explore" aria-labelledby="explore-title">
+      <div class="section-head">
+        <h2 id="explore-title">Explore ransomware victims</h2>
+        <span class="hint">292 groups &middot; 186 countries &middot; 12 sectors</span>
+      </div>
+      <div class="grid-3">
+        <section class="panel">
+          <h3>Most active groups</h3>
+          <ol class="rank-list">
+  <li style="--pct: 100%">
+    <span class="rank-name"><a href="/group/qilin/">Qilin</a></span>
+    <span class="rank-count">2,268</span>
+  </li>
+  <li style="--pct: 89%">
+    <span class="rank-name"><a href="/group/lockbit3/">Lockbit3</a></span>
+    <span class="rank-count">2,016</span>
+  </li>
+  <li style="--pct: 71%">
+    <span class="rank-name"><a href="/group/akira/">Akira</a></span>
+    <span class="rank-count">1,602</span>
+  </li>
+  <li style="--pct: 58%">
+    <span class="rank-name"><a href="/group/play/">Play</a></span>
+    <span class="rank-count">1,310</span>
+  </li>
+  <li style="--pct: 57%">
+    <span class="rank-name"><a href="/group/clop/">Clop</a></span>
+    <span class="rank-count">1,298</span>
+  </li>
+  <li style="--pct: 41%">
+    <span class="rank-name"><a href="/group/incransom/">Incransom</a></span>
+    <span class="rank-count">936</span>
+  </li>
+  <li style="--pct: 37%">
+    <span class="rank-name"><a href="/group/ransomhub/">Ransomhub</a></span>
+    <span class="rank-count">842</span>
+  </li>
+  <li style="--pct: 37%">
+    <span class="rank-name"><a href="/group/thegentlemen/">Thegentlemen</a></span>
+    <span class="rank-count">837</span>
+  </li>
+  <li style="--pct: 32%">
+    <span class="rank-name"><a href="/group/alphv/">Alphv</a></span>
+    <span class="rank-count">717</span>
+  </li>
+  <li style="--pct: 29%">
+    <span class="rank-name"><a href="/group/dragonforce/">Dragonforce</a></span>
+    <span class="rank-count">648</span>
+  </li>
+  <li style="--pct: 25%">
+    <span class="rank-name"><a href="/group/lockbit2/">Lockbit2</a></span>
+    <span class="rank-count">573</span>
+  </li>
+  <li style="--pct: 25%">
+    <span class="rank-name"><a href="/group/safepay/">Safepay</a></span>
+    <span class="rank-count">559</span>
+  </li>
+  <li style="--pct: 24%">
+    <span class="rank-name"><a href="/group/bianlian/">Bianlian</a></span>
+    <span class="rank-count">552</span>
+  </li>
+  <li style="--pct: 23%">
+    <span class="rank-name"><a href="/group/blackbasta/">Blackbasta</a></span>
+    <span class="rank-count">523</span>
+  </li>
+  <li style="--pct: 23%">
+    <span class="rank-name"><a href="/group/medusa/">Medusa</a></span>
+    <span class="rank-count">517</span>
+  </li>
+</ol>
+
+          <a class="panel-more" href="/groups/">All ransomware groups &rarr;</a>
+        </section>
+        <section class="panel">
+          <h3>Most affected countries</h3>
+          <ol class="rank-list">
+  <li style="--pct: 100%">
+    <span class="rank-name"><span class="fi fi-us"></span><a href="/country/us/">United States</a></span>
+    <span class="rank-count">10,108</span>
+  </li>
+  <li style="--pct: 11%">
+    <span class="rank-name"><span class="fi fi-gb"></span><a href="/country/gb/">United Kingdom</a></span>
+    <span class="rank-count">1,095</span>
+  </li>
+  <li style="--pct: 11%">
+    <span class="rank-name"><span class="fi fi-de"></span><a href="/country/de/">Germany</a></span>
+    <span class="rank-count">1,063</span>
+  </li>
+  <li style="--pct: 10%">
+    <span class="rank-name"><span class="fi fi-ca"></span><a href="/country/ca/">Canada</a></span>
+    <span class="rank-count">1,055</span>
+  </li>
+  <li style="--pct: 7%">
+    <span class="rank-name"><span class="fi fi-it"></span><a href="/country/it/">Italy</a></span>
+    <span class="rank-count">684</span>
+  </li>
+  <li style="--pct: 6%">
+    <span class="rank-name"><span class="fi fi-fr"></span><a href="/country/fr/">France</a></span>
+    <span class="rank-count">654</span>
+  </li>
+  <li style="--pct: 5%">
+    <span class="rank-name"><span class="fi fi-br"></span><a href="/country/br/">Brazil</a></span>
+    <span class="rank-count">536</span>
+  </li>
+  <li style="--pct: 5%">
+    <span class="rank-name"><span class="fi fi-in"></span><a href="/country/in/">India</a></span>
+    <span class="rank-count">522</span>
+  </li>
+  <li style="--pct: 5%">
+    <span class="rank-name"><span class="fi fi-au"></span><a href="/country/au/">Australia</a></span>
+    <span class="rank-count">500</span>
+  </li>
+  <li style="--pct: 5%">
+    <span class="rank-name"><span class="fi fi-es"></span><a href="/country/es/">Spain</a></span>
+    <span class="rank-count">491</span>
+  </li>
+  <li style="--pct: 3%">
+    <span class="rank-name"><span class="fi fi-jp"></span><a href="/country/jp/">Japan</a></span>
+    <span class="rank-count">320</span>
+  </li>
+  <li style="--pct: 3%">
+    <span class="rank-name"><span class="fi fi-mx"></span><a href="/country/mx/">Mexico</a></span>
+    <span class="rank-count">301</span>
+  </li>
+  <li style="--pct: 2%">
+    <span class="rank-name"><span class="fi fi-ch"></span><a href="/country/ch/">Switzerland</a></span>
+    <span class="rank-count">234</span>
+  </li>
+  <li style="--pct: 2%">
+    <span class="rank-name"><span class="fi fi-tw"></span><a href="/country/tw/">Taiwan</a></span>
+    <span class="rank-count">219</span>
+  </li>
+  <li style="--pct: 2%">
+    <span class="rank-name"><span class="fi fi-th"></span><a href="/country/th/">Thailand</a></span>
+    <span class="rank-count">210</span>
+  </li>
+</ol>
+
+          <a class="panel-more" href="/countries/">All countries &rarr;</a>
+        </section>
+        <section class="panel">
+          <h3>Most affected sectors</h3>
+          <ol class="rank-list">
+  <li style="--pct: 100%">
+    <span class="rank-name"><a href="/sector/professional-services/">Professional Services</a></span>
+    <span class="rank-count">5,700</span>
+  </li>
+  <li style="--pct: 91%">
+    <span class="rank-name"><a href="/sector/manufacturing/">Manufacturing</a></span>
+    <span class="rank-count">5,186</span>
+  </li>
+  <li style="--pct: 65%">
+    <span class="rank-name"><a href="/sector/technology/">Technology</a></span>
+    <span class="rank-count">3,728</span>
+  </li>
+  <li style="--pct: 44%">
+    <span class="rank-name"><a href="/sector/healthcare/">Healthcare</a></span>
+    <span class="rank-count">2,523</span>
+  </li>
+  <li style="--pct: 36%">
+    <span class="rank-name"><a href="/sector/retail-e-commerce/">Retail &amp; E-Commerce</a></span>
+    <span class="rank-count">2,047</span>
+  </li>
+  <li style="--pct: 30%">
+    <span class="rank-name"><a href="/sector/financial-services/">Financial Services</a></span>
+    <span class="rank-count">1,691</span>
+  </li>
+  <li style="--pct: 23%">
+    <span class="rank-name"><a href="/sector/transportation/">Transportation</a></span>
+    <span class="rank-count">1,328</span>
+  </li>
+  <li style="--pct: 22%">
+    <span class="rank-name"><a href="/sector/education/">Education</a></span>
+    <span class="rank-count">1,274</span>
+  </li>
+  <li style="--pct: 21%">
+    <span class="rank-name"><a href="/sector/agriculture-and-food-production/">Agriculture and Food Production</a></span>
+    <span class="rank-count">1,224</span>
+  </li>
+  <li style="--pct: 21%">
+    <span class="rank-name"><a href="/sector/government-defense/">Government &amp; Defense</a></span>
+    <span class="rank-count">1,205</span>
+  </li>
+  <li style="--pct: 16%">
+    <span class="rank-name"><a href="/sector/energy-utilities/">Energy &amp; Utilities</a></span>
+    <span class="rank-count">890</span>
+  </li>
+  <li style="--pct: 14%">
+    <span class="rank-name"><a href="/sector/hospitality/">Hospitality</a></span>
+    <span class="rank-count">806</span>
+  </li>
+</ol>
+
+          <a class="panel-more" href="/sectors/">All sectors &rarr;</a>
+        </section>
+      </div>
+    </section>
+    <!-- EXPLORE-END -->
+
+    <section class="home-section" id="about" aria-labelledby="about-title">
+      <div class="section-head">
+        <h2 id="about-title">About this tracker</h2>
+      </div>
+      <div class="grid-3">
+        <section class="panel">
+          <h3>What is a ransomware leak site?</h3>
+          <p>
+            Most ransomware gangs run double-extortion operations: they steal data before encrypting systems,
+            then publish the victim's name on a data leak site (DLS), usually hosted on Tor, to pressure it into
+            paying. If no ransom is paid, the stolen files are often released there.
+          </p>
+        </section>
+        <section class="panel">
+          <h3>Where does the data come from?</h3>
+          <p>
+            Posts are collected from <a href="https://ransomware.live/" target="_blank" rel="noopener noreferrer">ransomware.live</a>,
+            which monitors hundreds of leak sites. This tracker fetches its API three times a day (06:33, 12:33 and
+            18:33 UTC), adds country and group information, and publishes the result as this table, pages per
+            <a href="/groups/">group</a>, <a href="/countries/">country</a> and <a href="/sectors/">sector</a>,
+            a JSON dataset and an Atom feed.
+          </p>
+        </section>
+        <section class="panel">
+          <h3>Are the listings verified?</h3>
+          <p>
+            No. A post is a claim made by a criminal group. Some gangs exaggerate, re-post old breaches or list
+            organisations they never compromised. Treat each entry as an indicator that needs confirmation, not as
+            proof of a breach.
+          </p>
+        </section>
+        <section class="panel">
+          <h3>My organisation is listed — what now?</h3>
+          <p>
+            Contact your incident response provider and your national CERT or CSIRT, and report the incident to
+            law enforcement. If personal data may be affected, check your breach-notification duties, for example
+            under the GDPR. Before paying anything, look for free decryptors on
+            <a href="https://www.nomoreransom.org/" target="_blank" rel="noopener noreferrer">No More Ransom</a>.
+          </p>
+        </section>
+        <section class="panel">
+          <h3>Can I reuse the data?</h3>
+          <p>
+            Yes. Download the <a href="/assets/victims.json">full JSON dataset</a> or the
+            <a href="/assets/recent.json">last 30 days</a>, subscribe to the <a href="/feed.xml">Atom feed</a>, or
+            read the <a href="https://github.com/privtools/ransomposts" target="_blank" rel="noopener noreferrer">source code on GitHub</a>.
+            Please credit ransomware.live as the original source.
+          </p>
+        </section>
+      </div>
+    </section>
+
+  </main>
 
     <footer class="site-footer">
       <p>
@@ -1238,8 +557,12 @@
         &mdash; updated three times daily via GitHub Actions.
       </p>
       <div class="footer-links">
+        <a href="/groups/">Groups</a>
+        <a href="/countries/">Countries</a>
+        <a href="/sectors/">Sectors</a>
+        <a href="/feed.xml">Feed</a>
         <a href="https://github.com/privtools/ransomposts" target="_blank" rel="noopener noreferrer">GitHub</a>
-        <a href="./assets/victims.json">JSON</a>
+        <a href="/assets/victims.json">JSON</a>
         <a href="https://github.com/privtools/ransomposts/blob/main/LICENSE.txt" target="_blank" rel="noopener noreferrer">License</a>
         <a href="https://privtools.eu" target="_blank" rel="noopener noreferrer">privtools.eu</a>
       </div>
@@ -1247,154 +570,14 @@
 
   </div><!-- /.page-wrapper -->
 
-  <script src="https://cdn.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-  <script src="https://unpkg.com/bootstrap-table@1.24.0/dist/bootstrap-table.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap-table@1.24.0/dist/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
-  <script src="https://unpkg.com/tableexport.jquery.plugin/tableExport.min.js"></script>
-  <script src="https://unpkg.com/bootstrap-table@1.24.0/dist/extensions/export/bootstrap-table-export.min.js"></script>
-
-  <!-- ── Cell formatters (must be global for Bootstrap-Table) ───────── -->
-  <script>
-    /* Post cell: keep the value as-is (it may already be an <a>) and add the sector. */
-    function titleFormatter(value, row) {
-      var title = value || '<span class="shot-none">&mdash;</span>';
-      var sector = row && row.activity ? String(row.activity) : '';
-      var sub = sector
-        ? '<span class="cell-sub">' + sector.replace(/[<>&]/g, '') + '</span>'
-        : '';
-      return '<span class="cell-title">' + title + '</span>' + sub;
-    }
-
-    /* Date cell: split the raw ISO timestamp into date + time. */
-    function dateFormatter(value) {
-      if (!value) return '<span class="shot-none">&mdash;</span>';
-      var s = String(value);
-      var day = s.slice(0, 10);
-      var time = s.length > 15 ? s.slice(11, 16) : '';
-      return '<span class="cell-date">' + day + '</span>' +
-             (time ? '<span class="cell-time">' + time + ' UTC</span>' : '');
-    }
-
-    /* Screenshot cell: turn the raw "🖵" anchor into an icon button. */
-    function shotFormatter(value) {
-      if (!value) return '<span class="shot-none">&mdash;</span>';
-      var m = String(value).match(/href=['"]([^'"]+)['"]/);
-      if (!m) return value;
-      return '<a class="shot-link" href="' + m[1] + '" target="_blank" rel="noopener noreferrer" ' +
-             'title="Open screenshot" aria-label="Open screenshot"><i class="bi bi-image"></i></a>';
-    }
-  </script>
-
-  <script>
-    (function () {
-      'use strict';
-
-      var RANSOMWARE_LIVE = 'https://www.ransomware.live';
-
-      /* ── Theme toggle ───────────────────────────────────────────── */
-      function currentTheme() {
-        return document.documentElement.getAttribute('data-theme') || 'dark';
-      }
-
-      document.getElementById('theme-toggle').addEventListener('click', function () {
-        var next = currentTheme() === 'dark' ? 'light' : 'dark';
-        document.documentElement.setAttribute('data-theme', next);
-        var meta = document.querySelector('meta[name="theme-color"]');
-        if (meta) meta.setAttribute('content', next === 'dark' ? '#07090d' : '#f3f5f9');
-        try { localStorage.setItem('rp-theme', next); } catch (e) { /* storage blocked */ }
-      });
-
-      /* ── Helpers ────────────────────────────────────────────────── */
-      function innerText(html) {
-        if (!html) return '';
-        var tmp = document.createElement('span');
-        tmp.innerHTML = html;
-        return (tmp.textContent || tmp.innerText || '').trim();
-      }
-
-      /* Count up to the final value so the numbers land with some life. */
-      function countUp(el, target) {
-        if (!el) return;
-        var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-        if (reduce || target <= 0) {
-          el.textContent = target.toLocaleString();
-          return;
-        }
-        var start = performance.now();
-        var duration = 700;
-        (function step(now) {
-          var p = Math.min((now - start) / duration, 1);
-          var eased = 1 - Math.pow(1 - p, 3);
-          el.textContent = Math.round(target * eased).toLocaleString();
-          if (p < 1) requestAnimationFrame(step);
-        }(start));
-      }
-
-      function updateStats(data) {
-        if (!Array.isArray(data) || data.length === 0) return;
-
-        var loader = document.getElementById('loading-indicator');
-        if (loader) loader.setAttribute('data-visible', 'false');
-
-        var groups = new Set();
-        var countries = new Set();
-        var recent = 0;
-        var cutoff = Date.now() - 7 * 24 * 60 * 60 * 1000;
-
-        data.forEach(function (row) {
-          var g = innerText(row.group_name || '');
-          if (g) groups.add(g.toLowerCase());
-
-          var c = (row.country || '').trim().toUpperCase();
-          if (c) countries.add(c);
-
-          var d = Date.parse(row.discovered || row.published || '');
-          if (!isNaN(d) && d >= cutoff) recent++;
-        });
-
-        countUp(document.getElementById('stat-total'), data.length);
-        countUp(document.getElementById('stat-groups'), groups.size);
-        countUp(document.getElementById('stat-countries'), countries.size);
-        countUp(document.getElementById('stat-recent'), recent);
-      }
-
-      /* Group links point at ransomware.live with a root-relative path,
-         which would 404 on this domain — rewrite them after each render. */
-      function fixLinks() {
-        var links = document.querySelectorAll('#table tbody a');
-        for (var i = 0; i < links.length; i++) {
-          var a = links[i];
-          var href = a.getAttribute('href') || '';
-          if (href.charAt(0) === '/') a.setAttribute('href', RANSOMWARE_LIVE + href);
-          if (!a.getAttribute('target')) {
-            a.setAttribute('target', '_blank');
-            a.setAttribute('rel', 'noopener noreferrer');
-          }
-        }
-      }
-
-      $(document).ready(function () {
-        document.getElementById('loading-indicator').setAttribute('data-visible', 'true');
-
-        $('#table').on('load-success.bs.table', function (e, data) {
-          updateStats(data);
-        });
-
-        $('#table').on('post-body.bs.table', function () {
-          fixLinks();
-          var data = $('#table').bootstrapTable('getData');
-          if (data && data.length > 0) {
-            updateStats(data);
-          }
-        });
-
-        $('#table').on('load-error.bs.table', function () {
-          document.getElementById('loading-indicator').setAttribute('data-visible', 'false');
-        });
-      });
-    }());
-  </script>
+  <script defer src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap-table@1.24.0/dist/bootstrap-table.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap-table@1.24.0/dist/extensions/filter-control/bootstrap-table-filter-control.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/tableexport.jquery.plugin@1.33.0/tableExport.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/bootstrap-table@1.24.0/dist/extensions/export/bootstrap-table-export.min.js"></script>
+  <script defer src="/assets/site.js"></script>
+  <script defer src="/assets/home.js"></script>
 
 </body>
 </html>

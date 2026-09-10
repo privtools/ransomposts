@@ -1,0 +1,24 @@
+{% import '_macros.html' as m %}
+    <section class="home-section" id="explore" aria-labelledby="explore-title">
+      <div class="section-head">
+        <h2 id="explore-title">Explore ransomware victims</h2>
+        <span class="hint">{{ totals.group|num }} groups &middot; {{ totals.country|num }} countries &middot; {{ totals.sector|num }} sectors</span>
+      </div>
+      <div class="grid-3">
+        <section class="panel">
+          <h3>Most active groups</h3>
+          {{ m.rank(groups) }}
+          <a class="panel-more" href="/groups/">All ransomware groups &rarr;</a>
+        </section>
+        <section class="panel">
+          <h3>Most affected countries</h3>
+          {{ m.rank(countries, flags=True) }}
+          <a class="panel-more" href="/countries/">All countries &rarr;</a>
+        </section>
+        <section class="panel">
+          <h3>Most affected sectors</h3>
+          {{ m.rank(sectors) }}
+          <a class="panel-more" href="/sectors/">All sectors &rarr;</a>
+        </section>
+      </div>
+    </section>

@@ -2,11 +2,21 @@
 
 > Searchable index of ransomware victim posts published on gang leak sites, covering 2022 to present. Updated three times daily at 06:33, 12:33, and 18:33 UTC.
 
-This tool aggregates victim disclosures published by ransomware groups on their leak sites (dark web and clearnet). Data is sourced from the ransomware.live API and enriched with country information. It is intended for cybersecurity researchers, threat intelligence analysts, and incident responders.
+This tool aggregates victim disclosures published by ransomware groups on their leak sites (dark web and clearnet). Data is sourced from the ransomware.live API and enriched with country information. It is intended for cybersecurity researchers, threat intelligence analysts, and incident responders. Listings are claims made by criminal groups and are not independently verified.
+
+## Browse
+
+- [Home — searchable table](https://ransom.privtools.eu/): Latest 30 days by default, full history on demand.
+- [Ransomware groups](https://ransom.privtools.eu/groups/): One page per group with victim counts, targeted countries and sectors, yearly activity and latest victims.
+- [Countries](https://ransom.privtools.eu/countries/): Ransomware victims per country.
+- [Sectors](https://ransom.privtools.eu/sectors/): Ransomware victims per industry sector.
+- [Atom feed](https://ransom.privtools.eu/feed.xml): The 50 most recent victim posts.
 
 ## Data access
 
 - [Full dataset (JSON)](https://ransom.privtools.eu/assets/victims.json): Flat JSON array of all victim records from 2022 onwards.
+- [Last 30 days (JSON)](https://ransom.privtools.eu/assets/recent.json): Recent records with the table fields only (`post_title`, `group_name`, `discovered`, `country`, `country_flag`, `screenshot`, `activity`).
+- [Full history, table fields only (JSON)](https://ransom.privtools.eu/assets/victims-lite.json): Same fields as above for every record.
 
 ### JSON record fields
 
@@ -15,6 +25,7 @@ This tool aggregates victim disclosures published by ransomware groups on their 
 - `discovered`: Date the post was first observed (ISO 8601)
 - `published`: Date the post was published by the group
 - `country`: ISO 3166-1 alpha-2 country code of the victim
+- `activity`: Industry sector of the victim
 - `website`: Victim's public website domain
 - `post_url`: URL to the ransomware group's leak post
 - `description`: Group-provided description of the victim
@@ -23,9 +34,11 @@ This tool aggregates victim disclosures published by ransomware groups on their 
 - `screenshot`: URL to a screenshot of the leak post
 - `infostealer`: Whether infostealer logs were included
 
+In the JSON files `post_title`, `group_name`, `country_flag` and `screenshot` contain HTML links for the web table.
+
 ## Coverage
 
-Groups tracked include LockBit, ALPHV/BlackCat, Clop, Play, Hunters International, RansomHub, Akira, Black Basta, and dozens of others active since 2022. Victims span all industry sectors and countries worldwide.
+Groups tracked include LockBit, ALPHV/BlackCat, Clop, Play, Hunters International, RansomHub, Akira, Black Basta, Qilin, and dozens of others active since 2022. Victims span all industry sectors and countries worldwide.
 
 ## Source
 
