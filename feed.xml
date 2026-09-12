@@ -5,12 +5,84 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-11T12:29:31Z</updated>
+  <updated>2026-09-12T00:37:05Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Shelco Filters — Securotrop</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/securotrop/"/>
+    <id>tag:ransom.privtools.eu,2026-09-12:7aacbdb460f346be</id>
+    <updated>2026-09-12T00:37:05Z</updated>
+    <summary>Securotrop listed Shelco Filters (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Securotrop"/>
+  </entry>
+  <entry>
+    <title>compunnel.com — Safepay</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
+    <id>tag:ransom.privtools.eu,2026-09-11:c5a315200f13d014</id>
+    <updated>2026-09-11T22:04:42Z</updated>
+    <summary>Safepay listed compunnel.com (United States) on its leak site. Sector: Technology.</summary>
+    <category term="Safepay"/>
+  </entry>
+  <entry>
+    <title>Imperial Healthcare Solutions — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-11:094de80c09ea61f4</id>
+    <updated>2026-09-11T22:03:56Z</updated>
+    <summary>Qilin listed Imperial Healthcare Solutions (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>DiamondLease — Nightspire</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
+    <id>tag:ransom.privtools.eu,2026-09-11:1c76e75497aac88b</id>
+    <updated>2026-09-11T17:00:08Z</updated>
+    <summary>Nightspire listed DiamondLease (United Arab Emirates) on its leak site.</summary>
+    <category term="Nightspire"/>
+  </entry>
+  <entry>
+    <title>Perimetral Oriental de Bogotá S.A.S. — Nightspire</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
+    <id>tag:ransom.privtools.eu,2026-09-11:136a7c25ff9bb840</id>
+    <updated>2026-09-11T16:59:44Z</updated>
+    <summary>Nightspire listed Perimetral Oriental de Bogotá S.A.S. (Colombia) on its leak site. Sector: Transportation.</summary>
+    <category term="Nightspire"/>
+  </entry>
+  <entry>
+    <title>Ozel &amp; Ozel Laws Office — Nightspire</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
+    <id>tag:ransom.privtools.eu,2026-09-11:ea825962b625b598</id>
+    <updated>2026-09-11T16:59:35Z</updated>
+    <summary>Nightspire listed Ozel &amp; Ozel Laws Office (Turkey) on its leak site. Sector: Professional Services.</summary>
+    <category term="Nightspire"/>
+  </entry>
+  <entry>
+    <title>Tuboaços da Amazônia Ltda. — Nightspire</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
+    <id>tag:ransom.privtools.eu,2026-09-11:43a85cac2e1a2213</id>
+    <updated>2026-09-11T16:01:18Z</updated>
+    <summary>Nightspire listed Tuboaços da Amazônia Ltda. (Brazil) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Nightspire"/>
+  </entry>
+  <entry>
+    <title>Port of Tanjung Pelepas — Direwolf</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/direwolf/"/>
+    <id>tag:ransom.privtools.eu,2026-09-11:9dc9dd7a3773f935</id>
+    <updated>2026-09-11T15:54:58Z</updated>
+    <summary>Direwolf listed Port of Tanjung Pelepas (Malaysia) on its leak site. Sector: Transportation.</summary>
+    <category term="Direwolf"/>
+  </entry>
+  <entry>
+    <title>Foss Inc. — Pear</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pear/"/>
+    <id>tag:ransom.privtools.eu,2026-09-11:14b4d7b9aae053e8</id>
+    <updated>2026-09-11T14:19:06Z</updated>
+    <summary>Pear listed Foss Inc. (United States) on its leak site.</summary>
+    <category term="Pear"/>
+  </entry>
   <entry>
     <title>Dustin Group — Fulcrumsec</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/fulcrumsec/"/>
@@ -338,77 +410,5 @@
     <updated>2026-09-09T14:52:38Z</updated>
     <summary>Vexy Ransomware listed Logar Network Solutions (Brazil) on its leak site. Sector: Technology.</summary>
     <category term="Vexy Ransomware"/>
-  </entry>
-  <entry>
-    <title>https://mediengruppethiel.de/ — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-09-09:3a089fd2a4f08b10</id>
-    <updated>2026-09-09T13:31:40Z</updated>
-    <summary>Incransom listed https://mediengruppethiel.de/ (Germany) on its leak site.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>RelyComply AML Platform — Direwolf</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/direwolf/"/>
-    <id>tag:ransom.privtools.eu,2026-09-09:ca73ae948d9320ba</id>
-    <updated>2026-09-09T13:28:59Z</updated>
-    <summary>Direwolf listed RelyComply AML Platform (United Kingdom) on its leak site. Sector: Financial Services.</summary>
-    <category term="Direwolf"/>
-  </entry>
-  <entry>
-    <title>Kyodo USA — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-09-09:ecc424f49591b07d</id>
-    <updated>2026-09-09T13:25:41Z</updated>
-    <summary>Akira listed Kyodo USA (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>Bosnia and Herzegovina Mine Action Center — Emperador</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
-    <id>tag:ransom.privtools.eu,2026-09-09:c9b6a8b20f430183</id>
-    <updated>2026-09-09T12:53:31Z</updated>
-    <summary>Emperador listed Bosnia and Herzegovina Mine Action Center (Bosnia and Herzegovina) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Emperador"/>
-  </entry>
-  <entry>
-    <title>Specchem LLC — Dark Project</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dark-project/"/>
-    <id>tag:ransom.privtools.eu,2026-09-09:f16dedbc49057875</id>
-    <updated>2026-09-09T12:52:48Z</updated>
-    <summary>Dark Project listed Specchem LLC (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Dark Project"/>
-  </entry>
-  <entry>
-    <title>Jet Specialty — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-09:7d4118870c817a45</id>
-    <updated>2026-09-09T12:09:25Z</updated>
-    <summary>Qilin listed Jet Specialty (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Universal Starch-Chem Allied Ltd — Emperador</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
-    <id>tag:ransom.privtools.eu,2026-09-09:f398372cc414579f</id>
-    <updated>2026-09-09T11:52:14Z</updated>
-    <summary>Emperador listed Universal Starch-Chem Allied Ltd (India) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Emperador"/>
-  </entry>
-  <entry>
-    <title>BAYMER — Emperador</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
-    <id>tag:ransom.privtools.eu,2026-09-09:d839d6168c4d4581</id>
-    <updated>2026-09-09T11:51:53Z</updated>
-    <summary>Emperador listed BAYMER on its leak site. Sector: Manufacturing.</summary>
-    <category term="Emperador"/>
-  </entry>
-  <entry>
-    <title>Technology Dynamics — Storm</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
-    <id>tag:ransom.privtools.eu,2026-09-09:2166bf5662f46889</id>
-    <updated>2026-09-09T10:11:43Z</updated>
-    <summary>Storm listed Technology Dynamics (United States) on its leak site. Sector: Technology.</summary>
-    <category term="Storm"/>
   </entry>
 </feed>
