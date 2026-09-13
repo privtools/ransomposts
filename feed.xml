@@ -5,12 +5,44 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-12T12:44:48Z</updated>
+  <updated>2026-09-13T00:53:02Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>INCOR Group — Doommageddon</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/doommageddon/"/>
+    <id>tag:ransom.privtools.eu,2026-09-13:4747ff8d10cb7509</id>
+    <updated>2026-09-13T00:53:02Z</updated>
+    <summary>Doommageddon listed INCOR Group (India) on its leak site.</summary>
+    <category term="Doommageddon"/>
+  </entry>
+  <entry>
+    <title>Strad Solutions — Vexy Ransomware</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
+    <id>tag:ransom.privtools.eu,2026-09-12:593d6583102aca2e</id>
+    <updated>2026-09-12T23:58:29Z</updated>
+    <summary>Vexy Ransomware listed Strad Solutions (United Kingdom) on its leak site. Sector: Technology.</summary>
+    <category term="Vexy Ransomware"/>
+  </entry>
+  <entry>
+    <title>Nexbex Solutions Private Limited — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-09-12:da8d7b92ee41f591</id>
+    <updated>2026-09-12T13:51:54Z</updated>
+    <summary>Emperador listed Nexbex Solutions Private Limited (India) on its leak site.</summary>
+    <category term="Emperador"/>
+  </entry>
+  <entry>
+    <title>Axdia International — Rhysida</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
+    <id>tag:ransom.privtools.eu,2026-09-12:259b2839b7b9c6f3</id>
+    <updated>2026-09-12T13:10:06Z</updated>
+    <summary>Rhysida listed Axdia International on its leak site. Sector: Professional Services.</summary>
+    <category term="Rhysida"/>
+  </entry>
   <entry>
     <title>watchops.com — Unsafe</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/unsafe/"/>
@@ -378,37 +410,5 @@
     <updated>2026-09-10T16:26:34Z</updated>
     <summary>Chaos listed artiflexmfg.com (United States) on its leak site. Sector: Manufacturing.</summary>
     <category term="Chaos"/>
-  </entry>
-  <entry>
-    <title>NcbChurch — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-09-10:5191f86cda2766eb</id>
-    <updated>2026-09-10T13:56:38Z</updated>
-    <summary>Wallstreet listed NcbChurch (United States) on its leak site.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>On Demand Occupational Medicine — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-09-10:62220c194d98d98f</id>
-    <updated>2026-09-10T13:56:19Z</updated>
-    <summary>Wallstreet listed On Demand Occupational Medicine (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>Goldston Oil Corporation — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-09-10:e172142ff322484f</id>
-    <updated>2026-09-10T13:56:00Z</updated>
-    <summary>Wallstreet listed Goldston Oil Corporation (United States) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>jms building corporation — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-09-10:eaf172b0485fa1eb</id>
-    <updated>2026-09-10T13:00:16Z</updated>
-    <summary>Incransom listed jms building corporation (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Incransom"/>
   </entry>
 </feed>
