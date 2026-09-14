@@ -5,12 +5,36 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-13T12:29:33Z</updated>
+  <updated>2026-09-13T23:23:34Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Cerámicas Kantu — Panzer</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
+    <id>tag:ransom.privtools.eu,2026-09-13:2def218123d04b40</id>
+    <updated>2026-09-13T23:23:34Z</updated>
+    <summary>Panzer listed Cerámicas Kantu on its leak site. Sector: Manufacturing.</summary>
+    <category term="Panzer"/>
+  </entry>
+  <entry>
+    <title>Gilco Scaffolding — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-13:2f5201af5d8edb4b</id>
+    <updated>2026-09-13T16:59:37Z</updated>
+    <summary>Qilin listed Gilco Scaffolding (United Kingdom) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Navitrans — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-09-13:a6be8ff0408ef729</id>
+    <updated>2026-09-13T13:51:22Z</updated>
+    <summary>Emperador listed Navitrans on its leak site. Sector: Transportation.</summary>
+    <category term="Emperador"/>
+  </entry>
   <entry>
     <title>www.kashkha.com — Krybit</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/krybit/"/>
@@ -386,29 +410,5 @@
     <updated>2026-09-10T20:22:44Z</updated>
     <summary>Beast listed M800 and CINNOX (Hong Kong) on its leak site. Sector: Technology.</summary>
     <category term="Beast"/>
-  </entry>
-  <entry>
-    <title>ki***jp — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-09-10:396fea06228fd5a7</id>
-    <updated>2026-09-10T19:20:56Z</updated>
-    <summary>AuditTeam listed ki***jp (Japan) on its leak site.</summary>
-    <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>my***ru — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-09-10:e0545d74df231bbe</id>
-    <updated>2026-09-10T19:20:25Z</updated>
-    <summary>AuditTeam listed my***ru (Russia) on its leak site. Sector: Technology.</summary>
-    <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>Sys-kool — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-09-10:bbe2e7564c41dfce</id>
-    <updated>2026-09-10T19:05:54Z</updated>
-    <summary>Play listed Sys-kool on its leak site. Sector: Technology.</summary>
-    <category term="Play"/>
   </entry>
 </feed>
