@@ -5,12 +5,68 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-13T23:23:34Z</updated>
+  <updated>2026-09-14T13:56:16Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>glasfloss.com — Chaos</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/chaos/"/>
+    <id>tag:ransom.privtools.eu,2026-09-14:f92ddb1f64716a76</id>
+    <updated>2026-09-14T13:56:16Z</updated>
+    <summary>Chaos listed glasfloss.com (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Chaos"/>
+  </entry>
+  <entry>
+    <title>steelhausinc.com — Chaos</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/chaos/"/>
+    <id>tag:ransom.privtools.eu,2026-09-14:81932fce5e854305</id>
+    <updated>2026-09-14T13:55:41Z</updated>
+    <summary>Chaos listed steelhausinc.com (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Chaos"/>
+  </entry>
+  <entry>
+    <title>Vitar Group — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-14:5a149d09a2dc7a9b</id>
+    <updated>2026-09-14T13:09:19Z</updated>
+    <summary>Qilin listed Vitar Group (Argentina) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Mestechkin Law Group P.C. — Booba Project</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
+    <id>tag:ransom.privtools.eu,2026-09-14:b7f72c6295b79256</id>
+    <updated>2026-09-14T12:51:44Z</updated>
+    <summary>Booba Project listed Mestechkin Law Group P.C. (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Booba Project"/>
+  </entry>
+  <entry>
+    <title>Atlas Ocean Voyages — Booba Project</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
+    <id>tag:ransom.privtools.eu,2026-09-14:57f987a631953048</id>
+    <updated>2026-09-14T12:20:35Z</updated>
+    <summary>Booba Project listed Atlas Ocean Voyages (United States) on its leak site. Sector: Hospitality.</summary>
+    <category term="Booba Project"/>
+  </entry>
+  <entry>
+    <title>Ne***ox — AuditTeam</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
+    <id>tag:ransom.privtools.eu,2026-09-14:de85502b6b809b5f</id>
+    <updated>2026-09-14T11:50:24Z</updated>
+    <summary>AuditTeam listed Ne***ox (Russia) on its leak site. Sector: Technology.</summary>
+    <category term="AuditTeam"/>
+  </entry>
+  <entry>
+    <title>Alicotrans — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-14:8581bcaab8fa569b</id>
+    <updated>2026-09-14T07:59:50Z</updated>
+    <summary>Qilin listed Alicotrans (Brazil) on its leak site. Sector: Transportation.</summary>
+    <category term="Qilin"/>
+  </entry>
   <entry>
     <title>Cerámicas Kantu — Panzer</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
@@ -354,61 +410,5 @@
     <updated>2026-09-11T14:19:06Z</updated>
     <summary>Pear listed Foss Inc. (United States) on its leak site.</summary>
     <category term="Pear"/>
-  </entry>
-  <entry>
-    <title>Dustin Group — Fulcrumsec</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/fulcrumsec/"/>
-    <id>tag:ransom.privtools.eu,2026-09-11:c2b17b774e2ae27d</id>
-    <updated>2026-09-11T12:29:31Z</updated>
-    <summary>Fulcrumsec listed Dustin Group (Sweden) on its leak site. Sector: Technology.</summary>
-    <category term="Fulcrumsec"/>
-  </entry>
-  <entry>
-    <title>Konica Minolta Bulgaria — Panzer</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
-    <id>tag:ransom.privtools.eu,2026-09-11:03e3035d9f7c29b1</id>
-    <updated>2026-09-11T10:53:16Z</updated>
-    <summary>Panzer listed Konica Minolta Bulgaria (Bulgaria) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Panzer"/>
-  </entry>
-  <entry>
-    <title>Medical Department Store — Dragonforce</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dragonforce/"/>
-    <id>tag:ransom.privtools.eu,2026-09-11:6559f29afb6bc653</id>
-    <updated>2026-09-11T05:53:47Z</updated>
-    <summary>Dragonforce listed Medical Department Store (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Dragonforce"/>
-  </entry>
-  <entry>
-    <title>Agencia Estatal de Meteorología — Panzer</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
-    <id>tag:ransom.privtools.eu,2026-09-11:f82166d1ba9755da</id>
-    <updated>2026-09-11T00:52:07Z</updated>
-    <summary>Panzer listed Agencia Estatal de Meteorología (Spain) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Panzer"/>
-  </entry>
-  <entry>
-    <title>CO-OP URBAN BANK LTD — Global Secret Group</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/global-secret-group/"/>
-    <id>tag:ransom.privtools.eu,2026-09-10:bd7ac1fb77cd38fc</id>
-    <updated>2026-09-10T22:53:11Z</updated>
-    <summary>Global Secret Group listed CO-OP URBAN BANK LTD (India) on its leak site. Sector: Financial Services.</summary>
-    <category term="Global Secret Group"/>
-  </entry>
-  <entry>
-    <title>i2k2 Networks — Vexy Ransomware</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
-    <id>tag:ransom.privtools.eu,2026-09-10:1101312398a7c3e5</id>
-    <updated>2026-09-10T21:27:11Z</updated>
-    <summary>Vexy Ransomware listed i2k2 Networks (India) on its leak site. Sector: Technology.</summary>
-    <category term="Vexy Ransomware"/>
-  </entry>
-  <entry>
-    <title>M800 and CINNOX — Beast</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/beast/"/>
-    <id>tag:ransom.privtools.eu,2026-09-10:dfe01c21c6a5b964</id>
-    <updated>2026-09-10T20:22:44Z</updated>
-    <summary>Beast listed M800 and CINNOX (Hong Kong) on its leak site. Sector: Technology.</summary>
-    <category term="Beast"/>
   </entry>
 </feed>
