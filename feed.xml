@@ -5,12 +5,92 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-15T07:17:26Z</updated>
+  <updated>2026-09-15T13:03:21Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Resolve Law Group — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-15:3e494d7ceb01ce53</id>
+    <updated>2026-09-15T13:03:21Z</updated>
+    <summary>Qilin listed Resolve Law Group (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>ADM — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-15:5fcc249e26d231f0</id>
+    <updated>2026-09-15T12:01:12Z</updated>
+    <summary>Qilin listed ADM (United States) on its leak site. Sector: Agriculture and Food Production.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>SFA Engineering Corporation — Metaencryptor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
+    <id>tag:ransom.privtools.eu,2026-09-15:1dcb32901abcb37d</id>
+    <updated>2026-09-15T11:59:46Z</updated>
+    <summary>Metaencryptor listed SFA Engineering Corporation (South Korea) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Metaencryptor"/>
+  </entry>
+  <entry>
+    <title>Nippon Steel Corporation — Metaencryptor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
+    <id>tag:ransom.privtools.eu,2026-09-15:76d9cb5544c40f67</id>
+    <updated>2026-09-15T11:59:12Z</updated>
+    <summary>Metaencryptor listed Nippon Steel Corporation (Japan) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Metaencryptor"/>
+  </entry>
+  <entry>
+    <title>Asada Sarapiqu — Arcusmedia</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/arcusmedia/"/>
+    <id>tag:ransom.privtools.eu,2026-09-15:3fbad840394c1191</id>
+    <updated>2026-09-15T11:52:38Z</updated>
+    <summary>Arcusmedia listed Asada Sarapiqu (Costa Rica) on its leak site. Sector: Agriculture and Food Production.</summary>
+    <category term="Arcusmedia"/>
+  </entry>
+  <entry>
+    <title>Incrys — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-15:97b02de4407b0a88</id>
+    <updated>2026-09-15T11:03:33Z</updated>
+    <summary>Qilin listed Incrys on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Bravo Group — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-15:2a4812caa80ccbc8</id>
+    <updated>2026-09-15T11:02:55Z</updated>
+    <summary>Qilin listed Bravo Group (Singapore) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>McCarthy Tire Service — Storm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
+    <id>tag:ransom.privtools.eu,2026-09-15:c5fea8f013af180c</id>
+    <updated>2026-09-15T10:47:23Z</updated>
+    <summary>Storm listed McCarthy Tire Service (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Storm"/>
+  </entry>
+  <entry>
+    <title>PANTHERx Rare — Storm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
+    <id>tag:ransom.privtools.eu,2026-09-15:4424f464cedb4e1d</id>
+    <updated>2026-09-15T10:46:52Z</updated>
+    <summary>Storm listed PANTHERx Rare (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Storm"/>
+  </entry>
+  <entry>
+    <title>Insight Credit Union — Storm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
+    <id>tag:ransom.privtools.eu,2026-09-15:bc1472ccf235c2a1</id>
+    <updated>2026-09-15T10:46:21Z</updated>
+    <summary>Storm listed Insight Credit Union (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="Storm"/>
+  </entry>
   <entry>
     <title>ACA Pescara — Thegentlemen</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
@@ -330,85 +410,5 @@
     <updated>2026-09-14T18:06:09Z</updated>
     <summary>Qilin listed Winston Contracting, LLC (United States) on its leak site. Sector: Professional Services.</summary>
     <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>RoadEx America — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-14:f7c4239d0b58b5a4</id>
-    <updated>2026-09-14T18:05:26Z</updated>
-    <summary>Qilin listed RoadEx America (United States) on its leak site. Sector: Transportation.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Minmer Global — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-14:9f88cc8ad8d16109</id>
-    <updated>2026-09-14T18:04:41Z</updated>
-    <summary>Qilin listed Minmer Global on its leak site.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Dublin City Schools GA — Eclipse</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/eclipse/"/>
-    <id>tag:ransom.privtools.eu,2026-09-14:313af55aa3a194e6</id>
-    <updated>2026-09-14T16:21:11Z</updated>
-    <summary>Eclipse listed Dublin City Schools GA (United States) on its leak site. Sector: Education.</summary>
-    <category term="Eclipse"/>
-  </entry>
-  <entry>
-    <title>Rosello et Fils — Eclipse</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/eclipse/"/>
-    <id>tag:ransom.privtools.eu,2026-09-14:9890488033899f8b</id>
-    <updated>2026-09-14T15:21:22Z</updated>
-    <summary>Eclipse listed Rosello et Fils (France) on its leak site. Sector: Agriculture and Food Production.</summary>
-    <category term="Eclipse"/>
-  </entry>
-  <entry>
-    <title>tpi.tw — Lockbit5</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
-    <id>tag:ransom.privtools.eu,2026-09-14:3422840f4a9070cd</id>
-    <updated>2026-09-14T14:06:32Z</updated>
-    <summary>Lockbit5 listed tpi.tw (Taiwan) on its leak site. Sector: Technology.</summary>
-    <category term="Lockbit5"/>
-  </entry>
-  <entry>
-    <title>comune.robeccosulnaviglio.mi.it — Lockbit5</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
-    <id>tag:ransom.privtools.eu,2026-09-14:7a1554c97d3c047f</id>
-    <updated>2026-09-14T14:05:52Z</updated>
-    <summary>Lockbit5 listed comune.robeccosulnaviglio.mi.it (Italy) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Lockbit5"/>
-  </entry>
-  <entry>
-    <title>httoy.fi — Lockbit5</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
-    <id>tag:ransom.privtools.eu,2026-09-14:967930d248aee8ba</id>
-    <updated>2026-09-14T14:03:28Z</updated>
-    <summary>Lockbit5 listed httoy.fi (Finland) on its leak site.</summary>
-    <category term="Lockbit5"/>
-  </entry>
-  <entry>
-    <title>Metropolitan Community Health Services — Insomnia</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/insomnia/"/>
-    <id>tag:ransom.privtools.eu,2026-09-14:1ef1e5e22d814b00</id>
-    <updated>2026-09-14T14:01:14Z</updated>
-    <summary>Insomnia listed Metropolitan Community Health Services (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Insomnia"/>
-  </entry>
-  <entry>
-    <title>Massey, Stotser &amp; Nichols — Insomnia</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/insomnia/"/>
-    <id>tag:ransom.privtools.eu,2026-09-14:76096ede12b184ea</id>
-    <updated>2026-09-14T14:00:21Z</updated>
-    <summary>Insomnia listed Massey, Stotser &amp; Nichols (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Insomnia"/>
-  </entry>
-  <entry>
-    <title>glasfloss.com — Chaos</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/chaos/"/>
-    <id>tag:ransom.privtools.eu,2026-09-14:f92ddb1f64716a76</id>
-    <updated>2026-09-14T13:56:16Z</updated>
-    <summary>Chaos listed glasfloss.com (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Chaos"/>
   </entry>
 </feed>
