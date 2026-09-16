@@ -5,12 +5,20 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-16T03:55:01Z</updated>
+  <updated>2026-09-16T04:01:03Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Aarsleff — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-16:db43192973683594</id>
+    <updated>2026-09-16T04:01:03Z</updated>
+    <summary>Qilin listed Aarsleff (Sweden) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Qilin"/>
+  </entry>
   <entry>
     <title>Community Property Management — Dragonforce</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dragonforce/"/>
@@ -401,14 +409,6 @@
     <id>tag:ransom.privtools.eu,2026-09-15:ef06a021017b8693</id>
     <updated>2026-09-15T07:11:41Z</updated>
     <summary>Thegentlemen listed Dang Invest Group (Vietnam) on its leak site. Sector: Financial Services.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>BGR Energy Systems — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:49c87ef17dae9f9b</id>
-    <updated>2026-09-15T07:11:20Z</updated>
-    <summary>Thegentlemen listed BGR Energy Systems (India) on its leak site. Sector: Energy &amp; Utilities.</summary>
     <category term="Thegentlemen"/>
   </entry>
 </feed>
