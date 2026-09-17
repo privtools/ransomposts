@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/akira/</loc>
-    <lastmod>2026-09-16</lastmod>
+    <lastmod>2026-09-17</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/play/</loc>
@@ -413,6 +413,10 @@
     <lastmod>2026-08-31</lastmod>
   </url>
   <url>
+    <loc>https://ransom.privtools.eu/group/metaencryptor/</loc>
+    <lastmod>2026-09-17</lastmod>
+  </url>
+  <url>
     <loc>https://ransom.privtools.eu/group/global-secret-group/</loc>
     <lastmod>2026-09-10</lastmod>
   </url>
@@ -427,10 +431,6 @@
   <url>
     <loc>https://ransom.privtools.eu/group/orova/</loc>
     <lastmod>2026-08-31</lastmod>
-  </url>
-  <url>
-    <loc>https://ransom.privtools.eu/group/metaencryptor/</loc>
-    <lastmod>2026-09-15</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/blackshrantac/</loc>
@@ -597,6 +597,10 @@
     <lastmod>2026-09-16</lastmod>
   </url>
   <url>
+    <loc>https://ransom.privtools.eu/group/emperador/</loc>
+    <lastmod>2026-09-17</lastmod>
+  </url>
+  <url>
     <loc>https://ransom.privtools.eu/group/hellcat/</loc>
     <lastmod>2025-04-10</lastmod>
   </url>
@@ -611,10 +615,6 @@
   <url>
     <loc>https://ransom.privtools.eu/group/cephalus/</loc>
     <lastmod>2025-08-29</lastmod>
-  </url>
-  <url>
-    <loc>https://ransom.privtools.eu/group/emperador/</loc>
-    <lastmod>2026-09-16</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/ralord/</loc>
@@ -713,6 +713,10 @@
     <lastmod>2022-09-22</lastmod>
   </url>
   <url>
+    <loc>https://ransom.privtools.eu/group/vexy-ransomware/</loc>
+    <lastmod>2026-09-17</lastmod>
+  </url>
+  <url>
     <loc>https://ransom.privtools.eu/group/weyhro/</loc>
     <lastmod>2025-08-11</lastmod>
   </url>
@@ -727,10 +731,6 @@
   <url>
     <loc>https://ransom.privtools.eu/group/revil/</loc>
     <lastmod>2022-11-28</lastmod>
-  </url>
-  <url>
-    <loc>https://ransom.privtools.eu/group/vexy-ransomware/</loc>
-    <lastmod>2026-09-15</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/blackout/</loc>
@@ -802,7 +802,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/it/</loc>
-    <lastmod>2026-09-16</lastmod>
+    <lastmod>2026-09-17</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/fr/</loc>
@@ -1138,7 +1138,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/professional-services/</loc>
-    <lastmod>2026-09-16</lastmod>
+    <lastmod>2026-09-17</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/manufacturing/</loc>
@@ -1146,11 +1146,11 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/technology/</loc>
-    <lastmod>2026-09-16</lastmod>
+    <lastmod>2026-09-17</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/healthcare/</loc>
-    <lastmod>2026-09-16</lastmod>
+    <lastmod>2026-09-17</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/retail-e-commerce/</loc>
@@ -1166,7 +1166,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/education/</loc>
-    <lastmod>2026-09-16</lastmod>
+    <lastmod>2026-09-17</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/agriculture-and-food-production/</loc>

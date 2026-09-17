@@ -5,12 +5,68 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-17T07:25:33Z</updated>
+  <updated>2026-09-17T13:24:13Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Vetta — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:3107870f7d6aa1d7</id>
+    <updated>2026-09-17T13:24:13Z</updated>
+    <summary>Akira listed Vetta on its leak site. Sector: Technology.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Javep Chevrolet — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:e37fde7fd8be60f9</id>
+    <updated>2026-09-17T13:23:54Z</updated>
+    <summary>Akira listed Javep Chevrolet on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Beckman Coulter, Inc — Metaencryptor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:3eb8c076c11e956d</id>
+    <updated>2026-09-17T13:06:14Z</updated>
+    <summary>Metaencryptor listed Beckman Coulter, Inc (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Metaencryptor"/>
+  </entry>
+  <entry>
+    <title>AECOM — Metaencryptor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:4e750910a203c0e4</id>
+    <updated>2026-09-17T13:05:28Z</updated>
+    <summary>Metaencryptor listed AECOM (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Metaencryptor"/>
+  </entry>
+  <entry>
+    <title>Promantra, Inc — Metaencryptor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:a152facc49a74ca0</id>
+    <updated>2026-09-17T13:04:44Z</updated>
+    <summary>Metaencryptor listed Promantra, Inc (United States) on its leak site. Sector: Technology.</summary>
+    <category term="Metaencryptor"/>
+  </entry>
+  <entry>
+    <title>STP Fashion Lab — Vexy Ransomware</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:e1ca95735f4d66a7</id>
+    <updated>2026-09-17T09:51:37Z</updated>
+    <summary>Vexy Ransomware listed STP Fashion Lab (Italy) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Vexy Ransomware"/>
+  </entry>
+  <entry>
+    <title>Westbridge Institute of Technology, Inc. — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:b1b9595c7adf01ca</id>
+    <updated>2026-09-17T09:20:37Z</updated>
+    <summary>Emperador listed Westbridge Institute of Technology, Inc. on its leak site. Sector: Education.</summary>
+    <category term="Emperador"/>
+  </entry>
   <entry>
     <title>www.appliancefactory.com — Incransom</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
@@ -354,61 +410,5 @@
     <updated>2026-09-15T15:21:02Z</updated>
     <summary>Dark Project listed Cumar Marble &amp; Granite (Turkey) on its leak site. Sector: Manufacturing.</summary>
     <category term="Dark Project"/>
-  </entry>
-  <entry>
-    <title>Taurus Ibérica — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:b6b1a0f7f3270e06</id>
-    <updated>2026-09-15T15:01:54Z</updated>
-    <summary>Qilin listed Taurus Ibérica (Spain) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Pilot Precision — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:90bb43cce4a257f3</id>
-    <updated>2026-09-15T14:53:24Z</updated>
-    <summary>Akira listed Pilot Precision on its leak site. Sector: Manufacturing.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>Lazyboyz — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:e50daa600129b314</id>
-    <updated>2026-09-15T14:22:06Z</updated>
-    <summary>Akira listed Lazyboyz on its leak site.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>Montana Civil Contractors — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:5b714650dd1114aa</id>
-    <updated>2026-09-15T14:02:02Z</updated>
-    <summary>Qilin listed Montana Civil Contractors (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Southern California Telephone Company — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:c29be0d2a9ef6398</id>
-    <updated>2026-09-15T13:53:02Z</updated>
-    <summary>Akira listed Southern California Telephone Company (United States) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>Resolve Law Group — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:3e494d7ceb01ce53</id>
-    <updated>2026-09-15T13:03:21Z</updated>
-    <summary>Qilin listed Resolve Law Group (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>ADM — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:5fcc249e26d231f0</id>
-    <updated>2026-09-15T12:01:12Z</updated>
-    <summary>Qilin listed ADM (United States) on its leak site. Sector: Agriculture and Food Production.</summary>
-    <category term="Qilin"/>
   </entry>
 </feed>
