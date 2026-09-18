@@ -341,6 +341,10 @@
     <lastmod>2025-07-02</lastmod>
   </url>
   <url>
+    <loc>https://ransom.privtools.eu/group/storm/</loc>
+    <lastmod>2026-09-18</lastmod>
+  </url>
+  <url>
     <loc>https://ransom.privtools.eu/group/flocker/</loc>
     <lastmod>2025-07-31</lastmod>
   </url>
@@ -351,10 +355,6 @@
   <url>
     <loc>https://ransom.privtools.eu/group/quantum/</loc>
     <lastmod>2022-12-09</lastmod>
-  </url>
-  <url>
-    <loc>https://ransom.privtools.eu/group/storm/</loc>
-    <lastmod>2026-09-15</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/darkvault/</loc>
@@ -786,7 +786,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/us/</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-18</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/gb/</loc>
@@ -1158,7 +1158,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/financial-services/</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-18</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/transportation/</loc>
@@ -1174,7 +1174,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/government-defense/</loc>
-    <lastmod>2026-09-16</lastmod>
+    <lastmod>2026-09-18</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/energy-utilities/</loc>

@@ -5,12 +5,76 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-18T02:02:22Z</updated>
+  <updated>2026-09-18T07:51:54Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>American Casting Company — Storm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
+    <id>tag:ransom.privtools.eu,2026-09-18:5f863df133c3ad98</id>
+    <updated>2026-09-18T07:51:54Z</updated>
+    <summary>Storm listed American Casting Company (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Storm"/>
+  </entry>
+  <entry>
+    <title>Johnson Investment Counsel — Storm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
+    <id>tag:ransom.privtools.eu,2026-09-18:e7e3b1dd15a8bc6e</id>
+    <updated>2026-09-18T07:51:22Z</updated>
+    <summary>Storm listed Johnson Investment Counsel (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="Storm"/>
+  </entry>
+  <entry>
+    <title>First Secure Community Bank — Storm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
+    <id>tag:ransom.privtools.eu,2026-09-18:e51063546924f0c7</id>
+    <updated>2026-09-18T07:50:52Z</updated>
+    <summary>Storm listed First Secure Community Bank (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="Storm"/>
+  </entry>
+  <entry>
+    <title>The State Bank — Storm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
+    <id>tag:ransom.privtools.eu,2026-09-18:7fdbb85ce5b2db01</id>
+    <updated>2026-09-18T07:50:21Z</updated>
+    <summary>Storm listed The State Bank (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="Storm"/>
+  </entry>
+  <entry>
+    <title>First Secure Bank and Trust — Storm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
+    <id>tag:ransom.privtools.eu,2026-09-18:d07983714a17c1ac</id>
+    <updated>2026-09-18T07:49:50Z</updated>
+    <summary>Storm listed First Secure Bank and Trust (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="Storm"/>
+  </entry>
+  <entry>
+    <title>Accela.com — EndZone</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-09-18:e58e192402f99a1e</id>
+    <updated>2026-09-18T07:06:41Z</updated>
+    <summary>EndZone listed Accela.com (United States) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="EndZone"/>
+  </entry>
+  <entry>
+    <title>AT&amp;T — EndZone</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-09-18:9611bb075dc170ed</id>
+    <updated>2026-09-18T07:06:21Z</updated>
+    <summary>EndZone listed AT&amp;T (United States) on its leak site. Sector: Technology.</summary>
+    <category term="EndZone"/>
+  </entry>
+  <entry>
+    <title>ANYTHINGIT — Spirals</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-09-18:db0f1eb33042a4b5</id>
+    <updated>2026-09-18T07:03:21Z</updated>
+    <summary>Spirals listed ANYTHINGIT on its leak site. Sector: Technology.</summary>
+    <category term="Spirals"/>
+  </entry>
   <entry>
     <title>Giti Corp — Killsec</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/killsec/"/>
@@ -346,69 +410,5 @@
     <updated>2026-09-16T18:21:45Z</updated>
     <summary>AuditTeam listed dg.ac.kr (South Korea) on its leak site. Sector: Education.</summary>
     <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>gownet.net — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:a27439c50c48b073</id>
-    <updated>2026-09-16T18:21:20Z</updated>
-    <summary>AuditTeam listed gownet.net (South Korea) on its leak site.</summary>
-    <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>krimax.org — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:c431d87f5176ac20</id>
-    <updated>2026-09-16T18:20:54Z</updated>
-    <summary>AuditTeam listed krimax.org (Argentina) on its leak site.</summary>
-    <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>Leisure Coast Kitchens — Kairos</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/kairos/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:99b29ad3cf9fd204</id>
-    <updated>2026-09-16T17:57:09Z</updated>
-    <summary>Kairos listed Leisure Coast Kitchens (Australia) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Kairos"/>
-  </entry>
-  <entry>
-    <title>Reddrop Group — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:1f7a7ac3624d96b3</id>
-    <updated>2026-09-16T17:02:52Z</updated>
-    <summary>Qilin listed Reddrop Group (Australia) on its leak site.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>In The Company of Huskies — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:e661a9c7fc240d7c</id>
-    <updated>2026-09-16T17:02:23Z</updated>
-    <summary>Qilin listed In The Company of Huskies (Canada) on its leak site.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Odyssey Charter School, Inc. — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:e606ab749823429b</id>
-    <updated>2026-09-16T16:22:21Z</updated>
-    <summary>Wallstreet listed Odyssey Charter School, Inc. (United States) on its leak site. Sector: Education.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>Roshd Sanat — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:6798f83711d1e739</id>
-    <updated>2026-09-16T16:22:09Z</updated>
-    <summary>Wallstreet listed Roshd Sanat (Iran) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>Namibian Defence Force — Ransomhouse</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/ransomhouse/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:8fd2a06e0a979832</id>
-    <updated>2026-09-16T15:32:23Z</updated>
-    <summary>Ransomhouse listed Namibian Defence Force (Namibia) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Ransomhouse"/>
   </entry>
 </feed>
