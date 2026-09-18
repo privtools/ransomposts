@@ -5,18 +5,210 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-17T13:24:13Z</updated>
+  <updated>2026-09-18T02:02:22Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
   <entry>
+    <title>Giti Corp — Killsec</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/killsec/"/>
+    <id>tag:ransom.privtools.eu,2026-09-18:38be7deab6fa8151</id>
+    <updated>2026-09-18T02:02:22Z</updated>
+    <summary>Killsec listed Giti Corp (Singapore) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Killsec"/>
+  </entry>
+  <entry>
+    <title>Universitt Hamburg — Panzer</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
+    <id>tag:ransom.privtools.eu,2026-09-18:9999171a3ce0b8ce</id>
+    <updated>2026-09-18T00:23:38Z</updated>
+    <summary>Panzer listed Universitt Hamburg (Germany) on its leak site. Sector: Education.</summary>
+    <category term="Panzer"/>
+  </entry>
+  <entry>
+    <title>Inovapy — Panzer</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
+    <id>tag:ransom.privtools.eu,2026-09-18:401107950a7af43c</id>
+    <updated>2026-09-18T00:23:07Z</updated>
+    <summary>Panzer listed Inovapy (Paraguay) on its leak site. Sector: Technology.</summary>
+    <category term="Panzer"/>
+  </entry>
+  <entry>
+    <title>Stim — Panzer</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
+    <id>tag:ransom.privtools.eu,2026-09-18:1d77c379289291d6</id>
+    <updated>2026-09-18T00:22:35Z</updated>
+    <summary>Panzer listed Stim (France) on its leak site. Sector: Technology.</summary>
+    <category term="Panzer"/>
+  </entry>
+  <entry>
+    <title>C... — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:b3eb48368c7687d6</id>
+    <updated>2026-09-17T22:54:46Z</updated>
+    <summary>SilentRansomGroup listed C... on its leak site.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>www.harputyapi.com — Krybit</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/krybit/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:e1eb0ce69e25debb</id>
+    <updated>2026-09-17T22:31:56Z</updated>
+    <summary>Krybit listed www.harputyapi.com (Turkey) on its leak site.</summary>
+    <category term="Krybit"/>
+  </entry>
+  <entry>
+    <title>www.diakonie-apolda.de — Krybit</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/krybit/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:c9a2e4c45dfac2d4</id>
+    <updated>2026-09-17T22:31:17Z</updated>
+    <summary>Krybit listed www.diakonie-apolda.de (Germany) on its leak site. Sector: Healthcare.</summary>
+    <category term="Krybit"/>
+  </entry>
+  <entry>
+    <title>Vigatec — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:1ccdd55dc2f42ad4</id>
+    <updated>2026-09-17T20:58:39Z</updated>
+    <summary>Qilin listed Vigatec (Germany) on its leak site. Sector: Technology.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Invincible GG — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:0961f4a6d9c54213</id>
+    <updated>2026-09-17T19:03:55Z</updated>
+    <summary>Qilin listed Invincible GG on its leak site. Sector: Technology.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>expresspros.com — Chaos</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/chaos/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:7578ede764dde2e4</id>
+    <updated>2026-09-17T16:25:49Z</updated>
+    <summary>Chaos listed expresspros.com (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Chaos"/>
+  </entry>
+  <entry>
+    <title>hoyletanner.com — BrainCipher</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/braincipher/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:326a6f10a5f2686a</id>
+    <updated>2026-09-17T16:21:16Z</updated>
+    <summary>BrainCipher listed hoyletanner.com (United Kingdom) on its leak site. Sector: Professional Services.</summary>
+    <category term="BrainCipher"/>
+  </entry>
+  <entry>
+    <title>aecom.com — BrainCipher</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/braincipher/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:83c1f14cb9d1a858</id>
+    <updated>2026-09-17T16:20:40Z</updated>
+    <summary>BrainCipher listed aecom.com (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="BrainCipher"/>
+  </entry>
+  <entry>
+    <title>Techwise — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:0714ce906096efb7</id>
+    <updated>2026-09-17T16:03:05Z</updated>
+    <summary>Qilin listed Techwise (Argentina) on its leak site. Sector: Technology.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>The Gran Hotel Ingles — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:065a5aa6729e27de</id>
+    <updated>2026-09-17T16:02:26Z</updated>
+    <summary>Qilin listed The Gran Hotel Ingles (Spain) on its leak site. Sector: Hospitality.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>rottner-tresor.at — Settra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:c13fb741e6e26e31</id>
+    <updated>2026-09-17T15:32:36Z</updated>
+    <summary>Settra listed rottner-tresor.at (Austria) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Settra"/>
+  </entry>
+  <entry>
+    <title>naturesplus.com — Settra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:7e64e77401b2e994</id>
+    <updated>2026-09-17T15:32:04Z</updated>
+    <summary>Settra listed naturesplus.com (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Settra"/>
+  </entry>
+  <entry>
+    <title>pacificabs.com — Settra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:99b866bd4d191ad7</id>
+    <updated>2026-09-17T15:31:31Z</updated>
+    <summary>Settra listed pacificabs.com (Australia) on its leak site. Sector: Professional Services.</summary>
+    <category term="Settra"/>
+  </entry>
+  <entry>
+    <title>fchhotels.com — Settra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:f015c96079bc0938</id>
+    <updated>2026-09-17T15:30:58Z</updated>
+    <summary>Settra listed fchhotels.com (Brazil) on its leak site. Sector: Hospitality.</summary>
+    <category term="Settra"/>
+  </entry>
+  <entry>
+    <title>budgetms.com — Settra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:a0e8d7f724504e4c</id>
+    <updated>2026-09-17T15:30:26Z</updated>
+    <summary>Settra listed budgetms.com (Montserrat) on its leak site. Sector: Financial Services.</summary>
+    <category term="Settra"/>
+  </entry>
+  <entry>
+    <title>sym.com.mx — Settra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:f0217e3bf81c8e4e</id>
+    <updated>2026-09-17T15:29:52Z</updated>
+    <summary>Settra listed sym.com.mx (Mexico) on its leak site. Sector: Technology.</summary>
+    <category term="Settra"/>
+  </entry>
+  <entry>
+    <title>xpera.ca — BrainCipher</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/braincipher/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:29dfd7af4614eb3a</id>
+    <updated>2026-09-17T15:21:08Z</updated>
+    <summary>BrainCipher listed xpera.ca (Canada) on its leak site. Sector: Technology.</summary>
+    <category term="BrainCipher"/>
+  </entry>
+  <entry>
+    <title>Pertamina — Ransomhouse</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/ransomhouse/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:31afcce008424047</id>
+    <updated>2026-09-17T14:31:55Z</updated>
+    <summary>Ransomhouse listed Pertamina (Indonesia) on its leak site. Sector: Energy &amp; Utilities.</summary>
+    <category term="Ransomhouse"/>
+  </entry>
+  <entry>
+    <title>Silicon Integrated Systems — Incransom</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:0ea7fb6d08e52af5</id>
+    <updated>2026-09-17T14:27:16Z</updated>
+    <summary>Incransom listed Silicon Integrated Systems (Taiwan) on its leak site. Sector: Technology.</summary>
+    <category term="Incransom"/>
+  </entry>
+  <entry>
+    <title>Practice Management (maximizedrevenue.com) — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-09-17:2c94e406d71c2f2e</id>
+    <updated>2026-09-17T13:52:14Z</updated>
+    <summary>Akira listed Practice Management (maximizedrevenue.com) (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
     <title>Vetta — Akira</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
     <id>tag:ransom.privtools.eu,2026-09-17:3107870f7d6aa1d7</id>
     <updated>2026-09-17T13:24:13Z</updated>
-    <summary>Akira listed Vetta on its leak site. Sector: Technology.</summary>
+    <summary>Akira listed Vetta (Brazil) on its leak site. Sector: Technology.</summary>
     <category term="Akira"/>
   </entry>
   <entry>
@@ -24,7 +216,7 @@
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
     <id>tag:ransom.privtools.eu,2026-09-17:e37fde7fd8be60f9</id>
     <updated>2026-09-17T13:23:54Z</updated>
-    <summary>Akira listed Javep Chevrolet on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <summary>Akira listed Javep Chevrolet (Brazil) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
     <category term="Akira"/>
   </entry>
   <entry>
@@ -144,7 +336,7 @@
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
     <id>tag:ransom.privtools.eu,2026-09-16:6df0db15c35ffa65</id>
     <updated>2026-09-16T18:22:08Z</updated>
-    <summary>AuditTeam listed buben (Russia) on its leak site.</summary>
+    <summary>AuditTeam listed buben (Italy) on its leak site.</summary>
     <category term="AuditTeam"/>
   </entry>
   <entry>
@@ -218,197 +410,5 @@
     <updated>2026-09-16T15:32:23Z</updated>
     <summary>Ransomhouse listed Namibian Defence Force (Namibia) on its leak site. Sector: Government &amp; Defense.</summary>
     <category term="Ransomhouse"/>
-  </entry>
-  <entry>
-    <title>Thorndale Foundation — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:35bcd134417851b5</id>
-    <updated>2026-09-16T15:05:57Z</updated>
-    <summary>Qilin listed Thorndale Foundation (Australia) on its leak site.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Thema Foundries — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:a083bccfe2bb6b3f</id>
-    <updated>2026-09-16T15:05:26Z</updated>
-    <summary>Qilin listed Thema Foundries (France) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Blossomland Accounting — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:df12412780f69f90</id>
-    <updated>2026-09-16T14:54:53Z</updated>
-    <summary>Akira listed Blossomland Accounting on its leak site. Sector: Professional Services.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>Bee Maid Honey — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:0fb5c9addd6e02d1</id>
-    <updated>2026-09-16T14:54:41Z</updated>
-    <summary>Akira listed Bee Maid Honey (Canada) on its leak site. Sector: Agriculture and Food Production.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>Manders — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:0347becebfe6777d</id>
-    <updated>2026-09-16T14:23:12Z</updated>
-    <summary>Akira listed Manders (United Kingdom) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>ARDA — Arcusmedia</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/arcusmedia/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:a5a3649509f66f2c</id>
-    <updated>2026-09-16T13:53:57Z</updated>
-    <summary>Arcusmedia listed ARDA on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Arcusmedia"/>
-  </entry>
-  <entry>
-    <title>Nielsen Design — Panzer</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:4bfad643674ac825</id>
-    <updated>2026-09-16T13:22:39Z</updated>
-    <summary>Panzer listed Nielsen Design on its leak site.</summary>
-    <category term="Panzer"/>
-  </entry>
-  <entry>
-    <title>Aarsleff — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:db43192973683594</id>
-    <updated>2026-09-16T04:01:03Z</updated>
-    <summary>Qilin listed Aarsleff (Sweden) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Community Property Management — Dragonforce</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dragonforce/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:2dda51d6d28b3387</id>
-    <updated>2026-09-16T03:55:01Z</updated>
-    <summary>Dragonforce listed Community Property Management (United States) on its leak site.</summary>
-    <category term="Dragonforce"/>
-  </entry>
-  <entry>
-    <title>Owen Leigh Optometry — Dragonforce</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dragonforce/"/>
-    <id>tag:ransom.privtools.eu,2026-09-16:94163101144af296</id>
-    <updated>2026-09-16T03:54:08Z</updated>
-    <summary>Dragonforce listed Owen Leigh Optometry (United Kingdom) on its leak site. Sector: Healthcare.</summary>
-    <category term="Dragonforce"/>
-  </entry>
-  <entry>
-    <title>Hashimoto Jimuki — Vexy Ransomware</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:f46d86a372fb1347</id>
-    <updated>2026-09-15T19:58:08Z</updated>
-    <summary>Vexy Ransomware listed Hashimoto Jimuki (Japan) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Vexy Ransomware"/>
-  </entry>
-  <entry>
-    <title>marlinhvac.com — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:93ba29eea110f574</id>
-    <updated>2026-09-15T19:33:37Z</updated>
-    <summary>Safepay listed marlinhvac.com (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>neumerkel-gmbh.de — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:609b2fe4d3beefea</id>
-    <updated>2026-09-15T19:33:01Z</updated>
-    <summary>Safepay listed neumerkel-gmbh.de (Germany) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>triniticaring.org — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:ceef6b5c7da28b51</id>
-    <updated>2026-09-15T19:32:29Z</updated>
-    <summary>Safepay listed triniticaring.org (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>laconcepcion.com.mx — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:a937262fe0462569</id>
-    <updated>2026-09-15T19:31:55Z</updated>
-    <summary>Safepay listed laconcepcion.com.mx (Mexico) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>meterex.com — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:b990dc18e6a4c905</id>
-    <updated>2026-09-15T19:31:20Z</updated>
-    <summary>Safepay listed meterex.com (Germany) on its leak site. Sector: Technology.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>stoecklin-kuechen.ch — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:5c668e280a9c0b6c</id>
-    <updated>2026-09-15T19:30:46Z</updated>
-    <summary>Safepay listed stoecklin-kuechen.ch (Switzerland) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>ryomo.co.jp — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:eaca7ad8f27f4b09</id>
-    <updated>2026-09-15T19:30:13Z</updated>
-    <summary>Safepay listed ryomo.co.jp (Japan) on its leak site.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>ara-lyss.ch — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:f9e33deb60280b70</id>
-    <updated>2026-09-15T19:29:39Z</updated>
-    <summary>Safepay listed ara-lyss.ch (Switzerland) on its leak site. Sector: Professional Services.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>gob.pe — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:e882f43f46b14f5f</id>
-    <updated>2026-09-15T19:29:06Z</updated>
-    <summary>Safepay listed gob.pe (Peru) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>Springfield Public Schools — Interlock</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/interlock/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:44d7d3cf01290135</id>
-    <updated>2026-09-15T18:58:09Z</updated>
-    <summary>Interlock listed Springfield Public Schools (United States) on its leak site. Sector: Education.</summary>
-    <category term="Interlock"/>
-  </entry>
-  <entry>
-    <title>Wiggins, Childs, Pantazis, Fisher, &amp; Goldfarb LLC — Insomnia</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/insomnia/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:2bf9fa74331bc8c5</id>
-    <updated>2026-09-15T17:30:14Z</updated>
-    <summary>Insomnia listed Wiggins, Childs, Pantazis, Fisher, &amp; Goldfarb LLC (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Insomnia"/>
-  </entry>
-  <entry>
-    <title>City of Fort Smith Arkansas — Interlock</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/interlock/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:a2d00147f69e144c</id>
-    <updated>2026-09-15T15:31:16Z</updated>
-    <summary>Interlock listed City of Fort Smith Arkansas (United States) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Interlock"/>
-  </entry>
-  <entry>
-    <title>Cumar Marble &amp; Granite — Dark Project</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dark-project/"/>
-    <id>tag:ransom.privtools.eu,2026-09-15:d12c2b8f2568e8e1</id>
-    <updated>2026-09-15T15:21:02Z</updated>
-    <summary>Dark Project listed Cumar Marble &amp; Granite (Turkey) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Dark Project"/>
   </entry>
 </feed>
