@@ -5,12 +5,28 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-18T23:55:10Z</updated>
+  <updated>2026-09-19T07:54:22Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Quy Nhon University — Vexy Ransomware</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
+    <id>tag:ransom.privtools.eu,2026-09-19:ac9ebdb945b69da9</id>
+    <updated>2026-09-19T07:54:22Z</updated>
+    <summary>Vexy Ransomware listed Quy Nhon University (Vietnam) on its leak site. Sector: Education.</summary>
+    <category term="Vexy Ransomware"/>
+  </entry>
+  <entry>
+    <title>Cassias MG Government — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-09-19:542471f14738a791</id>
+    <updated>2026-09-19T07:50:51Z</updated>
+    <summary>Emperador listed Cassias MG Government (Brazil) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="Emperador"/>
+  </entry>
   <entry>
     <title>Quest Group — Anubis</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/anubis/"/>
@@ -394,21 +410,5 @@
     <updated>2026-09-17T19:03:55Z</updated>
     <summary>Qilin listed Invincible GG on its leak site. Sector: Technology.</summary>
     <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>expresspros.com — Chaos</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/chaos/"/>
-    <id>tag:ransom.privtools.eu,2026-09-17:7578ede764dde2e4</id>
-    <updated>2026-09-17T16:25:49Z</updated>
-    <summary>Chaos listed expresspros.com (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Chaos"/>
-  </entry>
-  <entry>
-    <title>hoyletanner.com — BrainCipher</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/braincipher/"/>
-    <id>tag:ransom.privtools.eu,2026-09-17:326a6f10a5f2686a</id>
-    <updated>2026-09-17T16:21:16Z</updated>
-    <summary>BrainCipher listed hoyletanner.com (United Kingdom) on its leak site. Sector: Professional Services.</summary>
-    <category term="BrainCipher"/>
   </entry>
 </feed>
