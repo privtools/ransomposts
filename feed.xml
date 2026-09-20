@@ -5,12 +5,28 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-20T02:51:07Z</updated>
+  <updated>2026-09-20T06:40:26Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Great Bay Bio — Nightspire</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
+    <id>tag:ransom.privtools.eu,2026-09-20:d3c3dc105dfa40b5</id>
+    <updated>2026-09-20T06:40:26Z</updated>
+    <summary>Nightspire listed Great Bay Bio (Hong Kong) on its leak site. Sector: Healthcare.</summary>
+    <category term="Nightspire"/>
+  </entry>
+  <entry>
+    <title>TOWILL — Bravox</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/bravox/"/>
+    <id>tag:ransom.privtools.eu,2026-09-20:8fc9c035281ad56a</id>
+    <updated>2026-09-20T06:24:14Z</updated>
+    <summary>Bravox listed TOWILL (United States) on its leak site. Sector: Technology.</summary>
+    <category term="Bravox"/>
+  </entry>
   <entry>
     <title>Fanatics (global sports commerce platform) — N0n</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
@@ -394,21 +410,5 @@
     <updated>2026-09-18T07:50:21Z</updated>
     <summary>Storm listed The State Bank (United States) on its leak site. Sector: Financial Services.</summary>
     <category term="Storm"/>
-  </entry>
-  <entry>
-    <title>First Secure Bank and Trust — Storm</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
-    <id>tag:ransom.privtools.eu,2026-09-18:d07983714a17c1ac</id>
-    <updated>2026-09-18T07:49:50Z</updated>
-    <summary>Storm listed First Secure Bank and Trust (United States) on its leak site. Sector: Financial Services.</summary>
-    <category term="Storm"/>
-  </entry>
-  <entry>
-    <title>Accela.com — EndZone</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-09-18:e58e192402f99a1e</id>
-    <updated>2026-09-18T07:06:41Z</updated>
-    <summary>EndZone listed Accela.com (United States) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="EndZone"/>
   </entry>
 </feed>
