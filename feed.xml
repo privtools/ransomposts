@@ -5,12 +5,52 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-20T06:40:26Z</updated>
+  <updated>2026-09-20T12:15:03Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Zorlu Holding — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-20:3f4264c9fa0929d2</id>
+    <updated>2026-09-20T12:15:03Z</updated>
+    <summary>Qilin listed Zorlu Holding (Turkey) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>ShopDunk — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-20:8b4d6522ec732311</id>
+    <updated>2026-09-20T12:14:25Z</updated>
+    <summary>Qilin listed ShopDunk (Thailand) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>KMLS — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-20:60582b599ef04d90</id>
+    <updated>2026-09-20T12:13:43Z</updated>
+    <summary>Qilin listed KMLS (Germany) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Touring Club Suisse — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-20:e11f5c5d722eb0cd</id>
+    <updated>2026-09-20T12:13:05Z</updated>
+    <summary>Qilin listed Touring Club Suisse (Switzerland) on its leak site. Sector: Transportation.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Studio Notarile Associato Salvatore Costantino E Anna Favarato — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-09-20:79b54d53c7163b9e</id>
+    <updated>2026-09-20T09:35:30Z</updated>
+    <summary>Emperador listed Studio Notarile Associato Salvatore Costantino E Anna Favarato (Italy) on its leak site. Sector: Professional Services.</summary>
+    <category term="Emperador"/>
+  </entry>
   <entry>
     <title>Great Bay Bio — Nightspire</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
@@ -370,45 +410,5 @@
     <updated>2026-09-18T10:09:56Z</updated>
     <summary>Qilin listed Grupo Juste (Mexico) on its leak site.</summary>
     <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Inland and Offshore Contractors — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-18:ff3eeb771d909087</id>
-    <updated>2026-09-18T10:09:09Z</updated>
-    <summary>Qilin listed Inland and Offshore Contractors (Trinidad and Tobago) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>American Casting Company — Storm</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
-    <id>tag:ransom.privtools.eu,2026-09-18:5f863df133c3ad98</id>
-    <updated>2026-09-18T07:51:54Z</updated>
-    <summary>Storm listed American Casting Company (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Storm"/>
-  </entry>
-  <entry>
-    <title>Johnson Investment Counsel — Storm</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
-    <id>tag:ransom.privtools.eu,2026-09-18:e7e3b1dd15a8bc6e</id>
-    <updated>2026-09-18T07:51:22Z</updated>
-    <summary>Storm listed Johnson Investment Counsel (United States) on its leak site. Sector: Financial Services.</summary>
-    <category term="Storm"/>
-  </entry>
-  <entry>
-    <title>First Secure Community Bank — Storm</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
-    <id>tag:ransom.privtools.eu,2026-09-18:e51063546924f0c7</id>
-    <updated>2026-09-18T07:50:52Z</updated>
-    <summary>Storm listed First Secure Community Bank (United States) on its leak site. Sector: Financial Services.</summary>
-    <category term="Storm"/>
-  </entry>
-  <entry>
-    <title>The State Bank — Storm</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
-    <id>tag:ransom.privtools.eu,2026-09-18:7fdbb85ce5b2db01</id>
-    <updated>2026-09-18T07:50:21Z</updated>
-    <summary>Storm listed The State Bank (United States) on its leak site. Sector: Financial Services.</summary>
-    <category term="Storm"/>
   </entry>
 </feed>
