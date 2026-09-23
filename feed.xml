@@ -5,12 +5,44 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-23T00:22:21Z</updated>
+  <updated>2026-09-23T09:20:59Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>RECEITA FEDERAL DO BRASIL — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-09-23:0ed3d8f79cff19e3</id>
+    <updated>2026-09-23T09:20:59Z</updated>
+    <summary>Emperador listed RECEITA FEDERAL DO BRASIL (Brazil) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="Emperador"/>
+  </entry>
+  <entry>
+    <title>Aokkef — Medusalocker</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/medusalocker/"/>
+    <id>tag:ransom.privtools.eu,2026-09-23:8b498a9a9e3ad14c</id>
+    <updated>2026-09-23T07:41:04Z</updated>
+    <summary>Medusalocker listed Aokkef (France) on its leak site.</summary>
+    <category term="Medusalocker"/>
+  </entry>
+  <entry>
+    <title>Seznam — Medusalocker</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/medusalocker/"/>
+    <id>tag:ransom.privtools.eu,2026-09-23:65425dc14c517c94</id>
+    <updated>2026-09-23T07:40:37Z</updated>
+    <summary>Medusalocker listed Seznam (Czechia) on its leak site. Sector: Technology.</summary>
+    <category term="Medusalocker"/>
+  </entry>
+  <entry>
+    <title>Abv — Medusalocker</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/medusalocker/"/>
+    <id>tag:ransom.privtools.eu,2026-09-23:09ab71e27662ecc9</id>
+    <updated>2026-09-23T07:39:33Z</updated>
+    <summary>Medusalocker listed Abv (Bulgaria) on its leak site.</summary>
+    <category term="Medusalocker"/>
+  </entry>
   <entry>
     <title>W... B... — SilentRansomGroup</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
@@ -377,38 +409,6 @@
     <id>tag:ransom.privtools.eu,2026-09-21:c927628b6872def5</id>
     <updated>2026-09-21T13:08:14Z</updated>
     <summary>Metaencryptor listed Hudson MD Group, LLC (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Metaencryptor"/>
-  </entry>
-  <entry>
-    <title>Bruker Corporation — Metaencryptor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
-    <id>tag:ransom.privtools.eu,2026-09-21:c7bf459896290fc6</id>
-    <updated>2026-09-21T13:07:23Z</updated>
-    <summary>Metaencryptor listed Bruker Corporation (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Metaencryptor"/>
-  </entry>
-  <entry>
-    <title>Flex Ltd — Metaencryptor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
-    <id>tag:ransom.privtools.eu,2026-09-21:a95167be82590475</id>
-    <updated>2026-09-21T13:06:25Z</updated>
-    <summary>Metaencryptor listed Flex Ltd (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Metaencryptor"/>
-  </entry>
-  <entry>
-    <title>HyVision System. Inc — Metaencryptor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
-    <id>tag:ransom.privtools.eu,2026-09-21:648806ce75a2e1a7</id>
-    <updated>2026-09-21T13:05:38Z</updated>
-    <summary>Metaencryptor listed HyVision System. Inc (South Korea) on its leak site. Sector: Technology.</summary>
-    <category term="Metaencryptor"/>
-  </entry>
-  <entry>
-    <title>Visual Intelligence, Inc. — Metaencryptor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
-    <id>tag:ransom.privtools.eu,2026-09-21:c15e35be66fa8109</id>
-    <updated>2026-09-21T13:04:07Z</updated>
-    <summary>Metaencryptor listed Visual Intelligence, Inc. (United States) on its leak site. Sector: Technology.</summary>
     <category term="Metaencryptor"/>
   </entry>
 </feed>
