@@ -5,12 +5,92 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-23T13:24:53Z</updated>
+  <updated>2026-09-24T02:21:19Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Solucioning S.A. — Barracuda</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/barracuda/"/>
+    <id>tag:ransom.privtools.eu,2026-09-24:638dbbe5d3b5531c</id>
+    <updated>2026-09-24T02:21:19Z</updated>
+    <summary>Barracuda listed Solucioning S.A. (Argentina) on its leak site.</summary>
+    <category term="Barracuda"/>
+  </entry>
+  <entry>
+    <title>eTeam — EndZone</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-09-24:896e8741ebd55bfa</id>
+    <updated>2026-09-24T01:21:36Z</updated>
+    <summary>EndZone listed eTeam on its leak site. Sector: Professional Services.</summary>
+    <category term="EndZone"/>
+  </entry>
+  <entry>
+    <title>OnTrac — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-09-23:c8c7ca36b31eb052</id>
+    <updated>2026-09-23T20:51:04Z</updated>
+    <summary>Emperador listed OnTrac (United States) on its leak site. Sector: Transportation.</summary>
+    <category term="Emperador"/>
+  </entry>
+  <entry>
+    <title>Abtach Ltd. — Barracuda</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/barracuda/"/>
+    <id>tag:ransom.privtools.eu,2026-09-23:9bfcd0f8aca6565e</id>
+    <updated>2026-09-23T19:20:51Z</updated>
+    <summary>Barracuda listed Abtach Ltd. on its leak site.</summary>
+    <category term="Barracuda"/>
+  </entry>
+  <entry>
+    <title>goldstarfinancial.com — BrainCipher</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/braincipher/"/>
+    <id>tag:ransom.privtools.eu,2026-09-23:4e7d0eb241babc64</id>
+    <updated>2026-09-23T18:20:39Z</updated>
+    <summary>BrainCipher listed goldstarfinancial.com (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="BrainCipher"/>
+  </entry>
+  <entry>
+    <title>Tomix / Grupo JOPER — Spacebears</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/spacebears/"/>
+    <id>tag:ransom.privtools.eu,2026-09-23:48fa93e4a02e59cf</id>
+    <updated>2026-09-23T17:44:57Z</updated>
+    <summary>Spacebears listed Tomix / Grupo JOPER (Portugal) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Spacebears"/>
+  </entry>
+  <entry>
+    <title>vestfrostsolutions.com — Settra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
+    <id>tag:ransom.privtools.eu,2026-09-23:0875ad8a657e8a03</id>
+    <updated>2026-09-23T16:23:12Z</updated>
+    <summary>Settra listed vestfrostsolutions.com (Norway) on its leak site.</summary>
+    <category term="Settra"/>
+  </entry>
+  <entry>
+    <title>Legis — Rhysida</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
+    <id>tag:ransom.privtools.eu,2026-09-23:60617679a7050fe2</id>
+    <updated>2026-09-23T16:22:15Z</updated>
+    <summary>Rhysida listed Legis on its leak site. Sector: Professional Services.</summary>
+    <category term="Rhysida"/>
+  </entry>
+  <entry>
+    <title>ASYAD GROUP — Spirals</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-09-23:f48f7f6cc47b01c3</id>
+    <updated>2026-09-23T15:53:48Z</updated>
+    <summary>Spirals listed ASYAD GROUP (Oman) on its leak site. Sector: Transportation.</summary>
+    <category term="Spirals"/>
+  </entry>
+  <entry>
+    <title>Trump Mobile — EndZone</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-09-23:bfd0992b3cc3a173</id>
+    <updated>2026-09-23T15:21:01Z</updated>
+    <summary>EndZone listed Trump Mobile (United States) on its leak site. Sector: Technology.</summary>
+    <category term="EndZone"/>
+  </entry>
   <entry>
     <title>Urban Engineering — Akira</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
@@ -330,85 +410,5 @@
     <updated>2026-09-22T11:50:21Z</updated>
     <summary>AuditTeam listed Pr***IT (Italy) on its leak site. Sector: Professional Services.</summary>
     <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>Textile City — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-22:cd6db64060d7df88</id>
-    <updated>2026-09-22T11:12:13Z</updated>
-    <summary>Qilin listed Textile City (Canada) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Columbus Informatica — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-22:b440713eb77c77a5</id>
-    <updated>2026-09-22T10:18:01Z</updated>
-    <summary>Qilin listed Columbus Informatica (Italy) on its leak site. Sector: Technology.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>NAI Earle Furman — Secp0</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-09-22:79871496327bd7c7</id>
-    <updated>2026-09-22T03:38:30Z</updated>
-    <summary>Secp0 listed NAI Earle Furman (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Secp0"/>
-  </entry>
-  <entry>
-    <title>Sealcon — Termite</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/termite/"/>
-    <id>tag:ransom.privtools.eu,2026-09-22:928b0728b16a99e5</id>
-    <updated>2026-09-22T02:45:36Z</updated>
-    <summary>Termite listed Sealcon (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Termite"/>
-  </entry>
-  <entry>
-    <title>FinSoft (Kolibri retail back-office software) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-09-22:8397d76bd70ef96f</id>
-    <updated>2026-09-22T01:51:38Z</updated>
-    <summary>N0n listed FinSoft (Kolibri retail back-office software) (Uzbekistan) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>TruAmerica Multifamily — Termite</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/termite/"/>
-    <id>tag:ransom.privtools.eu,2026-09-22:0fb77eac3fe8eb59</id>
-    <updated>2026-09-22T01:45:30Z</updated>
-    <summary>Termite listed TruAmerica Multifamily (United States) on its leak site.</summary>
-    <category term="Termite"/>
-  </entry>
-  <entry>
-    <title>theLender — Termite</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/termite/"/>
-    <id>tag:ransom.privtools.eu,2026-09-22:53be2a9baacb0c9c</id>
-    <updated>2026-09-22T01:44:58Z</updated>
-    <summary>Termite listed theLender (United States) on its leak site. Sector: Financial Services.</summary>
-    <category term="Termite"/>
-  </entry>
-  <entry>
-    <title>Metallco — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-09-21:3f7f16867d021c86</id>
-    <updated>2026-09-21T22:16:54Z</updated>
-    <summary>Play listed Metallco (Brazil) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Play"/>
-  </entry>
-  <entry>
-    <title>Hurley — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-09-21:e4756505170665d6</id>
-    <updated>2026-09-21T22:16:19Z</updated>
-    <summary>Play listed Hurley (United States) on its leak site.</summary>
-    <category term="Play"/>
-  </entry>
-  <entry>
-    <title>Astemo, Ltd. — Metaencryptor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
-    <id>tag:ransom.privtools.eu,2026-09-21:135212fcc360c0d0</id>
-    <updated>2026-09-21T22:14:32Z</updated>
-    <summary>Metaencryptor listed Astemo, Ltd. (Japan) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Metaencryptor"/>
   </entry>
 </feed>
