@@ -5,12 +5,60 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-25T03:21:46Z</updated>
+  <updated>2026-09-25T13:24:43Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Majani Insurance Brokers — Vexy Ransomware</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:b25d10ff579a03e1</id>
+    <updated>2026-09-25T13:24:43Z</updated>
+    <summary>Vexy Ransomware listed Majani Insurance Brokers (Kenya) on its leak site. Sector: Financial Services.</summary>
+    <category term="Vexy Ransomware"/>
+  </entry>
+  <entry>
+    <title>Iberia Compositech Manufacturing — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:508eda311bf638ac</id>
+    <updated>2026-09-25T12:48:32Z</updated>
+    <summary>Qilin listed Iberia Compositech Manufacturing (Spain) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>taspenlife.com — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:2686b81df9345a1a</id>
+    <updated>2026-09-25T12:40:42Z</updated>
+    <summary>Lockbit5 listed taspenlife.com (Kazakhstan) on its leak site. Sector: Healthcare.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>anery.com.br — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:036b3b7f8a0e4b00</id>
+    <updated>2026-09-25T12:38:34Z</updated>
+    <summary>Lockbit5 listed anery.com.br (Brazil) on its leak site. Sector: Agriculture and Food Production.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>corisricambi.it — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:4ce04ca8daf1c37e</id>
+    <updated>2026-09-25T12:36:29Z</updated>
+    <summary>Lockbit5 listed corisricambi.it (Italy) on its leak site.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>pharma5.ma — Incransom</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:38a9e942aa07efce</id>
+    <updated>2026-09-25T10:33:40Z</updated>
+    <summary>Incransom listed pharma5.ma (Morocco) on its leak site. Sector: Healthcare.</summary>
+    <category term="Incransom"/>
+  </entry>
   <entry>
     <title>TapClicks (marketing analytics platform) — N0n</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
@@ -362,53 +410,5 @@
     <updated>2026-09-23T15:21:01Z</updated>
     <summary>EndZone listed Trump Mobile (United States) on its leak site. Sector: Technology.</summary>
     <category term="EndZone"/>
-  </entry>
-  <entry>
-    <title>Urban Engineering — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-09-23:84fecf1e6ffa0b39</id>
-    <updated>2026-09-23T13:24:53Z</updated>
-    <summary>Akira listed Urban Engineering on its leak site. Sector: Manufacturing.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>Lemon Law — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-09-23:628b180c7ce38b9e</id>
-    <updated>2026-09-23T12:47:50Z</updated>
-    <summary>Incransom listed Lemon Law (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>HIT dd — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-09-23:ee6b345210d7f9e6</id>
-    <updated>2026-09-23T12:23:35Z</updated>
-    <summary>Akira listed HIT dd on its leak site.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>Apex Litigation Support — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-09-23:0d8247597d18a84f</id>
-    <updated>2026-09-23T12:23:15Z</updated>
-    <summary>Akira listed Apex Litigation Support on its leak site. Sector: Professional Services.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>Inkript — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-23:c4b893fd3b414b31</id>
-    <updated>2026-09-23T11:51:41Z</updated>
-    <summary>Qilin listed Inkript on its leak site. Sector: Technology.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>AGROFRUTO SAC — Arcusmedia</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/arcusmedia/"/>
-    <id>tag:ransom.privtools.eu,2026-09-23:f3bde9b1bc0e43d9</id>
-    <updated>2026-09-23T10:24:53Z</updated>
-    <summary>Arcusmedia listed AGROFRUTO SAC (Peru) on its leak site. Sector: Agriculture and Food Production.</summary>
-    <category term="Arcusmedia"/>
   </entry>
 </feed>
