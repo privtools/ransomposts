@@ -5,12 +5,156 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-25T13:24:43Z</updated>
+  <updated>2026-09-26T00:43:37Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Crossett — Termite</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/termite/"/>
+    <id>tag:ransom.privtools.eu,2026-09-26:0bd6b53ed45f121c</id>
+    <updated>2026-09-26T00:43:37Z</updated>
+    <summary>Termite listed Crossett (United States) on its leak site.</summary>
+    <category term="Termite"/>
+  </entry>
+  <entry>
+    <title>N... — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:d5785c00029e09b9</id>
+    <updated>2026-09-25T19:28:34Z</updated>
+    <summary>SilentRansomGroup listed N... on its leak site.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>S... — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:c24b41d533c3e237</id>
+    <updated>2026-09-25T19:27:29Z</updated>
+    <summary>SilentRansomGroup listed S... on its leak site.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>GE Vernova Inc. — Metaencryptor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:6aa4efe01d8ca1d0</id>
+    <updated>2026-09-25T19:01:27Z</updated>
+    <summary>Metaencryptor listed GE Vernova Inc. (United States) on its leak site. Sector: Energy &amp; Utilities.</summary>
+    <category term="Metaencryptor"/>
+  </entry>
+  <entry>
+    <title>PKF Hadiwinata — Metaencryptor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:96fd7c0ecd8aab47</id>
+    <updated>2026-09-25T19:00:47Z</updated>
+    <summary>Metaencryptor listed PKF Hadiwinata (Indonesia) on its leak site. Sector: Professional Services.</summary>
+    <category term="Metaencryptor"/>
+  </entry>
+  <entry>
+    <title>Platinum Healthcare Staffing — Metaencryptor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:8a655a58ecac8c65</id>
+    <updated>2026-09-25T19:00:09Z</updated>
+    <summary>Metaencryptor listed Platinum Healthcare Staffing (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Metaencryptor"/>
+  </entry>
+  <entry>
+    <title>Electrolux &amp; Ontrac — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:f265efed0a3243a4</id>
+    <updated>2026-09-25T17:51:02Z</updated>
+    <summary>Emperador listed Electrolux &amp; Ontrac on its leak site. Sector: Manufacturing.</summary>
+    <category term="Emperador"/>
+  </entry>
+  <entry>
+    <title>Securitas Group — Everest</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:0c3cd0a33d42bde3</id>
+    <updated>2026-09-25T16:29:00Z</updated>
+    <summary>Everest listed Securitas Group (Sweden) on its leak site. Sector: Professional Services.</summary>
+    <category term="Everest"/>
+  </entry>
+  <entry>
+    <title>Morula IVF — Everest</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:78d4fe4100bbebfc</id>
+    <updated>2026-09-25T16:28:05Z</updated>
+    <summary>Everest listed Morula IVF (South Africa) on its leak site. Sector: Healthcare.</summary>
+    <category term="Everest"/>
+  </entry>
+  <entry>
+    <title>Tobin &amp; Company — Wallstreet</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:7356a6953f1b3e90</id>
+    <updated>2026-09-25T15:53:56Z</updated>
+    <summary>Wallstreet listed Tobin &amp; Company (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="Wallstreet"/>
+  </entry>
+  <entry>
+    <title>Ar Valve Resources — Wallstreet</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:9bdca67e4ea5bcb5</id>
+    <updated>2026-09-25T15:53:37Z</updated>
+    <summary>Wallstreet listed Ar Valve Resources (United Kingdom) on its leak site. Sector: Energy &amp; Utilities.</summary>
+    <category term="Wallstreet"/>
+  </entry>
+  <entry>
+    <title>GTFM — Wallstreet</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:c3d87e2afff6c327</id>
+    <updated>2026-09-25T15:53:17Z</updated>
+    <summary>Wallstreet listed GTFM (United States) on its leak site.</summary>
+    <category term="Wallstreet"/>
+  </entry>
+  <entry>
+    <title>Beatus Cartons — Wallstreet</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:743760593e571a02</id>
+    <updated>2026-09-25T15:52:58Z</updated>
+    <summary>Wallstreet listed Beatus Cartons (United Kingdom) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Wallstreet"/>
+  </entry>
+  <entry>
+    <title>Reliance Audit — Everest</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:a8ac95d4c6a239d9</id>
+    <updated>2026-09-25T15:34:31Z</updated>
+    <summary>Everest listed Reliance Audit on its leak site. Sector: Professional Services.</summary>
+    <category term="Everest"/>
+  </entry>
+  <entry>
+    <title>UNIRITA — Everest</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:726ef4ff92d8febf</id>
+    <updated>2026-09-25T15:33:52Z</updated>
+    <summary>Everest listed UNIRITA (Japan) on its leak site. Sector: Technology.</summary>
+    <category term="Everest"/>
+  </entry>
+  <entry>
+    <title>CENELEC — Everest</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:e1f26b31957b7dec</id>
+    <updated>2026-09-25T15:33:13Z</updated>
+    <summary>Everest listed CENELEC (Belgium) on its leak site. Sector: Professional Services.</summary>
+    <category term="Everest"/>
+  </entry>
+  <entry>
+    <title>ETS — Everest</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:a30181003f3e1157</id>
+    <updated>2026-09-25T15:32:32Z</updated>
+    <summary>Everest listed ETS on its leak site. Sector: Education.</summary>
+    <category term="Everest"/>
+  </entry>
+  <entry>
+    <title>Breast Implant Center of Hawaii — Wallstreet</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
+    <id>tag:ransom.privtools.eu,2026-09-25:43c6099b31a7560f</id>
+    <updated>2026-09-25T15:25:13Z</updated>
+    <summary>Wallstreet listed Breast Implant Center of Hawaii (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Wallstreet"/>
+  </entry>
   <entry>
     <title>Majani Insurance Brokers — Vexy Ransomware</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
@@ -266,149 +410,5 @@
     <updated>2026-09-24T11:56:35Z</updated>
     <summary>Dragonforce listed winfashion on its leak site. Sector: Retail &amp; E-Commerce.</summary>
     <category term="Dragonforce"/>
-  </entry>
-  <entry>
-    <title>agiliance.fr — ZaWoo</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/zawoo/"/>
-    <id>tag:ransom.privtools.eu,2026-09-24:f1bf62bc40d92481</id>
-    <updated>2026-09-24T10:54:46Z</updated>
-    <summary>ZaWoo listed agiliance.fr (France) on its leak site. Sector: Professional Services.</summary>
-    <category term="ZaWoo"/>
-  </entry>
-  <entry>
-    <title>www.francare.com — ZaWoo</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/zawoo/"/>
-    <id>tag:ransom.privtools.eu,2026-09-24:a85ab7ebda1a28c3</id>
-    <updated>2026-09-24T10:54:11Z</updated>
-    <summary>ZaWoo listed www.francare.com (France) on its leak site. Sector: Healthcare.</summary>
-    <category term="ZaWoo"/>
-  </entry>
-  <entry>
-    <title>amb-pvc.com — ZaWoo</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/zawoo/"/>
-    <id>tag:ransom.privtools.eu,2026-09-24:709899dbb0a48de9</id>
-    <updated>2026-09-24T10:53:34Z</updated>
-    <summary>ZaWoo listed amb-pvc.com (France) on its leak site. Sector: Manufacturing.</summary>
-    <category term="ZaWoo"/>
-  </entry>
-  <entry>
-    <title>Arizona Vascular Medical Equipment, Inc — Dragonforce</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dragonforce/"/>
-    <id>tag:ransom.privtools.eu,2026-09-24:7e43afc191f598d6</id>
-    <updated>2026-09-24T10:00:20Z</updated>
-    <summary>Dragonforce listed Arizona Vascular Medical Equipment, Inc (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Dragonforce"/>
-  </entry>
-  <entry>
-    <title>BMGP Groupe — Dragonforce</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dragonforce/"/>
-    <id>tag:ransom.privtools.eu,2026-09-24:3889e218b56e5268</id>
-    <updated>2026-09-24T09:59:19Z</updated>
-    <summary>Dragonforce listed BMGP Groupe (France) on its leak site.</summary>
-    <category term="Dragonforce"/>
-  </entry>
-  <entry>
-    <title>Elite Industech Co., Ltd — Dragonforce</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dragonforce/"/>
-    <id>tag:ransom.privtools.eu,2026-09-24:04516644d31fc482</id>
-    <updated>2026-09-24T09:58:17Z</updated>
-    <summary>Dragonforce listed Elite Industech Co., Ltd (Thailand) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Dragonforce"/>
-  </entry>
-  <entry>
-    <title>HEC Group — Dragonforce</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dragonforce/"/>
-    <id>tag:ransom.privtools.eu,2026-09-24:a0778e42b6ab9626</id>
-    <updated>2026-09-24T09:57:15Z</updated>
-    <summary>Dragonforce listed HEC Group (Taiwan) on its leak site.</summary>
-    <category term="Dragonforce"/>
-  </entry>
-  <entry>
-    <title>Final statement re PSA — Shinyhunters</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/shinyhunters/"/>
-    <id>tag:ransom.privtools.eu,2026-09-24:d54b1a308e5681a2</id>
-    <updated>2026-09-24T08:44:48Z</updated>
-    <summary>Shinyhunters listed Final statement re PSA on its leak site.</summary>
-    <category term="Shinyhunters"/>
-  </entry>
-  <entry>
-    <title>Solucioning S.A. — Barracuda</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/barracuda/"/>
-    <id>tag:ransom.privtools.eu,2026-09-24:638dbbe5d3b5531c</id>
-    <updated>2026-09-24T02:21:19Z</updated>
-    <summary>Barracuda listed Solucioning S.A. (Argentina) on its leak site.</summary>
-    <category term="Barracuda"/>
-  </entry>
-  <entry>
-    <title>eTeam — EndZone</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-09-24:896e8741ebd55bfa</id>
-    <updated>2026-09-24T01:21:36Z</updated>
-    <summary>EndZone listed eTeam on its leak site. Sector: Professional Services.</summary>
-    <category term="EndZone"/>
-  </entry>
-  <entry>
-    <title>OnTrac — Emperador</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
-    <id>tag:ransom.privtools.eu,2026-09-23:c8c7ca36b31eb052</id>
-    <updated>2026-09-23T20:51:04Z</updated>
-    <summary>Emperador listed OnTrac (United States) on its leak site. Sector: Transportation.</summary>
-    <category term="Emperador"/>
-  </entry>
-  <entry>
-    <title>Abtach Ltd. — Barracuda</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/barracuda/"/>
-    <id>tag:ransom.privtools.eu,2026-09-23:9bfcd0f8aca6565e</id>
-    <updated>2026-09-23T19:20:51Z</updated>
-    <summary>Barracuda listed Abtach Ltd. on its leak site.</summary>
-    <category term="Barracuda"/>
-  </entry>
-  <entry>
-    <title>goldstarfinancial.com — BrainCipher</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/braincipher/"/>
-    <id>tag:ransom.privtools.eu,2026-09-23:4e7d0eb241babc64</id>
-    <updated>2026-09-23T18:20:39Z</updated>
-    <summary>BrainCipher listed goldstarfinancial.com (United States) on its leak site. Sector: Financial Services.</summary>
-    <category term="BrainCipher"/>
-  </entry>
-  <entry>
-    <title>Tomix / Grupo JOPER — Spacebears</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/spacebears/"/>
-    <id>tag:ransom.privtools.eu,2026-09-23:48fa93e4a02e59cf</id>
-    <updated>2026-09-23T17:44:57Z</updated>
-    <summary>Spacebears listed Tomix / Grupo JOPER (Portugal) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Spacebears"/>
-  </entry>
-  <entry>
-    <title>vestfrostsolutions.com — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-09-23:0875ad8a657e8a03</id>
-    <updated>2026-09-23T16:23:12Z</updated>
-    <summary>Settra listed vestfrostsolutions.com (Norway) on its leak site.</summary>
-    <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>Legis — Rhysida</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
-    <id>tag:ransom.privtools.eu,2026-09-23:60617679a7050fe2</id>
-    <updated>2026-09-23T16:22:15Z</updated>
-    <summary>Rhysida listed Legis on its leak site. Sector: Professional Services.</summary>
-    <category term="Rhysida"/>
-  </entry>
-  <entry>
-    <title>ASYAD GROUP — Spirals</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-09-23:f48f7f6cc47b01c3</id>
-    <updated>2026-09-23T15:53:48Z</updated>
-    <summary>Spirals listed ASYAD GROUP (Oman) on its leak site. Sector: Transportation.</summary>
-    <category term="Spirals"/>
-  </entry>
-  <entry>
-    <title>Trump Mobile — EndZone</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-09-23:bfd0992b3cc3a173</id>
-    <updated>2026-09-23T15:21:01Z</updated>
-    <summary>EndZone listed Trump Mobile (United States) on its leak site. Sector: Technology.</summary>
-    <category term="EndZone"/>
   </entry>
 </feed>
