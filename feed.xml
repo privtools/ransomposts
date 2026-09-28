@@ -5,12 +5,132 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-28T05:51:12Z</updated>
+  <updated>2026-09-28T14:55:10Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Geebee Garments — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:bbf1a4af161968d2</id>
+    <updated>2026-09-28T14:55:10Z</updated>
+    <summary>Akira listed Geebee Garments on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Knit — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:226b406fc392caae</id>
+    <updated>2026-09-28T14:25:30Z</updated>
+    <summary>Akira listed Knit on its leak site. Sector: Technology.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>SKLG — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:7d38a48c73fa9bbe</id>
+    <updated>2026-09-28T14:03:31Z</updated>
+    <summary>Qilin listed SKLG (Japan) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>ATCO Ltd — Medusalocker</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/medusalocker/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:7a4b3c9a5eff93c6</id>
+    <updated>2026-09-28T10:59:30Z</updated>
+    <summary>Medusalocker listed ATCO Ltd (Canada) on its leak site. Sector: Energy &amp; Utilities.</summary>
+    <category term="Medusalocker"/>
+  </entry>
+  <entry>
+    <title>Kellys Home Center — Pear</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pear/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:dddbf79cb2d94ad1</id>
+    <updated>2026-09-28T10:01:39Z</updated>
+    <summary>Pear listed Kellys Home Center (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Pear"/>
+  </entry>
+  <entry>
+    <title>Nissho Electric Manufacturing Co., Ltd. — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:7883ca38b709d4be</id>
+    <updated>2026-09-28T08:59:05Z</updated>
+    <summary>Qilin listed Nissho Electric Manufacturing Co., Ltd. (Japan) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>manno.ch — Safepay</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:fca302cf700665f9</id>
+    <updated>2026-09-28T08:34:02Z</updated>
+    <summary>Safepay listed manno.ch (Switzerland) on its leak site.</summary>
+    <category term="Safepay"/>
+  </entry>
+  <entry>
+    <title>auromex.com — Safepay</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:2e83cdbcf1d51f9c</id>
+    <updated>2026-09-28T08:33:27Z</updated>
+    <summary>Safepay listed auromex.com (Mexico) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Safepay"/>
+  </entry>
+  <entry>
+    <title>cromados.com — Safepay</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:148ab211d8dc152b</id>
+    <updated>2026-09-28T08:32:52Z</updated>
+    <summary>Safepay listed cromados.com (Spain) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Safepay"/>
+  </entry>
+  <entry>
+    <title>lfgholding.com — Safepay</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:5c9abb6c24402005</id>
+    <updated>2026-09-28T07:33:24Z</updated>
+    <summary>Safepay listed lfgholding.com (Switzerland) on its leak site.</summary>
+    <category term="Safepay"/>
+  </entry>
+  <entry>
+    <title>fedelmundo.com.ph — Safepay</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:1cfd001a39fd7349</id>
+    <updated>2026-09-28T07:32:49Z</updated>
+    <summary>Safepay listed fedelmundo.com.ph (Philippines) on its leak site.</summary>
+    <category term="Safepay"/>
+  </entry>
+  <entry>
+    <title>bio-strath.com — Safepay</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:7e80e56d985a4622</id>
+    <updated>2026-09-28T07:32:13Z</updated>
+    <summary>Safepay listed bio-strath.com (Switzerland) on its leak site. Sector: Healthcare.</summary>
+    <category term="Safepay"/>
+  </entry>
+  <entry>
+    <title>sumperk.cz — Safepay</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:5d183125fb240477</id>
+    <updated>2026-09-28T07:31:38Z</updated>
+    <summary>Safepay listed sumperk.cz (Czechia) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Safepay"/>
+  </entry>
+  <entry>
+    <title>eagroep.com — Safepay</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:6bb11f82dca75a81</id>
+    <updated>2026-09-28T07:31:04Z</updated>
+    <summary>Safepay listed eagroep.com (Netherlands) on its leak site. Sector: Agriculture and Food Production.</summary>
+    <category term="Safepay"/>
+  </entry>
+  <entry>
+    <title>Holiday Inn Vilnius — Safepay</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:6ac692e99d5c4cc7</id>
+    <updated>2026-09-28T07:30:29Z</updated>
+    <summary>Safepay listed Holiday Inn Vilnius (Lithuania) on its leak site. Sector: Hospitality.</summary>
+    <category term="Safepay"/>
+  </entry>
   <entry>
     <title>Dediserve Ltd — N0n</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
@@ -290,125 +410,5 @@
     <updated>2026-09-26T08:45:10Z</updated>
     <summary>Thegentlemen listed Brancoptica (Portugal) on its leak site.</summary>
     <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Craisa — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-09-26:670b1cf96a4af42d</id>
-    <updated>2026-09-26T08:44:49Z</updated>
-    <summary>Thegentlemen listed Craisa on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Crystal Glass — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-09-26:72919af5b8ba9ab2</id>
-    <updated>2026-09-26T08:44:28Z</updated>
-    <summary>Thegentlemen listed Crystal Glass (United Kingdom) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Pajulahti — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-09-26:8f7df4bf67d91194</id>
-    <updated>2026-09-26T08:44:07Z</updated>
-    <summary>Thegentlemen listed Pajulahti (Finland) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Ligue se Grupo — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-09-26:a99bc152a4c420f6</id>
-    <updated>2026-09-26T08:43:46Z</updated>
-    <summary>Thegentlemen listed Ligue se Grupo (Portugal) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Charles Keith — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-09-26:c6237b9456b5d2b6</id>
-    <updated>2026-09-26T08:43:25Z</updated>
-    <summary>Thegentlemen listed Charles Keith (Singapore) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>ENKEI******* — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-09-26:61c8ff49b114dc19</id>
-    <updated>2026-09-26T08:43:03Z</updated>
-    <summary>Thegentlemen listed ENKEI******* on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>FTAPI Software — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-09-26:f859518c4df3472e</id>
-    <updated>2026-09-26T08:42:43Z</updated>
-    <summary>Thegentlemen listed FTAPI Software (United States) on its leak site. Sector: Technology.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Crossett — Termite</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/termite/"/>
-    <id>tag:ransom.privtools.eu,2026-09-26:0bd6b53ed45f121c</id>
-    <updated>2026-09-26T00:43:37Z</updated>
-    <summary>Termite listed Crossett (United States) on its leak site.</summary>
-    <category term="Termite"/>
-  </entry>
-  <entry>
-    <title>N... — SilentRansomGroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:d5785c00029e09b9</id>
-    <updated>2026-09-25T19:28:34Z</updated>
-    <summary>SilentRansomGroup listed N... on its leak site.</summary>
-    <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>S... — SilentRansomGroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:c24b41d533c3e237</id>
-    <updated>2026-09-25T19:27:29Z</updated>
-    <summary>SilentRansomGroup listed S... on its leak site.</summary>
-    <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>GE Vernova Inc. — Metaencryptor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:6aa4efe01d8ca1d0</id>
-    <updated>2026-09-25T19:01:27Z</updated>
-    <summary>Metaencryptor listed GE Vernova Inc. (United States) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Metaencryptor"/>
-  </entry>
-  <entry>
-    <title>PKF Hadiwinata — Metaencryptor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:96fd7c0ecd8aab47</id>
-    <updated>2026-09-25T19:00:47Z</updated>
-    <summary>Metaencryptor listed PKF Hadiwinata (Indonesia) on its leak site. Sector: Professional Services.</summary>
-    <category term="Metaencryptor"/>
-  </entry>
-  <entry>
-    <title>Platinum Healthcare Staffing — Metaencryptor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:8a655a58ecac8c65</id>
-    <updated>2026-09-25T19:00:09Z</updated>
-    <summary>Metaencryptor listed Platinum Healthcare Staffing (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Metaencryptor"/>
-  </entry>
-  <entry>
-    <title>Electrolux &amp; Ontrac — Emperador</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:f265efed0a3243a4</id>
-    <updated>2026-09-25T17:51:02Z</updated>
-    <summary>Emperador listed Electrolux &amp; Ontrac on its leak site. Sector: Manufacturing.</summary>
-    <category term="Emperador"/>
-  </entry>
-  <entry>
-    <title>Securitas Group — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:0c3cd0a33d42bde3</id>
-    <updated>2026-09-25T16:29:00Z</updated>
-    <summary>Everest listed Securitas Group (Sweden) on its leak site. Sector: Professional Services.</summary>
-    <category term="Everest"/>
   </entry>
 </feed>
