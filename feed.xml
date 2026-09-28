@@ -5,12 +5,124 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-09-27T09:51:32Z</updated>
+  <updated>2026-09-28T05:51:12Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Dediserve Ltd — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:8828b5ae3cf70782</id>
+    <updated>2026-09-28T05:51:12Z</updated>
+    <summary>N0n listed Dediserve Ltd (United Kingdom) on its leak site. Sector: Technology.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>SiteProRentals — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:8dea37884f4cf708</id>
+    <updated>2026-09-28T02:51:39Z</updated>
+    <summary>Emperador listed SiteProRentals on its leak site. Sector: Hospitality.</summary>
+    <category term="Emperador"/>
+  </entry>
+  <entry>
+    <title>Electrolux 2... — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:8eea428568853769</id>
+    <updated>2026-09-28T02:51:03Z</updated>
+    <summary>Emperador listed Electrolux 2... (Sweden) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Emperador"/>
+  </entry>
+  <entry>
+    <title>SMCare — Panzer</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:24df21bac7722b2e</id>
+    <updated>2026-09-28T01:22:48Z</updated>
+    <summary>Panzer listed SMCare on its leak site. Sector: Healthcare.</summary>
+    <category term="Panzer"/>
+  </entry>
+  <entry>
+    <title>AHEAD — Incransom</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:463c1fe22253b3f2</id>
+    <updated>2026-09-28T00:35:17Z</updated>
+    <summary>Incransom listed AHEAD (United States) on its leak site.</summary>
+    <category term="Incransom"/>
+  </entry>
+  <entry>
+    <title>nsbsd.org — Incransom</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
+    <id>tag:ransom.privtools.eu,2026-09-28:3515e3edf6077975</id>
+    <updated>2026-09-28T00:34:42Z</updated>
+    <summary>Incransom listed nsbsd.org (United States) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="Incransom"/>
+  </entry>
+  <entry>
+    <title>Asesoría FAR — Panzer</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
+    <id>tag:ransom.privtools.eu,2026-09-27:db1dec24358bbaf7</id>
+    <updated>2026-09-27T22:25:06Z</updated>
+    <summary>Panzer listed Asesoría FAR on its leak site. Sector: Professional Services.</summary>
+    <category term="Panzer"/>
+  </entry>
+  <entry>
+    <title>Ressources Si — Panzer</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
+    <id>tag:ransom.privtools.eu,2026-09-27:2e1633eca5deb30f</id>
+    <updated>2026-09-27T22:24:33Z</updated>
+    <summary>Panzer listed Ressources Si (France) on its leak site. Sector: Professional Services.</summary>
+    <category term="Panzer"/>
+  </entry>
+  <entry>
+    <title>First Secure Bank Group — Storm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
+    <id>tag:ransom.privtools.eu,2026-09-27:50c358c81a1bc161</id>
+    <updated>2026-09-27T17:53:23Z</updated>
+    <summary>Storm listed First Secure Bank Group (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="Storm"/>
+  </entry>
+  <entry>
+    <title>XICO — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-27:2724aaa90bfe4e72</id>
+    <updated>2026-09-27T17:03:11Z</updated>
+    <summary>Qilin listed XICO (Mexico) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Island — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-27:c70cbab0f5a4c7e9</id>
+    <updated>2026-09-27T17:02:29Z</updated>
+    <summary>Qilin listed Island (Canada) on its leak site. Sector: Technology.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Revenga Smart Solutions — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-27:c0dc6e7ce5fabbce</id>
+    <updated>2026-09-27T16:06:05Z</updated>
+    <summary>Qilin listed Revenga Smart Solutions (Spain) on its leak site. Sector: Technology.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Willatt &amp; Flickinger — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-09-27:52338fc7f90fdc47</id>
+    <updated>2026-09-27T16:05:11Z</updated>
+    <summary>Qilin listed Willatt &amp; Flickinger (United States) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Pantaneiro Capas — Arcusmedia</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/arcusmedia/"/>
+    <id>tag:ransom.privtools.eu,2026-09-27:7d1cbfede22a4a84</id>
+    <updated>2026-09-27T13:53:21Z</updated>
+    <summary>Arcusmedia listed Pantaneiro Capas (Brazil) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Arcusmedia"/>
+  </entry>
   <entry>
     <title>Car Service Abschlepp — Emperador</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
@@ -298,117 +410,5 @@
     <updated>2026-09-25T16:29:00Z</updated>
     <summary>Everest listed Securitas Group (Sweden) on its leak site. Sector: Professional Services.</summary>
     <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>Morula IVF — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:78d4fe4100bbebfc</id>
-    <updated>2026-09-25T16:28:05Z</updated>
-    <summary>Everest listed Morula IVF (South Africa) on its leak site. Sector: Healthcare.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>Tobin &amp; Company — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:7356a6953f1b3e90</id>
-    <updated>2026-09-25T15:53:56Z</updated>
-    <summary>Wallstreet listed Tobin &amp; Company (United States) on its leak site. Sector: Financial Services.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>Ar Valve Resources — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:9bdca67e4ea5bcb5</id>
-    <updated>2026-09-25T15:53:37Z</updated>
-    <summary>Wallstreet listed Ar Valve Resources (United Kingdom) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>GTFM — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:c3d87e2afff6c327</id>
-    <updated>2026-09-25T15:53:17Z</updated>
-    <summary>Wallstreet listed GTFM (United States) on its leak site.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>Beatus Cartons — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:743760593e571a02</id>
-    <updated>2026-09-25T15:52:58Z</updated>
-    <summary>Wallstreet listed Beatus Cartons (United Kingdom) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>Reliance Audit — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:a8ac95d4c6a239d9</id>
-    <updated>2026-09-25T15:34:31Z</updated>
-    <summary>Everest listed Reliance Audit on its leak site. Sector: Professional Services.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>UNIRITA — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:726ef4ff92d8febf</id>
-    <updated>2026-09-25T15:33:52Z</updated>
-    <summary>Everest listed UNIRITA (Japan) on its leak site. Sector: Technology.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>CENELEC — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:e1f26b31957b7dec</id>
-    <updated>2026-09-25T15:33:13Z</updated>
-    <summary>Everest listed CENELEC (Belgium) on its leak site. Sector: Professional Services.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>ETS — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:a30181003f3e1157</id>
-    <updated>2026-09-25T15:32:32Z</updated>
-    <summary>Everest listed ETS on its leak site. Sector: Education.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>Breast Implant Center of Hawaii — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:43c6099b31a7560f</id>
-    <updated>2026-09-25T15:25:13Z</updated>
-    <summary>Wallstreet listed Breast Implant Center of Hawaii (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>Majani Insurance Brokers — Vexy Ransomware</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:b25d10ff579a03e1</id>
-    <updated>2026-09-25T13:24:43Z</updated>
-    <summary>Vexy Ransomware listed Majani Insurance Brokers (Kenya) on its leak site. Sector: Financial Services.</summary>
-    <category term="Vexy Ransomware"/>
-  </entry>
-  <entry>
-    <title>Iberia Compositech Manufacturing — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:508eda311bf638ac</id>
-    <updated>2026-09-25T12:48:32Z</updated>
-    <summary>Qilin listed Iberia Compositech Manufacturing (Spain) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>taspenlife.com — Lockbit5</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:2686b81df9345a1a</id>
-    <updated>2026-09-25T12:40:42Z</updated>
-    <summary>Lockbit5 listed taspenlife.com (Kazakhstan) on its leak site. Sector: Healthcare.</summary>
-    <category term="Lockbit5"/>
-  </entry>
-  <entry>
-    <title>anery.com.br — Lockbit5</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
-    <id>tag:ransom.privtools.eu,2026-09-25:036b3b7f8a0e4b00</id>
-    <updated>2026-09-25T12:38:34Z</updated>
-    <summary>Lockbit5 listed anery.com.br (Brazil) on its leak site. Sector: Agriculture and Food Production.</summary>
-    <category term="Lockbit5"/>
   </entry>
 </feed>
