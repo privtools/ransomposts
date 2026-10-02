@@ -5,12 +5,84 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-01T14:50:50Z</updated>
+  <updated>2026-10-02T04:50:21Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Automovil Club del Ecuador ANETA — Barracuda</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/barracuda/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:073b915ac33b24e3</id>
+    <updated>2026-10-02T04:50:21Z</updated>
+    <summary>Barracuda listed Automovil Club del Ecuador ANETA (Ecuador) on its leak site. Sector: Transportation.</summary>
+    <category term="Barracuda"/>
+  </entry>
+  <entry>
+    <title>Sangre de Cristo Electric Association — Incransom</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:dc95fa87f29fce07</id>
+    <updated>2026-10-02T01:33:07Z</updated>
+    <summary>Incransom listed Sangre de Cristo Electric Association (United States) on its leak site. Sector: Energy &amp; Utilities.</summary>
+    <category term="Incransom"/>
+  </entry>
+  <entry>
+    <title>Main Place Mall — Netrunner</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:941d145e6bfc86d7</id>
+    <updated>2026-10-02T00:05:15Z</updated>
+    <summary>Netrunner listed Main Place Mall (Malaysia) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Netrunner"/>
+  </entry>
+  <entry>
+    <title>EURODITEL/RESOTELECOM — Krybit</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/krybit/"/>
+    <id>tag:ransom.privtools.eu,2026-10-01:5c1ad8676f42f4c0</id>
+    <updated>2026-10-01T21:33:33Z</updated>
+    <summary>Krybit listed EURODITEL/RESOTELECOM (France) on its leak site. Sector: Technology.</summary>
+    <category term="Krybit"/>
+  </entry>
+  <entry>
+    <title>Hospital Hermilio Valdizán — Ransomhouse</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/ransomhouse/"/>
+    <id>tag:ransom.privtools.eu,2026-10-01:8e23de3feab24103</id>
+    <updated>2026-10-01T21:05:18Z</updated>
+    <summary>Ransomhouse listed Hospital Hermilio Valdizán (Peru) on its leak site. Sector: Healthcare.</summary>
+    <category term="Ransomhouse"/>
+  </entry>
+  <entry>
+    <title>Slate Valley Unified School District — Kairos</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/kairos/"/>
+    <id>tag:ransom.privtools.eu,2026-10-01:f8744914746a5422</id>
+    <updated>2026-10-01T19:00:23Z</updated>
+    <summary>Kairos listed Slate Valley Unified School District (United States) on its leak site. Sector: Education.</summary>
+    <category term="Kairos"/>
+  </entry>
+  <entry>
+    <title>steelco — AuditTeam</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
+    <id>tag:ransom.privtools.eu,2026-10-01:7f60c9257d3da6d3</id>
+    <updated>2026-10-01T15:20:36Z</updated>
+    <summary>AuditTeam listed steelco (Italy) on its leak site. Sector: Manufacturing.</summary>
+    <category term="AuditTeam"/>
+  </entry>
+  <entry>
+    <title>ProMind IT — AuditTeam</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
+    <id>tag:ransom.privtools.eu,2026-10-01:05e9f94271fcd641</id>
+    <updated>2026-10-01T15:20:22Z</updated>
+    <summary>AuditTeam listed ProMind IT (Italy) on its leak site. Sector: Technology.</summary>
+    <category term="AuditTeam"/>
+  </entry>
+  <entry>
+    <title>DISK PRECISION GROUP - diskprecision.com — Krybit</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/krybit/"/>
+    <id>tag:ransom.privtools.eu,2026-10-01:0677d05ce516bb02</id>
+    <updated>2026-10-01T14:59:58Z</updated>
+    <summary>Krybit listed DISK PRECISION GROUP - diskprecision.com (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Krybit"/>
+  </entry>
   <entry>
     <title>FUNAP - Fundação &#34;Prof. Dr. Manoel Pedro Pimentel&#34; — Booba Project</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
@@ -338,77 +410,5 @@
     <updated>2026-09-30T13:06:49Z</updated>
     <summary>Lamashtu listed Vinco Energy (United States) on its leak site. Sector: Energy &amp; Utilities.</summary>
     <category term="Lamashtu"/>
-  </entry>
-  <entry>
-    <title>Becker Logistik — Lamashtu</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lamashtu/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:26de0fc49d3d1779</id>
-    <updated>2026-09-30T13:06:09Z</updated>
-    <summary>Lamashtu listed Becker Logistik (Germany) on its leak site. Sector: Transportation.</summary>
-    <category term="Lamashtu"/>
-  </entry>
-  <entry>
-    <title>Wilhelm Kühne — Lamashtu</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lamashtu/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:c3ff7d8d97278a81</id>
-    <updated>2026-09-30T13:05:31Z</updated>
-    <summary>Lamashtu listed Wilhelm Kühne (Germany) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Lamashtu"/>
-  </entry>
-  <entry>
-    <title>FIDUCIAL — Lamashtu</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lamashtu/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:8ccede0deae506b8</id>
-    <updated>2026-09-30T13:04:52Z</updated>
-    <summary>Lamashtu listed FIDUCIAL (France) on its leak site. Sector: Financial Services.</summary>
-    <category term="Lamashtu"/>
-  </entry>
-  <entry>
-    <title>Virtual Ideas — Lamashtu</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lamashtu/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:2844ff0528311bda</id>
-    <updated>2026-09-30T13:04:17Z</updated>
-    <summary>Lamashtu listed Virtual Ideas (Australia) on its leak site. Sector: Technology.</summary>
-    <category term="Lamashtu"/>
-  </entry>
-  <entry>
-    <title>PROJAHN — Lamashtu</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lamashtu/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:a6eee5780f6d35d8</id>
-    <updated>2026-09-30T13:03:39Z</updated>
-    <summary>Lamashtu listed PROJAHN (Germany) on its leak site.</summary>
-    <category term="Lamashtu"/>
-  </entry>
-  <entry>
-    <title>Altmannshofer Sicherheits-Videotechnik — Lamashtu</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lamashtu/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:002248b5face3245</id>
-    <updated>2026-09-30T13:02:58Z</updated>
-    <summary>Lamashtu listed Altmannshofer Sicherheits-Videotechnik (Germany) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Lamashtu"/>
-  </entry>
-  <entry>
-    <title>MCAP — MortgageHub commercial lending platform — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:88ae047269989c2b</id>
-    <updated>2026-09-30T12:52:16Z</updated>
-    <summary>N0n listed MCAP — MortgageHub commercial lending platform (Canada) on its leak site. Sector: Financial Services.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>GERLON — Lamashtu</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lamashtu/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:366de95ef50ca855</id>
-    <updated>2026-09-30T12:34:03Z</updated>
-    <summary>Lamashtu listed GERLON (Germany) on its leak site.</summary>
-    <category term="Lamashtu"/>
-  </entry>
-  <entry>
-    <title>clicks digital GmbH Information — Rhysida</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:fcb9a399591c88e2</id>
-    <updated>2026-09-30T12:07:42Z</updated>
-    <summary>Rhysida listed clicks digital GmbH Information (Germany) on its leak site. Sector: Technology.</summary>
-    <category term="Rhysida"/>
   </entry>
 </feed>
