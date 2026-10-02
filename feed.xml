@@ -5,12 +5,148 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-02T04:50:21Z</updated>
+  <updated>2026-10-02T14:24:13Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Pacific Tank Lines — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:0aacdff20750b761</id>
+    <updated>2026-10-02T14:24:13Z</updated>
+    <summary>Akira listed Pacific Tank Lines (United States) on its leak site. Sector: Transportation.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Inova Semiconductors GmbH — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:b9235e2e2942046c</id>
+    <updated>2026-10-02T14:04:15Z</updated>
+    <summary>Qilin listed Inova Semiconductors GmbH (Germany) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>PT Indo Tambangraya Megah — Ransomhouse</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/ransomhouse/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:19b9d313e1473300</id>
+    <updated>2026-10-02T13:14:39Z</updated>
+    <summary>Ransomhouse listed PT Indo Tambangraya Megah (Indonesia) on its leak site. Sector: Energy &amp; Utilities.</summary>
+    <category term="Ransomhouse"/>
+  </entry>
+  <entry>
+    <title>Raleigh Family Medicine — Booba Project</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:2ae221551eb7a59b</id>
+    <updated>2026-10-02T12:51:06Z</updated>
+    <summary>Booba Project listed Raleigh Family Medicine (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Booba Project"/>
+  </entry>
+  <entry>
+    <title>EdgeEndo® USA — Booba Project</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:a7d59fefd0897130</id>
+    <updated>2026-10-02T12:50:51Z</updated>
+    <summary>Booba Project listed EdgeEndo® USA (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Booba Project"/>
+  </entry>
+  <entry>
+    <title>Soni Medical Centre — Booba Project</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:bb55de139ba81bdf</id>
+    <updated>2026-10-02T12:50:38Z</updated>
+    <summary>Booba Project listed Soni Medical Centre (Canada) on its leak site. Sector: Healthcare.</summary>
+    <category term="Booba Project"/>
+  </entry>
+  <entry>
+    <title>University of Illinois Chicago — Booba Project</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:bdd45fdf21183287</id>
+    <updated>2026-10-02T12:50:25Z</updated>
+    <summary>Booba Project listed University of Illinois Chicago (United States) on its leak site. Sector: Education.</summary>
+    <category term="Booba Project"/>
+  </entry>
+  <entry>
+    <title>Tronex A/S — Wallstreet</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:17fe3164ed8e1131</id>
+    <updated>2026-10-02T11:55:03Z</updated>
+    <summary>Wallstreet listed Tronex A/S (Denmark) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Wallstreet"/>
+  </entry>
+  <entry>
+    <title>www.kres.cz — Krybit</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/krybit/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:17c50bd9b0d04594</id>
+    <updated>2026-10-02T09:31:56Z</updated>
+    <summary>Krybit listed www.kres.cz (Czechia) on its leak site.</summary>
+    <category term="Krybit"/>
+  </entry>
+  <entry>
+    <title>www.raajratna.com — Krybit</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/krybit/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:7b4b59dbe44372bd</id>
+    <updated>2026-10-02T09:31:28Z</updated>
+    <summary>Krybit listed www.raajratna.com (India) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Krybit"/>
+  </entry>
+  <entry>
+    <title>www.pierrefeu.fr — Krybit</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/krybit/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:67b704bab91596a4</id>
+    <updated>2026-10-02T09:30:59Z</updated>
+    <summary>Krybit listed www.pierrefeu.fr (France) on its leak site.</summary>
+    <category term="Krybit"/>
+  </entry>
+  <entry>
+    <title>sai.org.in — Krybit</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/krybit/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:9b127b5213b89b28</id>
+    <updated>2026-10-02T09:30:27Z</updated>
+    <summary>Krybit listed sai.org.in (India) on its leak site. Sector: Education.</summary>
+    <category term="Krybit"/>
+  </entry>
+  <entry>
+    <title>baltimorefreightliner.com — Settra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:941aa4e835f88cd5</id>
+    <updated>2026-10-02T09:04:38Z</updated>
+    <summary>Settra listed baltimorefreightliner.com (United States) on its leak site. Sector: Transportation.</summary>
+    <category term="Settra"/>
+  </entry>
+  <entry>
+    <title>goldenpearfunding.com — Settra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:c4698c4b31a400b2</id>
+    <updated>2026-10-02T09:04:13Z</updated>
+    <summary>Settra listed goldenpearfunding.com on its leak site. Sector: Financial Services.</summary>
+    <category term="Settra"/>
+  </entry>
+  <entry>
+    <title>mcpolymers.com — Settra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:8b66ecf6cc103100</id>
+    <updated>2026-10-02T09:03:48Z</updated>
+    <summary>Settra listed mcpolymers.com (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Settra"/>
+  </entry>
+  <entry>
+    <title>UNION FA — Deadlock</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/deadlock/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:16af0c6184102ecb</id>
+    <updated>2026-10-02T07:50:40Z</updated>
+    <summary>Deadlock listed UNION FA (Greece) on its leak site.</summary>
+    <category term="Deadlock"/>
+  </entry>
+  <entry>
+    <title>Far West Contractors — Deadlock</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/deadlock/"/>
+    <id>tag:ransom.privtools.eu,2026-10-02:abbfc2c9d8112a04</id>
+    <updated>2026-10-02T07:50:37Z</updated>
+    <summary>Deadlock listed Far West Contractors (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Deadlock"/>
+  </entry>
   <entry>
     <title>Automovil Club del Ecuador ANETA — Barracuda</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/barracuda/"/>
@@ -274,141 +410,5 @@
     <updated>2026-09-30T22:34:21Z</updated>
     <summary>Pear listed Software Answers, a Banyan Software Company (United States) on its leak site. Sector: Technology.</summary>
     <category term="Pear"/>
-  </entry>
-  <entry>
-    <title>The Japan Times — Eclipse</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/eclipse/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:ec3a6b34822272d8</id>
-    <updated>2026-09-30T21:53:18Z</updated>
-    <summary>Eclipse listed The Japan Times (Japan) on its leak site.</summary>
-    <category term="Eclipse"/>
-  </entry>
-  <entry>
-    <title>Summit Electric Supply — Vexy Ransomware</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:37ac45ac88a73b72</id>
-    <updated>2026-09-30T20:55:47Z</updated>
-    <summary>Vexy Ransomware listed Summit Electric Supply (United States) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Vexy Ransomware"/>
-  </entry>
-  <entry>
-    <title>wolfusofsky.de — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:784628df09aee578</id>
-    <updated>2026-09-30T20:11:02Z</updated>
-    <summary>Safepay listed wolfusofsky.de (Germany) on its leak site.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>Le Centre National de l&#39;Expertise Hospitalière (CNEH) — Kairos</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/kairos/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:acdf3dbfb278ae24</id>
-    <updated>2026-09-30T19:28:35Z</updated>
-    <summary>Kairos listed Le Centre National de l&#39;Expertise Hospitalière (CNEH) (France) on its leak site. Sector: Healthcare.</summary>
-    <category term="Kairos"/>
-  </entry>
-  <entry>
-    <title>Titus — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:5ddb1572ae2f861b</id>
-    <updated>2026-09-30T17:37:25Z</updated>
-    <summary>Play listed Titus (Germany) on its leak site. Sector: Technology.</summary>
-    <category term="Play"/>
-  </entry>
-  <entry>
-    <title>Airtech Mechanical Services — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:547e1f67b409335a</id>
-    <updated>2026-09-30T17:36:51Z</updated>
-    <summary>Play listed Airtech Mechanical Services (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Play"/>
-  </entry>
-  <entry>
-    <title>Orth Automobile — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:21e0f4e309e8f1c5</id>
-    <updated>2026-09-30T17:36:17Z</updated>
-    <summary>Play listed Orth Automobile (Germany) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Play"/>
-  </entry>
-  <entry>
-    <title>Blaise C. Bender, PC — Interlock</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/interlock/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:f2a88a90b0786548</id>
-    <updated>2026-09-30T17:00:59Z</updated>
-    <summary>Interlock listed Blaise C. Bender, PC (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Interlock"/>
-  </entry>
-  <entry>
-    <title>Buford-Thompson Company, LTD — Aurora</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:3ee624d7b68293d9</id>
-    <updated>2026-09-30T16:55:16Z</updated>
-    <summary>Aurora listed Buford-Thompson Company, LTD (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Aurora"/>
-  </entry>
-  <entry>
-    <title>P***** M***** I** — Netrunner</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:529f85a28a26a711</id>
-    <updated>2026-09-30T14:01:58Z</updated>
-    <summary>Netrunner listed P***** M***** I** on its leak site.</summary>
-    <category term="Netrunner"/>
-  </entry>
-  <entry>
-    <title>SitePro Rentals — Emperador</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:cbd67deb089080f4</id>
-    <updated>2026-09-30T13:53:31Z</updated>
-    <summary>Emperador listed SitePro Rentals on its leak site.</summary>
-    <category term="Emperador"/>
-  </entry>
-  <entry>
-    <title>dfiretailgroup.com — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:edf609d26774d2fb</id>
-    <updated>2026-09-30T13:37:55Z</updated>
-    <summary>Settra listed dfiretailgroup.com (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>econ-tec.com — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:fbe8c5fa1fcba47b</id>
-    <updated>2026-09-30T13:36:55Z</updated>
-    <summary>Safepay listed econ-tec.com (Germany) on its leak site. Sector: Technology.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>assist2enjoy.be — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:352343bd5be98870</id>
-    <updated>2026-09-30T13:36:19Z</updated>
-    <summary>Safepay listed assist2enjoy.be (Belgium) on its leak site.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>Dr Damiel Pugliese — Lamashtu</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lamashtu/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:dc7f35e77d1e9749</id>
-    <updated>2026-09-30T13:32:57Z</updated>
-    <summary>Lamashtu listed Dr Damiel Pugliese on its leak site. Sector: Healthcare.</summary>
-    <category term="Lamashtu"/>
-  </entry>
-  <entry>
-    <title>Astidental di Sabbione — Lamashtu</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lamashtu/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:eb12608efb4bbf1b</id>
-    <updated>2026-09-30T13:32:20Z</updated>
-    <summary>Lamashtu listed Astidental di Sabbione (Italy) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Lamashtu"/>
-  </entry>
-  <entry>
-    <title>Vinco Energy — Lamashtu</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lamashtu/"/>
-    <id>tag:ransom.privtools.eu,2026-09-30:2d7a4ff2fc8e55dd</id>
-    <updated>2026-09-30T13:06:49Z</updated>
-    <summary>Lamashtu listed Vinco Energy (United States) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Lamashtu"/>
   </entry>
 </feed>
