@@ -5,12 +5,108 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-03T01:33:09Z</updated>
+  <updated>2026-10-03T06:27:57Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>States Industries — Storm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:aaf6f4713b78f9d1</id>
+    <updated>2026-10-03T06:27:57Z</updated>
+    <summary>Storm listed States Industries (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Storm"/>
+  </entry>
+  <entry>
+    <title>Aware — Thegentlemen</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:2a5332db9bfa1c2b</id>
+    <updated>2026-10-03T06:27:35Z</updated>
+    <summary>Thegentlemen listed Aware (United States) on its leak site. Sector: Technology.</summary>
+    <category term="Thegentlemen"/>
+  </entry>
+  <entry>
+    <title>Allied Machine &amp; Engineering — Storm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:471ad2abc93a5829</id>
+    <updated>2026-10-03T06:27:26Z</updated>
+    <summary>Storm listed Allied Machine &amp; Engineering (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Storm"/>
+  </entry>
+  <entry>
+    <title>WOOSHIN SAFETY SYSTEMS CO LTD — Thegentlemen</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:7e085a0fd0744107</id>
+    <updated>2026-10-03T06:27:14Z</updated>
+    <summary>Thegentlemen listed WOOSHIN SAFETY SYSTEMS CO LTD (South Korea) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Thegentlemen"/>
+  </entry>
+  <entry>
+    <title>Step By Step — Storm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:f9244beda66fc321</id>
+    <updated>2026-10-03T06:26:55Z</updated>
+    <summary>Storm listed Step By Step (United States) on its leak site. Sector: Education.</summary>
+    <category term="Storm"/>
+  </entry>
+  <entry>
+    <title>Zelham — Thegentlemen</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:3d2b0a97c6d0fcb3</id>
+    <updated>2026-10-03T06:26:53Z</updated>
+    <summary>Thegentlemen listed Zelham on its leak site.</summary>
+    <category term="Thegentlemen"/>
+  </entry>
+  <entry>
+    <title>Hospital de la Santa Creu i Sant Pau — Thegentlemen</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:a057cc4d93ae1cbc</id>
+    <updated>2026-10-03T06:26:33Z</updated>
+    <summary>Thegentlemen listed Hospital de la Santa Creu i Sant Pau (Spain) on its leak site. Sector: Healthcare.</summary>
+    <category term="Thegentlemen"/>
+  </entry>
+  <entry>
+    <title>Rotamac — Thegentlemen</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:668156f74dd31768</id>
+    <updated>2026-10-03T06:26:12Z</updated>
+    <summary>Thegentlemen listed Rotamac (Canada) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Thegentlemen"/>
+  </entry>
+  <entry>
+    <title>Mandurah State Emergency Service — Thegentlemen</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:984c6d52f162b8f0</id>
+    <updated>2026-10-03T06:25:51Z</updated>
+    <summary>Thegentlemen listed Mandurah State Emergency Service (Australia) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="Thegentlemen"/>
+  </entry>
+  <entry>
+    <title>Westrop Primary &amp; Nursery School — Thegentlemen</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:142c9cec1523089b</id>
+    <updated>2026-10-03T06:25:30Z</updated>
+    <summary>Thegentlemen listed Westrop Primary &amp; Nursery School (United Kingdom) on its leak site. Sector: Education.</summary>
+    <category term="Thegentlemen"/>
+  </entry>
+  <entry>
+    <title>Gerrity Stone — Thegentlemen</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:aba3e3002728f218</id>
+    <updated>2026-10-03T06:25:10Z</updated>
+    <summary>Thegentlemen listed Gerrity Stone (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Thegentlemen"/>
+  </entry>
+  <entry>
+    <title>The Official Collegeof Architects of León (COAL) — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:946463768bc06ad1</id>
+    <updated>2026-10-03T05:54:28Z</updated>
+    <summary>Akira listed The Official Collegeof Architects of León (COAL) (Mexico) on its leak site. Sector: Professional Services.</summary>
+    <category term="Akira"/>
+  </entry>
   <entry>
     <title>Forma Therapeutics Holdings, Inc. — Nightspire</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
@@ -314,101 +410,5 @@
     <updated>2026-10-01T15:20:22Z</updated>
     <summary>AuditTeam listed ProMind IT (Italy) on its leak site. Sector: Technology.</summary>
     <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>DISK PRECISION GROUP - diskprecision.com — Krybit</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/krybit/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:0677d05ce516bb02</id>
-    <updated>2026-10-01T14:59:58Z</updated>
-    <summary>Krybit listed DISK PRECISION GROUP - diskprecision.com (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Krybit"/>
-  </entry>
-  <entry>
-    <title>FUNAP - Fundação &#34;Prof. Dr. Manoel Pedro Pimentel&#34; — Booba Project</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:b7e86422218107d2</id>
-    <updated>2026-10-01T14:50:50Z</updated>
-    <summary>Booba Project listed FUNAP - Fundação &#34;Prof. Dr. Manoel Pedro Pimentel&#34; (Brazil) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Booba Project"/>
-  </entry>
-  <entry>
-    <title>ASSOCIATED GASTROENTEROLOGISTS OF CENTRAL NEW YORK, P.C — Booba Project</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:b25a4a151bd7d797</id>
-    <updated>2026-10-01T14:50:46Z</updated>
-    <summary>Booba Project listed ASSOCIATED GASTROENTEROLOGISTS OF CENTRAL NEW YORK, P.C (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Booba Project"/>
-  </entry>
-  <entry>
-    <title>Terca — Ransomhouse</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/ransomhouse/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:44cd7434a25734d1</id>
-    <updated>2026-10-01T14:30:43Z</updated>
-    <summary>Ransomhouse listed Terca (Brazil) on its leak site.</summary>
-    <category term="Ransomhouse"/>
-  </entry>
-  <entry>
-    <title>Superior Plating Technology CO — Morpheus</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/morpheus/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:5b5dd3619f4b1685</id>
-    <updated>2026-10-01T14:30:01Z</updated>
-    <summary>Morpheus listed Superior Plating Technology CO on its leak site. Sector: Manufacturing.</summary>
-    <category term="Morpheus"/>
-  </entry>
-  <entry>
-    <title>C*ro *nty *es — Nightspire</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:641003654bf060ca</id>
-    <updated>2026-10-01T13:35:58Z</updated>
-    <summary>Nightspire listed C*ro *nty *es on its leak site.</summary>
-    <category term="Nightspire"/>
-  </entry>
-  <entry>
-    <title>Wesmar — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:e99b7e562cc4b698</id>
-    <updated>2026-10-01T13:27:59Z</updated>
-    <summary>Akira listed Wesmar (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>DPL Group — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:4edcd0db931778f4</id>
-    <updated>2026-10-01T13:27:57Z</updated>
-    <summary>Akira listed DPL Group on its leak site.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>Krycler, Ervin, Taubman &amp; Kaminsky — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:843d2a79ac07ef6a</id>
-    <updated>2026-10-01T12:56:13Z</updated>
-    <summary>Akira listed Krycler, Ervin, Taubman &amp; Kaminsky on its leak site. Sector: Professional Services.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>Graybar Electric Company, Inc. — Redact</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:da6ced54f09c2796</id>
-    <updated>2026-10-01T12:55:52Z</updated>
-    <summary>Redact listed Graybar Electric Company, Inc. (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Redact"/>
-  </entry>
-  <entry>
-    <title>Rimrock Foundation — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:a69b467ee77157ca</id>
-    <updated>2026-10-01T12:31:18Z</updated>
-    <summary>Incransom listed Rimrock Foundation (United States) on its leak site.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>parkdental.com — Chaos</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/chaos/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:0296665530e126bf</id>
-    <updated>2026-10-01T12:26:41Z</updated>
-    <summary>Chaos listed parkdental.com (United Kingdom) on its leak site. Sector: Healthcare.</summary>
-    <category term="Chaos"/>
   </entry>
 </feed>
