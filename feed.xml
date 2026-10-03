@@ -5,12 +5,36 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-03T06:27:57Z</updated>
+  <updated>2026-10-03T13:02:56Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Skaff Group — Rhysida</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:1ee844d78961f9b9</id>
+    <updated>2026-10-03T13:02:56Z</updated>
+    <summary>Rhysida listed Skaff Group on its leak site.</summary>
+    <category term="Rhysida"/>
+  </entry>
+  <entry>
+    <title>St. Francis Healthcare Systems of Hawaii — Wallstreet</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:9228055f828e9b4c</id>
+    <updated>2026-10-03T12:24:31Z</updated>
+    <summary>Wallstreet listed St. Francis Healthcare Systems of Hawaii (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Wallstreet"/>
+  </entry>
+  <entry>
+    <title>World Cup 2034 — Wallstreet</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:ea0258c2d8a893eb</id>
+    <updated>2026-10-03T11:54:05Z</updated>
+    <summary>Wallstreet listed World Cup 2034 (Saudi Arabia) on its leak site.</summary>
+    <category term="Wallstreet"/>
+  </entry>
   <entry>
     <title>States Industries — Storm</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
@@ -386,29 +410,5 @@
     <updated>2026-10-01T21:05:18Z</updated>
     <summary>Ransomhouse listed Hospital Hermilio Valdizán (Peru) on its leak site. Sector: Healthcare.</summary>
     <category term="Ransomhouse"/>
-  </entry>
-  <entry>
-    <title>Slate Valley Unified School District — Kairos</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/kairos/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:f8744914746a5422</id>
-    <updated>2026-10-01T19:00:23Z</updated>
-    <summary>Kairos listed Slate Valley Unified School District (United States) on its leak site. Sector: Education.</summary>
-    <category term="Kairos"/>
-  </entry>
-  <entry>
-    <title>steelco — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:7f60c9257d3da6d3</id>
-    <updated>2026-10-01T15:20:36Z</updated>
-    <summary>AuditTeam listed steelco (Italy) on its leak site. Sector: Manufacturing.</summary>
-    <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>ProMind IT — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:05e9f94271fcd641</id>
-    <updated>2026-10-01T15:20:22Z</updated>
-    <summary>AuditTeam listed ProMind IT (Italy) on its leak site. Sector: Technology.</summary>
-    <category term="AuditTeam"/>
   </entry>
 </feed>

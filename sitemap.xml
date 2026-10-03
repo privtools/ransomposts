@@ -106,7 +106,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/rhysida/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-03</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/killsec/</loc>
@@ -545,6 +545,10 @@
     <lastmod>2022-11-21</lastmod>
   </url>
   <url>
+    <loc>https://ransom.privtools.eu/group/wallstreet/</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
     <loc>https://ransom.privtools.eu/group/fulcrumsec/</loc>
     <lastmod>2026-09-11</lastmod>
   </url>
@@ -563,10 +567,6 @@
   <url>
     <loc>https://ransom.privtools.eu/group/unsafe/</loc>
     <lastmod>2026-09-21</lastmod>
-  </url>
-  <url>
-    <loc>https://ransom.privtools.eu/group/wallstreet/</loc>
-    <lastmod>2026-10-02</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/werewolves/</loc>
@@ -941,16 +941,16 @@
     <lastmod>2026-09-18</lastmod>
   </url>
   <url>
+    <loc>https://ransom.privtools.eu/country/sa/</loc>
+    <lastmod>2026-10-03</lastmod>
+  </url>
+  <url>
     <loc>https://ransom.privtools.eu/country/vn/</loc>
     <lastmod>2026-10-02</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/dk/</loc>
     <lastmod>2026-10-02</lastmod>
-  </url>
-  <url>
-    <loc>https://ransom.privtools.eu/country/sa/</loc>
-    <lastmod>2026-09-24</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/ie/</loc>
