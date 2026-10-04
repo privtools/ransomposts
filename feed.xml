@@ -5,12 +5,28 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-03T13:02:56Z</updated>
+  <updated>2026-10-03T14:05:35Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Genesis Credit Management — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:5753ced035c4aebf</id>
+    <updated>2026-10-03T14:05:35Z</updated>
+    <summary>Qilin listed Genesis Credit Management (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Precon Marine Inc — Netrunner</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/netrunner/"/>
+    <id>tag:ransom.privtools.eu,2026-10-03:f0092a62e17001b7</id>
+    <updated>2026-10-03T14:04:39Z</updated>
+    <summary>Netrunner listed Precon Marine Inc on its leak site. Sector: Transportation.</summary>
+    <category term="Netrunner"/>
+  </entry>
   <entry>
     <title>Skaff Group — Rhysida</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
@@ -389,26 +405,10 @@
   </entry>
   <entry>
     <title>Main Place Mall — Netrunner</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/netrunner/"/>
     <id>tag:ransom.privtools.eu,2026-10-02:941d145e6bfc86d7</id>
     <updated>2026-10-02T00:05:15Z</updated>
     <summary>Netrunner listed Main Place Mall (Malaysia) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
     <category term="Netrunner"/>
-  </entry>
-  <entry>
-    <title>EURODITEL/RESOTELECOM — Krybit</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/krybit/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:5c1ad8676f42f4c0</id>
-    <updated>2026-10-01T21:33:33Z</updated>
-    <summary>Krybit listed EURODITEL/RESOTELECOM (France) on its leak site. Sector: Technology.</summary>
-    <category term="Krybit"/>
-  </entry>
-  <entry>
-    <title>Hospital Hermilio Valdizán — Ransomhouse</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/ransomhouse/"/>
-    <id>tag:ransom.privtools.eu,2026-10-01:8e23de3feab24103</id>
-    <updated>2026-10-01T21:05:18Z</updated>
-    <summary>Ransomhouse listed Hospital Hermilio Valdizán (Peru) on its leak site. Sector: Healthcare.</summary>
-    <category term="Ransomhouse"/>
   </entry>
 </feed>
