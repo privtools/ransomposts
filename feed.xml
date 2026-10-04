@@ -5,12 +5,52 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-03T14:05:35Z</updated>
+  <updated>2026-10-04T13:19:10Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>M****C — Payoutsking</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payoutsking/"/>
+    <id>tag:ransom.privtools.eu,2026-10-04:72ca5abb8ae00eac</id>
+    <updated>2026-10-04T13:19:10Z</updated>
+    <summary>Payoutsking listed M****C (United States) on its leak site.</summary>
+    <category term="Payoutsking"/>
+  </entry>
+  <entry>
+    <title>Center State Engineering — Thegentlemen</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
+    <id>tag:ransom.privtools.eu,2026-10-04:09a8a6444f3ed204</id>
+    <updated>2026-10-04T13:17:23Z</updated>
+    <summary>Thegentlemen listed Center State Engineering (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Thegentlemen"/>
+  </entry>
+  <entry>
+    <title>euroditel.com — Krybit</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/krybit/"/>
+    <id>tag:ransom.privtools.eu,2026-10-04:693b99cc2da566e4</id>
+    <updated>2026-10-04T13:02:10Z</updated>
+    <summary>Krybit listed euroditel.com (France) on its leak site. Sector: Technology.</summary>
+    <category term="Krybit"/>
+  </entry>
+  <entry>
+    <title>superpack.com.co — Krybit</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/krybit/"/>
+    <id>tag:ransom.privtools.eu,2026-10-04:fc3e41184973f54f</id>
+    <updated>2026-10-04T13:01:32Z</updated>
+    <summary>Krybit listed superpack.com.co (Colombia) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Krybit"/>
+  </entry>
+  <entry>
+    <title>daralteb.com — Krybit</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/krybit/"/>
+    <id>tag:ransom.privtools.eu,2026-10-04:9d76588a2ee75bb8</id>
+    <updated>2026-10-04T13:00:54Z</updated>
+    <summary>Krybit listed daralteb.com (Iran) on its leak site. Sector: Healthcare.</summary>
+    <category term="Krybit"/>
+  </entry>
   <entry>
     <title>Genesis Credit Management — Qilin</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
@@ -370,45 +410,5 @@
     <updated>2026-10-02T09:03:48Z</updated>
     <summary>Settra listed mcpolymers.com (United States) on its leak site. Sector: Manufacturing.</summary>
     <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>UNION FA — Deadlock</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/deadlock/"/>
-    <id>tag:ransom.privtools.eu,2026-10-02:16af0c6184102ecb</id>
-    <updated>2026-10-02T07:50:40Z</updated>
-    <summary>Deadlock listed UNION FA (Greece) on its leak site.</summary>
-    <category term="Deadlock"/>
-  </entry>
-  <entry>
-    <title>Far West Contractors — Deadlock</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/deadlock/"/>
-    <id>tag:ransom.privtools.eu,2026-10-02:abbfc2c9d8112a04</id>
-    <updated>2026-10-02T07:50:37Z</updated>
-    <summary>Deadlock listed Far West Contractors (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Deadlock"/>
-  </entry>
-  <entry>
-    <title>Automovil Club del Ecuador ANETA — Barracuda</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/barracuda/"/>
-    <id>tag:ransom.privtools.eu,2026-10-02:073b915ac33b24e3</id>
-    <updated>2026-10-02T04:50:21Z</updated>
-    <summary>Barracuda listed Automovil Club del Ecuador ANETA (Ecuador) on its leak site. Sector: Transportation.</summary>
-    <category term="Barracuda"/>
-  </entry>
-  <entry>
-    <title>Sangre de Cristo Electric Association — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-10-02:dc95fa87f29fce07</id>
-    <updated>2026-10-02T01:33:07Z</updated>
-    <summary>Incransom listed Sangre de Cristo Electric Association (United States) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>Main Place Mall — Netrunner</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/netrunner/"/>
-    <id>tag:ransom.privtools.eu,2026-10-02:941d145e6bfc86d7</id>
-    <updated>2026-10-02T00:05:15Z</updated>
-    <summary>Netrunner listed Main Place Mall (Malaysia) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Netrunner"/>
   </entry>
 </feed>
