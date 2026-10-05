@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/qilin/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/lockbit3/</loc>
@@ -30,7 +30,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/play/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/clop/</loc>
@@ -218,7 +218,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/direwolf/</loc>
-    <lastmod>2026-09-11</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/interlock/</loc>
@@ -310,7 +310,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/storm/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/warlock/</loc>
@@ -506,7 +506,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/emperador/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/dan0n/</loc>
@@ -522,7 +522,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/booba-project/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/dark-project/</loc>
@@ -601,10 +601,6 @@
     <lastmod>2023-10-15</lastmod>
   </url>
   <url>
-    <loc>https://ransom.privtools.eu/group/majinahanashi/</loc>
-    <lastmod>2026-09-01</lastmod>
-  </url>
-  <url>
     <loc>https://ransom.privtools.eu/group/daixin/</loc>
     <lastmod>2025-09-11</lastmod>
   </url>
@@ -623,6 +619,10 @@
   <url>
     <loc>https://ransom.privtools.eu/group/leaktheanalyst/</loc>
     <lastmod>2022-03-29</lastmod>
+  </url>
+  <url>
+    <loc>https://ransom.privtools.eu/group/majinahanashi/</loc>
+    <lastmod>2026-09-01</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/cephalus/</loc>
@@ -810,7 +810,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/ca/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/it/</loc>
@@ -822,7 +822,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/br/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/in/</loc>
@@ -830,15 +830,15 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/au/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/es/</loc>
-    <lastmod>2026-10-03</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/jp/</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/mx/</loc>
@@ -882,7 +882,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/tr/</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/se/</loc>
@@ -937,12 +937,12 @@
     <lastmod>2026-09-26</lastmod>
   </url>
   <url>
-    <loc>https://ransom.privtools.eu/country/pe/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <loc>https://ransom.privtools.eu/country/cl/</loc>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
-    <loc>https://ransom.privtools.eu/country/cl/</loc>
-    <lastmod>2026-09-18</lastmod>
+    <loc>https://ransom.privtools.eu/country/pe/</loc>
+    <lastmod>2026-10-01</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/sa/</loc>
@@ -1194,7 +1194,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/agriculture-and-food-production/</loc>
-    <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-04</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/government-defense/</loc>
