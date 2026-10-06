@@ -5,12 +5,44 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-05T22:27:00Z</updated>
+  <updated>2026-10-06T09:03:34Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>CORBY ROCK MILL — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-06:528a9dc344ac4c50</id>
+    <updated>2026-10-06T09:03:34Z</updated>
+    <summary>Qilin listed CORBY ROCK MILL (Ireland) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Delta Marine — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-06:8cea908ef322a90a</id>
+    <updated>2026-10-06T09:02:53Z</updated>
+    <summary>Qilin listed Delta Marine (Finland) on its leak site. Sector: Transportation.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>J&amp;D Financial — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-06:6b5f0c6a15fc7bac</id>
+    <updated>2026-10-06T09:02:14Z</updated>
+    <summary>Qilin listed J&amp;D Financial on its leak site. Sector: Financial Services.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Philander Smith University — EndZone</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-06:87d49be28a6aaf72</id>
+    <updated>2026-10-06T07:50:52Z</updated>
+    <summary>EndZone listed Philander Smith University (United States) on its leak site. Sector: Education.</summary>
+    <category term="EndZone"/>
+  </entry>
   <entry>
     <title>A...n — SilentRansomGroup</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
@@ -378,37 +410,5 @@
     <updated>2026-10-05T08:04:28Z</updated>
     <summary>BYOD listed Eteam on its leak site. Sector: Technology.</summary>
     <category term="BYOD"/>
-  </entry>
-  <entry>
-    <title>Royal Selangor — BYOD</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-05:cd83ccd54d3f4a36</id>
-    <updated>2026-10-05T08:04:09Z</updated>
-    <summary>BYOD listed Royal Selangor (Malaysia) on its leak site. Sector: Manufacturing.</summary>
-    <category term="BYOD"/>
-  </entry>
-  <entry>
-    <title>Fluge Audiovisuales — Lamashtu</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lamashtu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-05:7c49486c1fe8054b</id>
-    <updated>2026-10-05T07:32:31Z</updated>
-    <summary>Lamashtu listed Fluge Audiovisuales (Spain) on its leak site.</summary>
-    <category term="Lamashtu"/>
-  </entry>
-  <entry>
-    <title>Bender Tribunenbau — Lamashtu</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lamashtu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-05:02282ba2c308df14</id>
-    <updated>2026-10-05T07:31:53Z</updated>
-    <summary>Lamashtu listed Bender Tribunenbau (Germany) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Lamashtu"/>
-  </entry>
-  <entry>
-    <title>TRANS LOGROÑO SOCIEDAD ANONIMA — Lamashtu</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lamashtu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-05:f595af9db72e8331</id>
-    <updated>2026-10-05T07:31:14Z</updated>
-    <summary>Lamashtu listed TRANS LOGROÑO SOCIEDAD ANONIMA (Spain) on its leak site. Sector: Transportation.</summary>
-    <category term="Lamashtu"/>
   </entry>
 </feed>
