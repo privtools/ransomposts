@@ -5,12 +5,44 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-07T05:08:14Z</updated>
+  <updated>2026-10-07T11:27:15Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>SANAtech Global Solutions — UmBra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-07:4a59fa563cc885b4</id>
+    <updated>2026-10-07T11:27:15Z</updated>
+    <summary>UmBra listed SANAtech Global Solutions on its leak site. Sector: Technology.</summary>
+    <category term="UmBra"/>
+  </entry>
+  <entry>
+    <title>Raqib — UmBra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-07:11ea7243bcf858a3</id>
+    <updated>2026-10-07T11:26:39Z</updated>
+    <summary>UmBra listed Raqib on its leak site. Sector: Technology.</summary>
+    <category term="UmBra"/>
+  </entry>
+  <entry>
+    <title>Tharisa — UmBra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-07:4b7540fe4dad84eb</id>
+    <updated>2026-10-07T08:23:30Z</updated>
+    <summary>UmBra listed Tharisa (South Africa) on its leak site. Sector: Manufacturing.</summary>
+    <category term="UmBra"/>
+  </entry>
+  <entry>
+    <title>Chibitek — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-07:c4dda5be58427f9d</id>
+    <updated>2026-10-07T05:51:42Z</updated>
+    <summary>N0n listed Chibitek (United States) on its leak site. Sector: Technology.</summary>
+    <category term="N0n"/>
+  </entry>
   <entry>
     <title>acmestamping.com — Incransom</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
@@ -320,7 +352,7 @@
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
     <id>tag:ransom.privtools.eu,2026-10-05:595490922d5b0eea</id>
     <updated>2026-10-05T19:39:24Z</updated>
-    <summary>Safepay listed dd-automation.ch (Czechia) on its leak site. Sector: Technology.</summary>
+    <summary>Safepay listed dd-automation.ch (Switzerland) on its leak site. Sector: Technology.</summary>
     <category term="Safepay"/>
   </entry>
   <entry>
@@ -378,37 +410,5 @@
     <updated>2026-10-05T19:25:27Z</updated>
     <summary>SilentRansomGroup listed Nelson Mullins Riley &amp; Scarborough (United States) on its leak site. Sector: Professional Services.</summary>
     <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>Sheppard, Mullin, Richter &amp; Hampton — SilentRansomGroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
-    <id>tag:ransom.privtools.eu,2026-10-05:a6c5e0afde6417fb</id>
-    <updated>2026-10-05T19:25:07Z</updated>
-    <summary>SilentRansomGroup listed Sheppard, Mullin, Richter &amp; Hampton (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>Turn5 — Global Secret Group</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/global-secret-group/"/>
-    <id>tag:ransom.privtools.eu,2026-10-05:7cef6577cb86fb01</id>
-    <updated>2026-10-05T18:53:32Z</updated>
-    <summary>Global Secret Group listed Turn5 (United States) on its leak site.</summary>
-    <category term="Global Secret Group"/>
-  </entry>
-  <entry>
-    <title>anwo.cl — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-10-05:804fc7deeb8be0ca</id>
-    <updated>2026-10-05T18:28:07Z</updated>
-    <summary>Safepay listed anwo.cl (Chile) on its leak site.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>duhaas.sk — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-10-05:eab9ff0beeaa9ae0</id>
-    <updated>2026-10-05T18:27:31Z</updated>
-    <summary>Safepay listed duhaas.sk (Slovakia) on its leak site.</summary>
-    <category term="Safepay"/>
   </entry>
 </feed>
