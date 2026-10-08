@@ -5,12 +5,44 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-08T05:25:57Z</updated>
+  <updated>2026-10-08T14:22:39Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>DIPECARR — Eclipse</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/eclipse/"/>
+    <id>tag:ransom.privtools.eu,2026-10-08:bf3bfda640b51cb7</id>
+    <updated>2026-10-08T14:22:39Z</updated>
+    <summary>Eclipse listed DIPECARR (Brazil) on its leak site.</summary>
+    <category term="Eclipse"/>
+  </entry>
+  <entry>
+    <title>Global AirFreight International — Eclipse</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/eclipse/"/>
+    <id>tag:ransom.privtools.eu,2026-10-08:4c74985883f5e394</id>
+    <updated>2026-10-08T13:22:17Z</updated>
+    <summary>Eclipse listed Global AirFreight International (Singapore) on its leak site. Sector: Transportation.</summary>
+    <category term="Eclipse"/>
+  </entry>
+  <entry>
+    <title>Morton LTC Pharmacy — RunSomeWares</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-08:36c56e16d8cb8e5c</id>
+    <updated>2026-10-08T11:54:06Z</updated>
+    <summary>RunSomeWares listed Morton LTC Pharmacy (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="RunSomeWares"/>
+  </entry>
+  <entry>
+    <title>Some semi-samples Of Liberty X TMO cause we got yappatrons on twitter — BYOD</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-08:cd5e84cbd8378a66</id>
+    <updated>2026-10-08T10:20:28Z</updated>
+    <summary>BYOD listed Some semi-samples Of Liberty X TMO cause we got yappatrons on twitter on its leak site.</summary>
+    <category term="BYOD"/>
+  </entry>
   <entry>
     <title>Cooperative Des Techniciens Ambulanciers De La Monte — Storm</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
@@ -378,37 +410,5 @@
     <updated>2026-10-06T20:18:44Z</updated>
     <summary>Qilin listed Ciftay Insaat Taahhut Ve Ticaret Anonim Sirketi (Turkey) on its leak site. Sector: Manufacturing.</summary>
     <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>SweetRush — Panzer</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
-    <id>tag:ransom.privtools.eu,2026-10-06:75937e601bc05662</id>
-    <updated>2026-10-06T17:51:53Z</updated>
-    <summary>Panzer listed SweetRush (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Panzer"/>
-  </entry>
-  <entry>
-    <title>magnals.com — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-10-06:e9a372a1f01d8bd4</id>
-    <updated>2026-10-06T17:27:48Z</updated>
-    <summary>Incransom listed magnals.com (United States) on its leak site.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>Greggio Argento — Deadlock</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/deadlock/"/>
-    <id>tag:ransom.privtools.eu,2026-10-06:f1651e3e25a21cd3</id>
-    <updated>2026-10-06T16:21:21Z</updated>
-    <summary>Deadlock listed Greggio Argento (Italy) on its leak site. Sector: Agriculture and Food Production.</summary>
-    <category term="Deadlock"/>
-  </entry>
-  <entry>
-    <title>Agri Industrial — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-10-06:558a2cdee4d98d38</id>
-    <updated>2026-10-06T16:17:41Z</updated>
-    <summary>Everest listed Agri Industrial on its leak site. Sector: Agriculture and Food Production.</summary>
-    <category term="Everest"/>
   </entry>
 </feed>
