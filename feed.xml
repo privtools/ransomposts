@@ -5,12 +5,132 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-09T04:20:25Z</updated>
+  <updated>2026-10-09T14:15:33Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Melchioni Spa — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-09:6eb36471af94351f</id>
+    <updated>2026-10-09T14:15:33Z</updated>
+    <summary>Qilin listed Melchioni Spa (Italy) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>AETHOS — Arcusmedia</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/arcusmedia/"/>
+    <id>tag:ransom.privtools.eu,2026-10-09:a77684e864797193</id>
+    <updated>2026-10-09T13:31:23Z</updated>
+    <summary>Arcusmedia listed AETHOS (Brazil) on its leak site.</summary>
+    <category term="Arcusmedia"/>
+  </entry>
+  <entry>
+    <title>mblllp — Arcusmedia</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/arcusmedia/"/>
+    <id>tag:ransom.privtools.eu,2026-10-09:c2fecfc03b11a8b1</id>
+    <updated>2026-10-09T13:30:47Z</updated>
+    <summary>Arcusmedia listed mblllp (Canada) on its leak site.</summary>
+    <category term="Arcusmedia"/>
+  </entry>
+  <entry>
+    <title>Ladrillera Mecanizada — Arcusmedia</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/arcusmedia/"/>
+    <id>tag:ransom.privtools.eu,2026-10-09:44f4da1e40c27b31</id>
+    <updated>2026-10-09T13:30:13Z</updated>
+    <summary>Arcusmedia listed Ladrillera Mecanizada (Mexico) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Arcusmedia"/>
+  </entry>
+  <entry>
+    <title>Yarema — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-10-09:b3f7d83a5b57542d</id>
+    <updated>2026-10-09T13:29:16Z</updated>
+    <summary>Akira listed Yarema on its leak site.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>iDentalSoft — Termite</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/termite/"/>
+    <id>tag:ransom.privtools.eu,2026-10-09:0defe2dc048b37c2</id>
+    <updated>2026-10-09T12:59:37Z</updated>
+    <summary>Termite listed iDentalSoft (Brazil) on its leak site. Sector: Healthcare.</summary>
+    <category term="Termite"/>
+  </entry>
+  <entry>
+    <title>Dudley Land Company — Bravox</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/bravox/"/>
+    <id>tag:ransom.privtools.eu,2026-10-09:7780562e7244d4b2</id>
+    <updated>2026-10-09T12:37:17Z</updated>
+    <summary>Bravox listed Dudley Land Company (United States) on its leak site.</summary>
+    <category term="Bravox"/>
+  </entry>
+  <entry>
+    <title>Design Electric — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-10-09:afc544559c09721e</id>
+    <updated>2026-10-09T12:35:35Z</updated>
+    <summary>Akira listed Design Electric on its leak site. Sector: Manufacturing.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>TigerPress (DCC) — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-10-09:566d20a669b7481c</id>
+    <updated>2026-10-09T12:35:16Z</updated>
+    <summary>Akira listed TigerPress (DCC) on its leak site.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>RealManage — Rhysida</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
+    <id>tag:ransom.privtools.eu,2026-10-09:15f85eb87167788e</id>
+    <updated>2026-10-09T12:10:15Z</updated>
+    <summary>Rhysida listed RealManage (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Rhysida"/>
+  </entry>
+  <entry>
+    <title>Anaergia | World-Leading Anaerobic Digestion Solutions — Cry0</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-09:d5ce5e4bdf67e873</id>
+    <updated>2026-10-09T12:00:56Z</updated>
+    <summary>Cry0 listed Anaergia | World-Leading Anaerobic Digestion Solutions (Canada) on its leak site. Sector: Energy &amp; Utilities.</summary>
+    <category term="Cry0"/>
+  </entry>
+  <entry>
+    <title>Hagiva Yh — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-09:e228e42ca86abbce</id>
+    <updated>2026-10-09T11:11:18Z</updated>
+    <summary>Qilin listed Hagiva Yh (Israel) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Fondy Food Pantry — Nightspire</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
+    <id>tag:ransom.privtools.eu,2026-10-09:c9cddc7b288eb855</id>
+    <updated>2026-10-09T06:04:22Z</updated>
+    <summary>Nightspire listed Fondy Food Pantry (United States) on its leak site. Sector: Agriculture and Food Production.</summary>
+    <category term="Nightspire"/>
+  </entry>
+  <entry>
+    <title>The Bernard Osher Foundation — Nightspire</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
+    <id>tag:ransom.privtools.eu,2026-10-09:2350d75569d4dc33</id>
+    <updated>2026-10-09T06:04:03Z</updated>
+    <summary>Nightspire listed The Bernard Osher Foundation (United States) on its leak site. Sector: Education.</summary>
+    <category term="Nightspire"/>
+  </entry>
+  <entry>
+    <title>PMG Project Management Group — Nightspire</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
+    <id>tag:ransom.privtools.eu,2026-10-09:cab9fa6f2cff0f6a</id>
+    <updated>2026-10-09T06:03:43Z</updated>
+    <summary>Nightspire listed PMG Project Management Group (United Arab Emirates) on its leak site. Sector: Professional Services.</summary>
+    <category term="Nightspire"/>
+  </entry>
   <entry>
     <title>Ministarstvo poljoprivrede, šumarstva i ribarstva — Barracuda</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/barracuda/"/>
@@ -112,7 +232,7 @@
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
     <id>tag:ransom.privtools.eu,2026-10-08:375191bc6da4389b</id>
     <updated>2026-10-08T21:36:50Z</updated>
-    <summary>UmBra listed SOCOCO (France) on its leak site. Sector: Technology.</summary>
+    <summary>UmBra listed SOCOCO (Brazil) on its leak site. Sector: Technology.</summary>
     <category term="UmBra"/>
   </entry>
   <entry>
@@ -168,7 +288,7 @@
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
     <id>tag:ransom.privtools.eu,2026-10-08:42ba0a364e247114</id>
     <updated>2026-10-08T19:33:32Z</updated>
-    <summary>Payload listed Boullard Musique (France) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <summary>Payload listed Boullard Musique (Switzerland) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
     <category term="Payload"/>
   </entry>
   <entry>
@@ -218,14 +338,6 @@
     <updated>2026-10-08T11:54:06Z</updated>
     <summary>RunSomeWares listed Morton LTC Pharmacy (United States) on its leak site. Sector: Healthcare.</summary>
     <category term="RunSomeWares"/>
-  </entry>
-  <entry>
-    <title>Some semi-samples Of Liberty X TMO cause we got yappatrons on twitter — BYOD</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-08:cd5e84cbd8378a66</id>
-    <updated>2026-10-08T10:20:28Z</updated>
-    <summary>BYOD listed Some semi-samples Of Liberty X TMO cause we got yappatrons on twitter on its leak site.</summary>
-    <category term="BYOD"/>
   </entry>
   <entry>
     <title>Cooperative Des Techniciens Ambulanciers De La Monte — Storm</title>
@@ -298,117 +410,5 @@
     <updated>2026-10-08T02:03:40Z</updated>
     <summary>Nightspire listed Sociedad Portuaria Mardique S.A. (Colombia) on its leak site. Sector: Transportation.</summary>
     <category term="Nightspire"/>
-  </entry>
-  <entry>
-    <title>Sinae Phuket Luxury Hotel — Nightspire</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
-    <id>tag:ransom.privtools.eu,2026-10-08:a1ac5adae70d0d94</id>
-    <updated>2026-10-08T02:03:19Z</updated>
-    <summary>Nightspire listed Sinae Phuket Luxury Hotel (Thailand) on its leak site. Sector: Hospitality.</summary>
-    <category term="Nightspire"/>
-  </entry>
-  <entry>
-    <title>INI Fiocruz — Nightspire</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
-    <id>tag:ransom.privtools.eu,2026-10-08:118b37412f54c7bf</id>
-    <updated>2026-10-08T02:02:57Z</updated>
-    <summary>Nightspire listed INI Fiocruz (Brazil) on its leak site. Sector: Healthcare.</summary>
-    <category term="Nightspire"/>
-  </entry>
-  <entry>
-    <title>Lumabuilt — Nightspire</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
-    <id>tag:ransom.privtools.eu,2026-10-08:7a40be9dd79f1762</id>
-    <updated>2026-10-08T02:02:34Z</updated>
-    <summary>Nightspire listed Lumabuilt (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Nightspire"/>
-  </entry>
-  <entry>
-    <title>Royal EGT — Nightspire</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
-    <id>tag:ransom.privtools.eu,2026-10-08:f1276ec4f8302395</id>
-    <updated>2026-10-08T02:02:09Z</updated>
-    <summary>Nightspire listed Royal EGT (Egypt) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Nightspire"/>
-  </entry>
-  <entry>
-    <title>Deese and Locklear Chiropractic Center — Nightspire</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
-    <id>tag:ransom.privtools.eu,2026-10-08:6b650aa924412c7d</id>
-    <updated>2026-10-08T02:01:48Z</updated>
-    <summary>Nightspire listed Deese and Locklear Chiropractic Center (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Nightspire"/>
-  </entry>
-  <entry>
-    <title>KSL Dirtworks — Nightspire</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
-    <id>tag:ransom.privtools.eu,2026-10-08:5cabe198a6e97dcd</id>
-    <updated>2026-10-08T02:01:27Z</updated>
-    <summary>Nightspire listed KSL Dirtworks (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Nightspire"/>
-  </entry>
-  <entry>
-    <title>Nantou Shiuhkuang Senior High School. — Nightspire</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
-    <id>tag:ransom.privtools.eu,2026-10-08:a72663287f43163e</id>
-    <updated>2026-10-08T02:01:04Z</updated>
-    <summary>Nightspire listed Nantou Shiuhkuang Senior High School. (Taiwan) on its leak site. Sector: Education.</summary>
-    <category term="Nightspire"/>
-  </entry>
-  <entry>
-    <title>K... — SilentRansomGroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
-    <id>tag:ransom.privtools.eu,2026-10-07:a6eacf5e036e0f3a</id>
-    <updated>2026-10-07T23:54:15Z</updated>
-    <summary>SilentRansomGroup listed K... on its leak site.</summary>
-    <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>Petrosul Distribuidora, Transportadora e Comércio de Combustíveis Ltda. — Dragonforce</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dragonforce/"/>
-    <id>tag:ransom.privtools.eu,2026-10-07:ded89abf2eee5b2f</id>
-    <updated>2026-10-07T23:29:33Z</updated>
-    <summary>Dragonforce listed Petrosul Distribuidora, Transportadora e Comércio de Combustíveis Ltda. (Brazil) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Dragonforce"/>
-  </entry>
-  <entry>
-    <title>TMobile — BYOD</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-07:344dab603ce9f100</id>
-    <updated>2026-10-07T23:20:43Z</updated>
-    <summary>BYOD listed TMobile (United States) on its leak site. Sector: Technology.</summary>
-    <category term="BYOD"/>
-  </entry>
-  <entry>
-    <title>Gate | Crypto Exchange — BYOD</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-07:ecd3632084d9d96f</id>
-    <updated>2026-10-07T23:20:23Z</updated>
-    <summary>BYOD listed Gate | Crypto Exchange (Singapore) on its leak site. Sector: Financial Services.</summary>
-    <category term="BYOD"/>
-  </entry>
-  <entry>
-    <title>RÉSO — Dragonforce</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dragonforce/"/>
-    <id>tag:ransom.privtools.eu,2026-10-07:6a98ed084519c993</id>
-    <updated>2026-10-07T22:59:59Z</updated>
-    <summary>Dragonforce listed RÉSO (France) on its leak site. Sector: Technology.</summary>
-    <category term="Dragonforce"/>
-  </entry>
-  <entry>
-    <title>The New Community School — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-10-07:8898cf7ca6825893</id>
-    <updated>2026-10-07T22:09:57Z</updated>
-    <summary>Incransom listed The New Community School (United States) on its leak site. Sector: Education.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>Qatar National Import &amp; Export — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-07:e66d762692444506</id>
-    <updated>2026-10-07T19:03:44Z</updated>
-    <summary>Qilin listed Qatar National Import &amp; Export (Qatar) on its leak site.</summary>
-    <category term="Qilin"/>
   </entry>
 </feed>
