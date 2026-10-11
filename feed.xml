@@ -5,12 +5,60 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-11T05:00:46Z</updated>
+  <updated>2026-10-11T14:23:38Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Company #27 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-11:ee002dd83cf86906</id>
+    <updated>2026-10-11T14:23:38Z</updated>
+    <summary>N0n listed Company #27 (Australia) on its leak site. Sector: Healthcare.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #26 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-11:0de92b03b51bbe8b</id>
+    <updated>2026-10-11T14:23:05Z</updated>
+    <summary>N0n listed Company #26 (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #25 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-11:8bbef62d33e51143</id>
+    <updated>2026-10-11T14:22:32Z</updated>
+    <summary>N0n listed Company #25 (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>CNESTEN — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-11:f7e85ca401175cd0</id>
+    <updated>2026-10-11T12:03:56Z</updated>
+    <summary>Qilin listed CNESTEN (Morocco) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Friendship Christian School — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-11:dd46ebd404ec2b9b</id>
+    <updated>2026-10-11T12:03:13Z</updated>
+    <summary>Qilin listed Friendship Christian School (United States) on its leak site. Sector: Education.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Charles E. Tabor AAL LLC — Rhysida</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
+    <id>tag:ransom.privtools.eu,2026-10-11:df3e7be716727045</id>
+    <updated>2026-10-11T06:31:57Z</updated>
+    <summary>Rhysida listed Charles E. Tabor AAL LLC (United States) on its leak site.</summary>
+    <category term="Rhysida"/>
+  </entry>
   <entry>
     <title>TQC S.A. — Dragonforce</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dragonforce/"/>
@@ -361,54 +409,6 @@
     <id>tag:ransom.privtools.eu,2026-10-09:f135fa9241bd567a</id>
     <updated>2026-10-09T19:27:57Z</updated>
     <summary>Thegentlemen listed DW McMillan Memorial Hospital (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Saskatoon Tribal Council — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-09:fa8430215ecc79c7</id>
-    <updated>2026-10-09T19:27:50Z</updated>
-    <summary>Thegentlemen listed Saskatoon Tribal Council (Canada) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Aquatech — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-09:df22357853eb73e8</id>
-    <updated>2026-10-09T19:27:37Z</updated>
-    <summary>Thegentlemen listed Aquatech (United States) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>AnyTech365 — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-09:e6c2194d0f12c111</id>
-    <updated>2026-10-09T19:27:29Z</updated>
-    <summary>Thegentlemen listed AnyTech365 (United Kingdom) on its leak site. Sector: Technology.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Greenbrook Engineering — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-09:7098bb4fd90f950a</id>
-    <updated>2026-10-09T19:27:16Z</updated>
-    <summary>Thegentlemen listed Greenbrook Engineering (United Kingdom) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>TGN — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-09:3ca91dad52d741d4</id>
-    <updated>2026-10-09T19:27:08Z</updated>
-    <summary>Thegentlemen listed TGN (Argentina) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Galil Engineering — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-09:0ad9fe832c95c12b</id>
-    <updated>2026-10-09T19:26:55Z</updated>
-    <summary>Thegentlemen listed Galil Engineering (Israel) on its leak site. Sector: Manufacturing.</summary>
     <category term="Thegentlemen"/>
   </entry>
 </feed>
