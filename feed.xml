@@ -5,12 +5,124 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-12T16:52:44Z</updated>
+  <updated>2026-10-13T01:34:32Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>The Innovation Group — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-10-13:1eca98aaccb66ce6</id>
+    <updated>2026-10-13T01:34:32Z</updated>
+    <summary>Play listed The Innovation Group (United States) on its leak site.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>DFK Group — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-10-13:31bcf9f318ef4ed5</id>
+    <updated>2026-10-13T00:37:22Z</updated>
+    <summary>Play listed DFK Group (Germany) on its leak site. Sector: Professional Services.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>Saddlers Court MFG — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-10-13:a02e5944de475363</id>
+    <updated>2026-10-13T00:36:48Z</updated>
+    <summary>Play listed Saddlers Court MFG (United Kingdom) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>Culinary Specialties — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-10-13:256852e50ce0ed5a</id>
+    <updated>2026-10-13T00:36:14Z</updated>
+    <summary>Play listed Culinary Specialties (United States) on its leak site. Sector: Agriculture and Food Production.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>Advanced Imaging Solutions — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-10-13:5b3cbe0de5f4fe1b</id>
+    <updated>2026-10-13T00:35:28Z</updated>
+    <summary>Play listed Advanced Imaging Solutions (Mongolia) on its leak site. Sector: Technology.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>The Park Lane Hong Kong — Orova</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/orova/"/>
+    <id>tag:ransom.privtools.eu,2026-10-12:e6e28f27f78b654b</id>
+    <updated>2026-10-12T23:53:14Z</updated>
+    <summary>Orova listed The Park Lane Hong Kong (Hong Kong) on its leak site. Sector: Hospitality.</summary>
+    <category term="Orova"/>
+  </entry>
+  <entry>
+    <title>Libre Wireless Technologies — Orova</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/orova/"/>
+    <id>tag:ransom.privtools.eu,2026-10-12:5f82eeca0a9ca7a4</id>
+    <updated>2026-10-12T23:52:42Z</updated>
+    <summary>Orova listed Libre Wireless Technologies (India) on its leak site. Sector: Technology.</summary>
+    <category term="Orova"/>
+  </entry>
+  <entry>
+    <title>Amantya Technologies — Orova</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/orova/"/>
+    <id>tag:ransom.privtools.eu,2026-10-12:b5443b787e267b14</id>
+    <updated>2026-10-12T23:52:10Z</updated>
+    <summary>Orova listed Amantya Technologies (India) on its leak site. Sector: Technology.</summary>
+    <category term="Orova"/>
+  </entry>
+  <entry>
+    <title>Gatetech Technology — Orova</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/orova/"/>
+    <id>tag:ransom.privtools.eu,2026-10-12:2291650b4a0a6d2c</id>
+    <updated>2026-10-12T23:51:39Z</updated>
+    <summary>Orova listed Gatetech Technology (Taiwan) on its leak site. Sector: Technology.</summary>
+    <category term="Orova"/>
+  </entry>
+  <entry>
+    <title>AAA Architectural Hardware — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-10-12:a63c46ef3ab0e81e</id>
+    <updated>2026-10-12T20:55:17Z</updated>
+    <summary>Akira listed AAA Architectural Hardware on its leak site. Sector: Manufacturing.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>hiqbio.com — Safepay</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
+    <id>tag:ransom.privtools.eu,2026-10-12:4f60dfd276004857</id>
+    <updated>2026-10-12T20:25:24Z</updated>
+    <summary>Safepay listed hiqbio.com (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Safepay"/>
+  </entry>
+  <entry>
+    <title>Aeroklas Duys / Duys Engineering Group — Deadlock</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/deadlock/"/>
+    <id>tag:ransom.privtools.eu,2026-10-12:0e14574391c3efcb</id>
+    <updated>2026-10-12T17:50:45Z</updated>
+    <summary>Deadlock listed Aeroklas Duys / Duys Engineering Group (South Africa) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Deadlock"/>
+  </entry>
+  <entry>
+    <title>RingSide Creative — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-12:4e4d2cb0da883e02</id>
+    <updated>2026-10-12T17:23:47Z</updated>
+    <summary>Qilin listed RingSide Creative (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Rechtsanwaltskanzlei Dr. Bien — Aurora</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
+    <id>tag:ransom.privtools.eu,2026-10-12:4df77131b5511628</id>
+    <updated>2026-10-12T16:59:10Z</updated>
+    <summary>Aurora listed Rechtsanwaltskanzlei Dr. Bien (Germany) on its leak site. Sector: Professional Services.</summary>
+    <category term="Aurora"/>
+  </entry>
   <entry>
     <title>Franklin Miller Inc. — Dark Project</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dark-project/"/>
@@ -297,118 +409,6 @@
     <id>tag:ransom.privtools.eu,2026-10-12:2593cd85666a785d</id>
     <updated>2026-10-12T14:04:34Z</updated>
     <summary>N0n listed Dongkuk Steel (steel manufacturing) (South Korea) on its leak site. Sector: Manufacturing.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>NCT Kandla (container terminal operations) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-12:9576b7d62cd3e245</id>
-    <updated>2026-10-12T14:03:56Z</updated>
-    <summary>N0n listed NCT Kandla (container terminal operations) (India) on its leak site. Sector: Transportation.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>TTI Algeciras (container terminal operations) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-12:5305f1664c67ab8f</id>
-    <updated>2026-10-12T14:03:22Z</updated>
-    <summary>N0n listed TTI Algeciras (container terminal operations) (Spain) on its leak site. Sector: Transportation.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Saehan Marine (ship agency operations) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-12:1c1907b386958e13</id>
-    <updated>2026-10-12T14:02:41Z</updated>
-    <summary>N0n listed Saehan Marine (ship agency operations) (South Korea) on its leak site. Sector: Transportation.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>April Asia (port agency operations) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-12:475b32161c4d05a6</id>
-    <updated>2026-10-12T14:01:59Z</updated>
-    <summary>N0n listed April Asia (port agency operations) (Indonesia) on its leak site. Sector: Transportation.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Dong-A Tanker (oil tanker operations) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-12:1237b77ce3274f52</id>
-    <updated>2026-10-12T14:01:18Z</updated>
-    <summary>N0n listed Dong-A Tanker (oil tanker operations) (South Korea) on its leak site. Sector: Transportation.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>EUSU Logistics (logistics operations) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-12:4ca3dcde2b07be83</id>
-    <updated>2026-10-12T14:00:37Z</updated>
-    <summary>N0n listed EUSU Logistics (logistics operations) (South Korea) on its leak site. Sector: Transportation.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>BMT IQ (marine surveying and inspection) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-12:c1c019ac19c9b3f3</id>
-    <updated>2026-10-12T13:59:56Z</updated>
-    <summary>N0n listed BMT IQ (marine surveying and inspection) (United Kingdom) on its leak site. Sector: Transportation.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>BKH ICD (inland container depot operations) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-12:71c7d7f423e92a86</id>
-    <updated>2026-10-12T13:59:17Z</updated>
-    <summary>N0n listed BKH ICD (inland container depot operations) (South Korea) on its leak site. Sector: Transportation.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Korea Ferry (ferry operations) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-12:f16cf49e37e79798</id>
-    <updated>2026-10-12T13:58:35Z</updated>
-    <summary>N0n listed Korea Ferry (ferry operations) (South Korea) on its leak site. Sector: Transportation.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>T2S (terminal systems operations) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-12:2956cf54ecd8261f</id>
-    <updated>2026-10-12T13:57:59Z</updated>
-    <summary>N0n listed T2S (terminal systems operations) (Brazil) on its leak site. Sector: Transportation.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Samjoo Maritime (ship management) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-12:e0e2233143b79184</id>
-    <updated>2026-10-12T13:57:18Z</updated>
-    <summary>N0n listed Samjoo Maritime (ship management) (South Korea) on its leak site. Sector: Transportation.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Camellia Line (ferry and RoRo operations) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-12:8a66c24bca69bc47</id>
-    <updated>2026-10-12T13:56:37Z</updated>
-    <summary>N0n listed Camellia Line (ferry and RoRo operations) (Japan) on its leak site. Sector: Transportation.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Eurogate Tanger (container terminal operations) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-12:2488ab05efc7438b</id>
-    <updated>2026-10-12T13:55:54Z</updated>
-    <summary>N0n listed Eurogate Tanger (container terminal operations) (Morocco) on its leak site. Sector: Transportation.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>ILCS Pelindo (port logistics operations) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-12:31df5b3d5106d2ce</id>
-    <updated>2026-10-12T13:55:08Z</updated>
-    <summary>N0n listed ILCS Pelindo (port logistics operations) (Indonesia) on its leak site. Sector: Transportation.</summary>
     <category term="N0n"/>
   </entry>
 </feed>
