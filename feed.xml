@@ -5,12 +5,84 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-14T02:11:03Z</updated>
+  <updated>2026-10-14T13:54:33Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Trieschmann Dumala Architectural Group — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-14:6c5d4e8347ed1021</id>
+    <updated>2026-10-14T13:54:33Z</updated>
+    <summary>N0n listed Trieschmann Dumala Architectural Group on its leak site. Sector: Professional Services.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>E-Z Pack Trucks — Wallstreet</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
+    <id>tag:ransom.privtools.eu,2026-10-14:85da6bb032da3ebb</id>
+    <updated>2026-10-14T12:57:15Z</updated>
+    <summary>Wallstreet listed E-Z Pack Trucks (United States) on its leak site. Sector: Transportation.</summary>
+    <category term="Wallstreet"/>
+  </entry>
+  <entry>
+    <title>Green Clinic — Wallstreet</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
+    <id>tag:ransom.privtools.eu,2026-10-14:999133a26b7e7f3c</id>
+    <updated>2026-10-14T12:56:56Z</updated>
+    <summary>Wallstreet listed Green Clinic (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Wallstreet"/>
+  </entry>
+  <entry>
+    <title>poolegroup.com.au — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-10-14:c1fce2d49e983099</id>
+    <updated>2026-10-14T11:31:29Z</updated>
+    <summary>Lockbit5 listed poolegroup.com.au (Australia) on its leak site. Sector: Professional Services.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>saintpierredescorps.fr — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-10-14:52d6c6ead35a3da2</id>
+    <updated>2026-10-14T11:30:48Z</updated>
+    <summary>Lockbit5 listed saintpierredescorps.fr (France) on its leak site.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>skycc.co.th — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-10-14:d6dd1986ce296e43</id>
+    <updated>2026-10-14T11:29:56Z</updated>
+    <summary>Lockbit5 listed skycc.co.th (Thailand) on its leak site.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>kordhotels.gr — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-10-14:9f16ecd171d678ba</id>
+    <updated>2026-10-14T11:28:33Z</updated>
+    <summary>Lockbit5 listed kordhotels.gr (Greece) on its leak site. Sector: Hospitality.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>MyM ODONTOCLINICA S.A — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-10-14:3a3b7e5128021dd9</id>
+    <updated>2026-10-14T10:51:31Z</updated>
+    <summary>Emperador listed MyM ODONTOCLINICA S.A (Brazil) on its leak site. Sector: Healthcare.</summary>
+    <category term="Emperador"/>
+  </entry>
+  <entry>
+    <title>Estrategias BigMat S.L.U. — Aurora</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
+    <id>tag:ransom.privtools.eu,2026-10-14:245f26a71a157e24</id>
+    <updated>2026-10-14T09:55:50Z</updated>
+    <summary>Aurora listed Estrategias BigMat S.L.U. (Spain) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Aurora"/>
+  </entry>
   <entry>
     <title>Colorado Texas — Nightspire</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
@@ -338,77 +410,5 @@
     <updated>2026-10-13T13:18:39Z</updated>
     <summary>Incransom listed Wolf &amp; Sofsky GmbH (Germany) on its leak site. Sector: Manufacturing.</summary>
     <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>Guarufilme — Vexy Ransomware</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:7c413fe37c422c9a</id>
-    <updated>2026-10-13T12:31:50Z</updated>
-    <summary>Vexy Ransomware listed Guarufilme (Brazil) on its leak site.</summary>
-    <category term="Vexy Ransomware"/>
-  </entry>
-  <entry>
-    <title>Admirals Trading — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:dc7ea45cccc03eaa</id>
-    <updated>2026-10-13T12:22:00Z</updated>
-    <summary>AuditTeam listed Admirals Trading (United Arab Emirates) on its leak site. Sector: Financial Services.</summary>
-    <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>AD***ed — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:28099912cf94e8ae</id>
-    <updated>2026-10-13T12:21:27Z</updated>
-    <summary>AuditTeam listed AD***ed (United Kingdom) on its leak site.</summary>
-    <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>Ze***ce — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:b4943a2c456dca20</id>
-    <updated>2026-10-13T12:20:55Z</updated>
-    <summary>AuditTeam listed Ze***ce (Italy) on its leak site.</summary>
-    <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>Sa***ge — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:cd0e20bbc0c3ee29</id>
-    <updated>2026-10-13T12:20:23Z</updated>
-    <summary>AuditTeam listed Sa***ge (United Kingdom) on its leak site.</summary>
-    <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>Valode &amp; Pistre — Panzer</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:3557fadf5d3cc37f</id>
-    <updated>2026-10-13T10:58:42Z</updated>
-    <summary>Panzer listed Valode &amp; Pistre (France) on its leak site. Sector: Professional Services.</summary>
-    <category term="Panzer"/>
-  </entry>
-  <entry>
-    <title>Zenidoc — Panzer</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:d1c11c90cf983c74</id>
-    <updated>2026-10-13T10:58:11Z</updated>
-    <summary>Panzer listed Zenidoc on its leak site. Sector: Professional Services.</summary>
-    <category term="Panzer"/>
-  </entry>
-  <entry>
-    <title>MarieBelle New York — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:cf5ef588c0fd8ca8</id>
-    <updated>2026-10-13T10:56:26Z</updated>
-    <summary>N0n listed MarieBelle New York (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>PG Group (Pure Options) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:5517610a2830072d</id>
-    <updated>2026-10-13T10:55:35Z</updated>
-    <summary>N0n listed PG Group (Pure Options) on its leak site. Sector: Financial Services.</summary>
-    <category term="N0n"/>
   </entry>
 </feed>
