@@ -5,12 +5,140 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-15T08:51:31Z</updated>
+  <updated>2026-10-15T13:24:36Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Videk — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-10-15:2b4f7fad0b9c764f</id>
+    <updated>2026-10-15T13:24:36Z</updated>
+    <summary>Akira listed Videk (United Kingdom) on its leak site. Sector: Technology.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Boyle, Pecharich, Cline, Whittington and Stallings — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-10-15:d3b63d051dce8f7b</id>
+    <updated>2026-10-15T13:24:16Z</updated>
+    <summary>Akira listed Boyle, Pecharich, Cline, Whittington and Stallings on its leak site. Sector: Professional Services.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>bienestarempresarial — 0x00</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-15:5d2267e47981a5a0</id>
+    <updated>2026-10-15T13:20:22Z</updated>
+    <summary>0x00 listed bienestarempresarial (Mexico) on its leak site. Sector: Professional Services.</summary>
+    <category term="0x00"/>
+  </entry>
+  <entry>
+    <title>middleby — Iah6477</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/iah6477/"/>
+    <id>tag:ransom.privtools.eu,2026-10-15:0b7c6b4f31c88611</id>
+    <updated>2026-10-15T13:02:42Z</updated>
+    <summary>Iah6477 listed middleby (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Iah6477"/>
+  </entry>
+  <entry>
+    <title>sunshine-mills — Iah6477</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/iah6477/"/>
+    <id>tag:ransom.privtools.eu,2026-10-15:ad5d974e2d489578</id>
+    <updated>2026-10-15T13:02:07Z</updated>
+    <summary>Iah6477 listed sunshine-mills on its leak site. Sector: Agriculture and Food Production.</summary>
+    <category term="Iah6477"/>
+  </entry>
+  <entry>
+    <title>Svd (Sun Valley Dairy) — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-10-15:d44bb17dc5b3af18</id>
+    <updated>2026-10-15T12:54:02Z</updated>
+    <summary>Akira listed Svd (Sun Valley Dairy) (United States) on its leak site. Sector: Agriculture and Food Production.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Hocon Gas — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-15:5397f1596407d9a8</id>
+    <updated>2026-10-15T12:09:29Z</updated>
+    <summary>Qilin listed Hocon Gas (Nigeria) on its leak site. Sector: Energy &amp; Utilities.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>HyperGen — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-15:24116de78cf59bb7</id>
+    <updated>2026-10-15T12:08:51Z</updated>
+    <summary>Qilin listed HyperGen (United States) on its leak site. Sector: Technology.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Chattanooga Shooting Supplies — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-15:69367294502bb6ec</id>
+    <updated>2026-10-15T12:08:13Z</updated>
+    <summary>Qilin listed Chattanooga Shooting Supplies (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Commune Du Tampon — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-15:90005a89ea0a292e</id>
+    <updated>2026-10-15T12:07:45Z</updated>
+    <summary>Qilin listed Commune Du Tampon (Réunion) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Brame Telecom — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-15:1c7d187452ba9c23</id>
+    <updated>2026-10-15T12:07:07Z</updated>
+    <summary>Qilin listed Brame Telecom (Brazil) on its leak site. Sector: Technology.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>hensley — Iah6477</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/iah6477/"/>
+    <id>tag:ransom.privtools.eu,2026-10-15:95af0688fdb37264</id>
+    <updated>2026-10-15T12:01:01Z</updated>
+    <summary>Iah6477 listed hensley on its leak site.</summary>
+    <category term="Iah6477"/>
+  </entry>
+  <entry>
+    <title>Enchanted Fine Jewellery — Vexy Ransomware</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
+    <id>tag:ransom.privtools.eu,2026-10-15:b7890b81f5b53cf4</id>
+    <updated>2026-10-15T11:22:07Z</updated>
+    <summary>Vexy Ransomware listed Enchanted Fine Jewellery (India) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Vexy Ransomware"/>
+  </entry>
+  <entry>
+    <title>buckle — Iah6477</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/iah6477/"/>
+    <id>tag:ransom.privtools.eu,2026-10-15:fb2d10aa8b063c21</id>
+    <updated>2026-10-15T11:04:44Z</updated>
+    <summary>Iah6477 listed buckle on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Iah6477"/>
+  </entry>
+  <entry>
+    <title>camden-living — Iah6477</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/iah6477/"/>
+    <id>tag:ransom.privtools.eu,2026-10-15:7be3902b481ba672</id>
+    <updated>2026-10-15T11:04:08Z</updated>
+    <summary>Iah6477 listed camden-living (United Kingdom) on its leak site. Sector: Hospitality.</summary>
+    <category term="Iah6477"/>
+  </entry>
+  <entry>
+    <title>S*o**n* Public Schools — Nightspire</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
+    <id>tag:ransom.privtools.eu,2026-10-15:a2ac546065ce1126</id>
+    <updated>2026-10-15T10:05:25Z</updated>
+    <summary>Nightspire listed S*o**n* Public Schools on its leak site. Sector: Education.</summary>
+    <category term="Nightspire"/>
+  </entry>
   <entry>
     <title>MPI LTDA — Emperador</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
@@ -53,7 +181,7 @@
   </entry>
   <entry>
     <title>alera — Iah6477</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/iah6477/"/>
     <id>tag:ransom.privtools.eu,2026-10-15:9905aaff7271deb0</id>
     <updated>2026-10-15T03:02:43Z</updated>
     <summary>Iah6477 listed alera on its leak site. Sector: Professional Services.</summary>
@@ -282,133 +410,5 @@
     <updated>2026-10-13T17:16:54Z</updated>
     <summary>HYFLOCK listed YYC Advisors (Canada) on its leak site. Sector: Financial Services.</summary>
     <category term="HYFLOCK"/>
-  </entry>
-  <entry>
-    <title>Cooper Tec Solutions — HYFLOCK</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:d39d77687e541801</id>
-    <updated>2026-10-13T17:15:58Z</updated>
-    <summary>HYFLOCK listed Cooper Tec Solutions (Brazil) on its leak site. Sector: Technology.</summary>
-    <category term="HYFLOCK"/>
-  </entry>
-  <entry>
-    <title>nodhom.com — HYFLOCK</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:2fc571095101a4fe</id>
-    <updated>2026-10-13T17:15:06Z</updated>
-    <summary>HYFLOCK listed nodhom.com (Saudi Arabia) on its leak site.</summary>
-    <category term="HYFLOCK"/>
-  </entry>
-  <entry>
-    <title>IGPL — HYFLOCK</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:bc0cfa497ec4794d</id>
-    <updated>2026-10-13T17:14:21Z</updated>
-    <summary>HYFLOCK listed IGPL (Nigeria) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="HYFLOCK"/>
-  </entry>
-  <entry>
-    <title>ocean beverages — HYFLOCK</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:0ad1e79cd141e43e</id>
-    <updated>2026-10-13T17:13:38Z</updated>
-    <summary>HYFLOCK listed ocean beverages (India) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="HYFLOCK"/>
-  </entry>
-  <entry>
-    <title>tdotnet — HYFLOCK</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:cef664417f78649c</id>
-    <updated>2026-10-13T17:12:32Z</updated>
-    <summary>HYFLOCK listed tdotnet on its leak site. Sector: Technology.</summary>
-    <category term="HYFLOCK"/>
-  </entry>
-  <entry>
-    <title>Ecuador police headquarters — HYFLOCK</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:2a5d938d240ca1a3</id>
-    <updated>2026-10-13T17:11:39Z</updated>
-    <summary>HYFLOCK listed Ecuador police headquarters (Ecuador) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="HYFLOCK"/>
-  </entry>
-  <entry>
-    <title>merkezilac_archives — HYFLOCK</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:439cb3ba306ce648</id>
-    <updated>2026-10-13T17:10:12Z</updated>
-    <summary>HYFLOCK listed merkezilac_archives (Turkey) on its leak site.</summary>
-    <category term="HYFLOCK"/>
-  </entry>
-  <entry>
-    <title>Ahlqvist &amp; Almqvist Arkitekter AB — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:c0a7b7bdfddd9d02</id>
-    <updated>2026-10-13T16:55:15Z</updated>
-    <summary>Wallstreet listed Ahlqvist &amp; Almqvist Arkitekter AB (Sweden) on its leak site. Sector: Professional Services.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>Englunds Konsultbyrå AB — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:f98a20fc92f5f31f</id>
-    <updated>2026-10-13T16:54:56Z</updated>
-    <summary>Wallstreet listed Englunds Konsultbyrå AB (Sweden) on its leak site. Sector: Professional Services.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>Spectrum Arkitekter AB — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:0f417a4213cd1734</id>
-    <updated>2026-10-13T16:54:35Z</updated>
-    <summary>Wallstreet listed Spectrum Arkitekter AB (Sweden) on its leak site. Sector: Professional Services.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>Vendus Sweden AB — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:9ff4389ac053fd08</id>
-    <updated>2026-10-13T16:54:16Z</updated>
-    <summary>Wallstreet listed Vendus Sweden AB (Sweden) on its leak site.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>Fab Support AB — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:20e0e4b752e9b763</id>
-    <updated>2026-10-13T16:53:57Z</updated>
-    <summary>Wallstreet listed Fab Support AB (Sweden) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>Byrån för Arkitektur och Urbanism — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:08007c06393b3e29</id>
-    <updated>2026-10-13T16:53:38Z</updated>
-    <summary>Wallstreet listed Byrån för Arkitektur och Urbanism (Sweden) on its leak site. Sector: Professional Services.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>Briab Group AB — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:04bd95b032de3558</id>
-    <updated>2026-10-13T16:53:19Z</updated>
-    <summary>Wallstreet listed Briab Group AB (Sweden) on its leak site.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>Danvikshem (Stiftelsen Danviks Hospital) — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:69bc825b626ebad1</id>
-    <updated>2026-10-13T16:52:58Z</updated>
-    <summary>Wallstreet listed Danvikshem (Stiftelsen Danviks Hospital) (Sweden) on its leak site. Sector: Healthcare.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>Brunnberg &amp; Forshed Arkitektkontor — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-10-13:60f861bb02844316</id>
-    <updated>2026-10-13T16:52:39Z</updated>
-    <summary>Wallstreet listed Brunnberg &amp; Forshed Arkitektkontor (Sweden) on its leak site. Sector: Professional Services.</summary>
-    <category term="Wallstreet"/>
   </entry>
 </feed>
