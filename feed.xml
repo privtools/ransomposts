@@ -5,12 +5,20 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-17T06:53:37Z</updated>
+  <updated>2026-10-17T11:32:47Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>ock.com.my — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:802276472ff121ec</id>
+    <updated>2026-10-17T11:32:47Z</updated>
+    <summary>Lockbit5 listed ock.com.my (Malaysia) on its leak site.</summary>
+    <category term="Lockbit5"/>
+  </entry>
   <entry>
     <title>Company #86 — N0n</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
@@ -401,14 +409,6 @@
     <id>tag:ransom.privtools.eu,2026-10-16:37e44309f7812235</id>
     <updated>2026-10-16T09:34:38Z</updated>
     <summary>Thegentlemen listed Petroleum Telcom Communications (Pakistan) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Axle Logistics — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:283ff053340b8c2d</id>
-    <updated>2026-10-16T09:34:17Z</updated>
-    <summary>Thegentlemen listed Axle Logistics (United States) on its leak site. Sector: Transportation.</summary>
     <category term="Thegentlemen"/>
   </entry>
 </feed>
