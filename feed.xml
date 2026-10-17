@@ -5,12 +5,44 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-17T03:07:09Z</updated>
+  <updated>2026-10-17T06:53:37Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Company #86 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:e1a516b65f12c45e</id>
+    <updated>2026-10-17T06:53:37Z</updated>
+    <summary>N0n listed Company #86 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #85 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:846d5cae09b35d88</id>
+    <updated>2026-10-17T05:25:56Z</updated>
+    <summary>N0n listed Company #85 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #84 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:538520f65dd32c8b</id>
+    <updated>2026-10-17T05:25:20Z</updated>
+    <summary>N0n listed Company #84 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Kissei Shoji — Everest</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:c1e722b9a396b130</id>
+    <updated>2026-10-17T03:07:45Z</updated>
+    <summary>Everest listed Kissei Shoji (Japan) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Everest"/>
+  </entry>
   <entry>
     <title>Chugoku Bend — Everest</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
@@ -377,38 +409,6 @@
     <id>tag:ransom.privtools.eu,2026-10-16:283ff053340b8c2d</id>
     <updated>2026-10-16T09:34:17Z</updated>
     <summary>Thegentlemen listed Axle Logistics (United States) on its leak site. Sector: Transportation.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Cradlewise Inc. — THE SEVEN DEADLY SINS</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:80deee40a2c611b9</id>
-    <updated>2026-10-16T09:34:09Z</updated>
-    <summary>THE SEVEN DEADLY SINS listed Cradlewise Inc. (United States) on its leak site. Sector: Technology.</summary>
-    <category term="THE SEVEN DEADLY SINS"/>
-  </entry>
-  <entry>
-    <title>CAS Paper Mill — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:ae34e918c0ecd5f0</id>
-    <updated>2026-10-16T09:33:57Z</updated>
-    <summary>Thegentlemen listed CAS Paper Mill (Canada) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Globeia Inc. — THE SEVEN DEADLY SINS</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:8582d97577567051</id>
-    <updated>2026-10-16T09:33:37Z</updated>
-    <summary>THE SEVEN DEADLY SINS listed Globeia Inc. (United States) on its leak site.</summary>
-    <category term="THE SEVEN DEADLY SINS"/>
-  </entry>
-  <entry>
-    <title>St Peters Anglican Primary School — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:72f7a74ccd673b03</id>
-    <updated>2026-10-16T09:33:36Z</updated>
-    <summary>Thegentlemen listed St Peters Anglican Primary School (Australia) on its leak site. Sector: Education.</summary>
     <category term="Thegentlemen"/>
   </entry>
 </feed>
