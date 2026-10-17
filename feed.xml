@@ -5,12 +5,212 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-16T11:53:39Z</updated>
+  <updated>2026-10-17T03:07:09Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Chugoku Bend — Everest</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:cd8ac087e76abc03</id>
+    <updated>2026-10-17T03:07:09Z</updated>
+    <summary>Everest listed Chugoku Bend on its leak site. Sector: Manufacturing.</summary>
+    <category term="Everest"/>
+  </entry>
+  <entry>
+    <title>Taekwang Network — Everest</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:0a501483d975a97f</id>
+    <updated>2026-10-17T03:06:33Z</updated>
+    <summary>Everest listed Taekwang Network (South Korea) on its leak site. Sector: Technology.</summary>
+    <category term="Everest"/>
+  </entry>
+  <entry>
+    <title>Brenner Base Tunnel — Everest</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:b54091446ba2bc32</id>
+    <updated>2026-10-17T03:05:58Z</updated>
+    <summary>Everest listed Brenner Base Tunnel (Austria) on its leak site. Sector: Transportation.</summary>
+    <category term="Everest"/>
+  </entry>
+  <entry>
+    <title>Prafesta Ind. e Com. de Embalagens Ltda — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:0bc75367a03b7029</id>
+    <updated>2026-10-16T21:53:44Z</updated>
+    <summary>N0n listed Prafesta Ind. e Com. de Embalagens Ltda (Brazil) on its leak site. Sector: Manufacturing.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>WSBI-ESBG — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:efaf41f84b625e61</id>
+    <updated>2026-10-16T20:40:40Z</updated>
+    <summary>Play listed WSBI-ESBG (Belgium) on its leak site. Sector: Financial Services.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>New Tec Tool Limited — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:c04503f4a7c8d37e</id>
+    <updated>2026-10-16T20:40:05Z</updated>
+    <summary>Play listed New Tec Tool Limited (Hong Kong) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>MicroSearch Corporation — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:0a2bc4a96ade7db8</id>
+    <updated>2026-10-16T20:39:30Z</updated>
+    <summary>Play listed MicroSearch Corporation on its leak site. Sector: Technology.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>Pure Options — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:8316420c55ef484e</id>
+    <updated>2026-10-16T20:38:54Z</updated>
+    <summary>Play listed Pure Options on its leak site. Sector: Financial Services.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>ONEOK, Inc. — Redact</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:20a2cda13a434471</id>
+    <updated>2026-10-16T18:54:41Z</updated>
+    <summary>Redact listed ONEOK, Inc. (United States) on its leak site. Sector: Energy &amp; Utilities.</summary>
+    <category term="Redact"/>
+  </entry>
+  <entry>
+    <title>Data-Core Systems — Vexy Ransomware</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:45476ecfad428703</id>
+    <updated>2026-10-16T16:55:01Z</updated>
+    <summary>Vexy Ransomware listed Data-Core Systems on its leak site. Sector: Technology.</summary>
+    <category term="Vexy Ransomware"/>
+  </entry>
+  <entry>
+    <title>Girl Scouts of Eastern Massachusetts — Wallstreet</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:ff3bfbf0ace1c65b</id>
+    <updated>2026-10-16T16:00:49Z</updated>
+    <summary>Wallstreet listed Girl Scouts of Eastern Massachusetts (United States) on its leak site. Sector: Education.</summary>
+    <category term="Wallstreet"/>
+  </entry>
+  <entry>
+    <title>Company #80 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:369d2ac614c49d5f</id>
+    <updated>2026-10-16T15:57:47Z</updated>
+    <summary>N0n listed Company #80 on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #79 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:bf2df524e94e5a23</id>
+    <updated>2026-10-16T15:57:11Z</updated>
+    <summary>N0n listed Company #79 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #78 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:ab276c2a774e9b98</id>
+    <updated>2026-10-16T15:56:36Z</updated>
+    <summary>N0n listed Company #78 on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #77 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:c82d72c6ede5e52e</id>
+    <updated>2026-10-16T15:56:01Z</updated>
+    <summary>N0n listed Company #77 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #76 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:934aa5ae74786399</id>
+    <updated>2026-10-16T15:55:26Z</updated>
+    <summary>N0n listed Company #76 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #72 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:112932e5bd7db55a</id>
+    <updated>2026-10-16T15:54:50Z</updated>
+    <summary>N0n listed Company #72 on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #71 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:967c8e99d83d5168</id>
+    <updated>2026-10-16T15:54:15Z</updated>
+    <summary>N0n listed Company #71 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Parker-Hannifin Corporation — Redact</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:1c9b6a93eee8efe5</id>
+    <updated>2026-10-16T15:01:15Z</updated>
+    <summary>Redact listed Parker-Hannifin Corporation (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Redact"/>
+  </entry>
+  <entry>
+    <title>Company #82 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:01eb944dec377d25</id>
+    <updated>2026-10-16T14:57:35Z</updated>
+    <summary>N0n listed Company #82 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #81 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:be238648c35a4f12</id>
+    <updated>2026-10-16T14:56:59Z</updated>
+    <summary>N0n listed Company #81 on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #83 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:b6347639670ac6c4</id>
+    <updated>2026-10-16T14:56:23Z</updated>
+    <summary>N0n listed Company #83 on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Xinos Construction Corp and its accounting group — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:67ee190a179c43cf</id>
+    <updated>2026-10-16T14:55:46Z</updated>
+    <summary>N0n listed Xinos Construction Corp and its accounting group on its leak site. Sector: Manufacturing.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>BladeTech Inc — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:8fb963feac1fddcb</id>
+    <updated>2026-10-16T14:55:05Z</updated>
+    <summary>N0n listed BladeTech Inc (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>EnVision Eye Care — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-16:ba2b385696069254</id>
+    <updated>2026-10-16T13:54:37Z</updated>
+    <summary>N0n listed EnVision Eye Care on its leak site. Sector: Healthcare.</summary>
+    <category term="N0n"/>
+  </entry>
   <entry>
     <title>Macfarlan Capital Partners — Pear</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pear/"/>
@@ -210,205 +410,5 @@
     <updated>2026-10-16T09:33:36Z</updated>
     <summary>Thegentlemen listed St Peters Anglican Primary School (Australia) on its leak site. Sector: Education.</summary>
     <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Pantanal Agricola — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:387a6f95498fa633</id>
-    <updated>2026-10-16T09:33:15Z</updated>
-    <summary>Thegentlemen listed Pantanal Agricola (Brazil) on its leak site. Sector: Agriculture and Food Production.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Canva — THE SEVEN DEADLY SINS</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:95a0145b2a3b273d</id>
-    <updated>2026-10-16T09:33:01Z</updated>
-    <summary>THE SEVEN DEADLY SINS listed Canva (Australia) on its leak site. Sector: Technology.</summary>
-    <category term="THE SEVEN DEADLY SINS"/>
-  </entry>
-  <entry>
-    <title>Sladek Partners — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:c6e8bd00151ca53f</id>
-    <updated>2026-10-16T09:32:54Z</updated>
-    <summary>Thegentlemen listed Sladek Partners (Czechia) on its leak site. Sector: Professional Services.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>JJS Justice — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:9ba0c4d797b62309</id>
-    <updated>2026-10-16T09:32:33Z</updated>
-    <summary>Thegentlemen listed JJS Justice (United Kingdom) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Hospital Sírio-Libanês — THE SEVEN DEADLY SINS</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:22686707fb5ddf8e</id>
-    <updated>2026-10-16T09:32:26Z</updated>
-    <summary>THE SEVEN DEADLY SINS listed Hospital Sírio-Libanês (Brazil) on its leak site. Sector: Healthcare.</summary>
-    <category term="THE SEVEN DEADLY SINS"/>
-  </entry>
-  <entry>
-    <title>ServiceMaster of Ottawa — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:75edbaec47901b07</id>
-    <updated>2026-10-16T09:32:12Z</updated>
-    <summary>Thegentlemen listed ServiceMaster of Ottawa (Canada) on its leak site. Sector: Professional Services.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Verano Holdings — THE SEVEN DEADLY SINS</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:ca535bc6fc8461bb</id>
-    <updated>2026-10-16T09:31:52Z</updated>
-    <summary>THE SEVEN DEADLY SINS listed Verano Holdings (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="THE SEVEN DEADLY SINS"/>
-  </entry>
-  <entry>
-    <title>Entry Systems Garage Doors Gates — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:f6004684ab903077</id>
-    <updated>2026-10-16T09:31:51Z</updated>
-    <summary>Thegentlemen listed Entry Systems Garage Doors Gates (United States) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Europ Assistance South Africa — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:d4cbd6d2d53404cb</id>
-    <updated>2026-10-16T09:31:30Z</updated>
-    <summary>Thegentlemen listed Europ Assistance South Africa (South Africa) on its leak site. Sector: Financial Services.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Harness Inc. — THE SEVEN DEADLY SINS</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:0ce28dc0bd77caea</id>
-    <updated>2026-10-16T09:31:18Z</updated>
-    <summary>THE SEVEN DEADLY SINS listed Harness Inc. (United States) on its leak site. Sector: Technology.</summary>
-    <category term="THE SEVEN DEADLY SINS"/>
-  </entry>
-  <entry>
-    <title>Taiwan Otsuka Pharmaceutical — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:ad492d5bfc323162</id>
-    <updated>2026-10-16T09:31:09Z</updated>
-    <summary>Thegentlemen listed Taiwan Otsuka Pharmaceutical (Taiwan) on its leak site. Sector: Healthcare.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>CLIMEDI — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:52f15ac48e1d3c0a</id>
-    <updated>2026-10-16T09:30:49Z</updated>
-    <summary>Thegentlemen listed CLIMEDI (Brazil) on its leak site. Sector: Healthcare.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>iHeartJane — THE SEVEN DEADLY SINS</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:e8b2208ee3ee9998</id>
-    <updated>2026-10-16T09:30:44Z</updated>
-    <summary>THE SEVEN DEADLY SINS listed iHeartJane (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="THE SEVEN DEADLY SINS"/>
-  </entry>
-  <entry>
-    <title>Universidade de Passo Fundo — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:71918f12c564edba</id>
-    <updated>2026-10-16T09:30:28Z</updated>
-    <summary>Thegentlemen listed Universidade de Passo Fundo (Brazil) on its leak site. Sector: Education.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Campbell Rhea — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:76040c0315d5219e</id>
-    <updated>2026-10-16T09:30:08Z</updated>
-    <summary>Thegentlemen listed Campbell Rhea (United States) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Newport Beach Dentistry — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:9e7eb73d8dee2ee8</id>
-    <updated>2026-10-16T09:29:47Z</updated>
-    <summary>Thegentlemen listed Newport Beach Dentistry (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Tulsat — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:2013cfec5f049292</id>
-    <updated>2026-10-16T09:29:27Z</updated>
-    <summary>Thegentlemen listed Tulsat (Kazakhstan) on its leak site. Sector: Technology.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Shared Medical Technology — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:58f77dce15f187e8</id>
-    <updated>2026-10-16T09:29:06Z</updated>
-    <summary>Thegentlemen listed Shared Medical Technology (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Santa Barbara Endodontics — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:d121e2ab27989225</id>
-    <updated>2026-10-16T09:28:45Z</updated>
-    <summary>Thegentlemen listed Santa Barbara Endodontics (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Ecuadors National Police — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:52a9d9ebe3ef1c1b</id>
-    <updated>2026-10-16T09:28:24Z</updated>
-    <summary>Thegentlemen listed Ecuadors National Police (Ecuador) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>R. A. Wood Associates — Storm</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:9f5d13df4f26d717</id>
-    <updated>2026-10-16T09:18:18Z</updated>
-    <summary>Storm listed R. A. Wood Associates (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Storm"/>
-  </entry>
-  <entry>
-    <title>Tech Electronics — Storm</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:83ecb385864b4e81</id>
-    <updated>2026-10-16T09:17:45Z</updated>
-    <summary>Storm listed Tech Electronics (United States) on its leak site. Sector: Technology.</summary>
-    <category term="Storm"/>
-  </entry>
-  <entry>
-    <title>Via Credit Union — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:c594d81c4bb37e4c</id>
-    <updated>2026-10-16T07:15:02Z</updated>
-    <summary>Qilin listed Via Credit Union (United States) on its leak site. Sector: Financial Services.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Company #75 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:ce31026adec3a96b</id>
-    <updated>2026-10-16T01:23:41Z</updated>
-    <summary>N0n listed Company #75 (United States) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #74 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:674c9d6f1a6dad72</id>
-    <updated>2026-10-16T01:23:06Z</updated>
-    <summary>N0n listed Company #74 (United States) on its leak site.</summary>
-    <category term="N0n"/>
   </entry>
 </feed>
