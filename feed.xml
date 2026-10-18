@@ -5,12 +5,164 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-17T11:32:47Z</updated>
+  <updated>2026-10-18T02:51:45Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Quikrete — Helix</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/helix/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:5ec774a718332aab</id>
+    <updated>2026-10-18T02:51:45Z</updated>
+    <summary>Helix listed Quikrete (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Helix"/>
+  </entry>
+  <entry>
+    <title>Solid Trading B.V. — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:6bfebcbf3e84f65c</id>
+    <updated>2026-10-18T01:26:57Z</updated>
+    <summary>N0n listed Solid Trading B.V. (Netherlands) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>ECO USA — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:5424e3e208ac9115</id>
+    <updated>2026-10-18T01:26:16Z</updated>
+    <summary>N0n listed ECO USA (United States) on its leak site. Sector: Energy &amp; Utilities.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>SQA Services Inc — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:28323d2ad10f32ab</id>
+    <updated>2026-10-18T01:25:36Z</updated>
+    <summary>N0n listed SQA Services Inc on its leak site. Sector: Professional Services.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Personify Health — Helix</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/helix/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:fd5c587f1695ba1b</id>
+    <updated>2026-10-17T22:23:45Z</updated>
+    <summary>Helix listed Personify Health (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Helix"/>
+  </entry>
+  <entry>
+    <title>Bay Alarm — Helix</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/helix/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:f8dfdc6706343bbc</id>
+    <updated>2026-10-17T22:23:24Z</updated>
+    <summary>Helix listed Bay Alarm (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Helix"/>
+  </entry>
+  <entry>
+    <title>Smith Douglas Homes — Helix</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/helix/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:ca9942dbe412961f</id>
+    <updated>2026-10-17T22:23:03Z</updated>
+    <summary>Helix listed Smith Douglas Homes (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Helix"/>
+  </entry>
+  <entry>
+    <title>PART2 Global AirFreight International — Eclipse</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/eclipse/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:e4a3a8abb9ab0805</id>
+    <updated>2026-10-17T22:21:40Z</updated>
+    <summary>Eclipse listed PART2 Global AirFreight International (Singapore) on its leak site. Sector: Transportation.</summary>
+    <category term="Eclipse"/>
+  </entry>
+  <entry>
+    <title>oakgrovetech — Dragonforce</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dragonforce/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:dcbd223243a8701d</id>
+    <updated>2026-10-17T21:04:36Z</updated>
+    <summary>Dragonforce listed oakgrovetech (United States) on its leak site. Sector: Technology.</summary>
+    <category term="Dragonforce"/>
+  </entry>
+  <entry>
+    <title>First Brothers Co., Ltd — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:4684443ff3c3f3d1</id>
+    <updated>2026-10-17T20:16:07Z</updated>
+    <summary>Qilin listed First Brothers Co., Ltd (Thailand) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Company #88 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:4c165abbd52d898e</id>
+    <updated>2026-10-17T19:24:26Z</updated>
+    <summary>N0n listed Company #88 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>polisee Inc — Vexy Ransomware</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:a8ddea4af81f8d15</id>
+    <updated>2026-10-17T18:33:23Z</updated>
+    <summary>Vexy Ransomware listed polisee Inc (United States) on its leak site. Sector: Technology.</summary>
+    <category term="Vexy Ransomware"/>
+  </entry>
+  <entry>
+    <title>Rheem Global — Helix</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/helix/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:c44e3e836ce86692</id>
+    <updated>2026-10-17T18:22:04Z</updated>
+    <summary>Helix listed Rheem Global (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Helix"/>
+  </entry>
+  <entry>
+    <title>Robert Hitchins Limited — Majinahanashi</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/majinahanashi/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:044ad2d08a887cde</id>
+    <updated>2026-10-17T17:01:24Z</updated>
+    <summary>Majinahanashi listed Robert Hitchins Limited (United Kingdom) on its leak site. Sector: Agriculture and Food Production.</summary>
+    <category term="Majinahanashi"/>
+  </entry>
+  <entry>
+    <title>Wellington College International School Bangkok — Thegentlemen</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:1c41201394c6b711</id>
+    <updated>2026-10-17T16:52:59Z</updated>
+    <summary>Thegentlemen listed Wellington College International School Bangkok (Thailand) on its leak site. Sector: Education.</summary>
+    <category term="Thegentlemen"/>
+  </entry>
+  <entry>
+    <title>Gio Dental Med Spa — Thegentlemen</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:d6374c439edcb209</id>
+    <updated>2026-10-17T16:52:38Z</updated>
+    <summary>Thegentlemen listed Gio Dental Med Spa (Italy) on its leak site. Sector: Healthcare.</summary>
+    <category term="Thegentlemen"/>
+  </entry>
+  <entry>
+    <title>First Dental Health — Thegentlemen</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:4ee660a9a95e8304</id>
+    <updated>2026-10-17T16:52:17Z</updated>
+    <summary>Thegentlemen listed First Dental Health (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Thegentlemen"/>
+  </entry>
+  <entry>
+    <title>Decorolala - 500 Line Sample — BYOD</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:325d6e492d1b1359</id>
+    <updated>2026-10-17T16:52:04Z</updated>
+    <summary>BYOD listed Decorolala - 500 Line Sample on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="BYOD"/>
+  </entry>
+  <entry>
+    <title>AirQ — Thegentlemen</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
+    <id>tag:ransom.privtools.eu,2026-10-17:fe0068669771f787</id>
+    <updated>2026-10-17T16:51:56Z</updated>
+    <summary>Thegentlemen listed AirQ (Andorra) on its leak site. Sector: Technology.</summary>
+    <category term="Thegentlemen"/>
+  </entry>
   <entry>
     <title>ock.com.my — Lockbit5</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
@@ -258,157 +410,5 @@
     <updated>2026-10-16T11:53:39Z</updated>
     <summary>Pear listed Macfarlan Capital Partners (United States) on its leak site. Sector: Financial Services.</summary>
     <category term="Pear"/>
-  </entry>
-  <entry>
-    <title>Solar Communications International — Pear</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pear/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:f04313a94a83292e</id>
-    <updated>2026-10-16T11:53:03Z</updated>
-    <summary>Pear listed Solar Communications International (United States) on its leak site. Sector: Technology.</summary>
-    <category term="Pear"/>
-  </entry>
-  <entry>
-    <title>Caretaker Landscape and Tree Management — Pear</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pear/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:107d7ea5b48ac37f</id>
-    <updated>2026-10-16T11:52:28Z</updated>
-    <summary>Pear listed Caretaker Landscape and Tree Management (United States) on its leak site. Sector: Agriculture and Food Production.</summary>
-    <category term="Pear"/>
-  </entry>
-  <entry>
-    <title>Minkon — Bravox</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/bravox/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:7bfca547373cdcb1</id>
-    <updated>2026-10-16T11:03:33Z</updated>
-    <summary>Bravox listed Minkon (Germany) on its leak site.</summary>
-    <category term="Bravox"/>
-  </entry>
-  <entry>
-    <title>Adams Warehouse &amp; Delivery, Inc. — Aurora</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:0bc7460956849f42</id>
-    <updated>2026-10-16T09:55:53Z</updated>
-    <summary>Aurora listed Adams Warehouse &amp; Delivery, Inc. (United States) on its leak site. Sector: Transportation.</summary>
-    <category term="Aurora"/>
-  </entry>
-  <entry>
-    <title>Martin LLP — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:c18fef8688f6e845</id>
-    <updated>2026-10-16T09:39:30Z</updated>
-    <summary>Thegentlemen listed Martin LLP (United Kingdom) on its leak site. Sector: Professional Services.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>MAP SA — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:ba97d2b08fcf0496</id>
-    <updated>2026-10-16T09:39:08Z</updated>
-    <summary>Thegentlemen listed MAP SA (Switzerland) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Suhai Segurana Pessoal — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:7d72e077051e0c47</id>
-    <updated>2026-10-16T09:38:49Z</updated>
-    <summary>Thegentlemen listed Suhai Segurana Pessoal (Brazil) on its leak site. Sector: Professional Services.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>SBI Audiovisual Medinbox — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:59f03654639ff3aa</id>
-    <updated>2026-10-16T09:38:28Z</updated>
-    <summary>Thegentlemen listed SBI Audiovisual Medinbox (Spain) on its leak site. Sector: Healthcare.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Saga University — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:e5d0e6eed70ce447</id>
-    <updated>2026-10-16T09:38:08Z</updated>
-    <summary>Thegentlemen listed Saga University (Japan) on its leak site. Sector: Education.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Netcore Unbxd — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:f87446742dabd994</id>
-    <updated>2026-10-16T09:37:47Z</updated>
-    <summary>Thegentlemen listed Netcore Unbxd (India) on its leak site. Sector: Technology.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>REGiO Nord — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:95c63eefd9c2616a</id>
-    <updated>2026-10-16T09:37:26Z</updated>
-    <summary>Thegentlemen listed REGiO Nord (Germany) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Museum Siam — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:a716c4e839d0d3e3</id>
-    <updated>2026-10-16T09:37:05Z</updated>
-    <summary>Thegentlemen listed Museum Siam (Thailand) on its leak site. Sector: Hospitality.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Skin Center — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:c08c0d4d929abe14</id>
-    <updated>2026-10-16T09:36:44Z</updated>
-    <summary>Thegentlemen listed Skin Center (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Thai Ha PCL KASET — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:07fd5fbb7a970a80</id>
-    <updated>2026-10-16T09:36:24Z</updated>
-    <summary>Thegentlemen listed Thai Ha PCL KASET (Thailand) on its leak site. Sector: Agriculture and Food Production.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Inovar Packaging Group — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:a060d5bf56c9f968</id>
-    <updated>2026-10-16T09:36:01Z</updated>
-    <summary>Thegentlemen listed Inovar Packaging Group (Australia) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Engineers Ireland — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:844d8ad9750c0a8b</id>
-    <updated>2026-10-16T09:35:41Z</updated>
-    <summary>Thegentlemen listed Engineers Ireland (Ireland) on its leak site. Sector: Professional Services.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>North Bridge Venture Partners — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:92b8ebcba1659ead</id>
-    <updated>2026-10-16T09:35:20Z</updated>
-    <summary>Thegentlemen listed North Bridge Venture Partners (United States) on its leak site. Sector: Financial Services.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>SONGWOOI — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:de74a99236aa69da</id>
-    <updated>2026-10-16T09:34:59Z</updated>
-    <summary>Thegentlemen listed SONGWOOI (South Korea) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Petroleum Telcom Communications — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:37e44309f7812235</id>
-    <updated>2026-10-16T09:34:38Z</updated>
-    <summary>Thegentlemen listed Petroleum Telcom Communications (Pakistan) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Thegentlemen"/>
   </entry>
 </feed>
