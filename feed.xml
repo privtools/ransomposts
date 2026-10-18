@@ -5,12 +5,60 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-18T07:51:55Z</updated>
+  <updated>2026-10-18T12:37:04Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>mckenneys — Iah6477</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/iah6477/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:2cecee4ec4e1b7f7</id>
+    <updated>2026-10-18T12:37:04Z</updated>
+    <summary>Iah6477 listed mckenneys (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Iah6477"/>
+  </entry>
+  <entry>
+    <title>BRUTRA Logistek — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:c437732bb38d7262</id>
+    <updated>2026-10-18T09:48:21Z</updated>
+    <summary>Qilin listed BRUTRA Logistek (Netherlands) on its leak site. Sector: Transportation.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Pengurusan Aset Air Berhad — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:587ef0725c8a708e</id>
+    <updated>2026-10-18T09:47:41Z</updated>
+    <summary>Qilin listed Pengurusan Aset Air Berhad (Malaysia) on its leak site. Sector: Energy &amp; Utilities.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Pergande — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:e537c4379ef8fed1</id>
+    <updated>2026-10-18T09:47:02Z</updated>
+    <summary>Qilin listed Pergande (Germany) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Mastelli S.r.l. — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:aef744b65ba75e83</id>
+    <updated>2026-10-18T09:46:23Z</updated>
+    <summary>Qilin listed Mastelli S.r.l. (Italy) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Company #91 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:8fa3d15f58b33633</id>
+    <updated>2026-10-18T08:54:33Z</updated>
+    <summary>N0n listed Company #91 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
   <entry>
     <title>Southwire — Helix</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/helix/"/>
@@ -362,53 +410,5 @@
     <updated>2026-10-16T20:39:30Z</updated>
     <summary>Play listed MicroSearch Corporation on its leak site. Sector: Technology.</summary>
     <category term="Play"/>
-  </entry>
-  <entry>
-    <title>Pure Options — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:8316420c55ef484e</id>
-    <updated>2026-10-16T20:38:54Z</updated>
-    <summary>Play listed Pure Options on its leak site. Sector: Financial Services.</summary>
-    <category term="Play"/>
-  </entry>
-  <entry>
-    <title>ONEOK, Inc. — Redact</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:20a2cda13a434471</id>
-    <updated>2026-10-16T18:54:41Z</updated>
-    <summary>Redact listed ONEOK, Inc. (United States) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Redact"/>
-  </entry>
-  <entry>
-    <title>Data-Core Systems — Vexy Ransomware</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:45476ecfad428703</id>
-    <updated>2026-10-16T16:55:01Z</updated>
-    <summary>Vexy Ransomware listed Data-Core Systems on its leak site. Sector: Technology.</summary>
-    <category term="Vexy Ransomware"/>
-  </entry>
-  <entry>
-    <title>Girl Scouts of Eastern Massachusetts — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:ff3bfbf0ace1c65b</id>
-    <updated>2026-10-16T16:00:49Z</updated>
-    <summary>Wallstreet listed Girl Scouts of Eastern Massachusetts (United States) on its leak site. Sector: Education.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>Company #80 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:369d2ac614c49d5f</id>
-    <updated>2026-10-16T15:57:47Z</updated>
-    <summary>N0n listed Company #80 on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #79 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:bf2df524e94e5a23</id>
-    <updated>2026-10-16T15:57:11Z</updated>
-    <summary>N0n listed Company #79 (United States) on its leak site.</summary>
-    <category term="N0n"/>
   </entry>
 </feed>
