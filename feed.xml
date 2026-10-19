@@ -5,12 +5,100 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-19T02:23:57Z</updated>
+  <updated>2026-10-19T13:50:46Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>PingCAP / TiDB Cloud — Fulcrumsec</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/fulcrumsec/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:1e106b5493b6eb3a</id>
+    <updated>2026-10-19T13:50:46Z</updated>
+    <summary>Fulcrumsec listed PingCAP / TiDB Cloud (China) on its leak site. Sector: Technology.</summary>
+    <category term="Fulcrumsec"/>
+  </entry>
+  <entry>
+    <title>Latham &amp; Watkins — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:0befdc3121e0bc4e</id>
+    <updated>2026-10-19T13:25:56Z</updated>
+    <summary>SilentRansomGroup listed Latham &amp; Watkins (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>Hotel DuPont — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:e05b1423129beda0</id>
+    <updated>2026-10-19T13:24:13Z</updated>
+    <summary>N0n listed Hotel DuPont (United States) on its leak site. Sector: Hospitality.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Kingwood Endoscopy — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:6c2ddcacdde7599b</id>
+    <updated>2026-10-19T13:23:34Z</updated>
+    <summary>N0n listed Kingwood Endoscopy (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>The Akeeli Group — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:b305354e554bab9f</id>
+    <updated>2026-10-19T10:26:21Z</updated>
+    <summary>N0n listed The Akeeli Group (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>GTL Concreto e Logística LTDA — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:bf8168792ba8fef0</id>
+    <updated>2026-10-19T10:22:09Z</updated>
+    <summary>Emperador listed GTL Concreto e Logística LTDA (Brazil) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Emperador"/>
+  </entry>
+  <entry>
+    <title>Company #94 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:4274d3a19c8cc66c</id>
+    <updated>2026-10-19T08:25:54Z</updated>
+    <summary>N0n listed Company #94 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>POWERsonic Industries Inc. — Aurora</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:5542746d669c67ce</id>
+    <updated>2026-10-19T07:27:36Z</updated>
+    <summary>Aurora listed POWERsonic Industries Inc. (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Aurora"/>
+  </entry>
+  <entry>
+    <title>Baltimore Tank Lines — Storm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:7f7b0b555c586d25</id>
+    <updated>2026-10-19T06:55:52Z</updated>
+    <summary>Storm listed Baltimore Tank Lines (United States) on its leak site. Sector: Transportation.</summary>
+    <category term="Storm"/>
+  </entry>
+  <entry>
+    <title>Merit Financial Group — Storm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:c1e67d52cb89e00a</id>
+    <updated>2026-10-19T06:55:20Z</updated>
+    <summary>Storm listed Merit Financial Group (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="Storm"/>
+  </entry>
+  <entry>
+    <title>Patriot Maritime — Storm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/storm/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:134888a8c3739180</id>
+    <updated>2026-10-19T06:54:48Z</updated>
+    <summary>Storm listed Patriot Maritime (United States) on its leak site. Sector: Transportation.</summary>
+    <category term="Storm"/>
+  </entry>
   <entry>
     <title>American Campus — Helix</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/helix/"/>
@@ -322,93 +410,5 @@
     <updated>2026-10-17T22:21:40Z</updated>
     <summary>Eclipse listed PART2 Global AirFreight International (Singapore) on its leak site. Sector: Transportation.</summary>
     <category term="Eclipse"/>
-  </entry>
-  <entry>
-    <title>oakgrovetech — Dragonforce</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dragonforce/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:dcbd223243a8701d</id>
-    <updated>2026-10-17T21:04:36Z</updated>
-    <summary>Dragonforce listed oakgrovetech (United States) on its leak site. Sector: Technology.</summary>
-    <category term="Dragonforce"/>
-  </entry>
-  <entry>
-    <title>First Brothers Co., Ltd — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:4684443ff3c3f3d1</id>
-    <updated>2026-10-17T20:16:07Z</updated>
-    <summary>Qilin listed First Brothers Co., Ltd (Thailand) on its leak site.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Company #88 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:4c165abbd52d898e</id>
-    <updated>2026-10-17T19:24:26Z</updated>
-    <summary>N0n listed Company #88 (United States) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>polisee Inc — Vexy Ransomware</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:a8ddea4af81f8d15</id>
-    <updated>2026-10-17T18:33:23Z</updated>
-    <summary>Vexy Ransomware listed polisee Inc (United States) on its leak site. Sector: Technology.</summary>
-    <category term="Vexy Ransomware"/>
-  </entry>
-  <entry>
-    <title>Rheem Global — Helix</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/helix/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:c44e3e836ce86692</id>
-    <updated>2026-10-17T18:22:04Z</updated>
-    <summary>Helix listed Rheem Global (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Helix"/>
-  </entry>
-  <entry>
-    <title>Robert Hitchins Limited — Majinahanashi</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/majinahanashi/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:044ad2d08a887cde</id>
-    <updated>2026-10-17T17:01:24Z</updated>
-    <summary>Majinahanashi listed Robert Hitchins Limited (United Kingdom) on its leak site. Sector: Agriculture and Food Production.</summary>
-    <category term="Majinahanashi"/>
-  </entry>
-  <entry>
-    <title>Wellington College International School Bangkok — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:1c41201394c6b711</id>
-    <updated>2026-10-17T16:52:59Z</updated>
-    <summary>Thegentlemen listed Wellington College International School Bangkok (Thailand) on its leak site. Sector: Education.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Gio Dental Med Spa — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:d6374c439edcb209</id>
-    <updated>2026-10-17T16:52:38Z</updated>
-    <summary>Thegentlemen listed Gio Dental Med Spa (Italy) on its leak site. Sector: Healthcare.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>First Dental Health — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:4ee660a9a95e8304</id>
-    <updated>2026-10-17T16:52:17Z</updated>
-    <summary>Thegentlemen listed First Dental Health (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>AirQ — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:fe0068669771f787</id>
-    <updated>2026-10-17T16:51:56Z</updated>
-    <summary>Thegentlemen listed AirQ (Andorra) on its leak site. Sector: Technology.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>ock.com.my — Lockbit5</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:802276472ff121ec</id>
-    <updated>2026-10-17T11:32:47Z</updated>
-    <summary>Lockbit5 listed ock.com.my (Malaysia) on its leak site.</summary>
-    <category term="Lockbit5"/>
   </entry>
 </feed>
