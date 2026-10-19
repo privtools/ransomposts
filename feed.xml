@@ -5,12 +5,108 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-18T12:37:04Z</updated>
+  <updated>2026-10-19T02:23:57Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>American Campus — Helix</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/helix/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:8c0b639afa14aa0e</id>
+    <updated>2026-10-19T02:23:57Z</updated>
+    <summary>Helix listed American Campus (United States) on its leak site. Sector: Education.</summary>
+    <category term="Helix"/>
+  </entry>
+  <entry>
+    <title>Finzly Corp — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:ed6a3100f48f510d</id>
+    <updated>2026-10-19T01:23:07Z</updated>
+    <summary>N0n listed Finzly Corp (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #93 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:45ec10caf0432d66</id>
+    <updated>2026-10-19T00:22:49Z</updated>
+    <summary>N0n listed Company #93 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Amagi Media Labs — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:32590f9e0d096c61</id>
+    <updated>2026-10-18T22:24:38Z</updated>
+    <summary>N0n listed Amagi Media Labs (United States) on its leak site. Sector: Technology.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Belcorp — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:646fa0b558b6c924</id>
+    <updated>2026-10-18T21:05:22Z</updated>
+    <summary>Qilin listed Belcorp (Peru) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Company #92 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:9f403dd23f347419</id>
+    <updated>2026-10-18T20:25:29Z</updated>
+    <summary>N0n listed Company #92 (South Korea) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>********rta.ch — Cloak</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/cloak/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:32c73005e7008f2f</id>
+    <updated>2026-10-18T19:06:57Z</updated>
+    <summary>Cloak listed ********rta.ch (Switzerland) on its leak site.</summary>
+    <category term="Cloak"/>
+  </entry>
+  <entry>
+    <title>dac********er.de — Cloak</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/cloak/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:19c3d5b8605246da</id>
+    <updated>2026-10-18T19:06:17Z</updated>
+    <summary>Cloak listed dac********er.de (Germany) on its leak site.</summary>
+    <category term="Cloak"/>
+  </entry>
+  <entry>
+    <title>Telecom Egypt — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:8bcb4d3b8af3bc29</id>
+    <updated>2026-10-18T17:29:31Z</updated>
+    <summary>N0n listed Telecom Egypt (Egypt) on its leak site. Sector: Technology.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>All Business Technologies (Fox Hill bookkeeping and tax practice) — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:66384b789db7da36</id>
+    <updated>2026-10-18T17:28:49Z</updated>
+    <summary>N0n listed All Business Technologies (Fox Hill bookkeeping and tax practice) on its leak site. Sector: Professional Services.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>SMIC US Company (Sunnyvale, CA — US arm of Semiconductor Manufacturing International Corpo... — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:060a00d0ffc74aab</id>
+    <updated>2026-10-18T16:27:05Z</updated>
+    <summary>N0n listed SMIC US Company (Sunnyvale, CA — US arm of Semiconductor Manufacturing International Corpo... (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Llano Independent School District — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-18:db3cd9bfe5ad4bb2</id>
+    <updated>2026-10-18T13:49:38Z</updated>
+    <summary>Qilin listed Llano Independent School District (United States) on its leak site. Sector: Education.</summary>
+    <category term="Qilin"/>
+  </entry>
   <entry>
     <title>mckenneys — Iah6477</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/iah6477/"/>
@@ -300,14 +396,6 @@
     <category term="Thegentlemen"/>
   </entry>
   <entry>
-    <title>Decorolala - 500 Line Sample — BYOD</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:325d6e492d1b1359</id>
-    <updated>2026-10-17T16:52:04Z</updated>
-    <summary>BYOD listed Decorolala - 500 Line Sample on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="BYOD"/>
-  </entry>
-  <entry>
     <title>AirQ — Thegentlemen</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
     <id>tag:ransom.privtools.eu,2026-10-17:fe0068669771f787</id>
@@ -322,93 +410,5 @@
     <updated>2026-10-17T11:32:47Z</updated>
     <summary>Lockbit5 listed ock.com.my (Malaysia) on its leak site.</summary>
     <category term="Lockbit5"/>
-  </entry>
-  <entry>
-    <title>Company #86 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:e1a516b65f12c45e</id>
-    <updated>2026-10-17T06:53:37Z</updated>
-    <summary>N0n listed Company #86 (United States) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #85 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:846d5cae09b35d88</id>
-    <updated>2026-10-17T05:25:56Z</updated>
-    <summary>N0n listed Company #85 (United States) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #84 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:538520f65dd32c8b</id>
-    <updated>2026-10-17T05:25:20Z</updated>
-    <summary>N0n listed Company #84 (United States) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Kissei Shoji — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:c1e722b9a396b130</id>
-    <updated>2026-10-17T03:07:45Z</updated>
-    <summary>Everest listed Kissei Shoji (Japan) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>Chugoku Bend — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:cd8ac087e76abc03</id>
-    <updated>2026-10-17T03:07:09Z</updated>
-    <summary>Everest listed Chugoku Bend on its leak site. Sector: Manufacturing.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>Taekwang Network — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:0a501483d975a97f</id>
-    <updated>2026-10-17T03:06:33Z</updated>
-    <summary>Everest listed Taekwang Network (South Korea) on its leak site. Sector: Technology.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>Brenner Base Tunnel — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:b54091446ba2bc32</id>
-    <updated>2026-10-17T03:05:58Z</updated>
-    <summary>Everest listed Brenner Base Tunnel (Austria) on its leak site. Sector: Transportation.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>Prafesta Ind. e Com. de Embalagens Ltda — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:0bc75367a03b7029</id>
-    <updated>2026-10-16T21:53:44Z</updated>
-    <summary>N0n listed Prafesta Ind. e Com. de Embalagens Ltda (Brazil) on its leak site. Sector: Manufacturing.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>WSBI-ESBG — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:efaf41f84b625e61</id>
-    <updated>2026-10-16T20:40:40Z</updated>
-    <summary>Play listed WSBI-ESBG (Belgium) on its leak site. Sector: Financial Services.</summary>
-    <category term="Play"/>
-  </entry>
-  <entry>
-    <title>New Tec Tool Limited — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:c04503f4a7c8d37e</id>
-    <updated>2026-10-16T20:40:05Z</updated>
-    <summary>Play listed New Tec Tool Limited (Hong Kong) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Play"/>
-  </entry>
-  <entry>
-    <title>MicroSearch Corporation — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-10-16:0a2bc4a96ade7db8</id>
-    <updated>2026-10-16T20:39:30Z</updated>
-    <summary>Play listed MicroSearch Corporation on its leak site. Sector: Technology.</summary>
-    <category term="Play"/>
   </entry>
 </feed>
