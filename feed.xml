@@ -5,12 +5,36 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-20T09:28:30Z</updated>
+  <updated>2026-10-20T13:45:09Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>OpenText — Mimori</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-20:a17c06c77944f8cc</id>
+    <updated>2026-10-20T13:45:09Z</updated>
+    <summary>Mimori listed OpenText (Canada) on its leak site. Sector: Technology.</summary>
+    <category term="Mimori"/>
+  </entry>
+  <entry>
+    <title>Aveva — Mimori</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-20:59d840b4b27e5c84</id>
+    <updated>2026-10-20T13:44:30Z</updated>
+    <summary>Mimori listed Aveva (United Kingdom) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Mimori"/>
+  </entry>
+  <entry>
+    <title>COASTAL CAROLINA NEUROPSYCHIATRIC CENTER, PA — Booba Project</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
+    <id>tag:ransom.privtools.eu,2026-10-20:63ae4b103e3149fa</id>
+    <updated>2026-10-20T12:21:07Z</updated>
+    <summary>Booba Project listed COASTAL CAROLINA NEUROPSYCHIATRIC CENTER, PA (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Booba Project"/>
+  </entry>
   <entry>
     <title>Company #98 — N0n</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
@@ -385,30 +409,6 @@
     <id>tag:ransom.privtools.eu,2026-10-18:db3cd9bfe5ad4bb2</id>
     <updated>2026-10-18T13:49:38Z</updated>
     <summary>Qilin listed Llano Independent School District (United States) on its leak site. Sector: Education.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>mckenneys — Iah6477</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/iah6477/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:2cecee4ec4e1b7f7</id>
-    <updated>2026-10-18T12:37:04Z</updated>
-    <summary>Iah6477 listed mckenneys (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Iah6477"/>
-  </entry>
-  <entry>
-    <title>BRUTRA Logistek — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:c437732bb38d7262</id>
-    <updated>2026-10-18T09:48:21Z</updated>
-    <summary>Qilin listed BRUTRA Logistek (Netherlands) on its leak site. Sector: Transportation.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Pengurusan Aset Air Berhad — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:587ef0725c8a708e</id>
-    <updated>2026-10-18T09:47:41Z</updated>
-    <summary>Qilin listed Pengurusan Aset Air Berhad (Malaysia) on its leak site. Sector: Energy &amp; Utilities.</summary>
     <category term="Qilin"/>
   </entry>
 </feed>
