@@ -5,12 +5,172 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-19T13:50:46Z</updated>
+  <updated>2026-10-20T03:57:32Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Fisher59 — Anubis</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/anubis/"/>
+    <id>tag:ransom.privtools.eu,2026-10-20:6615841dcc1033cb</id>
+    <updated>2026-10-20T03:57:32Z</updated>
+    <summary>Anubis listed Fisher59 on its leak site.</summary>
+    <category term="Anubis"/>
+  </entry>
+  <entry>
+    <title>BW Office World — Payload</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
+    <id>tag:ransom.privtools.eu,2026-10-20:7f6be998cb3f033b</id>
+    <updated>2026-10-20T00:08:36Z</updated>
+    <summary>Payload listed BW Office World on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Payload"/>
+  </entry>
+  <entry>
+    <title>Brüninghoff Group — Payload</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
+    <id>tag:ransom.privtools.eu,2026-10-20:efdf47358b7492bf</id>
+    <updated>2026-10-20T00:07:26Z</updated>
+    <summary>Payload listed Brüninghoff Group (Germany) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Payload"/>
+  </entry>
+  <entry>
+    <title>GardaWorld — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:29e5a0197fa7c973</id>
+    <updated>2026-10-19T23:00:33Z</updated>
+    <summary>Qilin listed GardaWorld (Canada) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Rosenberg &amp; Pittinsky — Global Secret Group</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/global-secret-group/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:74bdbeb50ccd76d2</id>
+    <updated>2026-10-19T22:23:20Z</updated>
+    <summary>Global Secret Group listed Rosenberg &amp; Pittinsky (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Global Secret Group"/>
+  </entry>
+  <entry>
+    <title>Toyota Canarias — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:e1e64d3d8cea1fbb</id>
+    <updated>2026-10-19T21:39:49Z</updated>
+    <summary>Qilin listed Toyota Canarias (Spain) on its leak site. Sector: Transportation.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>chooseultimate.com — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:548825c766793e45</id>
+    <updated>2026-10-19T21:31:17Z</updated>
+    <summary>Lockbit5 listed chooseultimate.com (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>Baker Donelson — Redact</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:ed570ee94b74141f</id>
+    <updated>2026-10-19T20:55:00Z</updated>
+    <summary>Redact listed Baker Donelson (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Redact"/>
+  </entry>
+  <entry>
+    <title>Vormittag Associates Inc — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:0b99f1f3ede83486</id>
+    <updated>2026-10-19T20:53:43Z</updated>
+    <summary>N0n listed Vormittag Associates Inc (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Seminole Schools — Global Secret Group</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/global-secret-group/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:80a8ce313c017d07</id>
+    <updated>2026-10-19T20:52:13Z</updated>
+    <summary>Global Secret Group listed Seminole Schools (United States) on its leak site. Sector: Education.</summary>
+    <category term="Global Secret Group"/>
+  </entry>
+  <entry>
+    <title>Froggys Fog — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:b4c510a1bc57b8e8</id>
+    <updated>2026-10-19T19:22:56Z</updated>
+    <summary>N0n listed Froggys Fog (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Seetelhotels.de — Incransom</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:e5e25bab6a307438</id>
+    <updated>2026-10-19T17:12:41Z</updated>
+    <summary>Incransom listed Seetelhotels.de (Germany) on its leak site. Sector: Hospitality.</summary>
+    <category term="Incransom"/>
+  </entry>
+  <entry>
+    <title>Walbro — Nitrogen</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nitrogen/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:c41ea6e96287c382</id>
+    <updated>2026-10-19T16:22:53Z</updated>
+    <summary>Nitrogen listed Walbro (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Nitrogen"/>
+  </entry>
+  <entry>
+    <title>WalkingTree Technologies — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:e4ecb4829cc36899</id>
+    <updated>2026-10-19T15:59:19Z</updated>
+    <summary>Qilin listed WalkingTree Technologies (India) on its leak site. Sector: Technology.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>SkyWorld Air Cargo — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:5301c26f97c99821</id>
+    <updated>2026-10-19T15:58:41Z</updated>
+    <summary>Qilin listed SkyWorld Air Cargo (United Arab Emirates) on its leak site. Sector: Transportation.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Johnson &amp; Pace — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:fd5cd92815c6ff5f</id>
+    <updated>2026-10-19T15:58:00Z</updated>
+    <summary>Qilin listed Johnson &amp; Pace (United Kingdom) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Dental Team FL — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:1a9f290608d9f97b</id>
+    <updated>2026-10-19T15:57:18Z</updated>
+    <summary>Qilin listed Dental Team FL (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Grupo Cronica — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:32ef59d46e38ac0b</id>
+    <updated>2026-10-19T14:53:29Z</updated>
+    <summary>Qilin listed Grupo Cronica (Argentina) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Salauno — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:4bdd6b62ae9166e8</id>
+    <updated>2026-10-19T14:52:46Z</updated>
+    <summary>Qilin listed Salauno (Mexico) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>CREDIN — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-19:b07ef7d836051fd3</id>
+    <updated>2026-10-19T14:51:57Z</updated>
+    <summary>Qilin listed CREDIN (Portugal) on its leak site. Sector: Financial Services.</summary>
+    <category term="Qilin"/>
+  </entry>
   <entry>
     <title>PingCAP / TiDB Cloud — Fulcrumsec</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/fulcrumsec/"/>
@@ -250,165 +410,5 @@
     <updated>2026-10-18T07:51:55Z</updated>
     <summary>Helix listed Southwire (United States) on its leak site. Sector: Manufacturing.</summary>
     <category term="Helix"/>
-  </entry>
-  <entry>
-    <title>www.marvinpac.com — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:a867394597b8ded7</id>
-    <updated>2026-10-18T07:28:29Z</updated>
-    <summary>Settra listed www.marvinpac.com (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>passavant-ee.com — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:4c0811143c5fdd9a</id>
-    <updated>2026-10-18T07:27:55Z</updated>
-    <summary>Settra listed passavant-ee.com (Estonia) on its leak site. Sector: Healthcare.</summary>
-    <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>acclaimcompanies.com — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:7fdd8808e901b432</id>
-    <updated>2026-10-18T07:27:21Z</updated>
-    <summary>Settra listed acclaimcompanies.com (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>binsky.com — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:d0dc6e9d4afa310c</id>
-    <updated>2026-10-18T07:26:48Z</updated>
-    <summary>Settra listed binsky.com on its leak site.</summary>
-    <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>konsis.no — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:60e374861aed1ef5</id>
-    <updated>2026-10-18T07:26:14Z</updated>
-    <summary>Settra listed konsis.no (Norway) on its leak site. Sector: Professional Services.</summary>
-    <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>monroeroadways.com — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:3e9f3a4bbce4cac5</id>
-    <updated>2026-10-18T07:25:40Z</updated>
-    <summary>Settra listed monroeroadways.com (United States) on its leak site. Sector: Transportation.</summary>
-    <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>adapt-global.com — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:df0c39f622838012</id>
-    <updated>2026-10-18T07:25:06Z</updated>
-    <summary>Settra listed adapt-global.com on its leak site. Sector: Professional Services.</summary>
-    <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>exo.inc — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:b67a521334baaeff</id>
-    <updated>2026-10-18T07:24:32Z</updated>
-    <summary>Settra listed exo.inc (United States) on its leak site. Sector: Technology.</summary>
-    <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>Luzco Ilumination — Emperador</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:08186b78efcc2fc8</id>
-    <updated>2026-10-18T06:52:23Z</updated>
-    <summary>Emperador listed Luzco Ilumination on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Emperador"/>
-  </entry>
-  <entry>
-    <title>Company #90 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:2403f0bb9057cea4</id>
-    <updated>2026-10-18T05:53:23Z</updated>
-    <summary>N0n listed Company #90 (United States) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #89 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:f5a829c28470e45d</id>
-    <updated>2026-10-18T05:52:48Z</updated>
-    <summary>N0n listed Company #89 (United States) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>U**IN* Group — Nightspire</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:be0a5c37a7c0e06a</id>
-    <updated>2026-10-18T05:20:20Z</updated>
-    <summary>Nightspire listed U**IN* Group on its leak site.</summary>
-    <category term="Nightspire"/>
-  </entry>
-  <entry>
-    <title>Quikrete — Helix</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/helix/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:5ec774a718332aab</id>
-    <updated>2026-10-18T02:51:45Z</updated>
-    <summary>Helix listed Quikrete (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Helix"/>
-  </entry>
-  <entry>
-    <title>Solid Trading B.V. — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:6bfebcbf3e84f65c</id>
-    <updated>2026-10-18T01:26:57Z</updated>
-    <summary>N0n listed Solid Trading B.V. (Netherlands) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>ECO USA — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:5424e3e208ac9115</id>
-    <updated>2026-10-18T01:26:16Z</updated>
-    <summary>N0n listed ECO USA (United States) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>SQA Services Inc — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-18:28323d2ad10f32ab</id>
-    <updated>2026-10-18T01:25:36Z</updated>
-    <summary>N0n listed SQA Services Inc on its leak site. Sector: Professional Services.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Personify Health — Helix</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/helix/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:fd5c587f1695ba1b</id>
-    <updated>2026-10-17T22:23:45Z</updated>
-    <summary>Helix listed Personify Health (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Helix"/>
-  </entry>
-  <entry>
-    <title>Bay Alarm — Helix</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/helix/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:f8dfdc6706343bbc</id>
-    <updated>2026-10-17T22:23:24Z</updated>
-    <summary>Helix listed Bay Alarm (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Helix"/>
-  </entry>
-  <entry>
-    <title>Smith Douglas Homes — Helix</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/helix/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:ca9942dbe412961f</id>
-    <updated>2026-10-17T22:23:03Z</updated>
-    <summary>Helix listed Smith Douglas Homes (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Helix"/>
-  </entry>
-  <entry>
-    <title>PART2 Global AirFreight International — Eclipse</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/eclipse/"/>
-    <id>tag:ransom.privtools.eu,2026-10-17:e4a3a8abb9ab0805</id>
-    <updated>2026-10-17T22:21:40Z</updated>
-    <summary>Eclipse listed PART2 Global AirFreight International (Singapore) on its leak site. Sector: Transportation.</summary>
-    <category term="Eclipse"/>
   </entry>
 </feed>
