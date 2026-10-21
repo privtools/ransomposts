@@ -5,12 +5,108 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-21T09:23:05Z</updated>
+  <updated>2026-10-21T13:52:21Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Hypertherm — Helix</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/helix/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:8e82a87feae070fd</id>
+    <updated>2026-10-21T13:52:21Z</updated>
+    <summary>Helix listed Hypertherm (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Helix"/>
+  </entry>
+  <entry>
+    <title>PLD Group — Everest</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:aff1b1464a2fb12f</id>
+    <updated>2026-10-21T13:28:57Z</updated>
+    <summary>Everest listed PLD Group on its leak site.</summary>
+    <category term="Everest"/>
+  </entry>
+  <entry>
+    <title>Lindauer Dornier — Everest</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:45a6738ca116694e</id>
+    <updated>2026-10-21T13:28:16Z</updated>
+    <summary>Everest listed Lindauer Dornier (Germany) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Everest"/>
+  </entry>
+  <entry>
+    <title>Lanham Associates — Everest</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:1224047a3e2cd4b7</id>
+    <updated>2026-10-21T13:27:34Z</updated>
+    <summary>Everest listed Lanham Associates on its leak site. Sector: Professional Services.</summary>
+    <category term="Everest"/>
+  </entry>
+  <entry>
+    <title>Adobe Insurance Brokers, LLC — Pear</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pear/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:ca6072d13bb848ce</id>
+    <updated>2026-10-21T12:34:04Z</updated>
+    <summary>Pear listed Adobe Insurance Brokers, LLC (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="Pear"/>
+  </entry>
+  <entry>
+    <title>gabonmeca.com leak incident — HYFLOCK</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/hyflock/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:772fc49b188717fa</id>
+    <updated>2026-10-21T11:53:09Z</updated>
+    <summary>HYFLOCK listed gabonmeca.com leak incident (Gabon) on its leak site. Sector: Manufacturing.</summary>
+    <category term="HYFLOCK"/>
+  </entry>
+  <entry>
+    <title>dangvuongcac — HYFLOCK</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/hyflock/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:7ed6f296bc4cc132</id>
+    <updated>2026-10-21T11:52:27Z</updated>
+    <summary>HYFLOCK listed dangvuongcac (Vietnam) on its leak site.</summary>
+    <category term="HYFLOCK"/>
+  </entry>
+  <entry>
+    <title>Company #103 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:f271de2d8e1667d2</id>
+    <updated>2026-10-21T10:25:22Z</updated>
+    <summary>N0n listed Company #103 (Portugal) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #102 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:fb5b01e6335af22d</id>
+    <updated>2026-10-21T10:24:46Z</updated>
+    <summary>N0n listed Company #102 on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #101 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:6c1150dd2f5e3bf4</id>
+    <updated>2026-10-21T10:24:11Z</updated>
+    <summary>N0n listed Company #101 on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #100 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:556f6e3f9d66c016</id>
+    <updated>2026-10-21T10:23:35Z</updated>
+    <summary>N0n listed Company #100 on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #99 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:2c30374aacae6a4c</id>
+    <updated>2026-10-21T10:22:59Z</updated>
+    <summary>N0n listed Company #99 on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
   <entry>
     <title>TheHomeMag NorCal — N0n</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
@@ -314,101 +410,5 @@
     <updated>2026-10-19T20:55:00Z</updated>
     <summary>Redact listed Baker Donelson (United States) on its leak site. Sector: Professional Services.</summary>
     <category term="Redact"/>
-  </entry>
-  <entry>
-    <title>Vormittag Associates Inc — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:0b99f1f3ede83486</id>
-    <updated>2026-10-19T20:53:43Z</updated>
-    <summary>N0n listed Vormittag Associates Inc (United States) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Seminole Schools — Global Secret Group</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/global-secret-group/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:80a8ce313c017d07</id>
-    <updated>2026-10-19T20:52:13Z</updated>
-    <summary>Global Secret Group listed Seminole Schools (United States) on its leak site. Sector: Education.</summary>
-    <category term="Global Secret Group"/>
-  </entry>
-  <entry>
-    <title>Froggys Fog — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:b4c510a1bc57b8e8</id>
-    <updated>2026-10-19T19:22:56Z</updated>
-    <summary>N0n listed Froggys Fog (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Seetelhotels.de — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:e5e25bab6a307438</id>
-    <updated>2026-10-19T17:12:41Z</updated>
-    <summary>Incransom listed Seetelhotels.de (Germany) on its leak site. Sector: Hospitality.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>Walbro — Nitrogen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nitrogen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:c41ea6e96287c382</id>
-    <updated>2026-10-19T16:22:53Z</updated>
-    <summary>Nitrogen listed Walbro (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Nitrogen"/>
-  </entry>
-  <entry>
-    <title>WalkingTree Technologies — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:e4ecb4829cc36899</id>
-    <updated>2026-10-19T15:59:19Z</updated>
-    <summary>Qilin listed WalkingTree Technologies (India) on its leak site. Sector: Technology.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>SkyWorld Air Cargo — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:5301c26f97c99821</id>
-    <updated>2026-10-19T15:58:41Z</updated>
-    <summary>Qilin listed SkyWorld Air Cargo (United Arab Emirates) on its leak site. Sector: Transportation.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Johnson &amp; Pace — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:fd5cd92815c6ff5f</id>
-    <updated>2026-10-19T15:58:00Z</updated>
-    <summary>Qilin listed Johnson &amp; Pace (United Kingdom) on its leak site.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Dental Team FL — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:1a9f290608d9f97b</id>
-    <updated>2026-10-19T15:57:18Z</updated>
-    <summary>Qilin listed Dental Team FL (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Grupo Cronica — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:32ef59d46e38ac0b</id>
-    <updated>2026-10-19T14:53:29Z</updated>
-    <summary>Qilin listed Grupo Cronica (Argentina) on its leak site.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Salauno — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:4bdd6b62ae9166e8</id>
-    <updated>2026-10-19T14:52:46Z</updated>
-    <summary>Qilin listed Salauno (Mexico) on its leak site.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>CREDIN — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:b07ef7d836051fd3</id>
-    <updated>2026-10-19T14:51:57Z</updated>
-    <summary>Qilin listed CREDIN (Portugal) on its leak site. Sector: Financial Services.</summary>
-    <category term="Qilin"/>
   </entry>
 </feed>
