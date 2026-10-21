@@ -5,12 +5,60 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-21T02:12:33Z</updated>
+  <updated>2026-10-21T09:23:05Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>TheHomeMag NorCal — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:f374489c01a7fc7d</id>
+    <updated>2026-10-21T09:23:05Z</updated>
+    <summary>N0n listed TheHomeMag NorCal (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>LEGAL-RECORDS.US — Clop</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/clop/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:3d64457e37cf7aed</id>
+    <updated>2026-10-21T07:32:25Z</updated>
+    <summary>Clop listed LEGAL-RECORDS.US (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Clop"/>
+  </entry>
+  <entry>
+    <title>police.rajasthan.gov.in — Scarlettgroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:7f2db5b3b57d722d</id>
+    <updated>2026-10-21T04:46:40Z</updated>
+    <summary>Scarlettgroup listed police.rajasthan.gov.in (India) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="Scarlettgroup"/>
+  </entry>
+  <entry>
+    <title>genesys.com — Scarlettgroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:dc0ad7d50ece1b76</id>
+    <updated>2026-10-21T04:45:56Z</updated>
+    <summary>Scarlettgroup listed genesys.com (United States) on its leak site. Sector: Technology.</summary>
+    <category term="Scarlettgroup"/>
+  </entry>
+  <entry>
+    <title>nbcuniversal.com — Scarlettgroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:664e9db1db83e2c7</id>
+    <updated>2026-10-21T04:45:08Z</updated>
+    <summary>Scarlettgroup listed nbcuniversal.com (United States) on its leak site. Sector: Technology.</summary>
+    <category term="Scarlettgroup"/>
+  </entry>
+  <entry>
+    <title>Xylanpicks — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-21:37d7578ace9ef8ae</id>
+    <updated>2026-10-21T04:25:04Z</updated>
+    <summary>N0n listed Xylanpicks (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
   <entry>
     <title>GSE-M Technology Sdn. Bhd. — Bravox</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/bravox/"/>
@@ -362,53 +410,5 @@
     <updated>2026-10-19T14:51:57Z</updated>
     <summary>Qilin listed CREDIN (Portugal) on its leak site. Sector: Financial Services.</summary>
     <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>PingCAP / TiDB Cloud — Fulcrumsec</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/fulcrumsec/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:1e106b5493b6eb3a</id>
-    <updated>2026-10-19T13:50:46Z</updated>
-    <summary>Fulcrumsec listed PingCAP / TiDB Cloud (China) on its leak site. Sector: Technology.</summary>
-    <category term="Fulcrumsec"/>
-  </entry>
-  <entry>
-    <title>Latham &amp; Watkins — SilentRansomGroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:0befdc3121e0bc4e</id>
-    <updated>2026-10-19T13:25:56Z</updated>
-    <summary>SilentRansomGroup listed Latham &amp; Watkins (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>Hotel DuPont — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:e05b1423129beda0</id>
-    <updated>2026-10-19T13:24:13Z</updated>
-    <summary>N0n listed Hotel DuPont (United States) on its leak site. Sector: Hospitality.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Kingwood Endoscopy — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:6c2ddcacdde7599b</id>
-    <updated>2026-10-19T13:23:34Z</updated>
-    <summary>N0n listed Kingwood Endoscopy (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>The Akeeli Group — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:b305354e554bab9f</id>
-    <updated>2026-10-19T10:26:21Z</updated>
-    <summary>N0n listed The Akeeli Group (United States) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>GTL Concreto e Logística LTDA — Emperador</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
-    <id>tag:ransom.privtools.eu,2026-10-19:bf8168792ba8fef0</id>
-    <updated>2026-10-19T10:22:09Z</updated>
-    <summary>Emperador listed GTL Concreto e Logística LTDA (Brazil) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Emperador"/>
   </entry>
 </feed>
