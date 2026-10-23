@@ -5,12 +5,132 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-22T13:10:19Z</updated>
+  <updated>2026-10-22T23:40:29Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>SEPIVER — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-22:ec840df069fcc477</id>
+    <updated>2026-10-22T23:40:29Z</updated>
+    <summary>Qilin listed SEPIVER (Mexico) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>istanbultrading.com — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-10-22:73adc582578d5df2</id>
+    <updated>2026-10-22T21:30:20Z</updated>
+    <summary>Lockbit5 listed istanbultrading.com (Turkey) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>M... C... — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-10-22:fca4f3bd7e377940</id>
+    <updated>2026-10-22T19:30:40Z</updated>
+    <summary>SilentRansomGroup listed M... C... on its leak site.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>United Restaurant Supply — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-22:e65e62cea0afc926</id>
+    <updated>2026-10-22T18:41:39Z</updated>
+    <summary>Qilin listed United Restaurant Supply (United States) on its leak site. Sector: Hospitality.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>AMSAM — Bravox</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/bravox/"/>
+    <id>tag:ransom.privtools.eu,2026-10-22:1beb37897b3eaa2e</id>
+    <updated>2026-10-22T17:03:04Z</updated>
+    <summary>Bravox listed AMSAM (France) on its leak site.</summary>
+    <category term="Bravox"/>
+  </entry>
+  <entry>
+    <title>Barrow &amp; Grimm — Bravox</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/bravox/"/>
+    <id>tag:ransom.privtools.eu,2026-10-22:2883dda71c6b9e9d</id>
+    <updated>2026-10-22T17:02:26Z</updated>
+    <summary>Bravox listed Barrow &amp; Grimm (United States) on its leak site.</summary>
+    <category term="Bravox"/>
+  </entry>
+  <entry>
+    <title>M...r — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-10-22:e4fb63cb4e1c953d</id>
+    <updated>2026-10-22T16:59:24Z</updated>
+    <summary>SilentRansomGroup listed M...r on its leak site.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>Kirkland &amp; Ellis LLP — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-10-22:445e1b76758b611a</id>
+    <updated>2026-10-22T16:58:16Z</updated>
+    <summary>SilentRansomGroup listed Kirkland &amp; Ellis LLP (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>Bethany Press International — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-10-22:d1b3b7389d692e02</id>
+    <updated>2026-10-22T16:00:19Z</updated>
+    <summary>Akira listed Bethany Press International on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Medienwerkstatt — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-10-22:a3e79b949deba8f1</id>
+    <updated>2026-10-22T16:00:00Z</updated>
+    <summary>Akira listed Medienwerkstatt (Germany) on its leak site. Sector: Education.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Annapath — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-10-22:27772add5bfce4db</id>
+    <updated>2026-10-22T15:59:40Z</updated>
+    <summary>Akira listed Annapath on its leak site.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>DR.SCHNELL GmbH &amp; Co. KGaA — Rhysida</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
+    <id>tag:ransom.privtools.eu,2026-10-22:00845c3b6a64b2d3</id>
+    <updated>2026-10-22T15:26:05Z</updated>
+    <summary>Rhysida listed DR.SCHNELL GmbH &amp; Co. KGaA (Germany) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Rhysida"/>
+  </entry>
+  <entry>
+    <title>Airtificial — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-22:780db73dadc16598</id>
+    <updated>2026-10-22T15:24:55Z</updated>
+    <summary>Qilin listed Airtificial on its leak site. Sector: Technology.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Bathurst RSL — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-22:44c71497827e3b9c</id>
+    <updated>2026-10-22T14:40:40Z</updated>
+    <summary>Qilin listed Bathurst RSL (Australia) on its leak site. Sector: Hospitality.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Creative Universe — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-22:c2e12c2e4353e85a</id>
+    <updated>2026-10-22T14:39:48Z</updated>
+    <summary>Qilin listed Creative Universe (Australia) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
   <entry>
     <title>PWC — Everest</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
@@ -290,125 +410,5 @@
     <updated>2026-10-21T15:03:52Z</updated>
     <summary>Akira listed Cascade Flooring America (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
     <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>Hypertherm — Helix</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/helix/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:8e82a87feae070fd</id>
-    <updated>2026-10-21T13:52:21Z</updated>
-    <summary>Helix listed Hypertherm (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Helix"/>
-  </entry>
-  <entry>
-    <title>PLD Group — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:aff1b1464a2fb12f</id>
-    <updated>2026-10-21T13:28:57Z</updated>
-    <summary>Everest listed PLD Group on its leak site.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>Lindauer Dornier — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:45a6738ca116694e</id>
-    <updated>2026-10-21T13:28:16Z</updated>
-    <summary>Everest listed Lindauer Dornier (Germany) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>Lanham Associates — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:1224047a3e2cd4b7</id>
-    <updated>2026-10-21T13:27:34Z</updated>
-    <summary>Everest listed Lanham Associates on its leak site. Sector: Professional Services.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>Adobe Insurance Brokers, LLC — Pear</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pear/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:ca6072d13bb848ce</id>
-    <updated>2026-10-21T12:34:04Z</updated>
-    <summary>Pear listed Adobe Insurance Brokers, LLC (United States) on its leak site. Sector: Financial Services.</summary>
-    <category term="Pear"/>
-  </entry>
-  <entry>
-    <title>gabonmeca.com leak incident — HYFLOCK</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/hyflock/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:772fc49b188717fa</id>
-    <updated>2026-10-21T11:53:09Z</updated>
-    <summary>HYFLOCK listed gabonmeca.com leak incident (Gabon) on its leak site. Sector: Manufacturing.</summary>
-    <category term="HYFLOCK"/>
-  </entry>
-  <entry>
-    <title>dangvuongcac — HYFLOCK</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/hyflock/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:7ed6f296bc4cc132</id>
-    <updated>2026-10-21T11:52:27Z</updated>
-    <summary>HYFLOCK listed dangvuongcac (Vietnam) on its leak site.</summary>
-    <category term="HYFLOCK"/>
-  </entry>
-  <entry>
-    <title>Company #103 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:f271de2d8e1667d2</id>
-    <updated>2026-10-21T10:25:22Z</updated>
-    <summary>N0n listed Company #103 (Portugal) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #102 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:fb5b01e6335af22d</id>
-    <updated>2026-10-21T10:24:46Z</updated>
-    <summary>N0n listed Company #102 on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #101 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:6c1150dd2f5e3bf4</id>
-    <updated>2026-10-21T10:24:11Z</updated>
-    <summary>N0n listed Company #101 on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #100 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:556f6e3f9d66c016</id>
-    <updated>2026-10-21T10:23:35Z</updated>
-    <summary>N0n listed Company #100 on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #99 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:2c30374aacae6a4c</id>
-    <updated>2026-10-21T10:22:59Z</updated>
-    <summary>N0n listed Company #99 on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>TheHomeMag NorCal — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:f374489c01a7fc7d</id>
-    <updated>2026-10-21T09:23:05Z</updated>
-    <summary>N0n listed TheHomeMag NorCal (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>LEGAL-RECORDS.US — Clop</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/clop/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:3d64457e37cf7aed</id>
-    <updated>2026-10-21T07:32:25Z</updated>
-    <summary>Clop listed LEGAL-RECORDS.US (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Clop"/>
-  </entry>
-  <entry>
-    <title>police.rajasthan.gov.in — Scarlettgroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:7f2db5b3b57d722d</id>
-    <updated>2026-10-21T04:46:40Z</updated>
-    <summary>Scarlettgroup listed police.rajasthan.gov.in (India) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Scarlettgroup"/>
   </entry>
 </feed>

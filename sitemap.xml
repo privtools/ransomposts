@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/qilin/</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/lockbit3/</loc>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/akira/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/play/</loc>
@@ -90,7 +90,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/lockbit5/</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/nightspire/</loc>
@@ -106,7 +106,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/rhysida/</loc>
-    <lastmod>2026-10-11</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/killsec/</loc>
@@ -173,16 +173,16 @@
     <lastmod>2026-07-21</lastmod>
   </url>
   <url>
+    <loc>https://ransom.privtools.eu/group/silentransomgroup/</loc>
+    <lastmod>2026-10-22</lastmod>
+  </url>
+  <url>
     <loc>https://ransom.privtools.eu/group/funksec/</loc>
     <lastmod>2025-03-18</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/malas/</loc>
     <lastmod>2023-05-18</lastmod>
-  </url>
-  <url>
-    <loc>https://ransom.privtools.eu/group/silentransomgroup/</loc>
-    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/cloak/</loc>
@@ -525,16 +525,16 @@
     <lastmod>2023-08-04</lastmod>
   </url>
   <url>
+    <loc>https://ransom.privtools.eu/group/bravox/</loc>
+    <lastmod>2026-10-22</lastmod>
+  </url>
+  <url>
     <loc>https://ransom.privtools.eu/group/dan0n/</loc>
     <lastmod>2024-08-23</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/obscura/</loc>
     <lastmod>2026-01-11</lastmod>
-  </url>
-  <url>
-    <loc>https://ransom.privtools.eu/group/bravox/</loc>
-    <lastmod>2026-10-21</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/alphalocker/</loc>
@@ -834,7 +834,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/fr/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/br/</loc>
@@ -846,7 +846,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/au/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/es/</loc>
@@ -858,7 +858,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/mx/</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/ch/</loc>
@@ -893,12 +893,12 @@
     <lastmod>2026-10-09</lastmod>
   </url>
   <url>
-    <loc>https://ransom.privtools.eu/country/be/</loc>
-    <lastmod>2026-10-16</lastmod>
+    <loc>https://ransom.privtools.eu/country/tr/</loc>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
-    <loc>https://ransom.privtools.eu/country/tr/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <loc>https://ransom.privtools.eu/country/be/</loc>
+    <lastmod>2026-10-16</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/se/</loc>
@@ -1186,7 +1186,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/technology/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/healthcare/</loc>
@@ -1206,7 +1206,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/education/</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/agriculture-and-food-production/</loc>
@@ -1222,6 +1222,6 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/hospitality/</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-22</lastmod>
   </url>
 </urlset>
