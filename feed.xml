@@ -5,12 +5,60 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-22T23:40:29Z</updated>
+  <updated>2026-10-23T09:23:08Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Horn of Africa Regional Environment Centre and Network — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-23:e7d69c7f714a279c</id>
+    <updated>2026-10-23T09:23:08Z</updated>
+    <summary>N0n listed Horn of Africa Regional Environment Centre and Network (Ethiopia) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Prism Medical Products — Wallstreet</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
+    <id>tag:ransom.privtools.eu,2026-10-23:4b688834e03cf028</id>
+    <updated>2026-10-23T07:58:37Z</updated>
+    <summary>Wallstreet listed Prism Medical Products (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Wallstreet"/>
+  </entry>
+  <entry>
+    <title>PROTEX Confection — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-23:23b9955bf8edf54d</id>
+    <updated>2026-10-23T07:55:08Z</updated>
+    <summary>N0n listed PROTEX Confection (Tunisia) on its leak site. Sector: Manufacturing.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>SunTechnics Fabrisolar AG — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-23:9c1ee3cbef2309a9</id>
+    <updated>2026-10-23T07:54:36Z</updated>
+    <summary>N0n listed SunTechnics Fabrisolar AG (Switzerland) on its leak site. Sector: Energy &amp; Utilities.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>B2Chat — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-10-23:76047fffde6ff636</id>
+    <updated>2026-10-23T07:52:10Z</updated>
+    <summary>Emperador listed B2Chat on its leak site. Sector: Technology.</summary>
+    <category term="Emperador"/>
+  </entry>
+  <entry>
+    <title>Coop Italia — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-23:6b9067f2233ab404</id>
+    <updated>2026-10-23T07:20:02Z</updated>
+    <summary>Qilin listed Coop Italia (Italy) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Qilin"/>
+  </entry>
   <entry>
     <title>SEPIVER — Qilin</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
@@ -362,53 +410,5 @@
     <updated>2026-10-21T20:01:09Z</updated>
     <summary>Aurora listed Allmand-Smith Limited (United Kingdom) on its leak site. Sector: Manufacturing.</summary>
     <category term="Aurora"/>
-  </entry>
-  <entry>
-    <title>Hanjin Information Systems &amp; Telecommunication Co., Ltd. — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:ca7ce62fc7af564b</id>
-    <updated>2026-10-21T19:54:47Z</updated>
-    <summary>N0n listed Hanjin Information Systems &amp; Telecommunication Co., Ltd. (South Korea) on its leak site. Sector: Technology.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Coastal Alabama Community College — Interlock</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/interlock/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:6919141468767da5</id>
-    <updated>2026-10-21T19:29:49Z</updated>
-    <summary>Interlock listed Coastal Alabama Community College (United States) on its leak site. Sector: Education.</summary>
-    <category term="Interlock"/>
-  </entry>
-  <entry>
-    <title>Porter Hedges LLP — SilentRansomGroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:cc05b259ee500e48</id>
-    <updated>2026-10-21T19:03:17Z</updated>
-    <summary>SilentRansomGroup listed Porter Hedges LLP (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>Westrock Coffee — Helix</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/helix/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:6f2b2e5288581d7d</id>
-    <updated>2026-10-21T17:52:48Z</updated>
-    <summary>Helix listed Westrock Coffee (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Helix"/>
-  </entry>
-  <entry>
-    <title>Flextron Circuit Assembly — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:ea43c4b4d7f2ac70</id>
-    <updated>2026-10-21T15:04:12Z</updated>
-    <summary>Akira listed Flextron Circuit Assembly (Singapore) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>Cascade Flooring America — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-10-21:6cbe7e96345190f5</id>
-    <updated>2026-10-21T15:03:52Z</updated>
-    <summary>Akira listed Cascade Flooring America (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Akira"/>
   </entry>
 </feed>
