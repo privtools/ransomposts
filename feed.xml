@@ -5,12 +5,84 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-24T11:22:23Z</updated>
+  <updated>2026-10-25T03:22:10Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>AB InBev — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-10-25:f87c5c170dd3f214</id>
+    <updated>2026-10-25T03:22:10Z</updated>
+    <summary>Emperador listed AB InBev (Belgium) on its leak site. Sector: Agriculture and Food Production.</summary>
+    <category term="Emperador"/>
+  </entry>
+  <entry>
+    <title>Hisense — Whitearmor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-25:0f76d2f6867baf85</id>
+    <updated>2026-10-25T01:24:13Z</updated>
+    <summary>Whitearmor listed Hisense (China) on its leak site. Sector: Technology.</summary>
+    <category term="Whitearmor"/>
+  </entry>
+  <entry>
+    <title>Newcomer Cremations, Funerals &amp; Receptions — Anubis</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/anubis/"/>
+    <id>tag:ransom.privtools.eu,2026-10-25:6ce7d91b1181c6dc</id>
+    <updated>2026-10-25T00:31:56Z</updated>
+    <summary>Anubis listed Newcomer Cremations, Funerals &amp; Receptions (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Anubis"/>
+  </entry>
+  <entry>
+    <title>Castle Howard Estate — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-24:7b5b817c6710950e</id>
+    <updated>2026-10-24T16:34:49Z</updated>
+    <summary>Qilin listed Castle Howard Estate (United Kingdom) on its leak site. Sector: Hospitality.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Vins Viallet — Lamashtu</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lamashtu/"/>
+    <id>tag:ransom.privtools.eu,2026-10-24:836249738c9c92e6</id>
+    <updated>2026-10-24T16:30:40Z</updated>
+    <summary>Lamashtu listed Vins Viallet (France) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Lamashtu"/>
+  </entry>
+  <entry>
+    <title>Heber City, UT — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-24:ef69bdeebc748822</id>
+    <updated>2026-10-24T15:26:13Z</updated>
+    <summary>Qilin listed Heber City, UT (United States) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Phoenix S&amp;S GmbH — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-10-24:7ba59d5c66a456fd</id>
+    <updated>2026-10-24T14:53:32Z</updated>
+    <summary>Emperador listed Phoenix S&amp;S GmbH (Germany) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Emperador"/>
+  </entry>
+  <entry>
+    <title>Frommann Energie GmbH — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-10-24:d193efe2f4afe86b</id>
+    <updated>2026-10-24T14:52:41Z</updated>
+    <summary>Emperador listed Frommann Energie GmbH (Germany) on its leak site. Sector: Energy &amp; Utilities.</summary>
+    <category term="Emperador"/>
+  </entry>
+  <entry>
+    <title>SLTN Inter Access — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-24:31ec43e26bf99105</id>
+    <updated>2026-10-24T13:17:20Z</updated>
+    <summary>Qilin listed SLTN Inter Access (Netherlands) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
   <entry>
     <title>www.choicegoodwill.com — Krybit</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/krybit/"/>
@@ -338,77 +410,5 @@
     <updated>2026-10-23T16:39:37Z</updated>
     <summary>Whitearmor listed Whirlpool (United States) on its leak site. Sector: Manufacturing.</summary>
     <category term="Whitearmor"/>
-  </entry>
-  <entry>
-    <title>JB Hunt — Whitearmor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:5ee0d1792a4b82ec</id>
-    <updated>2026-10-23T16:39:22Z</updated>
-    <summary>Whitearmor listed JB Hunt (United States) on its leak site. Sector: Transportation.</summary>
-    <category term="Whitearmor"/>
-  </entry>
-  <entry>
-    <title>Labaid Cancer Hospital And Super Speciality Center — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:5cdb209bf1a5bae0</id>
-    <updated>2026-10-23T16:26:27Z</updated>
-    <summary>Qilin listed Labaid Cancer Hospital And Super Speciality Center (Bangladesh) on its leak site. Sector: Healthcare.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Kale Balata A — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:16fcadf393b65256</id>
-    <updated>2026-10-23T16:26:08Z</updated>
-    <summary>Qilin listed Kale Balata A (Turkey) on its leak site. Sector: Agriculture and Food Production.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>MaxiSeguridad — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:5bb46f24adc0098f</id>
-    <updated>2026-10-23T16:25:48Z</updated>
-    <summary>Qilin listed MaxiSeguridad (Argentina) on its leak site. Sector: Professional Services.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Aryza — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:38cb6e932ff137dd</id>
-    <updated>2026-10-23T15:26:27Z</updated>
-    <summary>Qilin listed Aryza (Argentina) on its leak site. Sector: Technology.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Aerotop — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:dfc9912b0f6fc58c</id>
-    <updated>2026-10-23T15:26:07Z</updated>
-    <summary>Qilin listed Aerotop (Chile) on its leak site. Sector: Transportation.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>CDG Chartered Accounting — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:07f57b2a101e2403</id>
-    <updated>2026-10-23T15:25:48Z</updated>
-    <summary>Qilin listed CDG Chartered Accounting (Australia) on its leak site. Sector: Professional Services.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Revi Group — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:af6ea80124ba37f7</id>
-    <updated>2026-10-23T15:25:28Z</updated>
-    <summary>Qilin listed Revi Group (Mexico) on its leak site.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Bankruptcy Software Specialists — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:6daee52297b1cf5b</id>
-    <updated>2026-10-23T15:00:10Z</updated>
-    <summary>Akira listed Bankruptcy Software Specialists on its leak site. Sector: Professional Services.</summary>
-    <category term="Akira"/>
   </entry>
 </feed>
