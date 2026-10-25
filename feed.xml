@@ -5,12 +5,68 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-25T03:22:10Z</updated>
+  <updated>2026-10-25T07:24:50Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>ETO — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-25:e7b8617f7fb1b45a</id>
+    <updated>2026-10-25T07:24:50Z</updated>
+    <summary>Qilin listed ETO (Germany) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>TOPLIVO AD — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-25:6879583efa26770f</id>
+    <updated>2026-10-25T06:56:34Z</updated>
+    <summary>N0n listed TOPLIVO AD (Bulgaria) on its leak site. Sector: Energy &amp; Utilities.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Technoleads Services Inc. — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-25:a8d435bd52317828</id>
+    <updated>2026-10-25T06:56:05Z</updated>
+    <summary>N0n listed Technoleads Services Inc. on its leak site. Sector: Technology.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Pure Grow Diamonds Inc. — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-25:ce776fee8adb4f49</id>
+    <updated>2026-10-25T06:55:37Z</updated>
+    <summary>N0n listed Pure Grow Diamonds Inc. on its leak site. Sector: Manufacturing.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Mach Law APC (San Diego family law and divorce practice) — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-25:73b2fd1f3bc35f16</id>
+    <updated>2026-10-25T06:55:09Z</updated>
+    <summary>N0n listed Mach Law APC (San Diego family law and divorce practice) (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Keidel Supply Company Incorporated — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-25:dfd2c6318ef07d52</id>
+    <updated>2026-10-25T06:54:40Z</updated>
+    <summary>N0n listed Keidel Supply Company Incorporated (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Andrews Advisory Group LLC — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-10-25:c7423690873e0875</id>
+    <updated>2026-10-25T06:54:11Z</updated>
+    <summary>N0n listed Andrews Advisory Group LLC (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="N0n"/>
+  </entry>
   <entry>
     <title>AB InBev — Emperador</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
@@ -354,61 +410,5 @@
     <updated>2026-10-23T17:57:21Z</updated>
     <summary>Aurora listed ARX Group SA (Switzerland) on its leak site.</summary>
     <category term="Aurora"/>
-  </entry>
-  <entry>
-    <title>whitearmor.cc — Whitearmor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:2a8440254ed76cf8</id>
-    <updated>2026-10-23T17:55:10Z</updated>
-    <summary>Whitearmor listed whitearmor.cc on its leak site. Sector: Technology.</summary>
-    <category term="Whitearmor"/>
-  </entry>
-  <entry>
-    <title>dorsiacademy.it — Lockbit5</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:217e2e371ac25152</id>
-    <updated>2026-10-23T17:19:41Z</updated>
-    <summary>Lockbit5 listed dorsiacademy.it (Italy) on its leak site. Sector: Education.</summary>
-    <category term="Lockbit5"/>
-  </entry>
-  <entry>
-    <title>mlh.com.lb — Lockbit5</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:f4249720cb03e1e8</id>
-    <updated>2026-10-23T17:17:24Z</updated>
-    <summary>Lockbit5 listed mlh.com.lb (Lebanon) on its leak site. Sector: Professional Services.</summary>
-    <category term="Lockbit5"/>
-  </entry>
-  <entry>
-    <title>lidoway.com — Lockbit5</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:9d0136da1add2fcb</id>
-    <updated>2026-10-23T17:16:47Z</updated>
-    <summary>Lockbit5 listed lidoway.com (Liechtenstein) on its leak site.</summary>
-    <category term="Lockbit5"/>
-  </entry>
-  <entry>
-    <title>zelsior.es — Lockbit5</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:9f7b7f33a56bff82</id>
-    <updated>2026-10-23T17:16:08Z</updated>
-    <summary>Lockbit5 listed zelsior.es (Spain) on its leak site.</summary>
-    <category term="Lockbit5"/>
-  </entry>
-  <entry>
-    <title>JS Constructor, INC — Emperador</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:2da8d38743fd56f6</id>
-    <updated>2026-10-23T16:52:22Z</updated>
-    <summary>Emperador listed JS Constructor, INC (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Emperador"/>
-  </entry>
-  <entry>
-    <title>Whirlpool — Whitearmor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:029167bd9d932179</id>
-    <updated>2026-10-23T16:39:37Z</updated>
-    <summary>Whitearmor listed Whirlpool (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Whitearmor"/>
   </entry>
 </feed>
