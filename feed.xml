@@ -5,12 +5,36 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-25T07:24:50Z</updated>
+  <updated>2026-10-25T11:53:17Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Aesthetic Dental Designs, P.A — HYFLOCK</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/hyflock/"/>
+    <id>tag:ransom.privtools.eu,2026-10-25:a3813dba55c8ef41</id>
+    <updated>2026-10-25T11:53:17Z</updated>
+    <summary>HYFLOCK listed Aesthetic Dental Designs, P.A (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="HYFLOCK"/>
+  </entry>
+  <entry>
+    <title>ECOM — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-25:0f8d5827ae39fce5</id>
+    <updated>2026-10-25T10:35:02Z</updated>
+    <summary>Qilin listed ECOM (Switzerland) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>AyT COMPUTERS SRL — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-10-25:a62b848a6834b75c</id>
+    <updated>2026-10-25T09:52:04Z</updated>
+    <summary>Emperador listed AyT COMPUTERS SRL on its leak site. Sector: Technology.</summary>
+    <category term="Emperador"/>
+  </entry>
   <entry>
     <title>ETO — Qilin</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
@@ -386,29 +410,5 @@
     <updated>2026-10-23T20:16:50Z</updated>
     <summary>Qilin listed von Schaewen (Germany) on its leak site.</summary>
     <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Company #110 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:b7f5668d2ab4665a</id>
-    <updated>2026-10-23T19:52:50Z</updated>
-    <summary>N0n listed Company #110 (Spain) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>mickeybody.com — Chaos</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/chaos/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:3953a7db16ad87f9</id>
-    <updated>2026-10-23T18:00:12Z</updated>
-    <summary>Chaos listed mickeybody.com (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Chaos"/>
-  </entry>
-  <entry>
-    <title>ARX Group SA — Aurora</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
-    <id>tag:ransom.privtools.eu,2026-10-23:e619bc1fb52c6f35</id>
-    <updated>2026-10-23T17:57:21Z</updated>
-    <summary>Aurora listed ARX Group SA (Switzerland) on its leak site.</summary>
-    <category term="Aurora"/>
   </entry>
 </feed>
