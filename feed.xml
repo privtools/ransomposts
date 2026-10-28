@@ -5,12 +5,132 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-27T14:11:50Z</updated>
+  <updated>2026-10-28T02:10:42Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>wagyu.xyz unfairness — Whitearmor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/whitearmor/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:d4fadd7662f9f89d</id>
+    <updated>2026-10-28T02:10:42Z</updated>
+    <summary>Whitearmor listed wagyu.xyz unfairness on its leak site.</summary>
+    <category term="Whitearmor"/>
+  </entry>
+  <entry>
+    <title>Echo.com — Whitearmor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/whitearmor/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:e9d8ae7ee2c71513</id>
+    <updated>2026-10-28T02:10:02Z</updated>
+    <summary>Whitearmor listed Echo.com (Germany) on its leak site. Sector: Technology.</summary>
+    <category term="Whitearmor"/>
+  </entry>
+  <entry>
+    <title>Ryder — Whitearmor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/whitearmor/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:17bd2633320eadfa</id>
+    <updated>2026-10-28T01:09:16Z</updated>
+    <summary>Whitearmor listed Ryder (United States) on its leak site. Sector: Transportation.</summary>
+    <category term="Whitearmor"/>
+  </entry>
+  <entry>
+    <title>https://t.me/whitearmorxd — Whitearmor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/whitearmor/"/>
+    <id>tag:ransom.privtools.eu,2026-10-27:fdb2b033f05921f3</id>
+    <updated>2026-10-27T23:18:42Z</updated>
+    <summary>Whitearmor listed https://t.me/whitearmorxd on its leak site.</summary>
+    <category term="Whitearmor"/>
+  </entry>
+  <entry>
+    <title>Machelen (Belgium) — Rhysida</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
+    <id>tag:ransom.privtools.eu,2026-10-27:b0bf91fe25952692</id>
+    <updated>2026-10-27T22:25:47Z</updated>
+    <summary>Rhysida listed Machelen (Belgium) (Belgium) on its leak site.</summary>
+    <category term="Rhysida"/>
+  </entry>
+  <entry>
+    <title>TWICE SRL — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-10-27:057dc463a762cd63</id>
+    <updated>2026-10-27T21:22:05Z</updated>
+    <summary>Emperador listed TWICE SRL on its leak site.</summary>
+    <category term="Emperador"/>
+  </entry>
+  <entry>
+    <title>Tailormade Logistics — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-10-27:b10e7dfa224b934e</id>
+    <updated>2026-10-27T19:51:56Z</updated>
+    <summary>Play listed Tailormade Logistics (Denmark) on its leak site. Sector: Transportation.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>Coast 2 Coast — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-10-27:c97bdad3a72b14cd</id>
+    <updated>2026-10-27T19:51:00Z</updated>
+    <summary>Play listed Coast 2 Coast (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>VPC Builders — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-10-27:061645fb455dc3a1</id>
+    <updated>2026-10-27T19:50:08Z</updated>
+    <summary>Play listed VPC Builders (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>UPDATE: UNM — BYOD</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/byod/"/>
+    <id>tag:ransom.privtools.eu,2026-10-27:71f0a69f6675a8fe</id>
+    <updated>2026-10-27T18:50:58Z</updated>
+    <summary>BYOD listed UPDATE: UNM on its leak site. Sector: Education.</summary>
+    <category term="BYOD"/>
+  </entry>
+  <entry>
+    <title>Hygiena — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-10-27:ad53438c3dabb0ec</id>
+    <updated>2026-10-27T18:27:11Z</updated>
+    <summary>Play listed Hygiena (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>Money Concepts Capital — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-10-27:cbca94c19bb0dd76</id>
+    <updated>2026-10-27T18:26:34Z</updated>
+    <summary>Play listed Money Concepts Capital (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>MicroSearch — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-10-27:89b2f61a38fdd658</id>
+    <updated>2026-10-27T17:30:26Z</updated>
+    <summary>Play listed MicroSearch on its leak site. Sector: Technology.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>QLC — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-10-27:501684c7c0c641a7</id>
+    <updated>2026-10-27T17:29:53Z</updated>
+    <summary>Play listed QLC (United States) on its leak site. Sector: Technology.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>wagyu.xyz — Whitearmor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/whitearmor/"/>
+    <id>tag:ransom.privtools.eu,2026-10-27:b5630da9f976d0a0</id>
+    <updated>2026-10-27T15:06:27Z</updated>
+    <summary>Whitearmor listed wagyu.xyz on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Whitearmor"/>
+  </entry>
   <entry>
     <title>GRUPO PETROIL — Direwolf</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/direwolf/"/>
@@ -277,7 +397,7 @@
   </entry>
   <entry>
     <title>University of New Mexico — BYOD</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/byod/"/>
     <id>tag:ransom.privtools.eu,2026-10-26:b524cb13d882ecdd</id>
     <updated>2026-10-26T20:52:51Z</updated>
     <summary>BYOD listed University of New Mexico (United States) on its leak site. Sector: Education.</summary>
@@ -290,125 +410,5 @@
     <updated>2026-10-26T20:27:18Z</updated>
     <summary>Rhysida listed MISC Group (Malaysia) on its leak site. Sector: Energy &amp; Utilities.</summary>
     <category term="Rhysida"/>
-  </entry>
-  <entry>
-    <title>Ingelectus Innovative Electrical Solutions S.L. — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-26:be4978a476783cd3</id>
-    <updated>2026-10-26T18:57:11Z</updated>
-    <summary>N0n listed Ingelectus Innovative Electrical Solutions S.L. (Spain) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Gamdom — Whitearmor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/whitearmor/"/>
-    <id>tag:ransom.privtools.eu,2026-10-26:d3a9bbbb5f07e0c2</id>
-    <updated>2026-10-26T18:00:10Z</updated>
-    <summary>Whitearmor listed Gamdom on its leak site.</summary>
-    <category term="Whitearmor"/>
-  </entry>
-  <entry>
-    <title>Beasley Allen Law Firm — Falcon</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-10-26:3334d6321980c629</id>
-    <updated>2026-10-26T16:54:28Z</updated>
-    <summary>Falcon listed Beasley Allen Law Firm (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Falcon"/>
-  </entry>
-  <entry>
-    <title>RaceTrakka — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-26:fa25b42285bfc2d6</id>
-    <updated>2026-10-26T13:13:30Z</updated>
-    <summary>Qilin listed RaceTrakka (Australia) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Smith Feddeler &amp; Smith — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-26:7c68c8288791d086</id>
-    <updated>2026-10-26T13:12:22Z</updated>
-    <summary>Qilin listed Smith Feddeler &amp; Smith (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Safe Data Storage — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-10-26:9632387da9c1e338</id>
-    <updated>2026-10-26T12:20:30Z</updated>
-    <summary>AuditTeam listed Safe Data Storage (United Kingdom) on its leak site. Sector: Technology.</summary>
-    <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>Delta Electric Power Association — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-26:90c449d9e44403c2</id>
-    <updated>2026-10-26T12:03:57Z</updated>
-    <summary>Qilin listed Delta Electric Power Association (United States) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Bangor Wholesale Laminates — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-26:a83052382bcd3de8</id>
-    <updated>2026-10-26T12:03:03Z</updated>
-    <summary>Qilin listed Bangor Wholesale Laminates (United Kingdom) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>TeleTronic — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-26:a0c26cc2e781585a</id>
-    <updated>2026-10-26T12:02:01Z</updated>
-    <summary>Qilin listed TeleTronic (Spain) on its leak site. Sector: Technology.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>FIRMENGRUPPE APPL Holding GmbH — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-26:4903d05cf466ea26</id>
-    <updated>2026-10-26T12:01:07Z</updated>
-    <summary>Qilin listed FIRMENGRUPPE APPL Holding GmbH (Germany) on its leak site.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Premier Medical Group — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-26:e6a4508d64a88a1c</id>
-    <updated>2026-10-26T12:00:15Z</updated>
-    <summary>Qilin listed Premier Medical Group (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Zachary Confections — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-26:ef51cbea3e73c9af</id>
-    <updated>2026-10-26T11:59:07Z</updated>
-    <summary>Qilin listed Zachary Confections (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>THOMAS JORDAN, P.A — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-26:173071492a2d21e3</id>
-    <updated>2026-10-26T11:58:15Z</updated>
-    <summary>Qilin listed THOMAS JORDAN, P.A (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Five Star Sheets — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-26:a83b6101194f34a9</id>
-    <updated>2026-10-26T11:57:22Z</updated>
-    <summary>Qilin listed Five Star Sheets (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Power Funding — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-26:b12edfa4b0b0eec0</id>
-    <updated>2026-10-26T11:55:59Z</updated>
-    <summary>Qilin listed Power Funding (United Kingdom) on its leak site. Sector: Financial Services.</summary>
-    <category term="Qilin"/>
   </entry>
 </feed>
