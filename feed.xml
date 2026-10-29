@@ -5,12 +5,140 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-28T13:37:58Z</updated>
+  <updated>2026-10-29T04:03:54Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>xspringcapital.com — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-10-29:7b3472f2041d8479</id>
+    <updated>2026-10-29T04:03:54Z</updated>
+    <summary>Lockbit5 listed xspringcapital.com (Singapore) on its leak site. Sector: Financial Services.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>susannecerda.com — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-10-29:ab4176a344799b77</id>
+    <updated>2026-10-29T04:03:09Z</updated>
+    <summary>Lockbit5 listed susannecerda.com (Mexico) on its leak site.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>Santiam Hospital &amp; Clinics — Anubis</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/anubis/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:f628e03f285bbd66</id>
+    <updated>2026-10-28T23:32:38Z</updated>
+    <summary>Anubis listed Santiam Hospital &amp; Clinics (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Anubis"/>
+  </entry>
+  <entry>
+    <title>Lowenstein Sandler LLP — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:1256daac1b3c5d4f</id>
+    <updated>2026-10-28T23:30:55Z</updated>
+    <summary>SilentRansomGroup listed Lowenstein Sandler LLP (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>Cyrious Software — Pear</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pear/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:fd5884607e60d2a2</id>
+    <updated>2026-10-28T21:53:55Z</updated>
+    <summary>Pear listed Cyrious Software (United States) on its leak site. Sector: Technology.</summary>
+    <category term="Pear"/>
+  </entry>
+  <entry>
+    <title>Fortrex — Wallstreet</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:c7520512fbb792f9</id>
+    <updated>2026-10-28T21:31:10Z</updated>
+    <summary>Wallstreet listed Fortrex (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Wallstreet"/>
+  </entry>
+  <entry>
+    <title>Morrison Foerster — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:043be2c4e5445c2c</id>
+    <updated>2026-10-28T21:29:40Z</updated>
+    <summary>SilentRansomGroup listed Morrison Foerster (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>T... E... — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:a9c4588ef7cbd4b1</id>
+    <updated>2026-10-28T21:29:20Z</updated>
+    <summary>SilentRansomGroup listed T... E... on its leak site.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>S... H... — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:0496324a2bfeaf03</id>
+    <updated>2026-10-28T21:28:57Z</updated>
+    <summary>SilentRansomGroup listed S... H... on its leak site.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>A&amp;B Lab — Genesis</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/genesis/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:dc4c438fca320dd4</id>
+    <updated>2026-10-28T20:53:55Z</updated>
+    <summary>Genesis listed A&amp;B Lab (United States) on its leak site.</summary>
+    <category term="Genesis"/>
+  </entry>
+  <entry>
+    <title>The Anglican International School — Global Secret Group</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/global-secret-group/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:b47eb462f271630a</id>
+    <updated>2026-10-28T20:24:06Z</updated>
+    <summary>Global Secret Group listed The Anglican International School (Israel) on its leak site. Sector: Education.</summary>
+    <category term="Global Secret Group"/>
+  </entry>
+  <entry>
+    <title>PQE Group — Panzer</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:843e535c004b7e51</id>
+    <updated>2026-10-28T18:26:50Z</updated>
+    <summary>Panzer listed PQE Group (Italy) on its leak site. Sector: Professional Services.</summary>
+    <category term="Panzer"/>
+  </entry>
+  <entry>
+    <title>L... — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:fc380dd9c2cf3b84</id>
+    <updated>2026-10-28T17:34:09Z</updated>
+    <summary>SilentRansomGroup listed L... on its leak site.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>Noelker and Hull — Rhysida</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:e8710463de7811c7</id>
+    <updated>2026-10-28T16:59:06Z</updated>
+    <summary>Rhysida listed Noelker and Hull (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Rhysida"/>
+  </entry>
+  <entry>
+    <title>Hauhinco — Payload</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:68140b87d3f43d5b</id>
+    <updated>2026-10-28T14:49:50Z</updated>
+    <summary>Payload listed Hauhinco (Germany) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Payload"/>
+  </entry>
+  <entry>
+    <title>Marbre Design — Payload</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
+    <id>tag:ransom.privtools.eu,2026-10-28:5477a54e4cb4309b</id>
+    <updated>2026-10-28T14:48:35Z</updated>
+    <summary>Payload listed Marbre Design (France) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Payload"/>
+  </entry>
   <entry>
     <title>Trulife — Akira</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
@@ -52,14 +180,6 @@
     <category term="Barracuda"/>
   </entry>
   <entry>
-    <title>Broadstreet HEOR — Rhysida</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
-    <id>tag:ransom.privtools.eu,2026-10-28:d7515772c353ba25</id>
-    <updated>2026-10-28T12:28:36Z</updated>
-    <summary>Rhysida listed Broadstreet HEOR on its leak site. Sector: Professional Services.</summary>
-    <category term="Rhysida"/>
-  </entry>
-  <entry>
     <title>Meleghy Automotive &amp; Cie. GmbH — Aurora</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
     <id>tag:ransom.privtools.eu,2026-10-28:b77ad593c6fcbf68</id>
@@ -97,14 +217,6 @@
     <id>tag:ransom.privtools.eu,2026-10-28:17bd2633320eadfa</id>
     <updated>2026-10-28T01:09:16Z</updated>
     <summary>Whitearmor listed Ryder (United States) on its leak site. Sector: Transportation.</summary>
-    <category term="Whitearmor"/>
-  </entry>
-  <entry>
-    <title>https://t.me/whitearmorxd — Whitearmor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/whitearmor/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:fdb2b033f05921f3</id>
-    <updated>2026-10-27T23:18:42Z</updated>
-    <summary>Whitearmor listed https://t.me/whitearmorxd on its leak site.</summary>
     <category term="Whitearmor"/>
   </entry>
   <entry>
@@ -298,117 +410,5 @@
     <updated>2026-10-27T12:08:39Z</updated>
     <summary>Wallstreet listed Bristol City Council (United Kingdom) on its leak site. Sector: Government &amp; Defense.</summary>
     <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>NuVista Federal Credit Union — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:28400ef847bcab5e</id>
-    <updated>2026-10-27T10:38:24Z</updated>
-    <summary>Qilin listed NuVista Federal Credit Union (United States) on its leak site. Sector: Financial Services.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Hawaii Law Enforcement Fedral Credit Union — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:bf94e90fff2eebd6</id>
-    <updated>2026-10-27T10:37:43Z</updated>
-    <summary>Qilin listed Hawaii Law Enforcement Fedral Credit Union (United States) on its leak site. Sector: Financial Services.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Company #111 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:1adaf0fe0989bba8</id>
-    <updated>2026-10-27T06:24:08Z</updated>
-    <summary>N0n listed Company #111 (United Arab Emirates) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>OR Technology — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:5ede9387c433761f</id>
-    <updated>2026-10-27T05:54:22Z</updated>
-    <summary>Everest listed OR Technology on its leak site. Sector: Technology.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>Burris &amp; MacOmber — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:e75e51ab6c33f464</id>
-    <updated>2026-10-27T04:33:27Z</updated>
-    <summary>Everest listed Burris &amp; MacOmber on its leak site. Sector: Professional Services.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>Energy Storage Terminal in Singapore — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:242f7b68f893d418</id>
-    <updated>2026-10-27T04:32:51Z</updated>
-    <summary>Everest listed Energy Storage Terminal in Singapore (Singapore) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>Point Robotics — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:9a89e30a2d2cb2bc</id>
-    <updated>2026-10-27T04:32:17Z</updated>
-    <summary>Everest listed Point Robotics on its leak site. Sector: Technology.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>Natuzzi — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:51ef6c9a7455bd43</id>
-    <updated>2026-10-27T04:31:41Z</updated>
-    <summary>Everest listed Natuzzi (Italy) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>TECNA ICE — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:d1ec6cf9755946f7</id>
-    <updated>2026-10-27T04:31:06Z</updated>
-    <summary>Everest listed TECNA ICE (Italy) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>MediSolution — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:069c5295e5bd3817</id>
-    <updated>2026-10-27T04:30:31Z</updated>
-    <summary>Everest listed MediSolution on its leak site. Sector: Healthcare.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>SleepEx LabRetriever — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:ebbbf9e1f497f423</id>
-    <updated>2026-10-27T04:29:56Z</updated>
-    <summary>Everest listed SleepEx LabRetriever on its leak site. Sector: Healthcare.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>Antah HealthCare Group — Crypto24</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/crypto24/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:12c8dee4ae294fb9</id>
-    <updated>2026-10-27T04:11:37Z</updated>
-    <summary>Crypto24 listed Antah HealthCare Group (Malaysia) on its leak site. Sector: Healthcare.</summary>
-    <category term="Crypto24"/>
-  </entry>
-  <entry>
-    <title>DATEM, Inc. — Crypto24</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/crypto24/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:7db6940e86050959</id>
-    <updated>2026-10-27T04:11:17Z</updated>
-    <summary>Crypto24 listed DATEM, Inc. (Philippines) on its leak site. Sector: Technology.</summary>
-    <category term="Crypto24"/>
-  </entry>
-  <entry>
-    <title>gamblinglore — Whitearmor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/whitearmor/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:90ab1aa1fba2d7dc</id>
-    <updated>2026-10-27T04:05:36Z</updated>
-    <summary>Whitearmor listed gamblinglore on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Whitearmor"/>
   </entry>
 </feed>
