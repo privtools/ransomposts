@@ -5,18 +5,106 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-29T04:03:54Z</updated>
+  <updated>2026-10-29T14:14:29Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
   <entry>
+    <title>INTAX, Inc. — Rhysida</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
+    <id>tag:ransom.privtools.eu,2026-10-29:48c77aff1d1e3a54</id>
+    <updated>2026-10-29T14:14:29Z</updated>
+    <summary>Rhysida listed INTAX, Inc. on its leak site. Sector: Financial Services.</summary>
+    <category term="Rhysida"/>
+  </entry>
+  <entry>
+    <title>www.viehhauser-kfz.at — Krybit</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/krybit/"/>
+    <id>tag:ransom.privtools.eu,2026-10-29:02f6e7530754fe8c</id>
+    <updated>2026-10-29T14:06:43Z</updated>
+    <summary>Krybit listed www.viehhauser-kfz.at (Austria) on its leak site. Sector: Transportation.</summary>
+    <category term="Krybit"/>
+  </entry>
+  <entry>
+    <title>LifeFone — Booba Project</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
+    <id>tag:ransom.privtools.eu,2026-10-29:42695df3987a75cd</id>
+    <updated>2026-10-29T13:23:18Z</updated>
+    <summary>Booba Project listed LifeFone (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Booba Project"/>
+  </entry>
+  <entry>
+    <title>National Association of Credit Management — Booba Project</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
+    <id>tag:ransom.privtools.eu,2026-10-29:c0ad13f14930e93d</id>
+    <updated>2026-10-29T13:22:58Z</updated>
+    <summary>Booba Project listed National Association of Credit Management (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="Booba Project"/>
+  </entry>
+  <entry>
+    <title>California School Boards Association — Booba Project</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
+    <id>tag:ransom.privtools.eu,2026-10-29:5c710d24514e6300</id>
+    <updated>2026-10-29T13:22:37Z</updated>
+    <summary>Booba Project listed California School Boards Association (United States) on its leak site. Sector: Education.</summary>
+    <category term="Booba Project"/>
+  </entry>
+  <entry>
+    <title>South Weber City — Booba Project</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
+    <id>tag:ransom.privtools.eu,2026-10-29:5714b0c29fa63491</id>
+    <updated>2026-10-29T13:22:16Z</updated>
+    <summary>Booba Project listed South Weber City (United States) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="Booba Project"/>
+  </entry>
+  <entry>
+    <title>Programs for Parents, Inc. — Booba Project</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
+    <id>tag:ransom.privtools.eu,2026-10-29:bcf02170ea5c9703</id>
+    <updated>2026-10-29T13:21:55Z</updated>
+    <summary>Booba Project listed Programs for Parents, Inc. (United States) on its leak site. Sector: Education.</summary>
+    <category term="Booba Project"/>
+  </entry>
+  <entry>
+    <title>Circleville Police Department — Booba Project</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
+    <id>tag:ransom.privtools.eu,2026-10-29:906458203f060841</id>
+    <updated>2026-10-29T13:21:34Z</updated>
+    <summary>Booba Project listed Circleville Police Department (United States) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="Booba Project"/>
+  </entry>
+  <entry>
+    <title>Terrebonne Parish Government — Booba Project</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
+    <id>tag:ransom.privtools.eu,2026-10-29:f0883ec424950f1e</id>
+    <updated>2026-10-29T13:21:13Z</updated>
+    <summary>Booba Project listed Terrebonne Parish Government (United States) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="Booba Project"/>
+  </entry>
+  <entry>
+    <title>MAA Group Consulting Engineers — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-10-29:8be7499b79939d2b</id>
+    <updated>2026-10-29T10:21:43Z</updated>
+    <summary>Emperador listed MAA Group Consulting Engineers on its leak site. Sector: Professional Services.</summary>
+    <category term="Emperador"/>
+  </entry>
+  <entry>
+    <title>ClaimTek Systems — Rhysida</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
+    <id>tag:ransom.privtools.eu,2026-10-29:7b178428b54b7a75</id>
+    <updated>2026-10-29T09:07:28Z</updated>
+    <summary>Rhysida listed ClaimTek Systems on its leak site. Sector: Financial Services.</summary>
+    <category term="Rhysida"/>
+  </entry>
+  <entry>
     <title>xspringcapital.com — Lockbit5</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
     <id>tag:ransom.privtools.eu,2026-10-29:7b3472f2041d8479</id>
     <updated>2026-10-29T04:03:54Z</updated>
-    <summary>Lockbit5 listed xspringcapital.com (Singapore) on its leak site. Sector: Financial Services.</summary>
+    <summary>Lockbit5 listed xspringcapital.com (Thailand) on its leak site. Sector: Financial Services.</summary>
     <category term="Lockbit5"/>
   </entry>
   <entry>
@@ -322,93 +410,5 @@
     <updated>2026-10-27T13:52:40Z</updated>
     <summary>Booba Project listed RCOA- Regent Christian Online Academy (Canada) on its leak site. Sector: Education.</summary>
     <category term="Booba Project"/>
-  </entry>
-  <entry>
-    <title>Kerckstede vzw — Booba Project</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:16f82f50e73cb4eb</id>
-    <updated>2026-10-27T13:52:20Z</updated>
-    <summary>Booba Project listed Kerckstede vzw (Belgium) on its leak site.</summary>
-    <category term="Booba Project"/>
-  </entry>
-  <entry>
-    <title>BASS Medical Group — Booba Project</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:4428c50150a2889c</id>
-    <updated>2026-10-27T13:51:59Z</updated>
-    <summary>Booba Project listed BASS Medical Group (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Booba Project"/>
-  </entry>
-  <entry>
-    <title>Hudson River Museum — Booba Project</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:43d1c3657a92ca9d</id>
-    <updated>2026-10-27T13:51:38Z</updated>
-    <summary>Booba Project listed Hudson River Museum (United States) on its leak site. Sector: Education.</summary>
-    <category term="Booba Project"/>
-  </entry>
-  <entry>
-    <title>Horizon Eye Specialists &amp; LASIK Center — Booba Project</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:11dc08edd54bd208</id>
-    <updated>2026-10-27T13:51:17Z</updated>
-    <summary>Booba Project listed Horizon Eye Specialists &amp; LASIK Center (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Booba Project"/>
-  </entry>
-  <entry>
-    <title>Aesthetic Specialty Centre — Booba Project</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:0ead673bfcdc7faf</id>
-    <updated>2026-10-27T12:51:50Z</updated>
-    <summary>Booba Project listed Aesthetic Specialty Centre (Pakistan) on its leak site. Sector: Healthcare.</summary>
-    <category term="Booba Project"/>
-  </entry>
-  <entry>
-    <title>City of Big Spring — Booba Project</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:7ad102b2ccbf88d1</id>
-    <updated>2026-10-27T12:51:29Z</updated>
-    <summary>Booba Project listed City of Big Spring (United States) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Booba Project"/>
-  </entry>
-  <entry>
-    <title>KING FAMILY MEDICAL — Booba Project</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:c71a8052b48a652a</id>
-    <updated>2026-10-27T12:51:09Z</updated>
-    <summary>Booba Project listed KING FAMILY MEDICAL (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Booba Project"/>
-  </entry>
-  <entry>
-    <title>Charter Township of Commerce — Booba Project</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:d914ca60681cd049</id>
-    <updated>2026-10-27T12:50:48Z</updated>
-    <summary>Booba Project listed Charter Township of Commerce (United States) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Booba Project"/>
-  </entry>
-  <entry>
-    <title>Regent Christian Online Academy — Booba Project</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/booba-project/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:a5a53837ec7c1208</id>
-    <updated>2026-10-27T12:50:26Z</updated>
-    <summary>Booba Project listed Regent Christian Online Academy (Canada) on its leak site. Sector: Education.</summary>
-    <category term="Booba Project"/>
-  </entry>
-  <entry>
-    <title>GreenbergFarrow — Aurora</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:8afffc0c165445c1</id>
-    <updated>2026-10-27T12:11:30Z</updated>
-    <summary>Aurora listed GreenbergFarrow on its leak site. Sector: Professional Services.</summary>
-    <category term="Aurora"/>
-  </entry>
-  <entry>
-    <title>Bristol City Council — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-10-27:0c72e542adea8b83</id>
-    <updated>2026-10-27T12:08:39Z</updated>
-    <summary>Wallstreet listed Bristol City Council (United Kingdom) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Wallstreet"/>
   </entry>
 </feed>
