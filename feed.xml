@@ -5,12 +5,92 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-10-31T12:35:39Z</updated>
+  <updated>2026-11-01T01:50:47Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>EVINOKS — Barracuda</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/barracuda/"/>
+    <id>tag:ransom.privtools.eu,2026-11-01:074cfbdf67078756</id>
+    <updated>2026-11-01T01:50:47Z</updated>
+    <summary>Barracuda listed EVINOKS (Turkey) on its leak site. Sector: Technology.</summary>
+    <category term="Barracuda"/>
+  </entry>
+  <entry>
+    <title>Danser — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-01:1c69396ecb86cca6</id>
+    <updated>2026-11-01T00:39:08Z</updated>
+    <summary>Qilin listed Danser (United States) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>System Soft — Vexy Ransomware</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
+    <id>tag:ransom.privtools.eu,2026-10-31:a415d01a0443b229</id>
+    <updated>2026-10-31T19:04:42Z</updated>
+    <summary>Vexy Ransomware listed System Soft (Bulgaria) on its leak site. Sector: Technology.</summary>
+    <category term="Vexy Ransomware"/>
+  </entry>
+  <entry>
+    <title>JHAMF Group — Vexy Ransomware</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
+    <id>tag:ransom.privtools.eu,2026-10-31:102840cbe2bed774</id>
+    <updated>2026-10-31T19:04:20Z</updated>
+    <summary>Vexy Ransomware listed JHAMF Group (Bangladesh) on its leak site.</summary>
+    <category term="Vexy Ransomware"/>
+  </entry>
+  <entry>
+    <title>Punta Shopping — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-10-31:a5db834db709e11b</id>
+    <updated>2026-10-31T18:51:54Z</updated>
+    <summary>Emperador listed Punta Shopping (Uruguay) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Emperador"/>
+  </entry>
+  <entry>
+    <title>**F*A *.A — Nightspire</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
+    <id>tag:ransom.privtools.eu,2026-10-31:9497f080d30a29b2</id>
+    <updated>2026-10-31T18:29:04Z</updated>
+    <summary>Nightspire listed **F*A *.A on its leak site.</summary>
+    <category term="Nightspire"/>
+  </entry>
+  <entry>
+    <title>Community Medical Center, Falls City Nebraska — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-10-31:2c5146fd229b6c4c</id>
+    <updated>2026-10-31T17:23:59Z</updated>
+    <summary>Qilin listed Community Medical Center, Falls City Nebraska (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Straze Garden Center — Payload</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
+    <id>tag:ransom.privtools.eu,2026-10-31:5407fc1cb455d508</id>
+    <updated>2026-10-31T14:31:26Z</updated>
+    <summary>Payload listed Straze Garden Center on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Payload"/>
+  </entry>
+  <entry>
+    <title>Kraft Lernen — Payload</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
+    <id>tag:ransom.privtools.eu,2026-10-31:20811be75d0ef233</id>
+    <updated>2026-10-31T14:30:05Z</updated>
+    <summary>Payload listed Kraft Lernen (Germany) on its leak site. Sector: Education.</summary>
+    <category term="Payload"/>
+  </entry>
+  <entry>
+    <title>SALEG (Sachsen-Anhaltische Landesentwicklungsgesellschaft mbH) — Payload</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
+    <id>tag:ransom.privtools.eu,2026-10-31:ede8f72dcd7ed7d1</id>
+    <updated>2026-10-31T14:28:42Z</updated>
+    <summary>Payload listed SALEG (Sachsen-Anhaltische Landesentwicklungsgesellschaft mbH) (Germany) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="Payload"/>
+  </entry>
   <entry>
     <title>Phoenix Charter Academy — Rhysida</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
@@ -329,86 +409,6 @@
     <id>tag:ransom.privtools.eu,2026-10-31:62551cc61273a391</id>
     <updated>2026-10-31T07:30:49Z</updated>
     <summary>Thegentlemen listed WIKA Beton (Indonesia) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Atlas Stamping Manufacturing — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:f8cc95dd5e7b53ee</id>
-    <updated>2026-10-31T07:30:28Z</updated>
-    <summary>Thegentlemen listed Atlas Stamping Manufacturing (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>EPMMOP — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:18e5b753a2f05564</id>
-    <updated>2026-10-31T07:30:07Z</updated>
-    <summary>Thegentlemen listed EPMMOP (Ecuador) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Pure Perfection — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:1787ba2881654bda</id>
-    <updated>2026-10-31T07:29:46Z</updated>
-    <summary>Thegentlemen listed Pure Perfection (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Belmont Resorts — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:3cc116f793b70df1</id>
-    <updated>2026-10-31T07:29:25Z</updated>
-    <summary>Thegentlemen listed Belmont Resorts (Australia) on its leak site. Sector: Hospitality.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Zinkan Enterprises — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:e42b1afa60329502</id>
-    <updated>2026-10-31T07:29:02Z</updated>
-    <summary>Thegentlemen listed Zinkan Enterprises (United States) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Malmsten — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:7e8c59f53b1dce7c</id>
-    <updated>2026-10-31T07:28:41Z</updated>
-    <summary>Thegentlemen listed Malmsten (Sweden) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Betopia Group — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:4431ebae213fe35f</id>
-    <updated>2026-10-31T07:28:21Z</updated>
-    <summary>Thegentlemen listed Betopia Group (Cyprus) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Acodafe — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:a93c5073ce34461d</id>
-    <updated>2026-10-31T07:28:00Z</updated>
-    <summary>Thegentlemen listed Acodafe (Colombia) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Unisa Shoes — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:24ec146301aaa742</id>
-    <updated>2026-10-31T07:27:39Z</updated>
-    <summary>Thegentlemen listed Unisa Shoes (Spain) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>WABAG — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:d2c22472377404b7</id>
-    <updated>2026-10-31T07:27:18Z</updated>
-    <summary>Thegentlemen listed WABAG (India) on its leak site. Sector: Energy &amp; Utilities.</summary>
     <category term="Thegentlemen"/>
   </entry>
 </feed>
