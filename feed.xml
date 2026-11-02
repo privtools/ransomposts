@@ -5,12 +5,92 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-11-01T13:58:21Z</updated>
+  <updated>2026-11-02T04:54:25Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Company #117 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:e750c0b7c5b93431</id>
+    <updated>2026-11-02T04:54:25Z</updated>
+    <summary>N0n listed Company #117 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #116 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:8bc34ea2162779ff</id>
+    <updated>2026-11-02T04:53:50Z</updated>
+    <summary>N0n listed Company #116 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #115 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:5ccf319b212d01b5</id>
+    <updated>2026-11-02T04:53:17Z</updated>
+    <summary>N0n listed Company #115 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #114 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:44f5887542aa1bc4</id>
+    <updated>2026-11-02T04:52:43Z</updated>
+    <summary>N0n listed Company #114 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #113 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:a497691437d02c4e</id>
+    <updated>2026-11-02T04:52:10Z</updated>
+    <summary>N0n listed Company #113 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Michigan State University — BYOD</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/byod/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:ab3c033e194df7ac</id>
+    <updated>2026-11-02T03:50:23Z</updated>
+    <summary>BYOD listed Michigan State University (United States) on its leak site. Sector: Education.</summary>
+    <category term="BYOD"/>
+  </entry>
+  <entry>
+    <title>synergy.co.id — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-11-01:1483d87b7df77065</id>
+    <updated>2026-11-01T19:27:52Z</updated>
+    <summary>Lockbit5 listed synergy.co.id (Indonesia) on its leak site.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>Tema Hwt — Shiba</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-11-01:a1b99491daafa618</id>
+    <updated>2026-11-01T18:03:35Z</updated>
+    <summary>Shiba listed Tema Hwt (Germany) on its leak site.</summary>
+    <category term="Shiba"/>
+  </entry>
+  <entry>
+    <title>fzmb GmbH, Forschungszentrum für Medizintechnik und Biotechnologie — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-01:f26761bcf36be60c</id>
+    <updated>2026-11-01T17:33:12Z</updated>
+    <summary>Qilin listed fzmb GmbH, Forschungszentrum für Medizintechnik und Biotechnologie (Germany) on its leak site. Sector: Healthcare.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Global Holding — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-01:7070d5690c0f9883</id>
+    <updated>2026-11-01T15:29:16Z</updated>
+    <summary>Qilin listed Global Holding on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
   <entry>
     <title>AmplifAI (GoDaddy instance) — Whitearmor</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/whitearmor/"/>
@@ -330,85 +410,5 @@
     <updated>2026-10-31T07:57:13Z</updated>
     <summary>Settra listed atljamaica.com (Jamaica) on its leak site.</summary>
     <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>flynn-construction.com — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:27d83d2afedbf145</id>
-    <updated>2026-10-31T07:56:40Z</updated>
-    <summary>Settra listed flynn-construction.com (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>smithandcasady.com — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:4ac2305fd5c38d5b</id>
-    <updated>2026-10-31T07:56:14Z</updated>
-    <summary>Settra listed smithandcasady.com (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>nelsenarchitects.com — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:0f93473d91a419b5</id>
-    <updated>2026-10-31T07:55:41Z</updated>
-    <summary>Settra listed nelsenarchitects.com (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>Jons Civil Engineering Company Ltd. (JCEL) — Majinahanashi</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/majinahanashi/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:94afe6be0e41329e</id>
-    <updated>2026-10-31T07:47:49Z</updated>
-    <summary>Majinahanashi listed Jons Civil Engineering Company Ltd. (JCEL) (Ireland) on its leak site. Sector: Professional Services.</summary>
-    <category term="Majinahanashi"/>
-  </entry>
-  <entry>
-    <title>Spontini — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:fb08115d3ece9b2a</id>
-    <updated>2026-10-31T07:35:53Z</updated>
-    <summary>Thegentlemen listed Spontini (Italy) on its leak site. Sector: Hospitality.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Zehren and Associates — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:0221ebfcefe66d89</id>
-    <updated>2026-10-31T07:35:32Z</updated>
-    <summary>Thegentlemen listed Zehren and Associates (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Pac Production — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:853f3ee16c8a87b1</id>
-    <updated>2026-10-31T07:35:11Z</updated>
-    <summary>Thegentlemen listed Pac Production (Sweden) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>United Rolls — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:dd1bf0fbd39d1a2a</id>
-    <updated>2026-10-31T07:34:51Z</updated>
-    <summary>Thegentlemen listed United Rolls (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Marie Kruses Skole — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:4ef399c2f1c8e315</id>
-    <updated>2026-10-31T07:34:30Z</updated>
-    <summary>Thegentlemen listed Marie Kruses Skole (Denmark) on its leak site. Sector: Education.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Serit CC — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:ca9bc9e9b38f45b8</id>
-    <updated>2026-10-31T07:34:11Z</updated>
-    <summary>Thegentlemen listed Serit CC (Norway) on its leak site.</summary>
-    <category term="Thegentlemen"/>
   </entry>
 </feed>
