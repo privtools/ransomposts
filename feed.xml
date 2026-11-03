@@ -5,12 +5,100 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-11-02T04:54:25Z</updated>
+  <updated>2026-11-02T16:54:24Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Harry&#39;s International — Orova</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/orova/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:55ace7278dbed97c</id>
+    <updated>2026-11-02T16:54:24Z</updated>
+    <summary>Orova listed Harry&#39;s International (Singapore) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Orova"/>
+  </entry>
+  <entry>
+    <title>da*****t.com — Everstake</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:1426efdefc1d3382</id>
+    <updated>2026-11-02T16:17:21Z</updated>
+    <summary>Everstake listed da*****t.com on its leak site. Sector: Technology.</summary>
+    <category term="Everstake"/>
+  </entry>
+  <entry>
+    <title>ra*****g.com — Everstake</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:51c5f3b096143a86</id>
+    <updated>2026-11-02T16:16:43Z</updated>
+    <summary>Everstake listed ra*****g.com on its leak site.</summary>
+    <category term="Everstake"/>
+  </entry>
+  <entry>
+    <title>Holland &amp; Knight — Redact</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:5fa9fe0d15a9015a</id>
+    <updated>2026-11-02T16:00:11Z</updated>
+    <summary>Redact listed Holland &amp; Knight (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Redact"/>
+  </entry>
+  <entry>
+    <title>Astino Berhad — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:ea3e58eef97bcac2</id>
+    <updated>2026-11-02T15:21:52Z</updated>
+    <summary>Qilin listed Astino Berhad (Malaysia) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Princeton Management — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:2d30787e4abe7516</id>
+    <updated>2026-11-02T15:01:28Z</updated>
+    <summary>Akira listed Princeton Management on its leak site. Sector: Financial Services.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Usnext — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:ae00a233eb9563a2</id>
+    <updated>2026-11-02T15:01:09Z</updated>
+    <summary>Akira listed Usnext on its leak site.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Howells Motor Freight — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:a44955223fc1f5bf</id>
+    <updated>2026-11-02T15:00:49Z</updated>
+    <summary>Akira listed Howells Motor Freight (United States) on its leak site. Sector: Transportation.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>deom.be — Safepay</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:2784c38926cc8980</id>
+    <updated>2026-11-02T11:22:51Z</updated>
+    <summary>Safepay listed deom.be (Belgium) on its leak site.</summary>
+    <category term="Safepay"/>
+  </entry>
+  <entry>
+    <title>Ateşsan Ambalaj — HYFLOCK</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/hyflock/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:c98feafc10e2cc6e</id>
+    <updated>2026-11-02T10:52:11Z</updated>
+    <summary>HYFLOCK listed Ateşsan Ambalaj (Turkey) on its leak site. Sector: Manufacturing.</summary>
+    <category term="HYFLOCK"/>
+  </entry>
+  <entry>
+    <title>Neiman &amp; Company, Inc. — Pear</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pear/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:248a6b9a25bce554</id>
+    <updated>2026-11-02T10:22:54Z</updated>
+    <summary>Pear listed Neiman &amp; Company, Inc. (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="Pear"/>
+  </entry>
   <entry>
     <title>Company #117 — N0n</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
@@ -322,93 +410,5 @@
     <updated>2026-10-31T09:53:09Z</updated>
     <summary>Emperador listed Holcim (Switzerland) on its leak site. Sector: Manufacturing.</summary>
     <category term="Emperador"/>
-  </entry>
-  <entry>
-    <title>quevedo-ponce.com — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:cb8b3e70b0db5bd5</id>
-    <updated>2026-10-31T08:04:05Z</updated>
-    <summary>Safepay listed quevedo-ponce.com (Ecuador) on its leak site.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>mars-semi.com.tw — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:2006afea6f44b594</id>
-    <updated>2026-10-31T08:03:30Z</updated>
-    <summary>Safepay listed mars-semi.com.tw (Taiwan) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>Rood Trucking — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:733edf3af8875a78</id>
-    <updated>2026-10-31T08:02:56Z</updated>
-    <summary>Safepay listed Rood Trucking (United States) on its leak site. Sector: Transportation.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>grifosespinoza.com — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:667020e113dfb7c3</id>
-    <updated>2026-10-31T08:02:23Z</updated>
-    <summary>Safepay listed grifosespinoza.com (Peru) on its leak site.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>jumonji-u.ac.jp — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:fc52f409b3563950</id>
-    <updated>2026-10-31T08:01:50Z</updated>
-    <summary>Safepay listed jumonji-u.ac.jp (Japan) on its leak site. Sector: Education.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>everon.com.ar — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:06100c2bbcccae88</id>
-    <updated>2026-10-31T08:01:16Z</updated>
-    <summary>Safepay listed everon.com.ar (Argentina) on its leak site.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>goldencrops.com.tw — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:00653fdbfcc80108</id>
-    <updated>2026-10-31T08:00:42Z</updated>
-    <summary>Safepay listed goldencrops.com.tw (Taiwan) on its leak site. Sector: Agriculture and Food Production.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>layam.com — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:1c1b4307c4455e01</id>
-    <updated>2026-10-31T08:00:09Z</updated>
-    <summary>Safepay listed layam.com (Israel) on its leak site.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>uaa.mx — Safepay</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/safepay/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:0a8897248546003f</id>
-    <updated>2026-10-31T07:59:35Z</updated>
-    <summary>Safepay listed uaa.mx (Mexico) on its leak site. Sector: Education.</summary>
-    <category term="Safepay"/>
-  </entry>
-  <entry>
-    <title>Digital Triumph — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:7cb8060c662a4966</id>
-    <updated>2026-10-31T07:58:16Z</updated>
-    <summary>N0n listed Digital Triumph (Malaysia) on its leak site. Sector: Technology.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>atljamaica.com — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:834bfc2ad096186c</id>
-    <updated>2026-10-31T07:57:13Z</updated>
-    <summary>Settra listed atljamaica.com (Jamaica) on its leak site.</summary>
-    <category term="Settra"/>
   </entry>
 </feed>
