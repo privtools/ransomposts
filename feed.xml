@@ -5,12 +5,116 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-11-02T16:54:24Z</updated>
+  <updated>2026-11-03T06:34:33Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Unnamed — PixelLeaks</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-11-03:a9b0c2104e35ba6b</id>
+    <updated>2026-11-03T06:34:33Z</updated>
+    <summary>PixelLeaks listed Unnamed (Italy) on its leak site.</summary>
+    <category term="PixelLeaks"/>
+  </entry>
+  <entry>
+    <title>Stahlbau Mann GmbH — Payload</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
+    <id>tag:ransom.privtools.eu,2026-11-03:060723eebb182018</id>
+    <updated>2026-11-03T04:06:32Z</updated>
+    <summary>Payload listed Stahlbau Mann GmbH (Germany) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Payload"/>
+  </entry>
+  <entry>
+    <title>Company #122 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-03:b99328c754f3faad</id>
+    <updated>2026-11-03T03:28:32Z</updated>
+    <summary>N0n listed Company #122 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #121 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-03:6673592d43e49028</id>
+    <updated>2026-11-03T03:27:56Z</updated>
+    <summary>N0n listed Company #121 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #120 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-03:93d8bc9adcf61917</id>
+    <updated>2026-11-03T03:27:20Z</updated>
+    <summary>N0n listed Company #120 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #119 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-03:4140337f89265998</id>
+    <updated>2026-11-03T03:26:45Z</updated>
+    <summary>N0n listed Company #119 on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #118 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-03:3a14fe0b7e0e6a81</id>
+    <updated>2026-11-03T03:26:08Z</updated>
+    <summary>N0n listed Company #118 (United Arab Emirates) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>REFSA S.A. — Nightspire</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:e0d435aef75a0bed</id>
+    <updated>2026-11-02T22:26:30Z</updated>
+    <summary>Nightspire listed REFSA S.A. (Argentina) on its leak site.</summary>
+    <category term="Nightspire"/>
+  </entry>
+  <entry>
+    <title>S... G... — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:5c9d0ac1350ced29</id>
+    <updated>2026-11-02T21:00:34Z</updated>
+    <summary>SilentRansomGroup listed S... G... on its leak site.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>Isapre Consalud — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:2ac5c4e6ea60efc0</id>
+    <updated>2026-11-02T20:21:50Z</updated>
+    <summary>Qilin listed Isapre Consalud (Chile) on its leak site. Sector: Healthcare.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>kingdomtitle.net — Settra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:b060129feb6332d1</id>
+    <updated>2026-11-02T18:33:48Z</updated>
+    <summary>Settra listed kingdomtitle.net (United Kingdom) on its leak site. Sector: Financial Services.</summary>
+    <category term="Settra"/>
+  </entry>
+  <entry>
+    <title>mackinengineering.com — Settra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:59d140aad96682a6</id>
+    <updated>2026-11-02T18:33:13Z</updated>
+    <summary>Settra listed mackinengineering.com (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Settra"/>
+  </entry>
+  <entry>
+    <title>insurancehouse.com — Settra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
+    <id>tag:ransom.privtools.eu,2026-11-02:8b34670635fc2053</id>
+    <updated>2026-11-02T18:32:40Z</updated>
+    <summary>Settra listed insurancehouse.com (United Kingdom) on its leak site. Sector: Financial Services.</summary>
+    <category term="Settra"/>
+  </entry>
   <entry>
     <title>Harry&#39;s International — Orova</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/orova/"/>
@@ -306,109 +410,5 @@
     <updated>2026-10-31T18:29:04Z</updated>
     <summary>Nightspire listed **F*A *.A on its leak site.</summary>
     <category term="Nightspire"/>
-  </entry>
-  <entry>
-    <title>Community Medical Center, Falls City Nebraska — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:2c5146fd229b6c4c</id>
-    <updated>2026-10-31T17:23:59Z</updated>
-    <summary>Qilin listed Community Medical Center, Falls City Nebraska (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Straze Garden Center — Payload</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:5407fc1cb455d508</id>
-    <updated>2026-10-31T14:31:26Z</updated>
-    <summary>Payload listed Straze Garden Center on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Payload"/>
-  </entry>
-  <entry>
-    <title>Kraft Lernen — Payload</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:20811be75d0ef233</id>
-    <updated>2026-10-31T14:30:05Z</updated>
-    <summary>Payload listed Kraft Lernen (Germany) on its leak site. Sector: Education.</summary>
-    <category term="Payload"/>
-  </entry>
-  <entry>
-    <title>SALEG (Sachsen-Anhaltische Landesentwicklungsgesellschaft mbH) — Payload</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:ede8f72dcd7ed7d1</id>
-    <updated>2026-10-31T14:28:42Z</updated>
-    <summary>Payload listed SALEG (Sachsen-Anhaltische Landesentwicklungsgesellschaft mbH) (Germany) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Payload"/>
-  </entry>
-  <entry>
-    <title>Phoenix Charter Academy — Rhysida</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:89242d6dfd94e50e</id>
-    <updated>2026-10-31T12:35:39Z</updated>
-    <summary>Rhysida listed Phoenix Charter Academy (United States) on its leak site. Sector: Education.</summary>
-    <category term="Rhysida"/>
-  </entry>
-  <entry>
-    <title>Cabka — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:72e1f8b0a5ecda8c</id>
-    <updated>2026-10-31T10:54:11Z</updated>
-    <summary>AuditTeam listed Cabka (Spain) on its leak site. Sector: Manufacturing.</summary>
-    <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>Pe***CT — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:86fe393ca9923fec</id>
-    <updated>2026-10-31T10:53:29Z</updated>
-    <summary>AuditTeam listed Pe***CT (Netherlands) on its leak site.</summary>
-    <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>jl***om — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:4fb3454b5faf524c</id>
-    <updated>2026-10-31T10:52:58Z</updated>
-    <summary>AuditTeam listed jl***om (Singapore) on its leak site.</summary>
-    <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>hn***rg — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:e043fc431a571e5c</id>
-    <updated>2026-10-31T10:52:27Z</updated>
-    <summary>AuditTeam listed hn***rg on its leak site.</summary>
-    <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>ro***up — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:60e316047205c3aa</id>
-    <updated>2026-10-31T10:51:15Z</updated>
-    <summary>AuditTeam listed ro***up on its leak site.</summary>
-    <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>Ivan Smith Furniture — Sarcoma</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/sarcoma/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:9171262527918293</id>
-    <updated>2026-10-31T10:31:38Z</updated>
-    <summary>Sarcoma listed Ivan Smith Furniture (Philippines) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Sarcoma"/>
-  </entry>
-  <entry>
-    <title>Gamdom V2 — Whitearmor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/whitearmor/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:81a08c6a3ca449b9</id>
-    <updated>2026-10-31T10:30:39Z</updated>
-    <summary>Whitearmor listed Gamdom V2 on its leak site.</summary>
-    <category term="Whitearmor"/>
-  </entry>
-  <entry>
-    <title>Holcim — Emperador</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
-    <id>tag:ransom.privtools.eu,2026-10-31:bf2ec93d47962655</id>
-    <updated>2026-10-31T09:53:09Z</updated>
-    <summary>Emperador listed Holcim (Switzerland) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Emperador"/>
   </entry>
 </feed>
