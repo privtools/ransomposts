@@ -5,12 +5,108 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-11-04T01:26:31Z</updated>
+  <updated>2026-11-04T14:30:26Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Krishnan — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-11-04:d6e447ddb6e7fbbf</id>
+    <updated>2026-11-04T14:30:26Z</updated>
+    <summary>Akira listed Krishnan on its leak site.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Erowa — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-11-04:5565440f57204b4a</id>
+    <updated>2026-11-04T14:30:04Z</updated>
+    <summary>Akira listed Erowa (Switzerland) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Company #132 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-04:f699fb5e5b1590e0</id>
+    <updated>2026-11-04T12:25:49Z</updated>
+    <summary>N0n listed Company #132 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #131 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-04:40c9ef66c1b6baee</id>
+    <updated>2026-11-04T12:25:12Z</updated>
+    <summary>N0n listed Company #131 (Germany) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #130 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-04:e8256f2622dd9635</id>
+    <updated>2026-11-04T12:24:34Z</updated>
+    <summary>N0n listed Company #130 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #129 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-04:4d652c0938d06261</id>
+    <updated>2026-11-04T12:23:54Z</updated>
+    <summary>N0n listed Company #129 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #128 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-04:3073f1fe58325d03</id>
+    <updated>2026-11-04T12:23:16Z</updated>
+    <summary>N0n listed Company #128 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Juge, Napolitano, Ruli, Putfark &amp; Pittman — Rhysida</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
+    <id>tag:ransom.privtools.eu,2026-11-04:8f00914b5fa1e21f</id>
+    <updated>2026-11-04T09:49:52Z</updated>
+    <summary>Rhysida listed Juge, Napolitano, Ruli, Putfark &amp; Pittman on its leak site. Sector: Professional Services.</summary>
+    <category term="Rhysida"/>
+  </entry>
+  <entry>
+    <title>gWorks — Pear</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pear/"/>
+    <id>tag:ransom.privtools.eu,2026-11-04:b4a0f6e6c3002ff9</id>
+    <updated>2026-11-04T09:48:34Z</updated>
+    <summary>Pear listed gWorks (United States) on its leak site.</summary>
+    <category term="Pear"/>
+  </entry>
+  <entry>
+    <title>Palm Vascular Centers — Pear</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pear/"/>
+    <id>tag:ransom.privtools.eu,2026-11-04:8babec17afe310a6</id>
+    <updated>2026-11-04T09:47:42Z</updated>
+    <summary>Pear listed Palm Vascular Centers (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Pear"/>
+  </entry>
+  <entry>
+    <title>sigsauer.com — Scarlettgroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/scarlettgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-11-04:c4ced03d53ff0dfb</id>
+    <updated>2026-11-04T08:30:41Z</updated>
+    <summary>Scarlettgroup listed sigsauer.com (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Scarlettgroup"/>
+  </entry>
+  <entry>
+    <title>ASLAN TEKSTİL ve KONFEKSİYON San.ve Tic. A.Ş. — Doommageddon</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/doommageddon/"/>
+    <id>tag:ransom.privtools.eu,2026-11-04:8bf269437a9017dd</id>
+    <updated>2026-11-04T08:21:21Z</updated>
+    <summary>Doommageddon listed ASLAN TEKSTİL ve KONFEKSİYON San.ve Tic. A.Ş. (Turkey) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Doommageddon"/>
+  </entry>
   <entry>
     <title>IHG Hotels &amp; Resorts (Estate) — BYOD</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/byod/"/>
@@ -314,101 +410,5 @@
     <updated>2026-11-03T07:04:54Z</updated>
     <summary>Orova listed Raffles United Holdings Pte Ltd (Singapore) on its leak site. Sector: Hospitality.</summary>
     <category term="Orova"/>
-  </entry>
-  <entry>
-    <title>Company #1 — OBSOFT</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-11-03:377f88b9c4d033d6</id>
-    <updated>2026-11-03T06:43:53Z</updated>
-    <summary>OBSOFT listed Company #1 (South Korea) on its leak site.</summary>
-    <category term="OBSOFT"/>
-  </entry>
-  <entry>
-    <title>Company #2 — OBSOFT</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-11-03:045266398bb56923</id>
-    <updated>2026-11-03T06:43:34Z</updated>
-    <summary>OBSOFT listed Company #2 (South Korea) on its leak site.</summary>
-    <category term="OBSOFT"/>
-  </entry>
-  <entry>
-    <title>Company #3 — OBSOFT</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-11-03:dcbb9d7c7383d074</id>
-    <updated>2026-11-03T06:43:15Z</updated>
-    <summary>OBSOFT listed Company #3 (South Korea) on its leak site.</summary>
-    <category term="OBSOFT"/>
-  </entry>
-  <entry>
-    <title>Company #4 — OBSOFT</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-11-03:ed2cacc300d28b05</id>
-    <updated>2026-11-03T06:42:56Z</updated>
-    <summary>OBSOFT listed Company #4 (South Korea) on its leak site.</summary>
-    <category term="OBSOFT"/>
-  </entry>
-  <entry>
-    <title>Company #5 — OBSOFT</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-11-03:f83c173e5610f558</id>
-    <updated>2026-11-03T06:42:36Z</updated>
-    <summary>OBSOFT listed Company #5 (South Korea) on its leak site.</summary>
-    <category term="OBSOFT"/>
-  </entry>
-  <entry>
-    <title>New Victim Company #6 — OBSOFT</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-11-03:3412a8eca5b164c3</id>
-    <updated>2026-11-03T06:42:17Z</updated>
-    <summary>OBSOFT listed New Victim Company #6 on its leak site.</summary>
-    <category term="OBSOFT"/>
-  </entry>
-  <entry>
-    <title>Unnamed — PixelLeaks</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-11-03:a9b0c2104e35ba6b</id>
-    <updated>2026-11-03T06:34:33Z</updated>
-    <summary>PixelLeaks listed Unnamed (Italy) on its leak site.</summary>
-    <category term="PixelLeaks"/>
-  </entry>
-  <entry>
-    <title>Stahlbau Mann GmbH — Payload</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
-    <id>tag:ransom.privtools.eu,2026-11-03:060723eebb182018</id>
-    <updated>2026-11-03T04:06:32Z</updated>
-    <summary>Payload listed Stahlbau Mann GmbH (Germany) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Payload"/>
-  </entry>
-  <entry>
-    <title>Company #122 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-03:b99328c754f3faad</id>
-    <updated>2026-11-03T03:28:32Z</updated>
-    <summary>N0n listed Company #122 (United States) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #121 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-03:6673592d43e49028</id>
-    <updated>2026-11-03T03:27:56Z</updated>
-    <summary>N0n listed Company #121 (United States) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #120 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-03:93d8bc9adcf61917</id>
-    <updated>2026-11-03T03:27:20Z</updated>
-    <summary>N0n listed Company #120 (United States) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #119 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-03:4140337f89265998</id>
-    <updated>2026-11-03T03:26:45Z</updated>
-    <summary>N0n listed Company #119 on its leak site.</summary>
-    <category term="N0n"/>
   </entry>
 </feed>
