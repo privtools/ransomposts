@@ -5,12 +5,116 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-11-05T15:20:30Z</updated>
+  <updated>2026-11-06T01:24:03Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Max Fashion — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:98d99861f9c73bbc</id>
+    <updated>2026-11-06T01:24:03Z</updated>
+    <summary>N0n listed Max Fashion (United Arab Emirates) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Hallmark Cards, Inc. — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:d48f653c175b494b</id>
+    <updated>2026-11-06T01:23:31Z</updated>
+    <summary>N0n listed Hallmark Cards, Inc. (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Scry Analytics — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:c88f7f8a84d4656a</id>
+    <updated>2026-11-06T01:22:59Z</updated>
+    <summary>N0n listed Scry Analytics (United States) on its leak site. Sector: Technology.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>ZipAI — Vexy Ransomware</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
+    <id>tag:ransom.privtools.eu,2026-11-05:bffa6265d9f25479</id>
+    <updated>2026-11-05T23:27:37Z</updated>
+    <summary>Vexy Ransomware listed ZipAI (Vietnam) on its leak site. Sector: Technology.</summary>
+    <category term="Vexy Ransomware"/>
+  </entry>
+  <entry>
+    <title>Smith, Gambrell &amp; Russell, LLP — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-11-05:dae99e19d6f20d9a</id>
+    <updated>2026-11-05T22:35:25Z</updated>
+    <summary>SilentRansomGroup listed Smith, Gambrell &amp; Russell, LLP (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>W... R... — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-11-05:c99086ccec188e5f</id>
+    <updated>2026-11-05T22:35:05Z</updated>
+    <summary>SilentRansomGroup listed W... R... on its leak site.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>Insurance Audit Services — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-05:0538b4e267cd687f</id>
+    <updated>2026-11-05T20:46:53Z</updated>
+    <summary>Qilin listed Insurance Audit Services (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Company #137 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-05:d96ba450c68c1740</id>
+    <updated>2026-11-05T17:54:23Z</updated>
+    <summary>N0n listed Company #137 (Canada) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #136 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-05:34c209c4667725f2</id>
+    <updated>2026-11-05T17:53:54Z</updated>
+    <summary>N0n listed Company #136 (Denmark) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #135 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-05:36ca15382fd6555e</id>
+    <updated>2026-11-05T17:53:24Z</updated>
+    <summary>N0n listed Company #135 (Indonesia) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #134 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-05:a4b2ee1cbdf8a2bc</id>
+    <updated>2026-11-05T17:52:56Z</updated>
+    <summary>N0n listed Company #134 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #133 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-05:14722f9bf984f7c8</id>
+    <updated>2026-11-05T17:52:27Z</updated>
+    <summary>N0n listed Company #133 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Omni Hotels &amp; Resorts — Redact</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/redact/"/>
+    <id>tag:ransom.privtools.eu,2026-11-05:bcba2eb822b27390</id>
+    <updated>2026-11-05T16:24:27Z</updated>
+    <summary>Redact listed Omni Hotels &amp; Resorts (United States) on its leak site. Sector: Hospitality.</summary>
+    <category term="Redact"/>
+  </entry>
   <entry>
     <title>Westboro Partners — Akira</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
@@ -306,109 +410,5 @@
     <updated>2026-11-05T06:03:51Z</updated>
     <summary>Thegentlemen listed MegChem on its leak site. Sector: Manufacturing.</summary>
     <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Customs Support — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:e8ed2b2e933e7501</id>
-    <updated>2026-11-05T06:03:30Z</updated>
-    <summary>Thegentlemen listed Customs Support (United Kingdom) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>MKG Kirchrode — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:8e25c049617dd7d3</id>
-    <updated>2026-11-05T06:03:08Z</updated>
-    <summary>Thegentlemen listed MKG Kirchrode (Germany) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Delta Dental of Missouri — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:7f7ee6d928e49585</id>
-    <updated>2026-11-05T04:52:28Z</updated>
-    <summary>N0n listed Delta Dental of Missouri (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>The Container Store — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:aa00a542539fea82</id>
-    <updated>2026-11-05T04:51:57Z</updated>
-    <summary>N0n listed The Container Store (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>centratamagroup.com — Lockbit5</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
-    <id>tag:ransom.privtools.eu,2026-11-04:cafa72029d79cdf7</id>
-    <updated>2026-11-04T23:14:32Z</updated>
-    <summary>Lockbit5 listed centratamagroup.com (Brazil) on its leak site.</summary>
-    <category term="Lockbit5"/>
-  </entry>
-  <entry>
-    <title>TFG London — Ransomhouse</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/ransomhouse/"/>
-    <id>tag:ransom.privtools.eu,2026-11-04:f50b89cc6cd9483a</id>
-    <updated>2026-11-04T22:28:55Z</updated>
-    <summary>Ransomhouse listed TFG London (United Kingdom) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Ransomhouse"/>
-  </entry>
-  <entry>
-    <title>Msn — Medusalocker</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/medusalocker/"/>
-    <id>tag:ransom.privtools.eu,2026-11-04:9d38829241dace0a</id>
-    <updated>2026-11-04T22:27:24Z</updated>
-    <summary>Medusalocker listed Msn (United States) on its leak site. Sector: Technology.</summary>
-    <category term="Medusalocker"/>
-  </entry>
-  <entry>
-    <title>Dian — Medusalocker</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/medusalocker/"/>
-    <id>tag:ransom.privtools.eu,2026-11-04:7e18aeb58e51ce81</id>
-    <updated>2026-11-04T22:26:22Z</updated>
-    <summary>Medusalocker listed Dian (Colombia) on its leak site.</summary>
-    <category term="Medusalocker"/>
-  </entry>
-  <entry>
-    <title>baiapai — Medusalocker</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/medusalocker/"/>
-    <id>tag:ransom.privtools.eu,2026-11-04:ec659cd8e00edefb</id>
-    <updated>2026-11-04T22:25:50Z</updated>
-    <summary>Medusalocker listed baiapai on its leak site. Sector: Technology.</summary>
-    <category term="Medusalocker"/>
-  </entry>
-  <entry>
-    <title>Vinitgloves — Medusalocker</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/medusalocker/"/>
-    <id>tag:ransom.privtools.eu,2026-11-04:d6b418cc57f222cb</id>
-    <updated>2026-11-04T22:25:19Z</updated>
-    <summary>Medusalocker listed Vinitgloves (India) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Medusalocker"/>
-  </entry>
-  <entry>
-    <title>Jatl — Medusalocker</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/medusalocker/"/>
-    <id>tag:ransom.privtools.eu,2026-11-04:c7b658b4bdd89f99</id>
-    <updated>2026-11-04T22:24:46Z</updated>
-    <summary>Medusalocker listed Jatl on its leak site.</summary>
-    <category term="Medusalocker"/>
-  </entry>
-  <entry>
-    <title>Geetees — Medusalocker</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/medusalocker/"/>
-    <id>tag:ransom.privtools.eu,2026-11-04:2bab2947f3f05ae9</id>
-    <updated>2026-11-04T22:24:15Z</updated>
-    <summary>Medusalocker listed Geetees on its leak site.</summary>
-    <category term="Medusalocker"/>
-  </entry>
-  <entry>
-    <title>Ruixiang Jidian — Medusalocker</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/medusalocker/"/>
-    <id>tag:ransom.privtools.eu,2026-11-04:b11cb3c44b9361c7</id>
-    <updated>2026-11-04T22:23:43Z</updated>
-    <summary>Medusalocker listed Ruixiang Jidian on its leak site. Sector: Manufacturing.</summary>
-    <category term="Medusalocker"/>
   </entry>
 </feed>
