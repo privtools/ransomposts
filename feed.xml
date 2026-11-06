@@ -5,12 +5,100 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-11-06T01:24:03Z</updated>
+  <updated>2026-11-06T13:44:10Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Algonomy — Direwolf</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/direwolf/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:6bcbe9ae73003de8</id>
+    <updated>2026-11-06T13:44:10Z</updated>
+    <summary>Direwolf listed Algonomy (United States) on its leak site. Sector: Technology.</summary>
+    <category term="Direwolf"/>
+  </entry>
+  <entry>
+    <title>Company #6 — OBSOFT</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:d5867325409d0d84</id>
+    <updated>2026-11-06T12:52:45Z</updated>
+    <summary>OBSOFT listed Company #6 on its leak site.</summary>
+    <category term="OBSOFT"/>
+  </entry>
+  <entry>
+    <title>Hudson &amp; Hudson SignProducts — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:2b9bc5cd8a86dd0d</id>
+    <updated>2026-11-06T12:01:13Z</updated>
+    <summary>Akira listed Hudson &amp; Hudson SignProducts (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Istituto Borgo — Shiba</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:7b005b997da25d31</id>
+    <updated>2026-11-06T12:00:26Z</updated>
+    <summary>Shiba listed Istituto Borgo (Italy) on its leak site.</summary>
+    <category term="Shiba"/>
+  </entry>
+  <entry>
+    <title>Boyle, Pecharich, Cline, Whittington andStallings — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:d6c5cb0625be8130</id>
+    <updated>2026-11-06T11:05:40Z</updated>
+    <summary>Akira listed Boyle, Pecharich, Cline, Whittington andStallings on its leak site. Sector: Professional Services.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Dompé Farmaceutici S.p.A. — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:9c014d0c41a4d3e3</id>
+    <updated>2026-11-06T10:54:16Z</updated>
+    <summary>N0n listed Dompé Farmaceutici S.p.A. (Italy) on its leak site. Sector: Healthcare.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Cogent Biosciences, Inc. — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:5fcca7dfcd7ba4aa</id>
+    <updated>2026-11-06T10:53:40Z</updated>
+    <summary>N0n listed Cogent Biosciences, Inc. (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Chartboost LLC — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:8ae1a15bf23e1878</id>
+    <updated>2026-11-06T10:53:06Z</updated>
+    <summary>N0n listed Chartboost LLC (United States) on its leak site. Sector: Technology.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Centrepoint — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:d467ff7ce7933e9b</id>
+    <updated>2026-11-06T10:52:31Z</updated>
+    <summary>N0n listed Centrepoint (Saudi Arabia) on its leak site. Sector: Energy &amp; Utilities.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Resource Consultants — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:ff6966d6e7d4f4d2</id>
+    <updated>2026-11-06T10:51:56Z</updated>
+    <summary>N0n listed Resource Consultants (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Rotstein &amp; Shiffman — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:8f4f0c6a4a2f15ce</id>
+    <updated>2026-11-06T08:42:39Z</updated>
+    <summary>Qilin listed Rotstein &amp; Shiffman (Israel) on its leak site. Sector: Professional Services.</summary>
+    <category term="Qilin"/>
+  </entry>
   <entry>
     <title>Max Fashion — N0n</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
@@ -321,94 +409,6 @@
     <id>tag:ransom.privtools.eu,2026-11-05:064e39515faa14a0</id>
     <updated>2026-11-05T06:07:41Z</updated>
     <summary>Thegentlemen listed Secretaria de Estado de Saúde (Brazil) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Five Star Plating — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:0c6906c44d4b7175</id>
-    <updated>2026-11-05T06:07:21Z</updated>
-    <summary>Thegentlemen listed Five Star Plating (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Barking Shopfronts — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:14ecc265554b61ca</id>
-    <updated>2026-11-05T06:07:00Z</updated>
-    <summary>Thegentlemen listed Barking Shopfronts (United Kingdom) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>HighTec — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:f4feb37d23005258</id>
-    <updated>2026-11-05T06:06:39Z</updated>
-    <summary>Thegentlemen listed HighTec (Switzerland) on its leak site. Sector: Technology.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Pages Asociados — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:d69085367fd326f0</id>
-    <updated>2026-11-05T06:06:18Z</updated>
-    <summary>Thegentlemen listed Pages Asociados (Venezuela) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>TransLogWest — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:fc5ef5ace23cd97d</id>
-    <updated>2026-11-05T06:05:57Z</updated>
-    <summary>Thegentlemen listed TransLogWest (Germany) on its leak site. Sector: Transportation.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Neighborhood House Association — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:b03da36b42b36f2d</id>
-    <updated>2026-11-05T06:05:36Z</updated>
-    <summary>Thegentlemen listed Neighborhood House Association (United States) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Airdrie Christian Academy — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:7b574f3c2b97915f</id>
-    <updated>2026-11-05T06:05:15Z</updated>
-    <summary>Thegentlemen listed Airdrie Christian Academy (Canada) on its leak site. Sector: Education.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Academy of the Sacred Heart — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:c7df42dce335072f</id>
-    <updated>2026-11-05T06:04:54Z</updated>
-    <summary>Thegentlemen listed Academy of the Sacred Heart (United States) on its leak site. Sector: Education.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Mitsubishi Motors Ukraine — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:2c5cb522e1ac7076</id>
-    <updated>2026-11-05T06:04:33Z</updated>
-    <summary>Thegentlemen listed Mitsubishi Motors Ukraine (Ukraine) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>European Motorcars — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:358daea6cdb400f6</id>
-    <updated>2026-11-05T06:04:12Z</updated>
-    <summary>Thegentlemen listed European Motorcars (Germany) on its leak site. Sector: Transportation.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>MegChem — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:a373d7378904d2d3</id>
-    <updated>2026-11-05T06:03:51Z</updated>
-    <summary>Thegentlemen listed MegChem on its leak site. Sector: Manufacturing.</summary>
     <category term="Thegentlemen"/>
   </entry>
 </feed>
