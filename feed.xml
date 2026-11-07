@@ -5,12 +5,148 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-11-07T04:10:49Z</updated>
+  <updated>2026-11-07T13:16:04Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Tribunal de Justica do Estado de Minas Gerais — Rhysida</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:8faa0f42aa1799ed</id>
+    <updated>2026-11-07T13:16:04Z</updated>
+    <summary>Rhysida listed Tribunal de Justica do Estado de Minas Gerais (Brazil) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="Rhysida"/>
+  </entry>
+  <entry>
+    <title>Autohaus Arnold — Payload</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:cb1e852183f3e437</id>
+    <updated>2026-11-07T13:15:06Z</updated>
+    <summary>Payload listed Autohaus Arnold (Germany) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Payload"/>
+  </entry>
+  <entry>
+    <title>Brauco — Payload</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:c12213da2f5c8a26</id>
+    <updated>2026-11-07T13:13:44Z</updated>
+    <summary>Payload listed Brauco on its leak site.</summary>
+    <category term="Payload"/>
+  </entry>
+  <entry>
+    <title>Schroers Ingenieure — Payload</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:808aaddbc888a9ad</id>
+    <updated>2026-11-07T13:12:23Z</updated>
+    <summary>Payload listed Schroers Ingenieure (Germany) on its leak site. Sector: Professional Services.</summary>
+    <category term="Payload"/>
+  </entry>
+  <entry>
+    <title>Otto Stops — Payload</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/payload/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:ca68fa24892270a0</id>
+    <updated>2026-11-07T13:11:05Z</updated>
+    <summary>Payload listed Otto Stops on its leak site. Sector: Transportation.</summary>
+    <category term="Payload"/>
+  </entry>
+  <entry>
+    <title>Christie Digital Systems — Metaencryptor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:11fd454b615b42a2</id>
+    <updated>2026-11-07T11:43:20Z</updated>
+    <summary>Metaencryptor listed Christie Digital Systems (United States) on its leak site. Sector: Technology.</summary>
+    <category term="Metaencryptor"/>
+  </entry>
+  <entry>
+    <title>Daeah E&amp;C — Metaencryptor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:e2c809068bbc183a</id>
+    <updated>2026-11-07T11:42:38Z</updated>
+    <summary>Metaencryptor listed Daeah E&amp;C (South Korea) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Metaencryptor"/>
+  </entry>
+  <entry>
+    <title>DAEWON Chemical — Metaencryptor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:9c4643c45ed02e8f</id>
+    <updated>2026-11-07T11:41:54Z</updated>
+    <summary>Metaencryptor listed DAEWON Chemical (South Korea) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Metaencryptor"/>
+  </entry>
+  <entry>
+    <title>Wooshin Systems — Metaencryptor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:4dc2ad91e8fc087f</id>
+    <updated>2026-11-07T11:41:12Z</updated>
+    <summary>Metaencryptor listed Wooshin Systems (South Korea) on its leak site. Sector: Technology.</summary>
+    <category term="Metaencryptor"/>
+  </entry>
+  <entry>
+    <title>Proterial America, Ltd. — Metaencryptor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:c37449e60d391692</id>
+    <updated>2026-11-07T11:40:31Z</updated>
+    <summary>Metaencryptor listed Proterial America, Ltd. (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Metaencryptor"/>
+  </entry>
+  <entry>
+    <title>Hyundai E&amp;C — Metaencryptor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:5a0b14ec1345e337</id>
+    <updated>2026-11-07T11:39:48Z</updated>
+    <summary>Metaencryptor listed Hyundai E&amp;C (South Korea) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Metaencryptor"/>
+  </entry>
+  <entry>
+    <title>Pekin Insurance — Metaencryptor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:36938f9aeec4e3e8</id>
+    <updated>2026-11-07T11:39:07Z</updated>
+    <summary>Metaencryptor listed Pekin Insurance (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="Metaencryptor"/>
+  </entry>
+  <entry>
+    <title>Staples, Inc. / SBD Inc. — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:a00aeafc798e421d</id>
+    <updated>2026-11-07T10:54:52Z</updated>
+    <summary>N0n listed Staples, Inc. / SBD Inc. (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Lampenwelt GmbH — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:d9e781ea4d575518</id>
+    <updated>2026-11-07T10:54:16Z</updated>
+    <summary>N0n listed Lampenwelt GmbH (Germany) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Infutor Data Solutions — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:4a37e1d112d5b7d2</id>
+    <updated>2026-11-07T10:53:42Z</updated>
+    <summary>N0n listed Infutor Data Solutions (United States) on its leak site. Sector: Technology.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Higginbotham — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:bdfb9089057355af</id>
+    <updated>2026-11-07T10:53:07Z</updated>
+    <summary>N0n listed Higginbotham (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Treuhand &amp; Immobilien Abt AG — Rhysida</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:38237ca5578c01e8</id>
+    <updated>2026-11-07T08:18:16Z</updated>
+    <summary>Rhysida listed Treuhand &amp; Immobilien Abt AG (Switzerland) on its leak site. Sector: Financial Services.</summary>
+    <category term="Rhysida"/>
+  </entry>
   <entry>
     <title>IMD Group — Nightspire</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
@@ -274,141 +410,5 @@
     <updated>2026-11-06T01:24:03Z</updated>
     <summary>N0n listed Max Fashion (United Arab Emirates) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
     <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Hallmark Cards, Inc. — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-06:d48f653c175b494b</id>
-    <updated>2026-11-06T01:23:31Z</updated>
-    <summary>N0n listed Hallmark Cards, Inc. (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Scry Analytics — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-06:c88f7f8a84d4656a</id>
-    <updated>2026-11-06T01:22:59Z</updated>
-    <summary>N0n listed Scry Analytics (United States) on its leak site. Sector: Technology.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>ZipAI — Vexy Ransomware</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vexy-ransomware/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:bffa6265d9f25479</id>
-    <updated>2026-11-05T23:27:37Z</updated>
-    <summary>Vexy Ransomware listed ZipAI (Vietnam) on its leak site. Sector: Technology.</summary>
-    <category term="Vexy Ransomware"/>
-  </entry>
-  <entry>
-    <title>Smith, Gambrell &amp; Russell, LLP — SilentRansomGroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:dae99e19d6f20d9a</id>
-    <updated>2026-11-05T22:35:25Z</updated>
-    <summary>SilentRansomGroup listed Smith, Gambrell &amp; Russell, LLP (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>W... R... — SilentRansomGroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:c99086ccec188e5f</id>
-    <updated>2026-11-05T22:35:05Z</updated>
-    <summary>SilentRansomGroup listed W... R... on its leak site.</summary>
-    <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>Insurance Audit Services — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:0538b4e267cd687f</id>
-    <updated>2026-11-05T20:46:53Z</updated>
-    <summary>Qilin listed Insurance Audit Services (United States) on its leak site. Sector: Financial Services.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Company #137 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:d96ba450c68c1740</id>
-    <updated>2026-11-05T17:54:23Z</updated>
-    <summary>N0n listed Company #137 (Canada) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #136 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:34c209c4667725f2</id>
-    <updated>2026-11-05T17:53:54Z</updated>
-    <summary>N0n listed Company #136 (Denmark) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #135 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:36ca15382fd6555e</id>
-    <updated>2026-11-05T17:53:24Z</updated>
-    <summary>N0n listed Company #135 (Indonesia) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #134 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:a4b2ee1cbdf8a2bc</id>
-    <updated>2026-11-05T17:52:56Z</updated>
-    <summary>N0n listed Company #134 (United States) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #133 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:14722f9bf984f7c8</id>
-    <updated>2026-11-05T17:52:27Z</updated>
-    <summary>N0n listed Company #133 (United States) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Omni Hotels &amp; Resorts — Redact</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/redact/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:bcba2eb822b27390</id>
-    <updated>2026-11-05T16:24:27Z</updated>
-    <summary>Redact listed Omni Hotels &amp; Resorts (United States) on its leak site. Sector: Hospitality.</summary>
-    <category term="Redact"/>
-  </entry>
-  <entry>
-    <title>Westboro Partners — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:9c4f61fad35cabf7</id>
-    <updated>2026-11-05T15:20:30Z</updated>
-    <summary>Akira listed Westboro Partners on its leak site.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>System Plus — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:f899958e4fdb53f9</id>
-    <updated>2026-11-05T14:34:04Z</updated>
-    <summary>Akira listed System Plus on its leak site. Sector: Technology.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>David L Wade &amp; Associates — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:cdb44e36df5301c6</id>
-    <updated>2026-11-05T14:33:52Z</updated>
-    <summary>Akira listed David L Wade &amp; Associates on its leak site. Sector: Professional Services.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>Source Energy Services — Akira</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:cfa7f4212e63362c</id>
-    <updated>2026-11-05T14:33:40Z</updated>
-    <summary>Akira listed Source Energy Services (Canada) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Akira"/>
-  </entry>
-  <entry>
-    <title>Sistel — Aoqin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:b39335b8f8ac8a3c</id>
-    <updated>2026-11-05T11:20:37Z</updated>
-    <summary>Aoqin listed Sistel (Brazil) on its leak site. Sector: Technology.</summary>
-    <category term="Aoqin"/>
   </entry>
 </feed>
