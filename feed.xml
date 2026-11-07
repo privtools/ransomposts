@@ -5,12 +5,180 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-11-06T13:44:10Z</updated>
+  <updated>2026-11-07T04:10:49Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>IMD Group — Nightspire</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:eae6a407bba37c61</id>
+    <updated>2026-11-07T04:10:49Z</updated>
+    <summary>Nightspire listed IMD Group (Italy) on its leak site. Sector: Professional Services.</summary>
+    <category term="Nightspire"/>
+  </entry>
+  <entry>
+    <title>Meller Group — Nightspire</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:fd28db90bb42d061</id>
+    <updated>2026-11-07T04:10:30Z</updated>
+    <summary>Nightspire listed Meller Group (United Kingdom) on its leak site.</summary>
+    <category term="Nightspire"/>
+  </entry>
+  <entry>
+    <title>Gestimed — Nightspire</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:1c68145abc6ee8bc</id>
+    <updated>2026-11-07T04:10:11Z</updated>
+    <summary>Nightspire listed Gestimed (Spain) on its leak site. Sector: Healthcare.</summary>
+    <category term="Nightspire"/>
+  </entry>
+  <entry>
+    <title>maersk — Whitearmor</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/whitearmor/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:2a6c28709eae05ea</id>
+    <updated>2026-11-07T03:48:01Z</updated>
+    <summary>Whitearmor listed maersk (Denmark) on its leak site. Sector: Transportation.</summary>
+    <category term="Whitearmor"/>
+  </entry>
+  <entry>
+    <title>Acondistec — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:df3f32cc62be5540</id>
+    <updated>2026-11-07T01:34:21Z</updated>
+    <summary>Qilin listed Acondistec (Germany) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Kahler Automation — Anubis</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/anubis/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:cae8afa158a5152d</id>
+    <updated>2026-11-07T01:08:56Z</updated>
+    <summary>Anubis listed Kahler Automation (Germany) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Anubis"/>
+  </entry>
+  <entry>
+    <title>Benesch Law — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:186306cc2bbb5753</id>
+    <updated>2026-11-07T01:07:11Z</updated>
+    <summary>SilentRansomGroup listed Benesch Law (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>1da9100e55aqf21eb651eNea — Incransom</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
+    <id>tag:ransom.privtools.eu,2026-11-07:18f15ce97135595e</id>
+    <updated>2026-11-07T00:15:21Z</updated>
+    <summary>Incransom listed 1da9100e55aqf21eb651eNea (Albania) on its leak site.</summary>
+    <category term="Incransom"/>
+  </entry>
+  <entry>
+    <title>Mutares.com — BrainCipher</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/braincipher/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:f1ca4f05a0bed05e</id>
+    <updated>2026-11-06T21:21:28Z</updated>
+    <summary>BrainCipher listed Mutares.com (Germany) on its leak site. Sector: Manufacturing.</summary>
+    <category term="BrainCipher"/>
+  </entry>
+  <entry>
+    <title>Xinos Construction — Genesis</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/genesis/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:9fc8e87b0191f94e</id>
+    <updated>2026-11-06T20:46:11Z</updated>
+    <summary>Genesis listed Xinos Construction (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Genesis"/>
+  </entry>
+  <entry>
+    <title>Insation Technologies — Genesis</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/genesis/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:4db002cc24203cbc</id>
+    <updated>2026-11-06T20:45:33Z</updated>
+    <summary>Genesis listed Insation Technologies (United States) on its leak site. Sector: Technology.</summary>
+    <category term="Genesis"/>
+  </entry>
+  <entry>
+    <title>Comercial en Fletes México, S.A. de C.V. — Eclipse</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/eclipse/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:84178eb7bfb4fe24</id>
+    <updated>2026-11-06T20:21:47Z</updated>
+    <summary>Eclipse listed Comercial en Fletes México, S.A. de C.V. (Mexico) on its leak site. Sector: Transportation.</summary>
+    <category term="Eclipse"/>
+  </entry>
+  <entry>
+    <title>https://www.sleep-clinic.ca/ — Incransom</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:f3df2b6d6c5191da</id>
+    <updated>2026-11-06T19:09:52Z</updated>
+    <summary>Incransom listed https://www.sleep-clinic.ca/ (Canada) on its leak site. Sector: Healthcare.</summary>
+    <category term="Incransom"/>
+  </entry>
+  <entry>
+    <title>Tucker Ellis — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:2dcd158b600a92d8</id>
+    <updated>2026-11-06T18:58:03Z</updated>
+    <summary>SilentRansomGroup listed Tucker Ellis (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>Wachtell, Lipton, Rosen &amp; Katz — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:e66146fcecf46ae5</id>
+    <updated>2026-11-06T18:57:43Z</updated>
+    <summary>SilentRansomGroup listed Wachtell, Lipton, Rosen &amp; Katz (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>ar500armor.com — Settra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:983f1d556d5a1f79</id>
+    <updated>2026-11-06T16:48:23Z</updated>
+    <summary>Settra listed ar500armor.com (United States) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="Settra"/>
+  </entry>
+  <entry>
+    <title>lakelawnresort.com — Settra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:0b1f9b3260a7a17b</id>
+    <updated>2026-11-06T16:47:50Z</updated>
+    <summary>Settra listed lakelawnresort.com (United States) on its leak site. Sector: Hospitality.</summary>
+    <category term="Settra"/>
+  </entry>
+  <entry>
+    <title>metalloidcorp.com — Settra</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:658f363a3870443e</id>
+    <updated>2026-11-06T16:47:16Z</updated>
+    <summary>Settra listed metalloidcorp.com (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Settra"/>
+  </entry>
+  <entry>
+    <title>B... law — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:564c17c4a4cf3cb7</id>
+    <updated>2026-11-06T16:36:19Z</updated>
+    <summary>SilentRansomGroup listed B... law on its leak site. Sector: Professional Services.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>Ligne Roset — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:ac729be2172c810b</id>
+    <updated>2026-11-06T15:33:41Z</updated>
+    <summary>Akira listed Ligne Roset (France) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Houston Machine and Thread — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-11-06:167ab787eb115b12</id>
+    <updated>2026-11-06T15:33:21Z</updated>
+    <summary>Akira listed Houston Machine and Thread (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Akira"/>
+  </entry>
   <entry>
     <title>Algonomy — Direwolf</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/direwolf/"/>
@@ -242,173 +410,5 @@
     <updated>2026-11-05T11:20:37Z</updated>
     <summary>Aoqin listed Sistel (Brazil) on its leak site. Sector: Technology.</summary>
     <category term="Aoqin"/>
-  </entry>
-  <entry>
-    <title>Bridgestone HosePower, LLC — Pear</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pear/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:937b7abdff64bbe5</id>
-    <updated>2026-11-05T11:15:36Z</updated>
-    <summary>Pear listed Bridgestone HosePower, LLC (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Pear"/>
-  </entry>
-  <entry>
-    <title>SevenPlus — Beast</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/beast/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:7e9615410100d9a9</id>
-    <updated>2026-11-05T11:03:35Z</updated>
-    <summary>Beast listed SevenPlus (Japan) on its leak site.</summary>
-    <category term="Beast"/>
-  </entry>
-  <entry>
-    <title>First and Final Warning - IHG Hotels &amp; Resorts (Estate) — BYOD</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/byod/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:a5656c24ea09acd1</id>
-    <updated>2026-11-05T09:50:45Z</updated>
-    <summary>BYOD listed First and Final Warning - IHG Hotels &amp; Resorts (Estate) on its leak site. Sector: Hospitality.</summary>
-    <category term="BYOD"/>
-  </entry>
-  <entry>
-    <title>Calvary Christian College — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:cd39437468922aef</id>
-    <updated>2026-11-05T09:14:45Z</updated>
-    <summary>Qilin listed Calvary Christian College (Australia) on its leak site. Sector: Education.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>ne*****h.com — Everstake</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:b6e25197ff088f10</id>
-    <updated>2026-11-05T09:09:10Z</updated>
-    <summary>Everstake listed ne*****h.com on its leak site.</summary>
-    <category term="Everstake"/>
-  </entry>
-  <entry>
-    <title>kx***om — AuditTeam</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/auditteam/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:85ecb1459871ee1b</id>
-    <updated>2026-11-05T08:50:34Z</updated>
-    <summary>AuditTeam listed kx***om (China) on its leak site. Sector: Technology.</summary>
-    <category term="AuditTeam"/>
-  </entry>
-  <entry>
-    <title>Disclosed — PixelLeaks</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:36c8434afd681676</id>
-    <updated>2026-11-05T07:59:30Z</updated>
-    <summary>PixelLeaks listed Disclosed on its leak site.</summary>
-    <category term="PixelLeaks"/>
-  </entry>
-  <entry>
-    <title>Custom Bakehouse — Dark Project</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dark-project/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:657a4bc88ea407b7</id>
-    <updated>2026-11-05T06:21:31Z</updated>
-    <summary>Dark Project listed Custom Bakehouse (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Dark Project"/>
-  </entry>
-  <entry>
-    <title>MAPFRE Brasil 2026 — Destello</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:a61ac114c831a5a1</id>
-    <updated>2026-11-05T06:18:10Z</updated>
-    <summary>Destello listed MAPFRE Brasil 2026 (Brazil) on its leak site. Sector: Financial Services.</summary>
-    <category term="Destello"/>
-  </entry>
-  <entry>
-    <title>KABS Pharmaceutical Services — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:931dd37c28174315</id>
-    <updated>2026-11-05T06:11:53Z</updated>
-    <summary>Thegentlemen listed KABS Pharmaceutical Services (United Kingdom) on its leak site. Sector: Healthcare.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Solutis Tecnologias — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:dc8a8b7beb276ea3</id>
-    <updated>2026-11-05T06:11:32Z</updated>
-    <summary>Thegentlemen listed Solutis Tecnologias (Brazil) on its leak site. Sector: Technology.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Grupo Lorrio — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:c7ae86c8f2f1c142</id>
-    <updated>2026-11-05T06:11:10Z</updated>
-    <summary>Thegentlemen listed Grupo Lorrio (Spain) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>McEwan Fraser Legal — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:13b8aeff151733d1</id>
-    <updated>2026-11-05T06:10:40Z</updated>
-    <summary>Thegentlemen listed McEwan Fraser Legal (United Kingdom) on its leak site. Sector: Professional Services.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Hausarztpraxis Ries — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:c718b4d111523d94</id>
-    <updated>2026-11-05T06:10:20Z</updated>
-    <summary>Thegentlemen listed Hausarztpraxis Ries (Germany) on its leak site. Sector: Healthcare.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Lighting Direct — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:c47d02116c293bd6</id>
-    <updated>2026-11-05T06:09:45Z</updated>
-    <summary>Thegentlemen listed Lighting Direct (New Zealand) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>RedBlink Technologies — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:8f523cc24ca1ae96</id>
-    <updated>2026-11-05T06:09:24Z</updated>
-    <summary>Thegentlemen listed RedBlink Technologies (Canada) on its leak site. Sector: Technology.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Coemi Imóveis — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:cbfcc08ac5b0a0fe</id>
-    <updated>2026-11-05T06:09:03Z</updated>
-    <summary>Thegentlemen listed Coemi Imóveis (Brazil) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Labatec — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:3fdad9e519b08fd5</id>
-    <updated>2026-11-05T06:08:43Z</updated>
-    <summary>Thegentlemen listed Labatec (Switzerland) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Antwerp House Dental — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:629664f56df5da76</id>
-    <updated>2026-11-05T06:08:22Z</updated>
-    <summary>Thegentlemen listed Antwerp House Dental (United Kingdom) on its leak site. Sector: Healthcare.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Logsytech Group — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:f1812979aa1fbbd8</id>
-    <updated>2026-11-05T06:08:02Z</updated>
-    <summary>Thegentlemen listed Logsytech Group (France) on its leak site. Sector: Technology.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Secretaria de Estado de Saúde — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-05:064e39515faa14a0</id>
-    <updated>2026-11-05T06:07:41Z</updated>
-    <summary>Thegentlemen listed Secretaria de Estado de Saúde (Brazil) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Thegentlemen"/>
   </entry>
 </feed>
