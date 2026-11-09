@@ -5,12 +5,148 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-11-08T03:49:05Z</updated>
+  <updated>2026-11-09T03:59:31Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Cuomo LLC — Anubis</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/anubis/"/>
+    <id>tag:ransom.privtools.eu,2026-11-09:1fa92a770e7c165a</id>
+    <updated>2026-11-09T03:59:31Z</updated>
+    <summary>Anubis listed Cuomo LLC on its leak site.</summary>
+    <category term="Anubis"/>
+  </entry>
+  <entry>
+    <title>Grupa ABS — Panzer</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
+    <id>tag:ransom.privtools.eu,2026-11-09:f0d38b72dfd3acd8</id>
+    <updated>2026-11-09T00:55:15Z</updated>
+    <summary>Panzer listed Grupa ABS (Poland) on its leak site.</summary>
+    <category term="Panzer"/>
+  </entry>
+  <entry>
+    <title>IE &amp; E Industries — Orova</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/orova/"/>
+    <id>tag:ransom.privtools.eu,2026-11-09:3e85d42102abcba2</id>
+    <updated>2026-11-09T00:53:07Z</updated>
+    <summary>Orova listed IE &amp; E Industries (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Orova"/>
+  </entry>
+  <entry>
+    <title>Expedia Group, Inc. — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-09:7139c116e4e9a3ae</id>
+    <updated>2026-11-09T00:52:31Z</updated>
+    <summary>N0n listed Expedia Group, Inc. (United States) on its leak site. Sector: Hospitality.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>starmark.co.th — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-11-08:659c915a75cd8750</id>
+    <updated>2026-11-08T23:34:54Z</updated>
+    <summary>Lockbit5 listed starmark.co.th (Thailand) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>grupotelles.com — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-11-08:d7d75ccdf4633e77</id>
+    <updated>2026-11-08T23:32:52Z</updated>
+    <summary>Lockbit5 listed grupotelles.com (Brazil) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>yatra.com — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-11-08:460b7ab4312152cb</id>
+    <updated>2026-11-08T23:30:44Z</updated>
+    <summary>Lockbit5 listed yatra.com (India) on its leak site. Sector: Hospitality.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>sunclinicallaboratories.com — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-11-08:304a217d6a6e0182</id>
+    <updated>2026-11-08T23:28:39Z</updated>
+    <summary>Lockbit5 listed sunclinicallaboratories.com (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>ADG Blatt — Barracuda</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/barracuda/"/>
+    <id>tag:ransom.privtools.eu,2026-11-08:17059200e47ff438</id>
+    <updated>2026-11-08T22:50:42Z</updated>
+    <summary>Barracuda listed ADG Blatt (Germany) on its leak site.</summary>
+    <category term="Barracuda"/>
+  </entry>
+  <entry>
+    <title>Fidex — Deadlock</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/deadlock/"/>
+    <id>tag:ransom.privtools.eu,2026-11-08:dbb8e0e0e92a4e56</id>
+    <updated>2026-11-08T19:51:54Z</updated>
+    <summary>Deadlock listed Fidex (Mexico) on its leak site.</summary>
+    <category term="Deadlock"/>
+  </entry>
+  <entry>
+    <title>NoseTea — Deadlock</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/deadlock/"/>
+    <id>tag:ransom.privtools.eu,2026-11-08:8e70dcd62594592e</id>
+    <updated>2026-11-08T19:51:32Z</updated>
+    <summary>Deadlock listed NoseTea (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Deadlock"/>
+  </entry>
+  <entry>
+    <title>Coopebis — Deadlock</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/deadlock/"/>
+    <id>tag:ransom.privtools.eu,2026-11-08:40dabcd1a950fefa</id>
+    <updated>2026-11-08T18:21:29Z</updated>
+    <summary>Deadlock listed Coopebis (Costa Rica) on its leak site. Sector: Agriculture and Food Production.</summary>
+    <category term="Deadlock"/>
+  </entry>
+  <entry>
+    <title>Calmont Wire &amp; Cable — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-11-08:b7988e4fa23ca60b</id>
+    <updated>2026-11-08T17:33:01Z</updated>
+    <summary>Akira listed Calmont Wire &amp; Cable (Canada) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>globalair.com.sg — Eclipse</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/eclipse/"/>
+    <id>tag:ransom.privtools.eu,2026-11-08:ed9607c02ddb645c</id>
+    <updated>2026-11-08T16:22:07Z</updated>
+    <summary>Eclipse listed globalair.com.sg (Singapore) on its leak site. Sector: Transportation.</summary>
+    <category term="Eclipse"/>
+  </entry>
+  <entry>
+    <title>Trinity Custom Homes - USA — Deadlock</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/deadlock/"/>
+    <id>tag:ransom.privtools.eu,2026-11-08:7f0822811b039e54</id>
+    <updated>2026-11-08T15:21:58Z</updated>
+    <summary>Deadlock listed Trinity Custom Homes - USA (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Deadlock"/>
+  </entry>
+  <entry>
+    <title>Chonlatee — Deadlock</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/deadlock/"/>
+    <id>tag:ransom.privtools.eu,2026-11-08:4a72b5e7716e41d0</id>
+    <updated>2026-11-08T15:21:38Z</updated>
+    <summary>Deadlock listed Chonlatee (Thailand) on its leak site.</summary>
+    <category term="Deadlock"/>
+  </entry>
+  <entry>
+    <title>Kadick — Deadlock</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/deadlock/"/>
+    <id>tag:ransom.privtools.eu,2026-11-08:abd6ddcdae91d6f9</id>
+    <updated>2026-11-08T15:21:17Z</updated>
+    <summary>Deadlock listed Kadick (United States) on its leak site.</summary>
+    <category term="Deadlock"/>
+  </entry>
   <entry>
     <title>q-technicians.be — Incransom</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
@@ -274,141 +410,5 @@
     <updated>2026-11-07T11:42:38Z</updated>
     <summary>Metaencryptor listed Daeah E&amp;C (South Korea) on its leak site. Sector: Manufacturing.</summary>
     <category term="Metaencryptor"/>
-  </entry>
-  <entry>
-    <title>DAEWON Chemical — Metaencryptor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:9c4643c45ed02e8f</id>
-    <updated>2026-11-07T11:41:54Z</updated>
-    <summary>Metaencryptor listed DAEWON Chemical (South Korea) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Metaencryptor"/>
-  </entry>
-  <entry>
-    <title>Wooshin Systems — Metaencryptor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:4dc2ad91e8fc087f</id>
-    <updated>2026-11-07T11:41:12Z</updated>
-    <summary>Metaencryptor listed Wooshin Systems (South Korea) on its leak site. Sector: Technology.</summary>
-    <category term="Metaencryptor"/>
-  </entry>
-  <entry>
-    <title>Proterial America, Ltd. — Metaencryptor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:c37449e60d391692</id>
-    <updated>2026-11-07T11:40:31Z</updated>
-    <summary>Metaencryptor listed Proterial America, Ltd. (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Metaencryptor"/>
-  </entry>
-  <entry>
-    <title>Hyundai E&amp;C — Metaencryptor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:5a0b14ec1345e337</id>
-    <updated>2026-11-07T11:39:48Z</updated>
-    <summary>Metaencryptor listed Hyundai E&amp;C (South Korea) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Metaencryptor"/>
-  </entry>
-  <entry>
-    <title>Pekin Insurance — Metaencryptor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/metaencryptor/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:36938f9aeec4e3e8</id>
-    <updated>2026-11-07T11:39:07Z</updated>
-    <summary>Metaencryptor listed Pekin Insurance (United States) on its leak site. Sector: Financial Services.</summary>
-    <category term="Metaencryptor"/>
-  </entry>
-  <entry>
-    <title>Staples, Inc. / SBD Inc. — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:a00aeafc798e421d</id>
-    <updated>2026-11-07T10:54:52Z</updated>
-    <summary>N0n listed Staples, Inc. / SBD Inc. (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Lampenwelt GmbH — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:d9e781ea4d575518</id>
-    <updated>2026-11-07T10:54:16Z</updated>
-    <summary>N0n listed Lampenwelt GmbH (Germany) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Infutor Data Solutions — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:4a37e1d112d5b7d2</id>
-    <updated>2026-11-07T10:53:42Z</updated>
-    <summary>N0n listed Infutor Data Solutions (United States) on its leak site. Sector: Technology.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Higginbotham — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:bdfb9089057355af</id>
-    <updated>2026-11-07T10:53:07Z</updated>
-    <summary>N0n listed Higginbotham (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Treuhand &amp; Immobilien Abt AG — Rhysida</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:38237ca5578c01e8</id>
-    <updated>2026-11-07T08:18:16Z</updated>
-    <summary>Rhysida listed Treuhand &amp; Immobilien Abt AG (Switzerland) on its leak site. Sector: Financial Services.</summary>
-    <category term="Rhysida"/>
-  </entry>
-  <entry>
-    <title>IMD Group — Nightspire</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:eae6a407bba37c61</id>
-    <updated>2026-11-07T04:10:49Z</updated>
-    <summary>Nightspire listed IMD Group (Italy) on its leak site. Sector: Professional Services.</summary>
-    <category term="Nightspire"/>
-  </entry>
-  <entry>
-    <title>Meller Group — Nightspire</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:fd28db90bb42d061</id>
-    <updated>2026-11-07T04:10:30Z</updated>
-    <summary>Nightspire listed Meller Group (United Kingdom) on its leak site.</summary>
-    <category term="Nightspire"/>
-  </entry>
-  <entry>
-    <title>Gestimed — Nightspire</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/nightspire/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:1c68145abc6ee8bc</id>
-    <updated>2026-11-07T04:10:11Z</updated>
-    <summary>Nightspire listed Gestimed (Spain) on its leak site. Sector: Healthcare.</summary>
-    <category term="Nightspire"/>
-  </entry>
-  <entry>
-    <title>maersk — Whitearmor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/whitearmor/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:2a6c28709eae05ea</id>
-    <updated>2026-11-07T03:48:01Z</updated>
-    <summary>Whitearmor listed maersk (Denmark) on its leak site. Sector: Transportation.</summary>
-    <category term="Whitearmor"/>
-  </entry>
-  <entry>
-    <title>Acondistec — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:df3f32cc62be5540</id>
-    <updated>2026-11-07T01:34:21Z</updated>
-    <summary>Qilin listed Acondistec (Germany) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>Kahler Automation — Anubis</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/anubis/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:cae8afa158a5152d</id>
-    <updated>2026-11-07T01:08:56Z</updated>
-    <summary>Anubis listed Kahler Automation (Germany) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Anubis"/>
-  </entry>
-  <entry>
-    <title>Benesch Law — SilentRansomGroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
-    <id>tag:ransom.privtools.eu,2026-11-07:186306cc2bbb5753</id>
-    <updated>2026-11-07T01:07:11Z</updated>
-    <summary>SilentRansomGroup listed Benesch Law (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="SilentRansomGroup"/>
   </entry>
 </feed>
