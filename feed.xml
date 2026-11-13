@@ -5,12 +5,60 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-11-13T03:28:24Z</updated>
+  <updated>2026-11-13T14:21:52Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>World Wide Fittings — Bravox</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/bravox/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:a44b73c9b142f9c2</id>
+    <updated>2026-11-13T14:21:52Z</updated>
+    <summary>Bravox listed World Wide Fittings (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Bravox"/>
+  </entry>
+  <entry>
+    <title>Galorath — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:63372ca8a58f7283</id>
+    <updated>2026-11-13T14:19:54Z</updated>
+    <summary>Akira listed Galorath (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Replogle Globes — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:29b8ca1278b48173</id>
+    <updated>2026-11-13T14:19:35Z</updated>
+    <summary>Akira listed Replogle Globes (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Paragon Mechanical — Akira</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/akira/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:181ba84991e7df4a</id>
+    <updated>2026-11-13T14:19:15Z</updated>
+    <summary>Akira listed Paragon Mechanical on its leak site. Sector: Manufacturing.</summary>
+    <category term="Akira"/>
+  </entry>
+  <entry>
+    <title>Carsem — Emperador</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/emperador/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:a99edfae7e7fc5ac</id>
+    <updated>2026-11-13T11:23:06Z</updated>
+    <summary>Emperador listed Carsem (Malaysia) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Emperador"/>
+  </entry>
+  <entry>
+    <title>Koray Topaç Hukuk Bürosu — Doommageddon</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/doommageddon/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:8ce0215654ad4665</id>
+    <updated>2026-11-13T11:22:24Z</updated>
+    <summary>Doommageddon listed Koray Topaç Hukuk Bürosu (Turkey) on its leak site. Sector: Professional Services.</summary>
+    <category term="Doommageddon"/>
+  </entry>
   <entry>
     <title>Company #216 — N0n</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
@@ -361,54 +409,6 @@
     <id>tag:ransom.privtools.eu,2026-11-12:600f6dd9d7856931</id>
     <updated>2026-11-12T10:12:51Z</updated>
     <summary>Incransom listed Gator Works Computing (Smith Law Firm, Beauchamp Edwards Epas, Wise Accounting Tax Service... (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>Somervell County — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:eb7d42669685e648</id>
-    <updated>2026-11-12T10:12:32Z</updated>
-    <summary>Incransom listed Somervell County (United States) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>J.E.T.S. Limited (MultiLink/ACH) — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:8c845d73ed62055d</id>
-    <updated>2026-11-12T10:12:13Z</updated>
-    <summary>Incransom listed J.E.T.S. Limited (MultiLink/ACH) (Jamaica) on its leak site. Sector: Financial Services.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>Bcpsystems — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:6bf2b8280ad40b68</id>
-    <updated>2026-11-12T10:11:54Z</updated>
-    <summary>Incransom listed Bcpsystems (United States) on its leak site. Sector: Technology.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>dunbarandboardman — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:bb4b9d80da0bfcb2</id>
-    <updated>2026-11-12T10:11:35Z</updated>
-    <summary>Incransom listed dunbarandboardman (United Arab Emirates) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>D.L. Steiner, Inc — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:16bd7bac8e6cbda9</id>
-    <updated>2026-11-12T10:11:15Z</updated>
-    <summary>Incransom listed D.L. Steiner, Inc (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>rppclaw.com — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:f8f82aa2d2658d55</id>
-    <updated>2026-11-12T10:10:56Z</updated>
-    <summary>Incransom listed rppclaw.com (United States) on its leak site. Sector: Professional Services.</summary>
     <category term="Incransom"/>
   </entry>
 </feed>
