@@ -5,12 +5,124 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-11-13T14:21:52Z</updated>
+  <updated>2026-11-14T03:32:50Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Grundbaulabor Trier GmbH — Everest</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
+    <id>tag:ransom.privtools.eu,2026-11-14:a5b3081bba3080a9</id>
+    <updated>2026-11-14T03:32:50Z</updated>
+    <summary>Everest listed Grundbaulabor Trier GmbH (Germany) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Everest"/>
+  </entry>
+  <entry>
+    <title>I****** A***** — Netrunner</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/netrunner/"/>
+    <id>tag:ransom.privtools.eu,2026-11-14:0e1e1fb9038da6fb</id>
+    <updated>2026-11-14T01:30:50Z</updated>
+    <summary>Netrunner listed I****** A***** (Kuwait) on its leak site.</summary>
+    <category term="Netrunner"/>
+  </entry>
+  <entry>
+    <title>K&amp;A Industries — Interlock</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/interlock/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:00bc6e4d57254823</id>
+    <updated>2026-11-13T22:46:01Z</updated>
+    <summary>Interlock listed K&amp;A Industries (United States) on its leak site.</summary>
+    <category term="Interlock"/>
+  </entry>
+  <entry>
+    <title>Final Notice Before Publication — Everest</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:af514f59dbbd71b9</id>
+    <updated>2026-11-13T22:44:12Z</updated>
+    <summary>Everest listed Final Notice Before Publication on its leak site.</summary>
+    <category term="Everest"/>
+  </entry>
+  <entry>
+    <title>RE/MAX Germany — Panzer</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:7ec62c61064b2f49</id>
+    <updated>2026-11-13T21:51:51Z</updated>
+    <summary>Panzer listed RE/MAX Germany (Germany) on its leak site. Sector: Professional Services.</summary>
+    <category term="Panzer"/>
+  </entry>
+  <entry>
+    <title>i*t*r***t.com — Curious Worm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/curious-worm/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:c28307e66a346e35</id>
+    <updated>2026-11-13T20:53:46Z</updated>
+    <summary>Curious Worm listed i*t*r***t.com on its leak site. Sector: Technology.</summary>
+    <category term="Curious Worm"/>
+  </entry>
+  <entry>
+    <title>t**a.com — Curious Worm</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/curious-worm/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:7a588e336afeba10</id>
+    <updated>2026-11-13T20:53:27Z</updated>
+    <summary>Curious Worm listed t**a.com on its leak site.</summary>
+    <category term="Curious Worm"/>
+  </entry>
+  <entry>
+    <title>Frey Properties of Highland LLC — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:293a2dd0b1e5b3af</id>
+    <updated>2026-11-13T20:29:46Z</updated>
+    <summary>Play listed Frey Properties of Highland LLC (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>ARRB Group — Play</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:45bdf1ef15de10bc</id>
+    <updated>2026-11-13T20:29:10Z</updated>
+    <summary>Play listed ARRB Group (Australia) on its leak site. Sector: Government &amp; Defense.</summary>
+    <category term="Play"/>
+  </entry>
+  <entry>
+    <title>Advantage Archives — Incransom</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:e9a1512c6c176282</id>
+    <updated>2026-11-13T20:14:47Z</updated>
+    <summary>Incransom listed Advantage Archives (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Incransom"/>
+  </entry>
+  <entry>
+    <title>sportsmansguide.com — Incransom</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:59da8f810897c56f</id>
+    <updated>2026-11-13T20:14:27Z</updated>
+    <summary>Incransom listed sportsmansguide.com (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Incransom"/>
+  </entry>
+  <entry>
+    <title>Walgreen Co. — Wallstreet</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:77db315bd3d17bc6</id>
+    <updated>2026-11-13T19:03:11Z</updated>
+    <summary>Wallstreet listed Walgreen Co. (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Wallstreet"/>
+  </entry>
+  <entry>
+    <title>The Tidewater Inn — Aoqin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aoqin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:1c1eada0c7395055</id>
+    <updated>2026-11-13T18:21:30Z</updated>
+    <summary>Aoqin listed The Tidewater Inn (United States) on its leak site. Sector: Hospitality.</summary>
+    <category term="Aoqin"/>
+  </entry>
+  <entry>
+    <title>The CCMC — Dark Project</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dark-project/"/>
+    <id>tag:ransom.privtools.eu,2026-11-13:f9c6319e52f9d9dd</id>
+    <updated>2026-11-13T15:55:12Z</updated>
+    <summary>Dark Project listed The CCMC (Canada) on its leak site.</summary>
+    <category term="Dark Project"/>
+  </entry>
   <entry>
     <title>World Wide Fittings — Bravox</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/bravox/"/>
@@ -117,7 +229,7 @@
   </entry>
   <entry>
     <title>Airblue — Aoqin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aoqin/"/>
     <id>tag:ransom.privtools.eu,2026-11-12:19a32d88232ee862</id>
     <updated>2026-11-12T19:51:09Z</updated>
     <summary>Aoqin listed Airblue (Pakistan) on its leak site. Sector: Transportation.</summary>
@@ -297,118 +409,6 @@
     <id>tag:ransom.privtools.eu,2026-11-12:a68ed7a32bc3e534</id>
     <updated>2026-11-12T10:17:21Z</updated>
     <summary>Incransom listed Onmion LLC (Lake Connor Park, Port Susan Camping Club, Cured by Visconti) (United States) on its leak site. Sector: Hospitality.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>Nandan Terry Pvt — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:cba90c6cbb1d5637</id>
-    <updated>2026-11-12T10:17:02Z</updated>
-    <summary>Incransom listed Nandan Terry Pvt (India) on its leak site.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>La Filipina Uy Gongco — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:e2e17cf37c4b1008</id>
-    <updated>2026-11-12T10:16:43Z</updated>
-    <summary>Incransom listed La Filipina Uy Gongco (Philippines) on its leak site. Sector: Agriculture and Food Production.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>ZIRNET LLC (mmplumbingny.com alpha1usa.com askconstruction.com mmplumbingny.com tristate-s... — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:3869c1b15ae4e18f</id>
-    <updated>2026-11-12T10:16:24Z</updated>
-    <summary>Incransom listed ZIRNET LLC (mmplumbingny.com alpha1usa.com askconstruction.com mmplumbingny.com tristate-s... (United States) on its leak site.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>ELITDATA SE (Advokatfirman Kurt Lundberg HB,Artwood AB,Mantum Group) — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:d9d64fd4804c0da0</id>
-    <updated>2026-11-12T10:16:05Z</updated>
-    <summary>Incransom listed ELITDATA SE (Advokatfirman Kurt Lundberg HB,Artwood AB,Mantum Group) (Sweden) on its leak site. Sector: Professional Services.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>PT Forisa Nusapersada — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:37e7109358d497d8</id>
-    <updated>2026-11-12T10:15:46Z</updated>
-    <summary>Incransom listed PT Forisa Nusapersada (Indonesia) on its leak site.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>2F1JV — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:932c7865070b802c</id>
-    <updated>2026-11-12T10:15:27Z</updated>
-    <summary>Incransom listed 2F1JV (United Arab Emirates) on its leak site.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>avoltaworld.com — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:8e53b6a2d3654b20</id>
-    <updated>2026-11-12T10:15:07Z</updated>
-    <summary>Incransom listed avoltaworld.com (Switzerland) on its leak site.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>American Council of Education — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:795d4f0821e481fe</id>
-    <updated>2026-11-12T10:14:47Z</updated>
-    <summary>Incransom listed American Council of Education (United States) on its leak site. Sector: Education.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>polyvista.com — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:426f24b85d4f4732</id>
-    <updated>2026-11-12T10:14:28Z</updated>
-    <summary>Incransom listed polyvista.com (United States) on its leak site. Sector: Technology.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>City of Princeton — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:405d88b1bcc9274b</id>
-    <updated>2026-11-12T10:14:08Z</updated>
-    <summary>Incransom listed City of Princeton (United States) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>Association «ENSEMBLE» — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:611f65c136d7254e</id>
-    <updated>2026-11-12T10:13:49Z</updated>
-    <summary>Incransom listed Association «ENSEMBLE» (France) on its leak site.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>ÖVERUM AGRO — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:df20e7802731e887</id>
-    <updated>2026-11-12T10:13:29Z</updated>
-    <summary>Incransom listed ÖVERUM AGRO (Sweden) on its leak site. Sector: Agriculture and Food Production.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>Stadtwerke Waldbröl GmbH — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:fe148cfd7a22dcc2</id>
-    <updated>2026-11-12T10:13:10Z</updated>
-    <summary>Incransom listed Stadtwerke Waldbröl GmbH (Germany) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>Gator Works Computing (Smith Law Firm, Beauchamp Edwards Epas, Wise Accounting Tax Service... — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-12:600f6dd9d7856931</id>
-    <updated>2026-11-12T10:12:51Z</updated>
-    <summary>Incransom listed Gator Works Computing (Smith Law Firm, Beauchamp Edwards Epas, Wise Accounting Tax Service... (United States) on its leak site. Sector: Professional Services.</summary>
     <category term="Incransom"/>
   </entry>
 </feed>
