@@ -5,12 +5,116 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-11-15T15:03:34Z</updated>
+  <updated>2026-11-16T07:29:04Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>KOCH — Vortex</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vortex/"/>
+    <id>tag:ransom.privtools.eu,2026-11-16:cc9a83f4190704a1</id>
+    <updated>2026-11-16T07:29:04Z</updated>
+    <summary>Vortex listed KOCH (Germany) on its leak site. Sector: Energy &amp; Utilities.</summary>
+    <category term="Vortex"/>
+  </entry>
+  <entry>
+    <title>CARRINGTON — Vortex</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/vortex/"/>
+    <id>tag:ransom.privtools.eu,2026-11-16:a49c957dbf500f39</id>
+    <updated>2026-11-16T07:28:28Z</updated>
+    <summary>Vortex listed CARRINGTON (United Kingdom) on its leak site. Sector: Financial Services.</summary>
+    <category term="Vortex"/>
+  </entry>
+  <entry>
+    <title>Culinary Specialties — Aoqin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aoqin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-16:3dc68560a67e9757</id>
+    <updated>2026-11-16T02:50:36Z</updated>
+    <summary>Aoqin listed Culinary Specialties (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Aoqin"/>
+  </entry>
+  <entry>
+    <title>PlasmaGen Biosciences Pvt Ltd (plasmagen.co.in) — PixelLeaks</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pixelleaks/"/>
+    <id>tag:ransom.privtools.eu,2026-11-15:01d925b588da7311</id>
+    <updated>2026-11-15T23:14:09Z</updated>
+    <summary>PixelLeaks listed PlasmaGen Biosciences Pvt Ltd (plasmagen.co.in) (India) on its leak site. Sector: Healthcare.</summary>
+    <category term="PixelLeaks"/>
+  </entry>
+  <entry>
+    <title>Connectwell Industries Pvt Ltd (connectwell.com) — PixelLeaks</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pixelleaks/"/>
+    <id>tag:ransom.privtools.eu,2026-11-15:5888a85b0d154e02</id>
+    <updated>2026-11-15T21:19:50Z</updated>
+    <summary>PixelLeaks listed Connectwell Industries Pvt Ltd (connectwell.com) (India) on its leak site.</summary>
+    <category term="PixelLeaks"/>
+  </entry>
+  <entry>
+    <title>Godrej &amp; Boyce Mfg Co Ltd (Vikhroli campus systems, godrej.com) — PixelLeaks</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pixelleaks/"/>
+    <id>tag:ransom.privtools.eu,2026-11-15:48e5bf1c88ce7d17</id>
+    <updated>2026-11-15T21:19:28Z</updated>
+    <summary>PixelLeaks listed Godrej &amp; Boyce Mfg Co Ltd (Vikhroli campus systems, godrej.com) (India) on its leak site. Sector: Manufacturing.</summary>
+    <category term="PixelLeaks"/>
+  </entry>
+  <entry>
+    <title>The Heartland Construction Group — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-15:14e6d1d4f217df44</id>
+    <updated>2026-11-15T20:30:14Z</updated>
+    <summary>Qilin listed The Heartland Construction Group (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Atlas Evaluation &amp; Inspection Services — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-15:3dd544490ef93afa</id>
+    <updated>2026-11-15T20:28:54Z</updated>
+    <summary>Qilin listed Atlas Evaluation &amp; Inspection Services (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Apex — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-15:582baec0a0d217ea</id>
+    <updated>2026-11-15T20:28:17Z</updated>
+    <summary>Qilin listed Apex (United States) on its leak site.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Sarimelati Kencana Tbk PT — Incransom</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
+    <id>tag:ransom.privtools.eu,2026-11-15:357e1280f054f2fc</id>
+    <updated>2026-11-15T18:44:48Z</updated>
+    <summary>Incransom listed Sarimelati Kencana Tbk PT (Indonesia) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Incransom"/>
+  </entry>
+  <entry>
+    <title>Oregon Linen — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-15:0dafea984561ede6</id>
+    <updated>2026-11-15T17:12:47Z</updated>
+    <summary>Qilin listed Oregon Linen (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Cole Manufacturing — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-15:b60f827213996557</id>
+    <updated>2026-11-15T17:11:56Z</updated>
+    <summary>Qilin listed Cole Manufacturing (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Kessler Soils Engineering Products — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-15:399392f64d03d71e</id>
+    <updated>2026-11-15T17:11:09Z</updated>
+    <summary>Qilin listed Kessler Soils Engineering Products (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Qilin"/>
+  </entry>
   <entry>
     <title>pah.com.my — Lockbit5</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
@@ -306,109 +410,5 @@
     <updated>2026-11-14T12:24:57Z</updated>
     <summary>EndZone listed Absolute Bail Bonds (United States) on its leak site. Sector: Financial Services.</summary>
     <category term="EndZone"/>
-  </entry>
-  <entry>
-    <title>Grundbaulabor Trier GmbH — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-11-14:a5b3081bba3080a9</id>
-    <updated>2026-11-14T03:32:50Z</updated>
-    <summary>Everest listed Grundbaulabor Trier GmbH (Germany) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>I****** A***** — Netrunner</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/netrunner/"/>
-    <id>tag:ransom.privtools.eu,2026-11-14:0e1e1fb9038da6fb</id>
-    <updated>2026-11-14T01:30:50Z</updated>
-    <summary>Netrunner listed I****** A***** (Kuwait) on its leak site.</summary>
-    <category term="Netrunner"/>
-  </entry>
-  <entry>
-    <title>K&amp;A Industries — Interlock</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/interlock/"/>
-    <id>tag:ransom.privtools.eu,2026-11-13:00bc6e4d57254823</id>
-    <updated>2026-11-13T22:46:01Z</updated>
-    <summary>Interlock listed K&amp;A Industries (United States) on its leak site.</summary>
-    <category term="Interlock"/>
-  </entry>
-  <entry>
-    <title>Final Notice Before Publication — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-11-13:af514f59dbbd71b9</id>
-    <updated>2026-11-13T22:44:12Z</updated>
-    <summary>Everest listed Final Notice Before Publication on its leak site.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>RE/MAX Germany — Panzer</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/panzer/"/>
-    <id>tag:ransom.privtools.eu,2026-11-13:7ec62c61064b2f49</id>
-    <updated>2026-11-13T21:51:51Z</updated>
-    <summary>Panzer listed RE/MAX Germany (Germany) on its leak site. Sector: Professional Services.</summary>
-    <category term="Panzer"/>
-  </entry>
-  <entry>
-    <title>i*t*r***t.com — Curious Worm</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/curious-worm/"/>
-    <id>tag:ransom.privtools.eu,2026-11-13:c28307e66a346e35</id>
-    <updated>2026-11-13T20:53:46Z</updated>
-    <summary>Curious Worm listed i*t*r***t.com on its leak site. Sector: Technology.</summary>
-    <category term="Curious Worm"/>
-  </entry>
-  <entry>
-    <title>t**a.com — Curious Worm</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/curious-worm/"/>
-    <id>tag:ransom.privtools.eu,2026-11-13:7a588e336afeba10</id>
-    <updated>2026-11-13T20:53:27Z</updated>
-    <summary>Curious Worm listed t**a.com on its leak site.</summary>
-    <category term="Curious Worm"/>
-  </entry>
-  <entry>
-    <title>Frey Properties of Highland LLC — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-11-13:293a2dd0b1e5b3af</id>
-    <updated>2026-11-13T20:29:46Z</updated>
-    <summary>Play listed Frey Properties of Highland LLC (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Play"/>
-  </entry>
-  <entry>
-    <title>ARRB Group — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-11-13:45bdf1ef15de10bc</id>
-    <updated>2026-11-13T20:29:10Z</updated>
-    <summary>Play listed ARRB Group (Australia) on its leak site. Sector: Government &amp; Defense.</summary>
-    <category term="Play"/>
-  </entry>
-  <entry>
-    <title>Advantage Archives — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-13:e9a1512c6c176282</id>
-    <updated>2026-11-13T20:14:47Z</updated>
-    <summary>Incransom listed Advantage Archives (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>sportsmansguide.com — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-13:59da8f810897c56f</id>
-    <updated>2026-11-13T20:14:27Z</updated>
-    <summary>Incransom listed sportsmansguide.com (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>Walgreen Co. — Wallstreet</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/wallstreet/"/>
-    <id>tag:ransom.privtools.eu,2026-11-13:77db315bd3d17bc6</id>
-    <updated>2026-11-13T19:03:11Z</updated>
-    <summary>Wallstreet listed Walgreen Co. (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Wallstreet"/>
-  </entry>
-  <entry>
-    <title>The Tidewater Inn — Aoqin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aoqin/"/>
-    <id>tag:ransom.privtools.eu,2026-11-13:1c1eada0c7395055</id>
-    <updated>2026-11-13T18:21:30Z</updated>
-    <summary>Aoqin listed The Tidewater Inn (United States) on its leak site. Sector: Hospitality.</summary>
-    <category term="Aoqin"/>
   </entry>
 </feed>
