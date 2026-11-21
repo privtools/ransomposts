@@ -90,7 +90,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/lockbit5/</loc>
-    <lastmod>2026-11-18</lastmod>
+    <lastmod>2026-11-21</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/nightspire/</loc>
@@ -230,7 +230,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/pear/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/genesis/</loc>
@@ -533,10 +533,6 @@
     <lastmod>2023-08-04</lastmod>
   </url>
   <url>
-    <loc>https://ransom.privtools.eu/group/majinahanashi/</loc>
-    <lastmod>2026-11-12</lastmod>
-  </url>
-  <url>
     <loc>https://ransom.privtools.eu/group/dan0n/</loc>
     <lastmod>2024-08-23</lastmod>
   </url>
@@ -547,6 +543,10 @@
   <url>
     <loc>https://ransom.privtools.eu/group/vortex/</loc>
     <lastmod>2026-11-19</lastmod>
+  </url>
+  <url>
+    <loc>https://ransom.privtools.eu/group/majinahanashi/</loc>
+    <lastmod>2026-11-12</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/alphalocker/</loc>
@@ -645,12 +645,12 @@
     <lastmod>2026-11-13</lastmod>
   </url>
   <url>
-    <loc>https://ransom.privtools.eu/group/hyflock/</loc>
-    <lastmod>2026-11-19</lastmod>
+    <loc>https://ransom.privtools.eu/group/barracuda/</loc>
+    <lastmod>2026-11-21</lastmod>
   </url>
   <url>
-    <loc>https://ransom.privtools.eu/group/barracuda/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <loc>https://ransom.privtools.eu/group/hyflock/</loc>
+    <lastmod>2026-11-19</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/group/climax-inc/</loc>
@@ -1070,7 +1070,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/ve/</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-21</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/country/ir/</loc>
@@ -1246,7 +1246,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/professional-services/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/manufacturing/</loc>
@@ -1258,7 +1258,7 @@
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/healthcare/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-21</lastmod>
   </url>
   <url>
     <loc>https://ransom.privtools.eu/sector/retail-e-commerce/</loc>

@@ -5,12 +5,44 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-11-21T06:51:14Z</updated>
+  <updated>2026-11-21T11:33:10Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>genica.com.ve — Lockbit5</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/lockbit5/"/>
+    <id>tag:ransom.privtools.eu,2026-11-21:ff7638c00ea0d77d</id>
+    <updated>2026-11-21T11:33:10Z</updated>
+    <summary>Lockbit5 listed genica.com.ve (Venezuela) on its leak site.</summary>
+    <category term="Lockbit5"/>
+  </entry>
+  <entry>
+    <title>Dallas Fort Worth Fertility Associates — Barracuda</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/barracuda/"/>
+    <id>tag:ransom.privtools.eu,2026-11-21:9be543bc941e8c38</id>
+    <updated>2026-11-21T07:55:50Z</updated>
+    <summary>Barracuda listed Dallas Fort Worth Fertility Associates (United States) on its leak site. Sector: Healthcare.</summary>
+    <category term="Barracuda"/>
+  </entry>
+  <entry>
+    <title>Vegely Welding Inc. — Pear</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pear/"/>
+    <id>tag:ransom.privtools.eu,2026-11-21:da5f8f25ff50a5f6</id>
+    <updated>2026-11-21T07:27:07Z</updated>
+    <summary>Pear listed Vegely Welding Inc. (United States) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Pear"/>
+  </entry>
+  <entry>
+    <title>Law Office of Ronald D. Weiss, P.C — Pear</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/pear/"/>
+    <id>tag:ransom.privtools.eu,2026-11-21:10575981c5a75d1f</id>
+    <updated>2026-11-21T07:26:34Z</updated>
+    <summary>Pear listed Law Office of Ronald D. Weiss, P.C (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Pear"/>
+  </entry>
   <entry>
     <title>Realta Technologies — Eclipse</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/eclipse/"/>
@@ -378,37 +410,5 @@
     <updated>2026-11-20T03:46:28Z</updated>
     <summary>Incransom listed Boeing (United States) on its leak site. Sector: Government &amp; Defense.</summary>
     <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>Ekwiik (Ideal Prepaid Botswana) — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-20:764f76003fc818c2</id>
-    <updated>2026-11-20T03:29:23Z</updated>
-    <summary>N0n listed Ekwiik (Ideal Prepaid Botswana) (Botswana) on its leak site. Sector: Financial Services.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>FIFA (Fédération Internationale de Football Association) — Handsome Boy Hacking Club</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-11-20:866aa8d8f79f97bf</id>
-    <updated>2026-11-20T01:22:03Z</updated>
-    <summary>Handsome Boy Hacking Club listed FIFA (Fédération Internationale de Football Association) (Switzerland) on its leak site.</summary>
-    <category term="Handsome Boy Hacking Club"/>
-  </entry>
-  <entry>
-    <title>Ban Lee Heng Motor (Melaka) Sdn. Bhd. — Climax Inc</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/climax-inc/"/>
-    <id>tag:ransom.privtools.eu,2026-11-20:8284cad4b292e42f</id>
-    <updated>2026-11-20T00:21:32Z</updated>
-    <summary>Climax Inc listed Ban Lee Heng Motor (Melaka) Sdn. Bhd. (Malaysia) on its leak site. Sector: Transportation.</summary>
-    <category term="Climax Inc"/>
-  </entry>
-  <entry>
-    <title>Rudolph F. Jass, Jr., PLLC — Rhysida</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
-    <id>tag:ransom.privtools.eu,2026-11-19:d6ab23870de4e715</id>
-    <updated>2026-11-19T22:18:36Z</updated>
-    <summary>Rhysida listed Rudolph F. Jass, Jr., PLLC (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Rhysida"/>
   </entry>
 </feed>
