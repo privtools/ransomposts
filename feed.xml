@@ -5,12 +5,84 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-11-21T22:16:49Z</updated>
+  <updated>2026-11-22T15:14:43Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>persistent.com — Incransom</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
+    <id>tag:ransom.privtools.eu,2026-11-22:01cfe30cdc1e4a9d</id>
+    <updated>2026-11-22T15:14:43Z</updated>
+    <summary>Incransom listed persistent.com (India) on its leak site. Sector: Technology.</summary>
+    <category term="Incransom"/>
+  </entry>
+  <entry>
+    <title>EconSys — Direwolf</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/direwolf/"/>
+    <id>tag:ransom.privtools.eu,2026-11-22:c7f6e2233acf2942</id>
+    <updated>2026-11-22T15:07:43Z</updated>
+    <summary>Direwolf listed EconSys on its leak site. Sector: Technology.</summary>
+    <category term="Direwolf"/>
+  </entry>
+  <entry>
+    <title>Samsung Group: 1TB Data Breach from Ransomware Attack — HYFLOCK</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/hyflock/"/>
+    <id>tag:ransom.privtools.eu,2026-11-22:f18a8b4659c8b6f7</id>
+    <updated>2026-11-22T13:52:25Z</updated>
+    <summary>HYFLOCK listed Samsung Group: 1TB Data Breach from Ransomware Attack (South Korea) on its leak site. Sector: Technology.</summary>
+    <category term="HYFLOCK"/>
+  </entry>
+  <entry>
+    <title>Law Offices of Cynthia A. de Petris — Rhysida</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
+    <id>tag:ransom.privtools.eu,2026-11-22:f2e39fbb0ffd0817</id>
+    <updated>2026-11-22T10:43:39Z</updated>
+    <summary>Rhysida listed Law Offices of Cynthia A. de Petris (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Rhysida"/>
+  </entry>
+  <entry>
+    <title>Dynamic Education Services — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-22:4795845407e8a4a4</id>
+    <updated>2026-11-22T10:22:38Z</updated>
+    <summary>N0n listed Dynamic Education Services (United States) on its leak site. Sector: Education.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>A Ransomware Attack on a Company Ranked Among the Top 30 in the Fortune 500 — HYFLOCK</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/hyflock/"/>
+    <id>tag:ransom.privtools.eu,2026-11-22:a268fd167efd2a49</id>
+    <updated>2026-11-22T09:22:21Z</updated>
+    <summary>HYFLOCK listed A Ransomware Attack on a Company Ranked Among the Top 30 in the Fortune 500 (United States) on its leak site.</summary>
+    <category term="HYFLOCK"/>
+  </entry>
+  <entry>
+    <title>UCA General Insurance Services, Inc — EndZone</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/endzone/"/>
+    <id>tag:ransom.privtools.eu,2026-11-22:c103dac1cd1b08bd</id>
+    <updated>2026-11-22T09:21:28Z</updated>
+    <summary>EndZone listed UCA General Insurance Services, Inc (Philippines) on its leak site. Sector: Financial Services.</summary>
+    <category term="EndZone"/>
+  </entry>
+  <entry>
+    <title>Data Breach at O&amp;M University in the Dominican Republic — HYFLOCK</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/hyflock/"/>
+    <id>tag:ransom.privtools.eu,2026-11-22:cb7a468033093da3</id>
+    <updated>2026-11-22T07:22:04Z</updated>
+    <summary>HYFLOCK listed Data Breach at O&amp;M University in the Dominican Republic (Dominican Republic) on its leak site. Sector: Education.</summary>
+    <category term="HYFLOCK"/>
+  </entry>
+  <entry>
+    <title>Invicta Watch Group — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-22:48c5dc3e145012c3</id>
+    <updated>2026-11-22T07:13:44Z</updated>
+    <summary>Qilin listed Invicta Watch Group (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Qilin"/>
+  </entry>
   <entry>
     <title>F5A — Medusalocker</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/medusalocker/"/>
@@ -56,7 +128,7 @@
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
     <id>tag:ransom.privtools.eu,2026-11-21:22896206e3597b07</id>
     <updated>2026-11-21T20:12:41Z</updated>
-    <summary>Thegentlemen listed Marketech International (Singapore) on its leak site. Sector: Technology.</summary>
+    <summary>Thegentlemen listed Marketech International (Taiwan) on its leak site. Sector: Technology.</summary>
     <category term="Thegentlemen"/>
   </entry>
   <entry>
@@ -338,77 +410,5 @@
     <updated>2026-11-20T20:51:19Z</updated>
     <summary>Dark Project listed VanMor (Canada) on its leak site.</summary>
     <category term="Dark Project"/>
-  </entry>
-  <entry>
-    <title>KOWA — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-11-20:575225cf8ea57749</id>
-    <updated>2026-11-20T20:32:35Z</updated>
-    <summary>Everest listed KOWA (Japan) on its leak site. Sector: Healthcare.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>Rays Power Infra — Everest</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/everest/"/>
-    <id>tag:ransom.privtools.eu,2026-11-20:ff82d837af67b99e</id>
-    <updated>2026-11-20T20:31:59Z</updated>
-    <summary>Everest listed Rays Power Infra (India) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Everest"/>
-  </entry>
-  <entry>
-    <title>BK Law Group LLC — Rhysida</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/rhysida/"/>
-    <id>tag:ransom.privtools.eu,2026-11-20:05f92bf4c2da7978</id>
-    <updated>2026-11-20T19:30:55Z</updated>
-    <summary>Rhysida listed BK Law Group LLC (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Rhysida"/>
-  </entry>
-  <entry>
-    <title>garival.com — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-11-20:4a81a471bfdbe91d</id>
-    <updated>2026-11-20T19:01:02Z</updated>
-    <summary>Settra listed garival.com (Argentina) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>leisurecraftinc.com — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-11-20:09e4b3c48d87bb55</id>
-    <updated>2026-11-20T19:00:28Z</updated>
-    <summary>Settra listed leisurecraftinc.com (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>relyonmsi.com — Settra</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/settra/"/>
-    <id>tag:ransom.privtools.eu,2026-11-20:f36157580eb16b7f</id>
-    <updated>2026-11-20T18:59:54Z</updated>
-    <summary>Settra listed relyonmsi.com (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Settra"/>
-  </entry>
-  <entry>
-    <title>Calvatis GmbH — Aurora</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
-    <id>tag:ransom.privtools.eu,2026-11-20:cd899b4b99a3a310</id>
-    <updated>2026-11-20T18:47:53Z</updated>
-    <summary>Aurora listed Calvatis GmbH (Germany) on its leak site. Sector: Professional Services.</summary>
-    <category term="Aurora"/>
-  </entry>
-  <entry>
-    <title>Jones Walker — SilentRansomGroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
-    <id>tag:ransom.privtools.eu,2026-11-20:9faeef3839c76440</id>
-    <updated>2026-11-20T18:10:29Z</updated>
-    <summary>SilentRansomGroup listed Jones Walker (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>TraWell Co S.p.A. (d/b/a Safe Bag) — Aurora</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
-    <id>tag:ransom.privtools.eu,2026-11-20:82fa476d34ab9bdf</id>
-    <updated>2026-11-20T15:13:48Z</updated>
-    <summary>Aurora listed TraWell Co S.p.A. (d/b/a Safe Bag) (Italy) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Aurora"/>
   </entry>
 </feed>
