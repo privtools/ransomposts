@@ -5,12 +5,84 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-11-24T08:39:50Z</updated>
+  <updated>2026-11-24T17:42:27Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>Innovation Industries, Inc. — Aurora</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
+    <id>tag:ransom.privtools.eu,2026-11-24:63e8d29a02f6bb57</id>
+    <updated>2026-11-24T17:42:27Z</updated>
+    <summary>Aurora listed Innovation Industries, Inc. on its leak site.</summary>
+    <category term="Aurora"/>
+  </entry>
+  <entry>
+    <title>WHI Holdings / Works Human Intelligence — Incransom</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
+    <id>tag:ransom.privtools.eu,2026-11-24:8485e86f89d60c5c</id>
+    <updated>2026-11-24T17:10:18Z</updated>
+    <summary>Incransom listed WHI Holdings / Works Human Intelligence (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="Incransom"/>
+  </entry>
+  <entry>
+    <title>A... G... — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-11-24:c97d36a8e0673c28</id>
+    <updated>2026-11-24T17:00:21Z</updated>
+    <summary>SilentRansomGroup listed A... G... on its leak site.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>Liftstar GmbH — Aurora</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
+    <id>tag:ransom.privtools.eu,2026-11-24:92f0043b88abd04f</id>
+    <updated>2026-11-24T14:58:35Z</updated>
+    <summary>Aurora listed Liftstar GmbH (Germany) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Aurora"/>
+  </entry>
+  <entry>
+    <title>G... R... S... D... — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-11-24:59b8b87d97f19be8</id>
+    <updated>2026-11-24T14:57:06Z</updated>
+    <summary>SilentRansomGroup listed G... R... S... D... on its leak site.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>Rilievi Group — Eclipse</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/eclipse/"/>
+    <id>tag:ransom.privtools.eu,2026-11-24:4e23ecec95de8b13</id>
+    <updated>2026-11-24T14:51:33Z</updated>
+    <summary>Eclipse listed Rilievi Group (Italy) on its leak site.</summary>
+    <category term="Eclipse"/>
+  </entry>
+  <entry>
+    <title>Lambert Somec — Secp0</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
+    <id>tag:ransom.privtools.eu,2026-11-24:078acfab8d142e5c</id>
+    <updated>2026-11-24T14:41:05Z</updated>
+    <summary>Secp0 listed Lambert Somec (Italy) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Secp0"/>
+  </entry>
+  <entry>
+    <title>Old Dominion University — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-24:34d59b5163218ffd</id>
+    <updated>2026-11-24T14:39:43Z</updated>
+    <summary>Qilin listed Old Dominion University (United States) on its leak site. Sector: Education.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>fiwealth.com — Incransom</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
+    <id>tag:ransom.privtools.eu,2026-11-24:f9bc9442d16a2fdc</id>
+    <updated>2026-11-24T11:39:16Z</updated>
+    <summary>Incransom listed fiwealth.com (United States) on its leak site. Sector: Financial Services.</summary>
+    <category term="Incransom"/>
+  </entry>
   <entry>
     <title>Mayerhofer Hoch-, Tief- und Ingenieurbau GmbH — Qilin</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
@@ -338,77 +410,5 @@
     <updated>2026-11-23T04:44:15Z</updated>
     <summary>Spacebears listed MASTER RESULT SOLUÇÕES CONTÁBEIS LTDA (Brazil) on its leak site. Sector: Professional Services.</summary>
     <category term="Spacebears"/>
-  </entry>
-  <entry>
-    <title>Digital Instruments &amp; Control Systems (DICS) — Spacebears</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/spacebears/"/>
-    <id>tag:ransom.privtools.eu,2026-11-23:9636d80c1a3ec3ef</id>
-    <updated>2026-11-23T04:43:36Z</updated>
-    <summary>Spacebears listed Digital Instruments &amp; Control Systems (DICS) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Spacebears"/>
-  </entry>
-  <entry>
-    <title>Staufen Baumaschinen GmbH — Spacebears</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/spacebears/"/>
-    <id>tag:ransom.privtools.eu,2026-11-23:fe271b13f8a0a9d7</id>
-    <updated>2026-11-23T04:42:57Z</updated>
-    <summary>Spacebears listed Staufen Baumaschinen GmbH (Germany) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Spacebears"/>
-  </entry>
-  <entry>
-    <title>www.suzlon.com — Blackout</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/blackout/"/>
-    <id>tag:ransom.privtools.eu,2026-11-23:1a731375d397d533</id>
-    <updated>2026-11-23T04:24:56Z</updated>
-    <summary>Blackout listed www.suzlon.com (India) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Blackout"/>
-  </entry>
-  <entry>
-    <title>FULL RELEASE — CLINIC SAGRADA FAMILIA(ARMENIA) , CASANARE, PAJONAL, PUTUMAYO AND URUS (NEI... — Whitearmor</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/whitearmor/"/>
-    <id>tag:ransom.privtools.eu,2026-11-23:2fccf4a1d59b4f4b</id>
-    <updated>2026-11-23T04:21:14Z</updated>
-    <summary>Whitearmor listed FULL RELEASE — CLINIC SAGRADA FAMILIA(ARMENIA) , CASANARE, PAJONAL, PUTUMAYO AND URUS (NEI... (Colombia) on its leak site. Sector: Healthcare.</summary>
-    <category term="Whitearmor"/>
-  </entry>
-  <entry>
-    <title>Company #268 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-23:a74968bbb7ae1091</id>
-    <updated>2026-11-23T04:11:39Z</updated>
-    <summary>N0n listed Company #268 (United States) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #267 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-23:648fe21e217fddbe</id>
-    <updated>2026-11-23T04:11:00Z</updated>
-    <summary>N0n listed Company #267 (United Kingdom) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #266 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-23:53bd575562e8df43</id>
-    <updated>2026-11-23T04:10:21Z</updated>
-    <summary>N0n listed Company #266 (United States) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #265 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-23:c39ecc544ba20ab1</id>
-    <updated>2026-11-23T04:09:41Z</updated>
-    <summary>N0n listed Company #265 (France) on its leak site.</summary>
-    <category term="N0n"/>
-  </entry>
-  <entry>
-    <title>Company #264 — N0n</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
-    <id>tag:ransom.privtools.eu,2026-11-23:5f393089211fef9b</id>
-    <updated>2026-11-23T04:09:02Z</updated>
-    <summary>N0n listed Company #264 (United States) on its leak site.</summary>
-    <category term="N0n"/>
   </entry>
 </feed>
