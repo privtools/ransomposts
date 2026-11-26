@@ -5,12 +5,260 @@
   <link rel="self" type="application/atom+xml" href="https://ransom.privtools.eu/feed.xml"/>
   <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
   <id>https://ransom.privtools.eu/</id>
-  <updated>2026-11-25T08:58:42Z</updated>
+  <updated>2026-11-25T17:35:58Z</updated>
   <author>
     <name>privtools</name>
     <uri>https://privtools.eu</uri>
   </author>
   <icon>https://ransom.privtools.eu/img/icon-192.png</icon>
+  <entry>
+    <title>KSI Auto Parts — Aurora</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:167f639e267aa04e</id>
+    <updated>2026-11-25T17:35:58Z</updated>
+    <summary>Aurora listed KSI Auto Parts on its leak site. Sector: Manufacturing.</summary>
+    <category term="Aurora"/>
+  </entry>
+  <entry>
+    <title>THE NEIL JONES FOOD COMPANY — SilentVault</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentvault/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:db84313d87aaf27e</id>
+    <updated>2026-11-25T17:34:29Z</updated>
+    <summary>SilentVault listed THE NEIL JONES FOOD COMPANY (United Kingdom) on its leak site. Sector: Agriculture and Food Production.</summary>
+    <category term="SilentVault"/>
+  </entry>
+  <entry>
+    <title>Honigman LLP — SilentRansomGroup</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:c4b74b94990cbed3</id>
+    <updated>2026-11-25T17:33:49Z</updated>
+    <summary>SilentRansomGroup listed Honigman LLP (United States) on its leak site. Sector: Professional Services.</summary>
+    <category term="SilentRansomGroup"/>
+  </entry>
+  <entry>
+    <title>Company #286 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:7c36877e61e61978</id>
+    <updated>2026-11-25T17:23:28Z</updated>
+    <summary>N0n listed Company #286 (Germany) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #285 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:662952453cc22cc1</id>
+    <updated>2026-11-25T17:22:50Z</updated>
+    <summary>N0n listed Company #285 (Germany) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #284 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:be14bc1b0a78d1bb</id>
+    <updated>2026-11-25T16:23:15Z</updated>
+    <summary>N0n listed Company #284 (Germany) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Plumbs Limited — Aurora</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:8daa726b976db215</id>
+    <updated>2026-11-25T15:40:13Z</updated>
+    <summary>Aurora listed Plumbs Limited (United Kingdom) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
+    <category term="Aurora"/>
+  </entry>
+  <entry>
+    <title>Y***c — SilentVault</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentvault/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:e1b6abba336ec15e</id>
+    <updated>2026-11-25T15:00:17Z</updated>
+    <summary>SilentVault listed Y***c on its leak site.</summary>
+    <category term="SilentVault"/>
+  </entry>
+  <entry>
+    <title>B***p — SilentVault</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentvault/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:42bbe8cb2e1ad9f6</id>
+    <updated>2026-11-25T14:59:43Z</updated>
+    <summary>SilentVault listed B***p on its leak site.</summary>
+    <category term="SilentVault"/>
+  </entry>
+  <entry>
+    <title>A***. — SilentVault</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentvault/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:de7bd59a2c57726a</id>
+    <updated>2026-11-25T14:59:11Z</updated>
+    <summary>SilentVault listed A***. on its leak site.</summary>
+    <category term="SilentVault"/>
+  </entry>
+  <entry>
+    <title>M***s — SilentVault</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentvault/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:d56c4256f29704eb</id>
+    <updated>2026-11-25T14:58:38Z</updated>
+    <summary>SilentVault listed M***s on its leak site.</summary>
+    <category term="SilentVault"/>
+  </entry>
+  <entry>
+    <title>2***s — SilentVault</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentvault/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:80fc1672d904a65c</id>
+    <updated>2026-11-25T14:58:06Z</updated>
+    <summary>SilentVault listed 2***s on its leak site.</summary>
+    <category term="SilentVault"/>
+  </entry>
+  <entry>
+    <title>E***s — SilentVault</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentvault/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:e764e580fef04f23</id>
+    <updated>2026-11-25T14:57:34Z</updated>
+    <summary>SilentVault listed E***s on its leak site.</summary>
+    <category term="SilentVault"/>
+  </entry>
+  <entry>
+    <title>Minichi Inc — Dark Project</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/dark-project/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:9645df2740060afc</id>
+    <updated>2026-11-25T14:51:13Z</updated>
+    <summary>Dark Project listed Minichi Inc (Japan) on its leak site.</summary>
+    <category term="Dark Project"/>
+  </entry>
+  <entry>
+    <title>Elpro GmbH — Aurora</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:9aac307d41a138a4</id>
+    <updated>2026-11-25T14:01:51Z</updated>
+    <summary>Aurora listed Elpro GmbH (Germany) on its leak site. Sector: Manufacturing.</summary>
+    <category term="Aurora"/>
+  </entry>
+  <entry>
+    <title>Company #283 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:5200a30f7b23434a</id>
+    <updated>2026-11-25T13:56:40Z</updated>
+    <summary>N0n listed Company #283 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #282 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:a5872197d526918f</id>
+    <updated>2026-11-25T13:55:30Z</updated>
+    <summary>N0n listed Company #282 (Italy) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #281 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:651a0a9fffb508a7</id>
+    <updated>2026-11-25T13:54:52Z</updated>
+    <summary>N0n listed Company #281 (Germany) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #280 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:10aff70c4ef19439</id>
+    <updated>2026-11-25T13:54:13Z</updated>
+    <summary>N0n listed Company #280 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #279 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:21924cd9cfc245c4</id>
+    <updated>2026-11-25T13:53:34Z</updated>
+    <summary>N0n listed Company #279 (Norway) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #278 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:3cdf81b37dd36d1a</id>
+    <updated>2026-11-25T13:52:56Z</updated>
+    <summary>N0n listed Company #278 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #277 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:3d0f7f7715078b1b</id>
+    <updated>2026-11-25T13:52:18Z</updated>
+    <summary>N0n listed Company #277 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Jacksonville University — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:62a9483f29150f27</id>
+    <updated>2026-11-25T12:22:31Z</updated>
+    <summary>Qilin listed Jacksonville University (United States) on its leak site. Sector: Education.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Bethany Lutheran College — Qilin</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:cafe694baa6fa388</id>
+    <updated>2026-11-25T12:21:51Z</updated>
+    <summary>Qilin listed Bethany Lutheran College (United States) on its leak site. Sector: Education.</summary>
+    <category term="Qilin"/>
+  </entry>
+  <entry>
+    <title>Company #276 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:57edf30cd37b4e14</id>
+    <updated>2026-11-25T10:52:17Z</updated>
+    <summary>N0n listed Company #276 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #275 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:adb73bc21062506d</id>
+    <updated>2026-11-25T09:59:57Z</updated>
+    <summary>N0n listed Company #275 (Benin) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #274 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:b3510b80ca7ffb33</id>
+    <updated>2026-11-25T09:58:37Z</updated>
+    <summary>N0n listed Company #274 on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #273 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:497447b3abe49403</id>
+    <updated>2026-11-25T09:56:27Z</updated>
+    <summary>N0n listed Company #273 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #272 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:f7d158a4f1bf3fbe</id>
+    <updated>2026-11-25T09:55:45Z</updated>
+    <summary>N0n listed Company #272 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #271 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:fadb6a875d52581b</id>
+    <updated>2026-11-25T09:54:12Z</updated>
+    <summary>N0n listed Company #271 (Canada) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
+  <entry>
+    <title>Company #270 — N0n</title>
+    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/n0n/"/>
+    <id>tag:ransom.privtools.eu,2026-11-25:db5faddcd8c051cd</id>
+    <updated>2026-11-25T09:52:57Z</updated>
+    <summary>N0n listed Company #270 (United States) on its leak site.</summary>
+    <category term="N0n"/>
+  </entry>
   <entry>
     <title>Fuji Food Products, Inc. — Aurora</title>
     <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
@@ -162,253 +410,5 @@
     <updated>2026-11-24T20:43:09Z</updated>
     <summary>SilentRansomGroup listed Greenbaum, Rowe, Smith, &amp; Davis on its leak site. Sector: Professional Services.</summary>
     <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>H... R... — SilentRansomGroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:3fd07ec75acf1b0a</id>
-    <updated>2026-11-24T20:42:49Z</updated>
-    <summary>SilentRansomGroup listed H... R... on its leak site.</summary>
-    <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>H... — SilentRansomGroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:a5b8e28da5c49588</id>
-    <updated>2026-11-24T20:41:34Z</updated>
-    <summary>SilentRansomGroup listed H... on its leak site.</summary>
-    <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>K... B... — SilentRansomGroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:727fdfc9ddc2f353</id>
-    <updated>2026-11-24T20:40:19Z</updated>
-    <summary>SilentRansomGroup listed K... B... on its leak site.</summary>
-    <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>Archer &amp; Greiner — SilentRansomGroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:3306e21ef59b0dcf</id>
-    <updated>2026-11-24T20:39:02Z</updated>
-    <summary>SilentRansomGroup listed Archer &amp; Greiner (Germany) on its leak site. Sector: Professional Services.</summary>
-    <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>Xactus — Qilin</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/qilin/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:5026b621e29d3697</id>
-    <updated>2026-11-24T19:49:09Z</updated>
-    <summary>Qilin listed Xactus (Switzerland) on its leak site. Sector: Professional Services.</summary>
-    <category term="Qilin"/>
-  </entry>
-  <entry>
-    <title>UltraBac Software — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:7dd9384d8eb0325a</id>
-    <updated>2026-11-24T19:48:08Z</updated>
-    <summary>Play listed UltraBac Software (United States) on its leak site. Sector: Technology.</summary>
-    <category term="Play"/>
-  </entry>
-  <entry>
-    <title>IRL Group — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:f0397a52a76699f4</id>
-    <updated>2026-11-24T19:47:34Z</updated>
-    <summary>Play listed IRL Group (Canada) on its leak site.</summary>
-    <category term="Play"/>
-  </entry>
-  <entry>
-    <title>Valvo Electrical Supply Ltd — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:ead4ee778c79a3e5</id>
-    <updated>2026-11-24T19:47:00Z</updated>
-    <summary>Play listed Valvo Electrical Supply Ltd (Canada) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Play"/>
-  </entry>
-  <entry>
-    <title>Rolf Maier &amp; Co AG — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:0e162b968ba7c240</id>
-    <updated>2026-11-24T19:46:26Z</updated>
-    <summary>Play listed Rolf Maier &amp; Co AG (Switzerland) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Play"/>
-  </entry>
-  <entry>
-    <title>Vincci Hotels — Black X</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/black-x/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:4059865534b4cb64</id>
-    <updated>2026-11-24T19:46:11Z</updated>
-    <summary>Black X listed Vincci Hotels (Spain) on its leak site. Sector: Hospitality.</summary>
-    <category term="Black X"/>
-  </entry>
-  <entry>
-    <title>Stanley Parts and Equipment — Play</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/play/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:d3629afee47d2fda</id>
-    <updated>2026-11-24T19:45:52Z</updated>
-    <summary>Play listed Stanley Parts and Equipment (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Play"/>
-  </entry>
-  <entry>
-    <title>Queens Public Library — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:cc465fc271ee91a9</id>
-    <updated>2026-11-24T18:56:06Z</updated>
-    <summary>Thegentlemen listed Queens Public Library (United States) on its leak site. Sector: Education.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Steinecke — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:0d669452ba4f557b</id>
-    <updated>2026-11-24T18:55:46Z</updated>
-    <summary>Thegentlemen listed Steinecke (Germany) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Berkeley orinda Oral Surgery — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:016a9fa724285f57</id>
-    <updated>2026-11-24T18:55:25Z</updated>
-    <summary>Thegentlemen listed Berkeley orinda Oral Surgery (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>TC Industries — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:210df2f37e35c06b</id>
-    <updated>2026-11-24T18:55:04Z</updated>
-    <summary>Thegentlemen listed TC Industries (United States) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Arendal — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:e5347e3f38ebe003</id>
-    <updated>2026-11-24T18:54:43Z</updated>
-    <summary>Thegentlemen listed Arendal (Mexico) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Cimmino — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:6bb981053c38c483</id>
-    <updated>2026-11-24T18:54:22Z</updated>
-    <summary>Thegentlemen listed Cimmino (Italy) on its leak site.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>New Teeth Now — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:3ba6aec8b19f08e1</id>
-    <updated>2026-11-24T18:54:02Z</updated>
-    <summary>Thegentlemen listed New Teeth Now (United States) on its leak site. Sector: Healthcare.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Nuova PSC — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:206e5068d8f4ea1a</id>
-    <updated>2026-11-24T18:53:41Z</updated>
-    <summary>Thegentlemen listed Nuova PSC (Italy) on its leak site. Sector: Professional Services.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Mechanix Wear — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:352180c2a1800be2</id>
-    <updated>2026-11-24T18:53:20Z</updated>
-    <summary>Thegentlemen listed Mechanix Wear (United States) on its leak site. Sector: Retail &amp; E-Commerce.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Stadtwerke Achim AG — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:20c17bcc21b08223</id>
-    <updated>2026-11-24T18:52:59Z</updated>
-    <summary>Thegentlemen listed Stadtwerke Achim AG (Germany) on its leak site. Sector: Energy &amp; Utilities.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>University Goce Delcev At Stip — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:53efb933c52366ce</id>
-    <updated>2026-11-24T18:52:39Z</updated>
-    <summary>Thegentlemen listed University Goce Delcev At Stip (North Macedonia) on its leak site. Sector: Education.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Groupe Gagneraud — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:1bd3035dcf3c6537</id>
-    <updated>2026-11-24T18:52:18Z</updated>
-    <summary>Thegentlemen listed Groupe Gagneraud (France) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>HT Global Circuits — Thegentlemen</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/thegentlemen/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:d0f84ff5951049f9</id>
-    <updated>2026-11-24T18:51:57Z</updated>
-    <summary>Thegentlemen listed HT Global Circuits (Taiwan) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Thegentlemen"/>
-  </entry>
-  <entry>
-    <title>Innovation Industries, Inc. — Aurora</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:63e8d29a02f6bb57</id>
-    <updated>2026-11-24T17:42:27Z</updated>
-    <summary>Aurora listed Innovation Industries, Inc. on its leak site.</summary>
-    <category term="Aurora"/>
-  </entry>
-  <entry>
-    <title>WHI Holdings / Works Human Intelligence — Incransom</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/incransom/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:8485e86f89d60c5c</id>
-    <updated>2026-11-24T17:10:18Z</updated>
-    <summary>Incransom listed WHI Holdings / Works Human Intelligence (United States) on its leak site. Sector: Professional Services.</summary>
-    <category term="Incransom"/>
-  </entry>
-  <entry>
-    <title>A... G... — SilentRansomGroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:c97d36a8e0673c28</id>
-    <updated>2026-11-24T17:00:21Z</updated>
-    <summary>SilentRansomGroup listed A... G... on its leak site.</summary>
-    <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>Liftstar GmbH — Aurora</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/aurora/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:92f0043b88abd04f</id>
-    <updated>2026-11-24T14:58:35Z</updated>
-    <summary>Aurora listed Liftstar GmbH (Germany) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Aurora"/>
-  </entry>
-  <entry>
-    <title>G... R... S... D... — SilentRansomGroup</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/silentransomgroup/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:59b8b87d97f19be8</id>
-    <updated>2026-11-24T14:57:06Z</updated>
-    <summary>SilentRansomGroup listed G... R... S... D... on its leak site.</summary>
-    <category term="SilentRansomGroup"/>
-  </entry>
-  <entry>
-    <title>Rilievi Group — Eclipse</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/group/eclipse/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:4e23ecec95de8b13</id>
-    <updated>2026-11-24T14:51:33Z</updated>
-    <summary>Eclipse listed Rilievi Group (Italy) on its leak site.</summary>
-    <category term="Eclipse"/>
-  </entry>
-  <entry>
-    <title>Lambert Somec — Secp0</title>
-    <link rel="alternate" type="text/html" href="https://ransom.privtools.eu/"/>
-    <id>tag:ransom.privtools.eu,2026-11-24:078acfab8d142e5c</id>
-    <updated>2026-11-24T14:41:05Z</updated>
-    <summary>Secp0 listed Lambert Somec (Italy) on its leak site. Sector: Manufacturing.</summary>
-    <category term="Secp0"/>
   </entry>
 </feed>
